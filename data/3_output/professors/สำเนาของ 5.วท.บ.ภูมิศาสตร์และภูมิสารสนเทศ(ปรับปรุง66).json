@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "รองศาสตราจารย์ ดร.",
+            "lecture-first-name": "ดรุณวรรณ",
+            "lecture-last-name": "กำธรเกียรติ",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "D.Tech.Sc.",
+            "bachelor-institute": "มหาวิทยาลัยเกษตรศาสตร์",
+            "doctor-institute": "สถาบันเทคโนโลยีแห่งเอเชีย",
+            "doctor-graduate-year": "2548",
+            "bachelor-graduate-year": "2538"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "ทรงชัย",
+            "lecture-last-name": "ทองปาน",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2558",
+            "bachelor-graduate-year": "2539"
+        },
+        {
+            "lecture-position": "อาจารย์ ดร.",
+            "lecture-first-name": "วาสินี",
+            "lecture-last-name": "วรรณศิริ",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยเกษตรศาสตร์",
+            "doctor-institute": "สถาบันเทคโนโลยีแห่งเอเชีย",
+            "doctor-graduate-year": "2556",
+            "bachelor-graduate-year": "2548"
+        },
+        {
+            "lecture-position": "อาจารย์ ดร.",
+            "lecture-first-name": "กฤชญาณ",
+            "lecture-last-name": "อินทรัตน์",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "วศ.ด.",
+            "bachelor-institute": "มหาวิทยาลัยบูรพา",
+            "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-graduate-year": "2562",
+            "bachelor-graduate-year": "2546"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "จินดา",
+            "lecture-last-name": "แซ่จึง",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "M.S.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "สถาบันเทคโนโลยีแห่งเอเชีย",
+            "doctor-graduate-year": "2551",
+            "bachelor-graduate-year": "2549"
+        }
+    ]
+}

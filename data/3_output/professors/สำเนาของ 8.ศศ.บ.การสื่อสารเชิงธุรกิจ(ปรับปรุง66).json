@@ -1,0 +1,136 @@
+{
+    "professor": [
+        {
+            "lecture-position": "รองศาสตราจารย์ ดร.",
+            "lecture-first-name": "อภิศักดิ์",
+            "lecture-last-name": "ภู่พิพัฒน์",
+            "bachelor-degree": "ค.บ.",
+            "doctor-degree": "Ed.D.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "The Trustees of Columbia University, U.S.A.",
+            "doctor-graduate-year": "2541",
+            "bachelor-graduate-year": "2527"
+        },
+        {
+            "lecture-position": "อาจารย์ ดร.",
+            "lecture-first-name": "อนุชิต",
+            "lecture-last-name": "ตู้มณีจินดา",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Lancaster University, UK",
+            "doctor-graduate-year": "2561",
+            "bachelor-graduate-year": "2545"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "ศศิพันธ์",
+            "lecture-last-name": "นิตยะประภา",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "University of Manchester, UK",
+            "doctor-graduate-year": "2548",
+            "bachelor-graduate-year": "2538"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "ศิริเพ็ชร",
+            "lecture-last-name": "ทฤษณาวดี",
+            "bachelor-degree": "อ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "Peking University, P.R. China",
+            "doctor-graduate-year": "2552",
+            "bachelor-graduate-year": "2533"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "กรพนัช",
+            "lecture-last-name": "ตั้งเขื่อนขันธ์",
+            "bachelor-degree": "อ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "National University of Singapore, Singapore",
+            "doctor-graduate-year": "2555",
+            "bachelor-graduate-year": "2547"
+        },
+        {
+            "lecture-position": "อาจารย์ ดร.",
+            "lecture-first-name": "ณัฏฐนิจ",
+            "lecture-last-name": "แช่มสุวรรณวงศ์",
+            "bachelor-degree": "อ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "Peking University, Beijing, China",
+            "doctor-graduate-year": "2560",
+            "bachelor-graduate-year": "2550"
+        },
+        {
+            "lecture-position": "อาจารย์ ดร.",
+            "lecture-first-name": "ภรณีย์",
+            "lecture-last-name": "พินันโสตติกุล",
+            "bachelor-degree": "อ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "Nagoya University, Japan",
+            "doctor-graduate-year": "2558",
+            "bachelor-graduate-year": "2548"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ผณิดา",
+            "lecture-last-name": "ชื่นมนุษย์",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "",
+            "doctor-graduate-year": "",
+            "bachelor-graduate-year": "2550"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์ ดร.",
+            "lecture-first-name": "ณุชชฎา",
+            "lecture-last-name": "ดำรงศิริ",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยศรีนครินทรวิโรฒ",
+            "doctor-institute": "Kent State University, USA",
+            "doctor-graduate-year": "2548",
+            "bachelor-graduate-year": "2537"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "พรพรรณ",
+            "lecture-last-name": "จันทร์นุ่ม",
+            "bachelor-degree": "อ.บ.",
+            "doctor-degree": "",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "",
+            "doctor-graduate-year": "",
+            "bachelor-graduate-year": "2550"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "วิศรุต",
+            "lecture-last-name": "ไผ่นาค",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "",
+            "bachelor-institute": "มหาวิทยาลัยศิลปากร",
+            "doctor-institute": "",
+            "doctor-graduate-year": "",
+            "bachelor-graduate-year": "2550"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "สุริยันติ์",
+            "lecture-last-name": "ปานเล่ห์",
+            "bachelor-degree": "อ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยศิลปากร",
+            "doctor-institute": "University of Warwick, UK",
+            "doctor-graduate-year": "2558",
+            "bachelor-graduate-year": "2537"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ปาริชาติ",
+            "lecture-last-name": "จึงวิวัฒนาภรณ์",
+            "bachelor-degree": "M.F.A",
+            "doctor-degree": "Ph.D",
+            "bachelor-institute": "Arizona state University, USA",
+            "doctor-institute": "University of Hawai'l at\nManoa, USA",
+            "doctor-graduate-year": "2553",
+            "bachelor-graduate-year": "2534"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ณัฐคม",
+            "lecture-last-name": "แช่มเย็น",
+            "bachelor-degree": "นศ.บ.",
+            "doctor-degree": "M.F.A.",
+            "bachelor-institute": "มหาวิทยาลัยกรุงเทพ",
+            "doctor-institute": "Brooklyn College of The City\nUniversity of New York, USA",
+            "doctor-graduate-year": "2539",
+            "bachelor-graduate-year": "2534"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ภาวิณี",
+            "lecture-last-name": "บุญเสริม",
+            "bachelor-degree": "ศศ.บ",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "สถาบันเทคโนโลยีราชมงคล",
+            "doctor-institute": "University of Exeter, UK",
+            "doctor-graduate-year": "2560",
+            "bachelor-graduate-year": "2541"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "อัศนีย์",
+            "lecture-last-name": "เปลี่ยนศรี",
+            "bachelor-degree": "ค.บ.",
+            "doctor-degree": "ศป.ด.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-graduate-year": "2558",
+            "bachelor-graduate-year": "2545"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "นรีรัตน์",
+            "lecture-last-name": "พินิจธนสาร",
+            "bachelor-degree": "ศป.บ.",
+            "doctor-degree": "ศป.ด.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-graduate-year": "2562",
+            "bachelor-graduate-year": "2542"
+        }
+    ]
+}

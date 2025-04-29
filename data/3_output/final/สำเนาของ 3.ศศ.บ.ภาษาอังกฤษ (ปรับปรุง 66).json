@@ -1,0 +1,729 @@
+{
+    "faculty_name_th": "คณะศิลปศาสตร์",
+    "faculty_name_en": "Faculty of Liberal Arts",
+    "curr-id": "25520051102681",
+    "cur-name-th": "หลักสูตรศิลปศาสตรบัณฑิต สาขาวิชาภาษาอังกฤษ",
+    "cur-name-en": "Bachelor of Arts Program in English",
+    "degree-full-th": "ศิลปศาสตรบัณฑิต (ภาษาอังกฤษ)",
+    "degree-full-en": "Bachelor of Arts (English)",
+    "degree-abr-th": "ศศ.บ. (ภาษาอังกฤษ)",
+    "degree-abr-en": "B.A. (English)",
+    "num-majors": [],
+    "curr-type": "หลักสูตรปริญญาตรีทางวิชาการ",
+    "lang": "จัดการศึกษาทั้งภาษาไทยและภาษาอังกฤษ",
+    "collaboration": [],
+    "institution": [],
+    "organization": [],
+    "partner": 0,
+    "single-degree": "ให้ปริญญาเพียงสาขาวิชาเดียว",
+    "approve-date": "2566-07-25",
+    "first-open-term": "1/2566",
+    "careers": [
+        "ผู้สอนภาษาอังกฤษ",
+        "นักแปล-ล่าม",
+        "นักเขียน",
+        "เจ้าหน้าที่ในองค์กรระหว่างประเทศ องค์กรเอกชน หน่วยงานราชการ"
+    ],
+    "campus": "ศูนย์รังสิต",
+    "expense-type": "ปกติ",
+    "student-nation-id": "รับทั้งนักศึกษาไทยและนักศึกษาต่างชาติ",
+    "admit-plan-yearly": 70,
+    "ผลลัพธ์การเรียนรู้ของหลักสูตร (PLOs)": {
+        "Knowledge": [
+            "ใช้ความรู้ภาษาอังกฤษด้านภาษาศาสตร์ วรรณคดี การแปลและล่าม และทักษะการฟัง พูด อ่าน เขียน ในการสื่อสารและประกอบอาชีพ"
+        ],
+        "Skills": [
+            "สื่อสารภาษาไทยได้อย่างมีประสิทธิภาพ",
+            "สื่อสารภาษาอังกฤษได้อย่างมีประสิทธิภาพ",
+            "ใช้เทคโนโลยีและสื่อดิจิทัลเพื่อส่งเสริมการใช้ภาษาได้อย่างมีประสิทธิภาพ",
+            "มีทักษะในการปรับตัวและจัดการกับการเปลี่ยนแปลงของสถานการณ์รอบตัว (resilience)"
+        ],
+        "Ethics": [
+            "ปฏิบัติตนให้อยู่ในจริยธรรมและคุณธรรม"
+        ]
+    },
+    "max-years": 16,
+    "total-credits": 132,
+    "gen-ed-credits": 30,
+    "req-credits": 78,
+    "elec-credits": 15,
+    "intern-credits": 3,
+    "coop-credits": 0,
+    "courses": [
+        {
+            "course_code": "TH291",
+            "th-abbr": "ท.291",
+            "course_name_th": "การพัฒนาสมรรถภาพการเขียน",
+            "course_name_en": "Writing Proficiency Development",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความรู้เกี่ยวกับการเขียน การจัดลำดับความคิด การถ่ายทอดความคิด และการฝึกทักษะการ เขียนเบื้องต้น",
+            "course_description_en": "Overview of writing; organization of ideas; expressing thoughts and practice in basic writing skills.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EG211",
+            "th-abbr": "อ.211",
+            "course_name_th": "การฟัง-พูด",
+            "course_name_en": "Listening-Speaking",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การฟังและพูดภาษาอังกฤษสำหรับการสื่อสารในชีวิตประจำวันทั้งในสถานการณ์ที่เป็นทางการ และไม่เป็นทางการ โครงสร้างไวยากรณ์ในภาษาพูด การออกเสียง หลักการเน้นเสียงในระดับคำและ ประโยคเพื่อพัฒนาการพูด การฟังบทสนทนาและบทพูดหลากหลายประเภท การสร้างความตระหนักถึง ความแตกต่างทางด้านวัฒนธรรมและความคิดเชิงวิพากษ์ที่ก่อให้เกิดความสามารถในการสื่อสารต่าง วัฒนธรรม",
+            "course_description_en": "English listening and speaking skills for everyday communication in both formal and informal situations; grammar in spoken English; pronunciation, word stress and intonation patterns to improve comprehensibility and fluency; listening practice through various types of speeches; development of cultural awareness and critical thinking to promote communication across cultures.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EG214",
+            "th-abbr": "อ.214",
+            "course_name_th": "ทักษะการนำเสนอ",
+            "course_name_en": "Presentation Skills",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักและทฤษฎีการนำเสนอประเภทต่าง ๆ โดยใช้ภาษาอังกฤษ องค์ประกอบ รูปแบบ เทคนิค การนำเสนอ การวิเคราะห์กลุ่มผู้ฟัง การเตรียมเค้าโครง การสืบค้นรวบรวมข้อมูล การใช้สื่อประกอบการ พูด และการพูดนำเสนอความคิดอย่างเหมาะสมและมีประสิทธิภาพ",
+            "course_description_en": "Principles and theoretical foundation for presenting different speech types in English; components, types and formats of presentation; presentation techniques for effective public speaking; audience analysis; outlining, researching, and presentational aids; expressing opinions effectively",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EG221",
+            "th-abbr": "อ.221",
+            "course_name_th": "การอ่านและการเขียนเชิงบูรณาการ",
+            "course_name_en": "Integrated Reading and Writing",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทักษะการอ่านบทความหลากหลายประเภท ความสามารถในการวิเคราะห์ ค้นคว้า และ สังเคราะห์ข้อมูลจากแหล่งข้อมูลที่เชื่อถือได้การถอดความ สรุปความ และการแสดงความคิดเห็นด้วย การเขียนโดยใช้ภาษาของตนเอง",
+            "course_description_en": "Reading skills for various types of texts; ability to analyze, research and synthesize information from reliable sources; ability to paraphrase, summarize texts and reflect their views in the form of writing in their own words.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EG231",
+            "th-abbr": "อ.231",
+            "course_name_th": "การเขียนเรียงความ",
+            "course_name_en": "Essay Writing",
+            "course_type": "วิชาเฉพาะด้าน หมวดภาษาศาสตร์",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักการและทฤษฎีพื้นฐานของการเขียนเรียงความประเภทต่าง ๆ กระบวนการเขียนเรียงความ การเรียบเรียงความคิด และการใช้ภาษาอย่างถูกต้องตามประเภทของงานเขียน",
+            "course_description_en": "Principles and theoretical foundation for writing different types of essays; writing process, organization of ideas, use of language appropriate for different types of essays.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EG241",
+            "th-abbr": "อ.241",
+            "course_name_th": "ภาษาศาสตร์ภาษาอังกฤษเบื้องต้น",
+            "course_name_en": "Introduction to English Linguistics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ประเด็นต่าง ๆ ที่เกี่ยวข้องกับภาษา ทฤษฎีทางภาษาศาสตร์ภาษาอังกฤษในขั้นพื้นฐาน องค์ประกอบพื้นฐานของภาษา ทั้งในระดับเสียง คำ ประโยค ความหมายในระดับคำ ความหมายในบริบท และวาทกรรม",
+            "course_description_en": "Issues related to language; foundation of English linguistics; language components, i.e. sounds, words, sentences, lexical meaning, meaning in context, and discourse.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EG244",
+            "th-abbr": "อ.244",
+            "course_name_th": "สัทศาสตร์และสัทวิทยาภาษาอังกฤษ",
+            "course_name_en": "English Phonetics and Phonology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความรู้พื้นฐานเกี่ยวกับสัทศาสตร์และสัทวิทยาในภาษาอังกฤษ วิธีการเปล่งเสียง การถอดเสียง ตามระบบสัทอักษรสากล การเปลี่ยนแปลงของเสียง การออกเสียงในภาษาอังกฤษอย่างถูกต้องทั้งในระดับ คำ ระดับประโยค และระดับการสนทนาที่มีความเชื่อมโยงกัน ความตระหนักและเข้าใจในความ หลากหลายของสำเนียงในแต่ละท้องถิ่นและสังคม",
+            "course_description_en": "Fundamental knowledge of English phonetics and phonology; production and IPA transcription of speech sounds; sound change; practice in English pronunciation at word level, sentence level and connected speech; awareness of regional and social accent variation.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EG344",
+            "th-abbr": "อ.344",
+            "course_name_th": "นานาภาษาอังกฤษโลก",
+            "course_name_en": "World Englishes",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "บริบททางประวัติศาสตร์ สังคม และการเมืองของนานาภาษาอังกฤษโลก การจำแนกรูปแบบ ของภาษาอังกฤษที่ใช้กันทั่วโลก และประเด็นที่เกี่ยวข้องกับนานาภาษาอังกฤษโลก",
+            "course_description_en": "Historical, social, and political contexts of varieties of English throughout the world; classification of Englishes; issues related to World Englishes.",
+            "prerequisite_courses": [
+                "EG241"
+            ]
+        },
+        {
+            "course_code": "EG345",
+            "th-abbr": "อ.345",
+            "course_name_th": "การสื่อสารระหว่างวัฒนธรรม",
+            "course_name_en": "Intercultural Communication",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทฤษฎีการสื่อสารระหว่างวัฒนธรรม บทบาทของวัฒนธรรม การสื่อสารทางวัจนภาษาและอวัจน ภาษา อัตลักษณ์ และความหลากหลายทางวัฒนธรรม การสื่อสารระหว่างวัฒนธรรมในบริบทที่ หลากหลายและการศึกษาในแง่มุมที่เกี่ยวข้อง",
+            "course_description_en": "Intercultural communication theories; the role of culture; verbal and nonverbal communication; cultural identity; cultural diversity; intercultural communication in different contexts; studies related to intercultural communication.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EG251",
+            "th-abbr": "อ.251",
+            "course_name_th": "วรรณกรรมอังกฤษเบื้องต้น",
+            "course_name_en": "Introduction to English Literature",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วรรณกรรมภาษาอังกฤษประเภทต่างๆ โดยเน้นที่องค์ประกอบของวรรณกรรมหลักคือ กวีนิพนธ์ ร้อยแก้ว และบทละคร",
+            "course_description_en": "Literary genres with an emphasis on the elements and understanding of main literary forms: poetry, prose, and drama.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EG254",
+            "th-abbr": "อ.254",
+            "course_name_th": "ตำนานและเทพนิยาย",
+            "course_name_en": "Mythology and Fairy Tales",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ตำนานและเทพนิยายตามที่ปรากฏในบริบททางสังคมและประวัติศาสตร์โบราณ แรงดึงดูดที่ สร้างความนิยมข้ามกาลเวลาของตำนานและเทพนิยาย พลวัตและการเมืองของการนำเรื่องเก่ามาเล่าใหม่ เพื่อเปิดเผยวาทกรรมที่ซับซ้อนกันอยู่ในสังคมปัจจุบัน",
+            "course_description_en": "Classical myths and fairy tales in their historical and social contexts as well as their popular appeals; dynamics and politics of tale’s retelling tale as a means to reveal a more complicated discourse.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EG354",
+            "th-abbr": "อ.354",
+            "course_name_th": "วรรณคดีอังกฤษ",
+            "course_name_en": "British Literature",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วรรณคดีอังกฤษตั้งแต่สมัยแองโกล-แซกซันจนถึงศตวรรษที่ 20 ในบริบทของปรัชญาและ ประวัติศาสตร์เชิงสังคม การอ่านเชิงวิเคราะห์และการเขียนบทวิเคราะห์งานวรรณกรรมประเภทเรื่องสั้น นวนิยาย กวีนิพนธ์ และบทละครสมัยต่าง ๆ",
+            "course_description_en": "British literature and its movements from the Anglo-Saxon period to the twentieth century in relation to the philosophical and socio-historical context; critical reading, discussing, and writing critical essays on selected literary texts: short stories, novels, poems, and plays from different periods.",
+            "prerequisite_courses": [
+                "EG251"
+            ]
+        },
+        {
+            "course_code": "EG355",
+            "th-abbr": "อ.355",
+            "course_name_th": "วรรณคดีอเมริกัน",
+            "course_name_en": "American Literature",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วรรณคดีอเมริกันยุคอาณานิคมจนถึงปัจจุบันในบริบทของปรัชญาและประวัติศาสตร์เชิงสังคม การอ่านเชิงวิเคราะห์และการเขียนบทวิเคราะห์งานวรรณกรรมประเภทเรื่องสั้น นวนิยาย กวีนิพนธ์ และ บทละครสมัยต่าง ๆ",
+            "course_description_en": "American literature and its movements from the colonial to contemporary period in relation to the philosophical and socio-historical context; critical reading, discussing, and writing critical essays on selected literary texts: short stories, novels, poems, and plays from different periods.",
+            "prerequisite_courses": [
+                "EG251"
+            ]
+        },
+        {
+            "course_code": "EG261",
+            "th-abbr": "อ.261",
+            "course_name_th": "หลักการแปล",
+            "course_name_en": "Principles of Translation",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ฝึกฝนการแปลจากภาษาอังกฤษเป็นภาษาไทยและภาษาไทยเป็นภาษาอังกฤษ วิเคราะห์ปัญหาที่เกิดขึ้นในการแปลงานเขียนต่าง ๆ และแนวทางแก้ไข ศึกษาความคาบเกี่ยวของการแปล กับเนื้อหาวิชาสาขาอื่น การใช้เทคโนโลยีช่วยแปลเบื้องต้น วิชาบังคับก่อน: สอบได้อ.221 ทฤษฎีการแปล",
+            "course_description_en": "translation practice of basic general texts from English to Thai and Thai to English; analysis of the various challenges facing translators and solutions; the interdisciplinary nature of translation; introduction to the use of translation technology. Prerequisite: have earned credits of EG221 Translation theories",
+            "prerequisite_courses": [
+                "EG221"
+            ]
+        },
+        {
+            "course_code": "EG264",
+            "th-abbr": "อ.264",
+            "course_name_th": "การแปลเชิงวิชาการ อังกฤษ-ไทย",
+            "course_name_en": "English-Thai Academic Translation",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: สอบได้อ.261 ความรู้พื้นฐานเกี่ยวกับภาษาและรูปแบบของงานเขียนเชิงวิชาการ การแปลงานเขียนเชิง วิชาการ บทความเชิงวิชาการและสารคดีจากแหล่งข้อมูลต่าง ๆ จากภาษาอังกฤษเป็นภาษาไทยที่มีภาษา รูปแบบ เนื้อหาเกี่ยวข้องกับสาขาวิชาต่าง ๆ กลวิธีในการหาข้อมูลและเครื่องมือเพื่อช่วยในการแปล วิเคราะห์ปัญหาและข้อผิดพลาดในการแปลและวิธีแก้ไขข้อบกพร่องเหล่านั้น",
+            "course_description_en": "Prerequisite: have earned credits of EG261 Introduction to language and format of academic texts, translation of articles and documentaries from various sources from English to Thai; strategies for the use of reference tools; advanced internet research for translation work; exploration of the various challenges faced by translators and solutions to them.",
+            "prerequisite_courses": [
+                "EG261"
+            ]
+        },
+        {
+            "course_code": "EG365",
+            "th-abbr": "อ.365",
+            "course_name_th": "การล่ามเบื้องต้น",
+            "course_name_en": "Introduction to Interpreting",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักการ กลวิธี และเทคนิคขั้นพื้นฐานที่จำเป็นในการล่ามให้สัมฤทธิ์ผล การล่ามในบริบทของ ล่ามชุมชนและปัญหา ในการแปล ความสัมพันธ์ระหว่างการล่ามกับสาขาวิชาอื่น ๆ",
+            "course_description_en": "Principles of interpreting; fundamental strategies and techniques required for successful interpreting; community interpreting and challenges faced by interpreters; the interdisciplinary nature of interpreting.",
+            "prerequisite_courses": [
+                "EG261"
+            ]
+        },
+        {
+            "course_code": "EG314",
+            "th-abbr": "อ.314",
+            "course_name_th": "ภาษาอังกฤษในการทำงาน",
+            "course_name_en": "Career English",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การพัฒนาทักษะภาษาอังกฤษเพื่อใช้ในการทำงานอย่างมีประสิทธิผล ทักษะการใช้ภาษาที่ จำเป็นต่อการใช้ชีวิตและการทำงานในบริบทสังคมที่ใช้ภาษาอังกฤษในการสื่อสาร",
+            "course_description_en": "Practical English skills for a successful career; real-life language skills crucial for thriving personally and professionally in English-speaking contexts.",
+            "prerequisite_courses": [
+                "EG211"
+            ]
+        },
+        {
+            "course_code": "EG324",
+            "th-abbr": "อ.324",
+            "course_name_th": "การอ่านเชิงวิชาการ",
+            "course_name_en": "Academic Reading",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "กลวิธีการอ่านงานเขียนเชิงวิชาการ การวิเคราะห์โครงสร้างการนำเสนอข้อมูล ตลอดจนภาษา และเนื้อหาในงานเขียนเชิงวิชาการ การแสดงความคิดเห็นต่องานเขียน การวิเคราะห์และสังเคราะห์ข้อมูล จากการอ่านเพื่อเรียบเรียงเป็นรายงาน",
+            "course_description_en": "Strategies used in reading academic texts; analysis of organizational patterns, language and content of academic texts; practice in giving opinions about the texts; analyzing and synthesizing information in the form of a report.",
+            "prerequisite_courses": [
+                "EG221"
+            ]
+        },
+        {
+            "course_code": "EG334",
+            "th-abbr": "อ.334",
+            "course_name_th": "การเขียนเชิงแสดงความคิดเห็น",
+            "course_name_en": "Argumentative Writing",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "รูปแบบและเทคนิคการเขียนเชิงแสดงความคิดเห็นและการเขียนเชิงโน้มน้าว ทักษะการให้ ข้อมูลสนับสนุนประเด็นความคิดหลัก การเรียบเรียงและนำเสนอความคิดอย่างเป็นระบบ การอ้างอิงจาก แหล่งข้อมูลที่เชื่อถือได้",
+            "course_description_en": "Various patterns and techniques of developing a piece of argumentative/ persuasive writing; development of skills in gathering convincing support, organizing and systematically developing ideas, and citing and referencing reliable sources.",
+            "prerequisite_courses": [
+                "EG231"
+            ]
+        },
+        {
+            "course_code": "EG414",
+            "th-abbr": "อ.414",
+            "course_name_th": "การฟัง-พูดเชิงวิชาการ",
+            "course_name_en": "Academic Listening-Speaking",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทักษะการฟังและการพูดภาษาอังกฤษระดับสูงที่ใช้ในงานวิชาการ ได้แก่การอภิปราย การ บรรยาย และการนำเสนอปากเปล่าในการประชุมวิชาการ",
+            "course_description_en": "Development of advanced English listening and speaking skills in an academic setting through panel discussions, lectures, and oral presentations in academic conferences.",
+            "prerequisite_courses": [
+                "EG214"
+            ]
+        },
+        {
+            "course_code": "EG434",
+            "th-abbr": "อ.434",
+            "course_name_th": "การเขียนงานวิจัย",
+            "course_name_en": "Research Writing",
+            "course_type": "วิชาเลือก หมวดภาษาศาสตร์",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การเขียนงานวิจัยและวิธีการวิจัยเบื้องต้นรวมทั้งการเลือกหัวข้องานวิจัย การทบทวน วรรณกรรมที่เกี่ยวข้อง การรวบรวมและวิเคราะห์ข้อมูลวิจัย และการเขียนรายงานพร้อมการอ้างอิงและ การเขียนบรรณานุกรม",
+            "course_description_en": "Research writing skills and fundamental research methods including selecting research topics, reviewing literature, collecting and analyzing data, and writing up research reports with citations and references.",
+            "prerequisite_courses": [
+                "EG324"
+            ]
+        },
+        {
+            "course_code": "EG346",
+            "th-abbr": "อ.346",
+            "course_name_th": "คำศัพท์ภาษาอังกฤษหลากมิติ",
+            "course_name_en": "Dimensions of English Vocabulary",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดและทฤษฎีที่สำคัญในด้านคำศัพท์ภาษาอังกฤษ แง่มุมของความรู้ด้านคำศัพท์ ภาษาอังกฤษทั้งรูปแบบ ความหมาย และการใช้หลักการเรียนรู้คำศัพท์และการประยุกต์ใช้ในการเรียน และการสอน",
+            "course_description_en": "Key concepts and theories of English vocabulary; aspects of English vocabulary knowledge, including form, meaning, and use; principles of vocabulary acquisition and their application to learning and teaching.",
+            "prerequisite_courses": [
+                "EG241"
+            ]
+        },
+        {
+            "course_code": "EG347",
+            "th-abbr": "อ.347",
+            "course_name_th": "วิทยาหน่วยคำและวากยสัมพันธ์ภาษาอังกฤษ",
+            "course_name_en": "English Morphology and Syntax",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิทยาหน่วยคำและวากยสัมพันธ์ภาษาอังกฤษ วิชาบังคับก่อน: สอบได้อ.241 ความหมายของไวยากรณ์ แนวคิดเกี่ยวกับการศึกษาไวยากรณ์และวากยสัมพันธ์ภาษาอังกฤษ ความสัมพันธ์ของภาษากับสังคม การวิเคราะห์หน่วยคำ คำ วลีอนุประโยค ประโยค การวิเคราะห์ประเภท ของโครงสร้าง และกระบวนการที่เกี่ยวข้องกับโครงสร้าง ความสัมพันธ์ของส่วนประกอบในหน่วยวิเคราะห์ ประเภททางไวยากรณ์ในภาษาอังกฤษ ทฤษฎีวากยสัมพันธ์เบื้องต้นสำหรับการวิเคราะห์หน่วยทาง วากยสัมพันธ์ แนวทางและวิธีพื้นฐานสำหรับการวิเคราะห์วากยสัมพันธ์",
+            "course_description_en": "Meanings of grammar; notions for studies of English grammar and syntax; relationships between language and society; analysis of morphemes, words, phrases, clauses, and sentences; types; structures; relevant processes; grammatical relations among elements and constituents in a certain unit; grammatical categories in English; fundamental syntactic theories relevant for syntactic analyses; common approaches and methods in syntactic analyses.",
+            "prerequisite_courses": [
+                "EG241"
+            ]
+        },
+        {
+            "course_code": "EG446",
+            "th-abbr": "อ.446",
+            "course_name_th": "อรรถศาสตร์และวัจนปฏิบัติศาสตร์ภาษาอังกฤษ",
+            "course_name_en": "English Semantics and Pragmatics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดพื้นฐานในการศึกษาอรรถศาสตร์และวัจนปฏิบัติศาสตร์ ความหมายของคำและประโยค ในภาษาอังกฤษ ความสัมพันธ์ระหว่างความหมายของคำ ความหมายในบริบทที่แตกต่าง บทบาทของ บริบทในการตีความ ความหมายโดยนัย วัจนกรรมและความสุภาพของผู้พูดภาษาอังกฤษ ทถษฎีและ วิธีการวิเคราะห์ขั้นพื้นฐานทางอรรถศาสตร์และวัจนปฏิบัติศาสตร์",
+            "course_description_en": "Key concepts in semantics and pragmatics; word and sentence meanings; lexical semantic relations; meaning in contexts; the roles of context in interpretation; implicatures; speech acts and politeness in English; fundamental semantic and pragmatic theories and common approaches and methods in semantic and pragmatic analyses.",
+            "prerequisite_courses": [
+                "EG241"
+            ]
+        },
+        {
+            "course_code": "EG447",
+            "th-abbr": "อ.447",
+            "course_name_th": "วาทกรรมศึกษา",
+            "course_name_en": "Discourse Studies",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดเกี่ยวกับการวิเคราะห์วาทกรรมทั้งในภาษาพูดและภาษาเขียน รูปแบบการจัดเรียง ข้อความ ความสัมพันธ์ระหว่างวาทกรรม ตัวบท และบริบท การวิเคราะห์บทสนทนา งานเขียน และตัวบท จากสื่อออนไลน์",
+            "course_description_en": "Concepts in discourse studies and practice in analyzing various kinds of written and spoken texts; rhetorical patterns; relationships among discourse, text and context; analysis of conversations, written and online texts.",
+            "prerequisite_courses": [
+                "EG241"
+            ]
+        },
+        {
+            "course_code": "EG457",
+            "th-abbr": "อ.457",
+            "course_name_th": "วัจนลีลาศาสตร์ภาษาอังกฤษ",
+            "course_name_en": "English Stylistics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การวิเคราะห์และเปรียบเทียบตัวบทประเภทต่าง ๆ ทั้งภาษาพูดและภาษาเขียน เช่น บทสนทนา สุนทรพจน์ บทภาพยนตร์ กวีนิพนธ์ และเรื่องสั้น โดยใช้ทฤษฎีที่เกี่ยวข้อง",
+            "course_description_en": "Analysis and comparison of various types of spoken and written texts such as dialogs, speeches, play scripts, poetry, and short stories, through relevant theories.",
+            "prerequisite_courses": [
+                "EG241"
+            ]
+        },
+        {
+            "course_code": "EG356",
+            "th-abbr": "อ.356",
+            "course_name_th": "วรรณกรรมเยาวชน",
+            "course_name_en": "Young Adult Literature",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การวิเคราะห์เนื้อหาในวรรณกรรมเยาวชน ประเด็นและแนวคิดที่สำคัญของวรรณกรรมเยาวชน การเขียนบทวิเคราะห์วรรณกรรมดังกล่าว",
+            "course_description_en": "Critical analysis of Young Adult (YA) literature; issues and themes prevalent in YA literature; writing critical essays on the selected texts.",
+            "prerequisite_courses": [
+                "EG251"
+            ]
+        },
+        {
+            "course_code": "EG357",
+            "th-abbr": "อ.357",
+            "course_name_th": "ศิลปะและวัฒนธรรมกระแสนิยม",
+            "course_name_en": "Art and Popular Culture",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "บริบททางประวัติศาสตร์ อิทธิพลของสื่อที่มีต่อการผลิตผลงานทางวัฒนธรรม วิเคราะห์ศิลปะ วัฒนธรรมนิยม และสังคม ศึกษาวัฒนธรรมนิยมและอัตลักษณ์ทางวัฒนธรรม",
+            "course_description_en": "Historical context; influence of the media on cultural production; analysis of art, popular culture, and society; study of popular culture and cultural identity.",
+            "prerequisite_courses": [
+                "EG221"
+            ]
+        },
+        {
+            "course_code": "EG456",
+            "th-abbr": "อ.456",
+            "course_name_th": "ภาพยนตร์และนวนิยายภาพ",
+            "course_name_en": "Films and Graphic Novels",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การวิเคราะห์ตัวบทภาพยนต์และบทบาทของแนวความคิดในภาพยนตร์และนวนิยายภาพใน วัฒนธรรมทัศนา",
+            "course_description_en": "Analysis of films and various issues in films and graphic novels in visual culture.",
+            "prerequisite_courses": [
+                "EG251"
+            ]
+        },
+        {
+            "course_code": "EG458",
+            "th-abbr": "อ.458",
+            "course_name_th": "วรรณกรรมและสื่อด้านสิ่งแวดล้อม",
+            "course_name_en": "Environmental Literature and Media",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การวิเคราะห์ประเด็นด้านสิ่งแวดล้อมจากตัวบทวรรณกรรมและสื่อที่หลากหลายผ่านมุมมอง การวิจารณ์เชิงนิเวศน์ การศึกษานวนิยาย กวีนิพนธ์ และภาพยนตร์ที่นำเสนอความสัมพันธ์ระหว่างมนุษย์ และสิ่งแวดล้อม",
+            "course_description_en": "Analysis of environmental issues across a wide range of literary texts and media from the ecocritical perspective; study of novels, poems, and films that depict the relationship between humans and the environment.",
+            "prerequisite_courses": [
+                "EG251"
+            ]
+        },
+        {
+            "course_code": "EG459",
+            "th-abbr": "อ.459",
+            "course_name_th": "วรรณกรรมโลก",
+            "course_name_en": "World Literature",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "บทคัดสรรจากงานวรรณกรรมโลกที่ได้รับการยกย่องว่าเป็นงานที่โดดเด่นในยุคต่าง ๆ การ สะท้อนวัฒนธรรม เอกลักษณ์ และคุณค่าทางสุนทรียศาสตร์ บทคัดสรรตั้งแต่ยุคกรีกโบราณจนถึงยุค สมัยใหม่ความคล้ายคลึงและความแตกต่างระหว่างวัฒนธรรม",
+            "course_description_en": "A selection of works from the established and evolving canon of world literatures; analysis of ideas and the ways in which they reflect culture, identity, and aesthetic values; selected literatures ranging from the ancient Greek to modern times; commonalities and differences among human cultures.",
+            "prerequisite_courses": [
+                "EG251"
+            ]
+        },
+        {
+            "course_code": "EG366",
+            "th-abbr": "อ.366",
+            "course_name_th": "การแปลงานในสื่อ",
+            "course_name_en": "Media Translation",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: สอบได้อ.364 การแปลงานในสื่อสิ่งพิมพ์และสื่อดิจิทัลที่มีภาษา รูปแบบ และเนื้อหาต่าง ๆ รวมทั้งตัวบทแสดง ความรู้สึกและโน้มน้าว จากภาษาอังกฤษเป็นภาษาไทยและจากภาษาไทยเป็นภาษาอังกฤษ ความรู้ เบื้องต้นเกี่ยวกับลักษณะเฉพาะของภาษาและรูปแบบของเนื้อหาในสื่อสิ่งพิมพ์ เครื่องมือช่วยแปลและ กลวิธีการแปล",
+            "course_description_en": "Prerequisite: have earned credits of EG364 Translations of texts of various types and styles, including expressive and persuasive texts in printed and digital media from English to Thai and from Thai to English; introduction to the specific language and format of published content; translation tools and strategies.",
+            "prerequisite_courses": [
+                "EG364"
+            ]
+        },
+        {
+            "course_code": "EG367",
+            "th-abbr": "อ.367",
+            "course_name_th": "การแปลเชิงวิชาการ ไทย-อังกฤษ",
+            "course_name_en": "Thai-English Academic Translation",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "รายงาน และบทความที่มีลักษณะสื่อสารข้อมูล อภิปรายและ วิเคราะห์ และแสดงความคิดเห็น โดยมีภาษา รูปแบบ และเนื้อหาที่เกี่ยวข้องกับสาขาวิทยาศาสตร์ สังคมศาสตร์ และมนุษยศาสตร์ การใช้เครื่องมือเทคโนโลยีช่วยแปล วิเคราะห์ประเด็นปัญหาและ ข้อผิดพลาด ตลอดจนวิธีการจัดการและแก้ไขในการแปล",
+            "course_description_en": "Translation of academic texts, reports, and articles of informative, expository, and argumentative nature, with language, format and content relevant to the fields of science, social science, and humanities; study of technology tools; error analysis and solutions in translation.",
+            "prerequisite_courses": [
+                "EG264"
+            ]
+        },
+        {
+            "course_code": "EG466",
+            "th-abbr": "อ.466",
+            "course_name_th": "การล่ามการประชุม",
+            "course_name_en": "Conference Interpreting",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: สอบได้อ.365 ทฤษฎีและวิธีการล่ามแบบพูดตามและแบบพูดพร้อมในบริบทของการประชุม การนำทฤษฎีทาง ภาษาและหลักการแปลมาประยุกต์ใช้ในการวิเคราะห์ข้อมูลและการล่าม วิธีการหาข้อมูลอ้างอิงเฉพาะทาง เพื่อเตรียมนำไปใช้ในการล่าม การฝึกทักษะการฟังจับใจความและการจดบันทึกในการล่ามพูดตาม การฝึก ทักษะการฟัง-คิด-พูดในเวลาเดียวกันในการล่ามพูดพร้อม การจัดทำและบริหารจัดการคลังคำศัพท์และ ข้อมูลอ้างอิง",
+            "course_description_en": "Prerequisite: have earned credits of EG365 Theory and practice of consecutive and simultaneous interpreting in the conference interpreting context; application of language and translation theories to language interpreting; practice of referencing for specialized areas of knowledge to facilitate interpreting; practice of listening for gist and note-taking skills for consecutive interpreting and listening-deverbalizing-formulation skills for simultaneous interpreting; development and management of glossaries and reference material.",
+            "prerequisite_courses": [
+                "EG365"
+            ]
+        },
+        {
+            "course_code": "EG468",
+            "th-abbr": "อ.468",
+            "course_name_th": "การแปลวรรณกรรม",
+            "course_name_en": "Literary Translation",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การแปลวรรณกรรม 3 (3-0-6) วิชาบังคับก่อน: สอบได้อ.364 การแปลวรรณกรรมภาษาอังกฤษเป็นภาษาไทยและภาษาไทยเป็นภาษาอังกฤษ การเลือกใช้คำ เพื่อสื่อความรู้สึกและการพรรณนาในการแปลงานเขียนประเภทวรรณกรรมที่หลากหลาย วิเคราะห์ปัญหา และข้อผิดพลาดในการแปลงานและวิธีแก้ไขข้อผิดพลาด กลวิธีในการหาข้อมูลและเทคโนโลยีช่วยแปล",
+            "course_description_en": "Prerequisite: have earned credits of EG364 Translation of literary texts from English to Thai and Thai to English; expressing emotions through word choice and descriptive techniques in various literary text types; analysis of issues and errors in translation; providing solutions; use of translation technology.",
+            "prerequisite_courses": [
+                "EG364"
+            ]
+        },
+        {
+            "course_code": "EG336",
+            "th-abbr": "อ.336",
+            "course_name_th": "การเขียนในสื่อดิจิทัล",
+            "course_name_en": "Writing for the Digital Media",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทฤษฎีการสื่อสาร การใช้ภาษาในสื่อดิจิทัล การออกแบบและเทคนิคการเขียนเพื่อนำเสนอ เนื้อหาในช่องทางที่หลากหลาย",
+            "course_description_en": "Theories and principles of communication; language use in digital media; design and techniques in writing content for digital platforms.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EG416",
+            "th-abbr": "อ.416",
+            "course_name_th": "สัมมนาประเด็นปัจจุบัน",
+            "course_name_en": "Seminar in Current Issues",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: สอบได้อ.324 ทักษะการนำเสนอและการอภิปรายเชิงวิชาการ โดยเน้นการวิเคราะห์เชิงวิพากษ์ประเด็น ปัจจุบันทั้งในระดับชาติและระดับสากล",
+            "course_description_en": "Prerequisite: have earned credits of EG324 Development of academic presentation and discussion skills through the critical analysis of domestic and global issues.",
+            "prerequisite_courses": [
+                "EG324"
+            ]
+        },
+        {
+            "course_code": "EG436",
+            "th-abbr": "อ.436",
+            "course_name_th": "การเขียนเชิงสร้างสรรค์",
+            "course_name_en": "Creative Writing",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: สอบได้อ.231 การเขียนเชิงสร้างสรรค์ทั้งทางบันเทิงคดีและสารคดีภาษาอังกฤษ โดยเน้นเรื่องสั้น การเขียน เรื่องราวชีวิต การเขียนเกี่ยวกับการท่องเที่ยว และกวีนิพนธ์",
+            "course_description_en": "Prerequisite: have earned credits of EG231 Creative writing of both fiction and non-fiction with an emphasis on short stories, life writing, travel writing and poetry.",
+            "prerequisite_courses": [
+                "EG231"
+            ]
+        },
+        {
+            "course_code": "EG486",
+            "th-abbr": "อ.486",
+            "course_name_th": "หัวข้อเฉพาะด้านภาษาอังกฤษศึกษา 3",
+            "course_name_en": "Selected Topics in English Language Studies",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: สอบได้อ.334 หัวข้อเฉพาะที่เกี่ยวข้องกับวรรณคดีและภาษาศาสตร์ภาษาอังกฤษ การสื่อสารระหว่าง วัฒนธรรม การแปล และการล่าม",
+            "course_description_en": "Prerequisite: have earned credits of EG334 Selected topics related to English literature, linguistics, intercultural communication, translation, and interpreting.",
+            "prerequisite_courses": [
+                "EG334"
+            ]
+        },
+        {
+            "course_code": "EG487",
+            "th-abbr": "อ.487",
+            "course_name_th": "การค้นคว้าอิสระ",
+            "course_name_en": "Independent Studies",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การศึกษาค้นคว้าเชิงลึกในหัวข้อที่เกี่ยวกับภาษาอังกฤษศึกษาตามความสนใจของนักศึกษา ภายใต้คำแนะนำจากผู้สอน และเขียนรายงานมีความยาวไม่น้อยกว่า 7,500 คำไม่รวมบรรณานุกรม",
+            "course_description_en": "In-depth examination of an issue in the area of English Language Studies. Studies are based on students’ interests and are supervised by an instructor. Students are required to write a 7,500-word report excluding references.",
+            "prerequisite_courses": [
+                "EG434"
+            ]
+        }
+    ],
+    "professor": [
+        {
+            "lecture-position": "รองศาสตราจารย์ ดร.",
+            "lecture-first-name": "วริษา",
+            "lecture-last-name": "โอสถานนท์",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "University of Hawaii at Manoa, HI, USA",
+            "doctor-graduate-year": "2540",
+            "bachelor-graduate-year": "2534"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "ขวัญจิรา",
+            "lecture-last-name": "ฉัตรพรรณรังสี",
+            "bachelor-degree": "ค.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "Indiana University, USA",
+            "doctor-graduate-year": "2556",
+            "bachelor-graduate-year": "2534"
+        },
+        {
+            "lecture-position": "อาจารย์ ดร.",
+            "lecture-first-name": "กมลรัตน์",
+            "lecture-last-name": "ศรีหารักษา",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "University of Essex, UK",
+            "doctor-graduate-year": "2557",
+            "bachelor-graduate-year": "2538"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ปริวรรต",
+            "lecture-last-name": "อิมสอาด",
+            "bachelor-degree": "ค.บ.",
+            "doctor-degree": "Μ.Α.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "University of York, UK",
+            "doctor-graduate-year": "2562",
+            "bachelor-graduate-year": "2561"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ณัฐวดี",
+            "lecture-last-name": "ก้อนทอง",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "ศศ.ม.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2554",
+            "bachelor-graduate-year": "2551"
+        }
+    ]
+}

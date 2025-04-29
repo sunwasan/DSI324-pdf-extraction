@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "รองศาสตราจารย์ ดร.",
+            "lecture-first-name": "วริษา",
+            "lecture-last-name": "โอสถานนท์",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "University of Hawaii at Manoa, HI, USA",
+            "doctor-graduate-year": "2540",
+            "bachelor-graduate-year": "2534"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "ขวัญจิรา",
+            "lecture-last-name": "ฉัตรพรรณรังสี",
+            "bachelor-degree": "ค.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "Indiana University, USA",
+            "doctor-graduate-year": "2556",
+            "bachelor-graduate-year": "2534"
+        },
+        {
+            "lecture-position": "อาจารย์ ดร.",
+            "lecture-first-name": "กมลรัตน์",
+            "lecture-last-name": "ศรีหารักษา",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "University of Essex, UK",
+            "doctor-graduate-year": "2557",
+            "bachelor-graduate-year": "2538"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ปริวรรต",
+            "lecture-last-name": "อิมสอาด",
+            "bachelor-degree": "ค.บ.",
+            "doctor-degree": "Μ.Α.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "University of York, UK",
+            "doctor-graduate-year": "2562",
+            "bachelor-graduate-year": "2561"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ณัฐวดี",
+            "lecture-last-name": "ก้อนทอง",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "ศศ.ม.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2554",
+            "bachelor-graduate-year": "2551"
+        }
+    ]
+}

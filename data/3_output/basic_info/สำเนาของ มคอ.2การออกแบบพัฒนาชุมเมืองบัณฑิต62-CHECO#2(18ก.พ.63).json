@@ -1,0 +1,48 @@
+{
+    "faculty_name_th": "คณะสถาปัตยกรรมศาสตร์และการผังเมือง",
+    "faculty_name_en": "Faculty of Architecture and Planning",
+    "curr-id": "25550051103459",
+    "cur-name-th": "หลักสูตรการออกแบบพัฒนาชุมชนเมืองบัณฑิต",
+    "cur-name-en": "Bachelor of Urban Design and Development Program",
+    "degree-full-th": "การออกแบบชุมชนเมืองบัณฑิต",
+    "degree-full-en": "Bachelor of Urban Design",
+    "degree-abr-th": "อบ.ม.บ.",
+    "degree-abr-en": "B.UD.",
+    "num-majors": [
+        "ไม่มี"
+    ],
+    "curr-type": "หลักสูตรปริญญาตรีทางวิชาชีพ",
+    "lang": "จัดการศึกษาเป็นภาษาอังกฤษ",
+    "collaboration": [
+        "เป็นหลักสูตรที่ร่วมมือกับทาง Ritsumeikan University, Japan / Yokohama City University,\nJapan / Incheon National University, Korea / Universiti Sains Malaysia, Malaysia / Katholieke\nUniversiteit Leuven, Belgium โดยมีแลกเปลี่ยนคณาจารย์ จัดสัมมนาเชิงปฏิบัติการร่วมกัน"
+    ],
+    "institution": [
+        "Ritsumeikan University",
+        "Yokohama City University",
+        "Incheon National University",
+        "Universiti Sains Malaysia",
+        "Katholieke Universiteit Leuven"
+    ],
+    "organization": [],
+    "partner": 5,
+    "single-degree": "ให้ปริญญาเพียงสาขาวิชาเดียว",
+    "approve-date": "2562-07-22",
+    "first-open-term": "1/2562",
+    "careers": [
+        "ประกอบวิชาชีพอิสระ",
+        "ทำงานในหน่วยงานราชการ องค์กรที่ไม่แสวงหากำไร",
+        "ทำงานบริษัทที่ปรึกษาโครงการที่เกี่ยวข้องกับการออกแบบและพัฒนาชุมชนเมือง ได้หลายประเภท ทั้งในและ\nต่างประเทศ"
+    ],
+    "campus": "รังสิต",
+    "expense-type": "พิเศษ",
+    "student-nation-id": "รับทั้งนักศึกษาไทยและนักศึกษาต่างชาติ",
+    "admit-plan-yearly": 30,
+    "ผลลัพธ์การเรียนรู้ของหลักสูตร (PLOs)": {},
+    "max-years": 16,
+    "total-credits": 134,
+    "gen-ed-credits": 30,
+    "req-credits": 92,
+    "elec-credits": 6,
+    "intern-credits": 2,
+    "coop-credits": 0
+}

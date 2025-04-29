@@ -1,0 +1,44 @@
+{
+    "professor": {
+        "result_type": "list of dictionary",
+        "loc": "6.5",
+        "detail": {
+            "lecture-position": {
+                "detail": "ตำแหน่งทางวิชาการ (e.g. อาจารย์, ผู้ช่วยศาสตราจารย์, รองศาสตราจารย์, ศาสตราจารย์)",
+                "loc": "6.5"
+            },
+            "lecture-first-name": {
+                "detail": "ชื่อผู้สอน",
+                "loc": "6.5"
+            },
+            "lecture-last-name": {
+                "detail": "นามสกุลผู้สอน",
+                "loc": "6.5"
+            },
+            "bachelor-degree": {
+                "detail": "คุณวุฒิอันดับแรกที่เจอ  (e.g. วศ.บ., วท.บ., Ph.D.)",
+                "loc": "6.5"
+            },
+            "doctor-degree": {
+                "detail": "คุณวุฒิอันดับสุดท้ายที่เจอ (e.g. ปร.ด., ดร., Ph.D.)",
+                "loc": "6.5"
+            },
+            "bachelor-institute": {
+                "detail": "สถาบันที่จบการศึกษา อันดับแรกที่เจอ",
+                "loc": "6.5"
+            },
+            "doctor-institute": {
+                "detail": "สถาบันที่จบการศึกษา อันดับสุดท้ายที่เจอ",
+                "loc": "6.5"
+            },
+            "doctor-graduate-year": {
+                "detail": "ปีที่จบการศึกษา อันดับสุดท้ายที่เจอ",
+                "loc": "6.5"
+            },
+            "bachelor-graduate-year": {
+                "detail": "ปีที่จบการศึกษา อันดับแรกที่เจอ",
+                "loc": "6.5"
+            }
+        }
+    }
+}

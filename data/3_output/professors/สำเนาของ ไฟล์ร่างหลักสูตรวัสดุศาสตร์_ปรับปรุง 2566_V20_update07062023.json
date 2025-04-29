@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "จิรภา",
+            "lecture-last-name": "ตั้งศรีตระกูล",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "University of Manchester, UK",
+            "doctor-graduate-year": "2562",
+            "bachelor-graduate-year": "2549"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "เบญญา",
+            "lecture-last-name": "เชิดหิรัญกร",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "University of Manchester, UK",
+            "doctor-graduate-year": "2547",
+            "bachelor-graduate-year": "2538"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "สมยศ",
+            "lecture-last-name": "คงคารัตน์",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยอุบลราชธานี",
+            "doctor-institute": "University of New South Wales, Australia",
+            "doctor-graduate-year": "2554",
+            "bachelor-graduate-year": "2543"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "นันทพร",
+            "lecture-last-name": "คงคะจันทร์",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "University of Southern California, U.S.A.",
+            "doctor-graduate-year": "2548",
+            "bachelor-graduate-year": "2539"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ชิราวุฒิ",
+            "lecture-last-name": "เพชรเย็น",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยรามคำแหง",
+            "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-graduate-year": "2552",
+            "bachelor-graduate-year": "2544"
+        }
+    ]
+}

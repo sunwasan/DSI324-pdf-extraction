@@ -1,0 +1,103 @@
+{
+    "professor": [
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "เกตุชพรรณ์",
+            "lecture-last-name": "คำพุฒ",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "ศศ.ม.",
+            "bachelor-institute": "มหาวิทยาลัยนเรศวร",
+            "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-graduate-year": "",
+            "bachelor-graduate-year": "2547"
+        },
+        {
+            "lecture-position": "อาจารย์ ดร.",
+            "lecture-first-name": "นิตยาภรณ์",
+            "lecture-last-name": "พรมปัญญา",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยเชียงใหม่",
+            "doctor-institute": "Kyoto University, Japan",
+            "doctor-graduate-year": "2565",
+            "bachelor-graduate-year": "2544"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ศาสนีย์",
+            "lecture-last-name": "ศรศิลป์",
+            "bachelor-degree": "น.บ.",
+            "doctor-degree": "ร.ม.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2553",
+            "bachelor-graduate-year": "2548"
+        },
+        {
+            "lecture-position": "อาจารย์ ดร.",
+            "lecture-first-name": "กัณฐ์ศศา",
+            "lecture-last-name": "พงษ์หิรัญ",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยเกษตรศาสตร์",
+            "doctor-institute": "Moscow State University, Russia",
+            "doctor-graduate-year": "2552",
+            "bachelor-graduate-year": "2544"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ดนุพล",
+            "lecture-last-name": "เฉลยสุข",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "GradDip of Aspirantura Programme",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Saint Petersburg State University, Russia",
+            "doctor-graduate-year": "2562",
+            "bachelor-graduate-year": "2556"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ปริตต์",
+            "lecture-last-name": "อรุณโอษฐ์",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "GradDip of Aspirantura Programme",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Saint Petersburg State University, Russia",
+            "doctor-graduate-year": "2562",
+            "bachelor-graduate-year": "2556"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "กรนภา",
+            "lecture-last-name": "บุญพิสุทธิ์ศิลป์",
+            "bachelor-degree": "นศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยศรีปทุม",
+            "doctor-institute": "Keimyung University, Rep. of Korea",
+            "doctor-graduate-year": "2560",
+            "bachelor-graduate-year": "2545"
+        },
+        {
+            "lecture-position": "อาจารย์ ดร.",
+            "lecture-first-name": "ถาปกรณ์",
+            "lecture-last-name": "กำเนิดศิริ",
+            "bachelor-degree": "ร.บ.",
+            "doctor-degree": "อ.ด.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-graduate-year": "2563",
+            "bachelor-graduate-year": "2549"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "จิราพร",
+            "lecture-last-name": "พรประภา",
+            "bachelor-degree": "อ.บ.",
+            "doctor-degree": "Μ.Α.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "Indiana University, USA",
+            "doctor-graduate-year": "2552",
+            "bachelor-graduate-year": "2546"
+        }
+    ]
+}

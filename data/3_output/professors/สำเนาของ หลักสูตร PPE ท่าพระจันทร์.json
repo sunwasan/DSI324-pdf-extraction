@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ปาณิศา",
+            "lecture-last-name": "วิชุพงษ์",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "Ph.D",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Nagoya University",
+            "doctor-graduate-year": "2559",
+            "bachelor-graduate-year": "2545"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "อรณิชา",
+            "lecture-last-name": "เมี่ยงบัว",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยสงขลานครินทร์",
+            "doctor-institute": "Asian Institute of Technology",
+            "doctor-graduate-year": "2563",
+            "bachelor-graduate-year": "2546"
+        },
+        {
+            "lecture-position": "ศาสตราจารย์",
+            "lecture-first-name": "เรืองวิทย์",
+            "lecture-last-name": "เกษสุวรรณ",
+            "bachelor-degree": "ร.ด.",
+            "doctor-degree": "พบ.ม.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "สถาบันบัณฑิตพัฒนบริหารศาสตร์",
+            "doctor-graduate-year": "2526",
+            "bachelor-graduate-year": "2544"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "จุฬณี",
+            "lecture-last-name": "ตันติกุลานันท์",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยเกษตรศาสตร์",
+            "doctor-institute": "Queensland University",
+            "doctor-graduate-year": "2555",
+            "bachelor-graduate-year": "2541"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ณัฐพล",
+            "lecture-last-name": "แสงอรุณ",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "ปร.ด",
+            "bachelor-institute": "มหาวิทยาลัยศรีนครินทรวิโรฒ",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2556",
+            "bachelor-graduate-year": "2545"
+        }
+    ]
+}

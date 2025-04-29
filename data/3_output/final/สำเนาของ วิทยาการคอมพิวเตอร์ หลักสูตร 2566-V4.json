@@ -1,0 +1,1494 @@
+{
+    "faculty_name_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+    "faculty_name_en": "Faculty of Science and Technology",
+    "curr-id": "25520051102624",
+    "cur-name-th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาวิทยาการคอมพิวเตอร์",
+    "cur-name-en": "Bachelor of Science Program in Computer Science",
+    "degree-full-th": "วิทยาศาสตรบัณฑิต (วิทยาการคอมพิวเตอร์)",
+    "degree-full-en": "Bachelor of Science (Computer Science)",
+    "degree-abr-th": "วท.บ.",
+    "degree-abr-en": "B.Sc.",
+    "num-majors": [
+        "คอมพิวเตอร์และวิทยาการสารสนเทศ (Computer and Information Science)",
+        "คอมพิวเตอร์ประยุกต์ (Applied Computer Science)"
+    ],
+    "curr-type": "หลักสูตรปริญญาตรีทางวิชาการ",
+    "lang": "จัดการศึกษาเป็นภาษาไทย",
+    "collaboration": [
+        "เป็นหลักสูตรของสถาบันโดยเฉพาะ"
+    ],
+    "institution": [],
+    "organization": [],
+    "partner": 0,
+    "single-degree": "ให้ปริญญาเพียงสาขาวิชาเดียว",
+    "approve-date": "2566-07-25",
+    "first-open-term": "1/2566",
+    "careers": [
+        "นักวิชาการสายวิทยาการคอมพิวเตอร์ หรือนักวิทยาศาสตร์คอมพิวเตอร์",
+        "นักวิเคราะห์และออกแบบระบบงานสารสนเทศ",
+        "ผู้พัฒนาซอฟต์แวร์",
+        "ผู้ดูแลระบบเครือข่ายและเครื่องแม่ข่าย",
+        "ผู้ดูแลระบบฐานข้อมูล",
+        "ผู้จัดการโครงการซอฟต์แวร์",
+        "ผู้ประสานงานโครงการซอฟต์แวร์",
+        "ผู้ประกอบการทางด้านซอฟต์แวร์",
+        "นักพัฒนาเว็บไซต์",
+        "นักพัฒนาแอปพลิเคชันบนมือถือ",
+        "นักวิทยาการข้อมูล นักวิเคราะห์ข้อมูล",
+        "นักวิชาชีพในสถานประกอบการที่มีการใช้วิทยาการคอมพิวเตอร์"
+    ],
+    "campus": "รังสิต",
+    "expense-type": "ปกติและโครงการพิเศษ",
+    "student-nation-id": "รับเฉพาะนักศึกษาไทย",
+    "admit-plan-yearly": 70,
+    "ผลลัพธ์การเรียนรู้ของหลักสูตร (PLOs)": {
+        "Knowledge": [
+            "สามารถอธิบายหลักการและทฤษฎีพื้นฐานที่สำคัญในศาสตร์ด้านวิทยาการคอมพิวเตอร์ตามหมวดหมู่ดังต่อไปนี้",
+            "สามารถประยุกต์ใช้ความรู้พื้นฐานที่มีในการเรียนรู้เครื่องมือและเทคโนโลยีใหม่เพื่อตอบสนองต่อการเปลี่ยนแปลงอันรวดเร็วในศาสตร์วิทยาการคอมพิวเตอร์",
+            "สามารถบูรณาการองค์ความรู้ในศาสตร์ด้านวิทยาการคอมพิวเตอร์ที่ศึกษากับศาสตร์อื่นๆ ได้",
+            "สามารถอธิบายองค์ความรู้และเทคโนโลยีทางวิทยาการคอมพิวเตอร์ ในกระบวนการพัฒนาซอฟต์แวร์ได้อย่างเป็นระบบ ตรงตามความต้องการ มีมุมมองด้านความปลอดภัย",
+            "สามารถอธิบายองค์ความรู้และเทคโนโลยีทางวิทยาการข้อมูล เพื่อสร้างให้เกิดความเข้าใจพื้นฐานและเชิงลึกเกี่ยวกับชุดข้อมูล"
+        ],
+        "Skills": [
+            "มีทักษะในการพัฒนาซอฟต์แวร์ตามทฤษฎีกระบวนการซอฟต์แวร์ที่ใช้ในภาคอุตสาหกรรมในสภาพแวดล้อมจำลอง",
+            "สามารถประยุกต์ใช้องค์ความรู้และเทคโนโลยีทางวิทยาการข้อมูล เพื่อสร้างให้เกิดความเข้าใจพื้นฐานและเชิงลึกเกี่ยวกับชุดข้อมูล",
+            "มีประสบการณ์ในการพัฒนาและ/หรือการประยุกต์ซอฟต์แวร์สำหรับใช้งานแบบไม่ใช่เชิงพาณิชย์ (non-commercial use) ที่ใช้งานได้",
+            "การคิดเชิงวิพากษ์และคิดอย่างมีวิจารณญาณ",
+            "สามารถมีส่วนร่วมในการแก้ปัญหาสถานการณ์ต่าง ๆ ทั้งในบทบาทของผู้นำหรือในบทบาทของผู้ร่วมทีมทำงาน มีความรับผิดชอบต่อทีมทำงาน",
+            "สามารถสื่อสารเพื่อนำเสนอแนวคิดหรือข้อมูลด้านวิทยาการคอมพิวเตอร์กับบุคคลทั่วไปได้อย่างมีประสิทธิภาพ ทั้งในรูปแบบการเขียนและการนำเสนอแบบปากเปล่า"
+        ],
+        "Ethics": [
+            "ประพฤติตนอย่างซื่อสัตย์ สุจริต",
+            "มีวินัย ตรงต่อเวลา และความรับผิดชอบต่อตนเองและสังคม",
+            "เคารพกฎระเบียบและข้อบังคับต่างๆ ขององค์กรและสังคม",
+            "มีจรรยาบรรณทางวิชาการและวิชาชีพ"
+        ]
+    },
+    "max-years": 16,
+    "total-credits": 123,
+    "gen-ed-credits": 30,
+    "req-credits": 87,
+    "elec-credits": 6,
+    "intern-credits": 0,
+    "coop-credits": 0,
+    "courses": [
+        {
+            "course_code": "CS100",
+            "th-abbr": "คพ.100",
+            "course_name_th": "การพัฒนาเว็บแอปพลิเคชันเบื้องต้น",
+            "course_name_en": "Basic Web Development",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดพื้นฐานในการพัฒนาเว็บ สถาป้ตยกรรมเว็บ เอชทีเอ็มแอลและซีเอสเอ สเบื้องต้น วงจรการพัฒนาด้วยกิท การโปรแกรมจาวาสคริปต์ ฟอร์มและการยืนยัน ความถูกต้อง ส่วนประกอบของเว็บที่สามารถตอบสนองได้การนำเว็บขึ้นให้บริการ",
+            "course_description_en": "Basic concepts of web development, web architecture, HTML & CSS fundamentals, development cycle with Git, JavaScript programming, form & validation, responsive web components, web deployment.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "CS101",
+            "th-abbr": "คพ.101",
+            "course_name_th": "โครงสร้างแบบไม่ต่อเนื่อง",
+            "course_name_en": "Discrete Structures",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ตรรกศาสตร์เบื้องต้นและการประยุกต์ใช้ในวงจรดิจิทัลพื้นฐาน วิธีการพิสูจน์ เซต ฟ้งก์ชัน ความสัมพันธ์ พีชคณิตบูลีน พื้นฐานการนับ และ กราฟ โดยเน้นการ ประยุกต์ใช้ในด้านวิทยาการคอมพิวเตอร์",
+            "course_description_en": "Intensive introduction to discrete mathematics as applied in computer science: basic logic and its main application in digital logic, proof techniques, sets, functions, relations, Boolean algebra, basic of counting, and graphs.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "CS102",
+            "th-abbr": "คพ.102",
+            "course_name_th": "พื้นฐานการแก้ป้ญหาและการโปรแกรมคอมพิวเตอร์",
+            "course_name_en": "Problem Solving Basics and Computer Programming",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การแก้ป้ญหาด้วยวิธีการทางคอมพิวเตอร์ การออกแบบและการโปรแกรมเชิง โครงสร้าง ชนิดของข้อมูล โครงสร้างการควบคุม ฟ้งก์ชันและการส่งค่าพารามิเตอร์ ฟ้งก์ชันเวียนเกิด การทดสอบ และตรวจหาข้อผิดพลาด",
+            "course_description_en": "Algorithmic problem solving, structural design and programming, programming language syntax and semantics, data types, control structures, functions and parameter passing, recursive functions, testing and debugging.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "CS103",
+            "th-abbr": "คพ.103",
+            "course_name_th": "การโปรแกรมคอมพิวเตอร์เบื้องต้น",
+            "course_name_en": "Introduction to Computer Programming",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การแก้ป้ญหาด้วยวิธีการทางคอมพิวเตอร์ การออกแบบและการโปรแกรมเชิง โครงสร้าง ชนิดของข้อมูล โครงสร้างการควบคุม ฟ้งก์ชันและการส่งค่าพารามิเตอร์ ฟ้งก์ชันเวียนเกิด การทดสอบ และตรวจหาข้อผิดพลาด",
+            "course_description_en": "Algorithmic problem solving, structural design and programming, programming language syntax and semantics, data types, control structures, functions and parameter passing, recursive functions, testing and debugging.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "CS 104",
+            "th-abbr": "คพ.104",
+            "course_name_th": "การโปรแกรมคอมพิวเตอร์เบื้องต้นด้วยภาษาไพทอน",
+            "course_name_en": "Introduction to Computer Programming using Python",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "พื้นฐานการแก้ป้ญหาด้วยวิธีการทางคอมพิวเตอร์ด้วยภาษาไพทอน การโปรแกรม เชิงโครงสร้าง ชนิดของข้อมูลพื้นฐาน โครงสร้างการควบคุม ฟ้งก์ชัน โครงสร้าง ข้อมูลพื้นฐาน ลิสต์ ทูเพิล เซ็ต ดิกชันนารี เรนจ์ ไลบราลีภาษาไพทอนสำหรับการ ประมวลผลเชิงตัวเลข อาร์เรย์และแมทริกซ์ ไลบราลีภาษาไพทอน สำหรับแสดง ข้อมูล",
+            "course_description_en": "Basic computer programming and problem solving using Python. Structural design and Programming, basic data types. Control Structures. Functions, Python built-in data structures: lists, tuples, sets, dictionaries, and range, numerical processing library, arrays and matrix, library for data visualization.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "CS 111",
+            "th-abbr": "คพ.111",
+            "course_name_th": "แนวคิดเชิงวัตถุ",
+            "course_name_en": "Object-Oriented Concepts",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "พัฒนาทักษะการวิเคราะห์และการแก้ป้ญหาด้วยแนวคิดเชิงวัตถุ บูรณาการแนวคิด และแนวทางเชิงปฏิบัติที่ทันสมัยในวัฏจักรการพัฒนาซอฟต์แวร์ หลักการพื้นฐานใน การเขียนโปรแกรมเชิงวัตถุตามที่วิเคราะห์และออกแบบไว้ แนวทางในการทวนสอบ ความสอดคล้องระหว่างแบบและซอร์สโค้ด",
+            "course_description_en": "Developing of analytical and problem-solving skills through object-oriented paradigm. Integrating of conceptual and state-of-the-art practical approaches in software development life cycle (SDLC), object-oriented design techniques and tools, object-oriented programming based on the design, consistency verification between the design and source code.",
+            "prerequisite_courses": [
+                "CS 102",
+                "CS 103"
+            ]
+        },
+        {
+            "course_code": "CS 140",
+            "th-abbr": "คพ.140",
+            "course_name_th": "การวิเคราะห์ข้อมูลเชิงสำรวจและแดชบอร์ดแบบไร้โค้ด",
+            "course_name_en": "No-Code Exploratory Data Analysis and Dashboard",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "นิยามและกระบวนการวิเคราะห์ข้อมูลเชิงสำรวจ เครื่องมือสเปรดชีต ตารางข้อมูล และการวิเคราะห์ข้อมูลเมื่อตัวแปรต้นเปลี่ยนแปลงไป การสรุปผลข้อมูลในรูปแบบ ของตาราง การนำข้อมูลเข้า การแปลงและเตรียมข้อมูล การวิเคราะห์ข้อมูลแบบตัว แปรเดี่ยว การวิเคราะห์ข้อมูลแบบพหุตัวแปร สหสัมพันธ์และความเป็นสาเหตุ การ ออกแบบและสร้างแดชบอร์ด การผสานรวมข้อมูลจากหลายแหล่งข้อมูล กรณีศึกษา",
+            "course_description_en": "Exploratory Data Analysis (EDA) definition and process, spreadsheet tools, data types, data tables and what-if analysis, pivot table, data import, data transformation and preparation, univariate analysis, multivariate analysis, correlation and causation, dashboard design and implementation, data blending, case studies.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "CS180",
+            "th-abbr": "คพ.180",
+            "course_name_th": "ส่วนต่อประสานและประสบการณ์ผู้ใช้เบื้องต้น",
+            "course_name_en": "Introduction to User Interface and User Experience",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความสำคัญของการออกแบบส่วนต่อประสานกับผู้ใช้และประสบการณ์ผู้ใช้ต่อการ พัฒนาระบบที่ใช้งานได้กระบวนการออกแบบที่เน้นผู้ใช้เป็นศูนย์กลาง เครื่องมือ การวัดและประเมินผล ส่วนประกอบการออกแบบส่วนต่อประสานกับผู้ใช้ แนะนำ ส่วนประกอบการออกแบบมาตรฐานและแนวปฏิบัติในการออกแบบเพื่อรองรับการ ออกแบบที่สามารถนำกลับมาใช้ใหม่ได้ผ่านระบบการออกแบบที่มีอยู่ส่วนต่อ ประสานผู้ใช้และแนวทางประสบการณ์ผู้ใช้",
+            "course_description_en": "Importance of user interface and user experience design to the development of usable systems, user-centered design process, tools, measurement and evaluation, user interface design components, introduce the standard design components and design best practices to support design reusability through existing design system, user interface and user experience guidelines.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "CS 213",
+            "th-abbr": "คพ.213",
+            "course_name_th": "โครงสร้างข้อมูล",
+            "course_name_en": "Data Structures",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.111 การวิเคราะห์ขั้นตอนวิธีเบื้องต้น หลักนามธรรมข้อมูล โครงสร้างข้อมูลพื้นฐาน ได้แก่ ข้อมูลเชิงเส้น และข้อมูลแบบไม่เชิงเส้น การจัดสรรหน่วยเก็บแบบพลวัต เทคนิคการ ค้นหา และการเรียงลำดับข้อมูลในหน่วยความจำ การฝกปฏิบัตินอกเวลา",
+            "course_description_en": "Prerequisite: Have taken CS 111 Introduction to algorithm analysis, data abstraction, and fundamental data structures including linear data structures and nonlinear data structures, dynamic storage allocation, searching and sorting techniques.",
+            "prerequisite_courses": [
+                "CS 111"
+            ]
+        },
+        {
+            "course_code": "CS216",
+            "th-abbr": "คพ.216",
+            "course_name_th": "โครงสร้างข้อมูลและขั้นตอนวิธี",
+            "course_name_en": "Data Structures and Algorithms",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.111 การวิเคราะห์เวลาดำเนินงานและความซับซ้อนของขั้นตอนวิธี โครงสร้างข้อมูลแบบ ต่าง ๆ อาร์เรย์ ลิงค์ลิสต์ สแตค คิว ทรี แฮช กราฟ ไบนารีฮีป การวิเคราะห์ความ ต้องการด้านเวลา และ หน่วยความจำในการค้นหา ขั้นตอนวิธีเกี่ยวกับการค้นหา และการเรียงลำดับ การแก้ป้ญหาแบบบรูทฟอร์ซ การแบ่งแล้วเข้ายึด ขั้นตอนวิธีการ แบบละโมบ การชดเชยกันระหว่างเวลากับเนื้อที่ของการคำนวณ",
+            "course_description_en": "Prerequisite: Have taken CS 111 Analysis of running time and complexity of the algorithms, data structures: arrays, linked lists, stacks, queues, trees, hash, graph, binary heap, analysis of running time and memory requirements in searching, algorithms for searching and sorting, algorithm techniques: brute force, divide-and-conquer, greedy algorithms, space and time trade-offs.",
+            "prerequisite_courses": [
+                "CS111"
+            ]
+        },
+        {
+            "course_code": "CS 217",
+            "th-abbr": "คพ.217",
+            "course_name_th": "การออกแบบและวิเคราะห์ขั้นตอนวิธี",
+            "course_name_en": "Design and Analysis of Algorithms",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เทคนิคต่างๆ ที่ใช้ในการออกแบบและวิเคราะห์ขั้นตอนวิธี ได้แก่วิธีการแบ่งแยก เอาชนะ วิธีละโมบ วิธีกำหนดการพลวัต วิธีการแวะผ่านบัพทุกบัพของกราฟ วิธีการ ย้อนรอย และวิธีบรานช์แอนบาวด์",
+            "course_description_en": "Techniques used in design and analysis of algorithms such as divide- and-conquer, greedy algorithms, dynamic programming, graph traveling, backtracking, branch and bound. Study the topics of sorting, searching, Fourier transform, randomized algorithms, graph algorithms and optimization methods.",
+            "prerequisite_courses": [
+                "CS 213"
+            ]
+        },
+        {
+            "course_code": "CS221",
+            "th-abbr": "คพ.221",
+            "course_name_th": "โครงสร้างและระบบคอมพิวเตอร์เบื้องต้น",
+            "course_name_en": "Introduction to Computer System and Organization",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "โครงสร้างและระบบคอมพิวเตอร์เบื้องต้น วิชาบังคับก่อน: เคยศึกษา คพ.101 หรือ เคยศึกษา คป.200 โครงสร้างและสถาป้ตยกรรมคอมพิวเตอร์ การออกแบบหน่วยประมวลผลและระบบ คอมพิวเตอร์ที่มีประสิทธิภาพ สมรรถนะของระบบคอมพิวเตอร์ ระบบแทนข้อมูล และการจัดการข้อมูลแบบครบหน่วย ลำดับขั้นของหน่วยความจำในระบบ คอมพิวเตอร์ ไพพ์ไลนิง การจัดลำดับงานแบบสถิตและแบบพลวัตร การประมวลผล ซูเปอร์สเกลาและเวกเตอร์ แคช สถาป้ตยกรรมชุดคำสั่งเครื่อง มัลติโพรเซสเซอร์ และสถาป้ตยกรรมทางเลือกอื่น",
+            "course_description_en": "Prerequisite: Have taken CS 101 or Have taken AM 200 Structure and architecture of digital computers, concepts in designing efficient computer processors and computer systems, computer system efficiency, data representation and manipulation of atomic data, memory hierarchy, pipelining, static and dynamic scheduling, superscalar and vector executions, cache, machine instruction architecture, multi-processors, contemporary architecture.",
+            "prerequisite_courses": [
+                "CS101",
+                "AM200"
+            ]
+        },
+        {
+            "course_code": "CS 222",
+            "th-abbr": "คพ.222",
+            "course_name_th": "ระบบปฏิบัติการ",
+            "course_name_en": "Operating Systems",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดพื้นฐานการออกแบบและการสร้างระบบปฏิบัติการ องค์ประกอบและ โครงสร้างของระบบปฏิบัติการ สภาพแวดล้อมแบบคอมมานด์ไลน์ การจัดการ โปรเซส การจัดลำดับการประมวลผลของซีพียู การจัดการหน่วยความจำ การจัดการ ระบบไฟล์ การจัดการอุปกรณ์ ภาวะทำงานพร้อมกันและการประสานจังหวะ ความ ปลอดภัยระบบคอมพิวเตอร์ กรณีศึกษา",
+            "course_description_en": "Basic concepts of operating systems design and implementation, operating system structure and components, command line environment, process management, cpu scheduling, memory management, file management, device management, concurrency and synchronization, computer security and case studies.",
+            "prerequisite_courses": [
+                "CS 221"
+            ]
+        },
+        {
+            "course_code": "CS 223",
+            "th-abbr": "คพ.223",
+            "course_name_th": "เทคโนโลยีจำลองสภาพแวดล้อมเสมือน",
+            "course_name_en": "Virtualization Technology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดพื้นฐานเกี่ยวกับการจำลองสภาพแวดล้อมเสมือน การจำลองสภาพแวดล้อม เสมือนแบบไฮเปอร์ไวเซอร์ เทคโนโลยีเครื่องเสมือน การจำลองสภาพแวดล้อม เสมือนแบบคอนเทนเนอร์ เทคโนโลยีคอนเทนเนอร์ เครือข่ายเสมือน การจัดการ และประสานการทำงาน",
+            "course_description_en": "Basic concepts of virtualization, hypervisor-based virtualization, virtual machine technology, container-based virtualization, container technology, virtual network, orchestration.",
+            "prerequisite_courses": [
+                "CS 222",
+                "CS 233"
+            ]
+        },
+        {
+            "course_code": "CS 224",
+            "th-abbr": "คพ.224",
+            "course_name_th": "การดูแลและติดตามประสิทธิภาพระบบปฏิบัติการลีนุกซ์",
+            "course_name_en": "Linux Administration and Performance Monitoring",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การดูแลและติดตามประสิทธิภาพระบบปฏิบัติการลีนุกซ์",
+            "course_description_en": "Linux command line, software installation and configuration, users and groups, managing storages, network and firewall configuration, managing and securing file systems, shell scripting, performance monitoring, system problem troubleshooting.",
+            "prerequisite_courses": [
+                "CS 222",
+                "CS 233"
+            ]
+        },
+        {
+            "course_code": "CS232",
+            "th-abbr": "คพ.232",
+            "course_name_th": "เทคโนโลยีกลุ่มเมฆเบื้องต้น",
+            "course_name_en": "Introduction to Cloud Computing Technology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "คุณลักษณะของการประมวลผลแบบกลุ่มเมฆ รูปแบบการให้บริการของการ ประมวลผลแบบกลุ่มเมฆ เช่น ไอเอเอเอส พีเอเอเอส และเอสเอเอเอส ทักษะการ พัฒนาแอปพลิเคชันเพื่อให้บริการผ่านเทคโนโลยีกลุ่มเมฆ การรักษาความปลอดภัย บนกลุ่มเมฆ",
+            "course_description_en": "Cloud computing concepts and characteristics, cloud computing service models e.g. Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and software as a service (SaaS), cloud application development, cloud security.",
+            "prerequisite_courses": [
+                "CS222",
+                "CS233"
+            ]
+        },
+        {
+            "course_code": "CS233",
+            "th-abbr": "คพ.233",
+            "course_name_th": "สถาปัตยกรรมคอมพิวเตอร์และระบบปฏิบัติการ",
+            "course_name_en": "Computer Architecture and Operating Systems",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "สถาปัตยกรรมคอมพิวเตอร์และระบบปฏิบัติการ",
+            "course_description_en": "Instruction set architectures (ISA), pipeline processing, multiprocessors, memory management, cache and virtual memory organization, process synchronization, CPU scheduling, multithreading, file system, input/output control and devices.",
+            "prerequisite_courses": [
+                "CS101",
+                "AM200"
+            ]
+        },
+        {
+            "course_code": "CS 234",
+            "th-abbr": "คพ.234",
+            "course_name_th": "เครือข่ายคอมพิวเตอร์และความปลอดภัยทางไซเบอร์",
+            "course_name_en": "Computer Network and Cyber-Security",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เครื่องมือรักษาความปลอดภัย: การพิสูจน์ ตัวตน การควบคุมการเข้าถึงและการเข้ารหัส องค์ประกอบพื้นฐานของเครือข่าย ลำดับขั้นอินเทอร์เน็ตและโปรโตคอล การโจมตีทางไซเบอร์และการป้องกัน ความ ปลอดภัยของเว็บและอีเมล์",
+            "course_description_en": "Prerequisite: Have taken CS 233 Security concepts and terminology, security tools: authentication, access control and cryptography, basic network components, Internet layer and protocol, cyber attack and defence, web and email security.",
+            "prerequisite_courses": [
+                "CS 233"
+            ]
+        },
+        {
+            "course_code": "CS240",
+            "th-abbr": "คพ.240",
+            "course_name_th": "หลักการวิทยาการข้อมูล",
+            "course_name_en": "Principles of Data Science",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักการพื้นฐานของวิทยาการข้อมูลที่เกี่ยวข้องกับอัลกอริทึม กระบวนการ วิธีการ และหลักการคิด รวมทั้งเครื่องมือที่ใช้ในการวิเคราะห์ข้อมูล หัวข้อพื้นฐานใน วิทยาการข้อมูล ได้แก่การจัดการข้อมูล การวิเคราะห์ข้อมูลเชิงสถิติ และเชิงการ เรียนรู้ของเครื่องจักร การนำเสนอข้อมูลด้วยทัศนสารสนเทศและการทำงานกับ ข้อมูลขนาดใหญ่",
+            "course_description_en": "Fundamental principles of data science including algorithms, processes, methods, data-analytic thinking and tools to support problem-focused data-analytic thinking. Introduction to topics in data science: data manipulation, data analysis with statistics and machine learning, data communication with information visualization, and data at scale.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "CS241",
+            "th-abbr": "คพ.241",
+            "course_name_th": "ภาษาโปรแกรมและกรอบความคิด",
+            "course_name_en": "Programming Languages and Paradigms",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.111 หลักการของภาษาโปรแกรม ไวยากรณ์และวากยะสัมพันธ์ ศึกษากรอบแนวคิดของ ภาษาโปรแกรมประเภทต่างๆ การโปรแกรมโดยคำนึงถึงสมรรถนะ การโปรแกรม โดยอาศัยส่วนต่อประสานโปรแกรมประยุกต์ ไลบรารี่สำหรับจัดการข้อมูล และการ โปรแกรมเชิงเหตุการณ์",
+            "course_description_en": "Prerequisite: Have taken CS 111 Principles of programming languages, syntax and semantics. Different programming paradigms, performance-aware programming. Programming using Application Programming Interface (API), library for data manipulation event-driven programming.",
+            "prerequisite_courses": [
+                "CS111"
+            ]
+        },
+        {
+            "course_code": "CS 242",
+            "th-abbr": "คพ.242",
+            "course_name_th": "ภาษาไพทอนและการประยุกต์",
+            "course_name_en": "Python Programming and Applications",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.240 แนะนำทักษะการเขียนโปรแกรม การแก้ป้ญหา และการคิดอัลกอริทึมในภาษาไพ ทอน หัวข้อรวมถึงตัวแปร อินพุต/เอาต์พุต คำสั่งเงื่อนไข นิพจน์บูลีน โครงสร้างการ ควบคุม ฟ้งก์ชัน และประเภทข้อมูลบิวด์อินในภาษา ศึกษาการสร้างแอปพลิเคชัน ด้วยภาษาไพทอนและไลบรารียอดนิยม ในสาขาวิทยาการข้อมูล หรือเครือข่าย หรือ การพัฒนาเว็บ มีการฝกปฏิบัติผ่านการทำโครงงาน",
+            "course_description_en": "Prerequisite: Have taken CS 240 Introduces the skills of programming, problem solving and algorithmic thinking in Python. Topics include variables, input/output, conditional statements, boolean expressions, control structures, functions and build-in data types . Learn to build applications with Python programming and its popular libraries in the field of data science, or network or web development. Practice through assigned project.",
+            "prerequisite_courses": [
+                "CS 240"
+            ]
+        },
+        {
+            "course_code": "CS 246",
+            "th-abbr": "คพ.246",
+            "course_name_th": "การแสดงข้อมูล",
+            "course_name_en": "Data Visualization",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทฤษฎีและเทคนิคในการแสดงข้อมูล หลักการออกแบบ พัฒนาและการประเมินการ แสดงข้อมูล การได้มา การแยก และการวิเคราะห์ข้อมูลขนาดใหญ่ เทคนิคและ เครื่องมือสำหรับแสดงข้อมูลในรูปแบบต่างๆ เพื่อสื่อสารสิ่งที่ค้นพบหรือคำตอบของ ป้ญหาสำหรับสนับสนุนการตัดสินใจ",
+            "course_description_en": "Key visualization techniques and theory. The design, implementation and evaluation of complementary visual and verbal representations of patterns. How to acquire, parse, and analyze large datasets in order to convey findings answer questions, drive decisions, and provide persuasive evidence supported by data.",
+            "prerequisite_courses": [
+                "คพ.240",
+                "CS 240"
+            ]
+        },
+        {
+            "course_code": "CS 251",
+            "th-abbr": "คพ.251",
+            "course_name_th": "ระบบฐานข้อมูล 1",
+            "course_name_en": "Database Systems 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดพื้นฐานและสถาป้ตยกรรมของระบบฐานข้อมูล การจำลองข้อมูลเชิงแนวคิด การออกแบบฐานข้อมูลและการทำให้เกิดผล ภาษาสอบถาม เมตาเดตา การจัด ระเบียบแฟ้มและหน่วยเก็บข้อมูลเชิงกายภาพ แนะนำการจัดการรายการ เปลี่ยนแปลง มีฝกปฏิบัตินอกเวลา",
+            "course_description_en": "Fundamental database concepts and architecture, conceptual data models, design and implementation, query languages, metadata, physical data storage, file organizations, and introduction to transaction management.",
+            "prerequisite_courses": [
+                "CS 213",
+                "CS 216"
+            ]
+        },
+        {
+            "course_code": "CS255",
+            "th-abbr": "คพ.255",
+            "course_name_th": "การเขียนโปรแกรมสำหรับธุรกิจ",
+            "course_name_en": "Computer Programming for Business",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การแก้ป้ญหาทางธุรกิจแบบเบื้องต้นด้วยวิธีการทางคอมพิวเตอร์ การออกแบบและ พัฒนาอัลกอริทึมด้วยเทคนิคและเครื่องมือทางคอมพิวเตอร์ที่เหมาะสมกับป้ญหา ทางธุรกิจ การทดสอบ และตรวจหาข้อผิดพลาด การพัฒนาส่วนต่อประสานผู้ใช้เชิง กราฟิกเบื้องต้น การพัฒนาโปรแกรมเชิงเหตุการณ์",
+            "course_description_en": "Computer programming to solve business problems, algorithm design and implementation via programming paradigm and tools suitable for business problems domain, testing and debugging, basic graphical user interface development, event-driven programming.",
+            "prerequisite_courses": [
+                "CS102",
+                "CS103"
+            ]
+        },
+        {
+            "course_code": "CS261",
+            "th-abbr": "คพ.261",
+            "course_name_th": "วิศวกรรมซอฟต์แวร์เบื้องต้น",
+            "course_name_en": "Introduction to Software Engineering",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "คุณลักษณะซอฟต์แวร์ คุณภาพของซอฟต์แวร์และโครงการซอฟต์แวร์ หลักการของ วิศวกรรมซอฟต์แวร์ ระเบียบวิธีในการพัฒนาซอฟต์แวร์ กระบวนการพัฒนา ซอฟต์แวร์ที่สำคัญ การวางแผนและจัดการโครงการ การประเมินเวลาและค่าใช้จ่าย วิเคราะห์และการระบุข้อกำหนด เทคนิคการวิเคราะห์และออกแบบซอฟต์แวร์ แนะนำสถาป้ตยกรรมซอฟต์แวร์ เทคนิคการพัฒนาโปรแกรม การตรวจสอบและการ ทวนสอบซอฟต์แวร์ วิวัฒนาการของซอฟต์แวร์ สภาพแวดล้อมการผลิตซอฟต์แวร์ และเครื่องมือช่วยจัดการโครงการ กรณีศึกษา มีฝกปฏิบัตินอกเวลา",
+            "course_description_en": "Fundamental of software engineering principles, software development methodology, software process models, basics of software project planning and project management, basics of time and cost estimation, requirement elicitation and specification, software analysis and design, concept of software architecture, software construction techniques including design pattern, component-oriented development, basics of verification and validation, software evolution, software development environment, and sample of CASE tools.",
+            "prerequisite_courses": [
+                "CS111"
+            ]
+        },
+        {
+            "course_code": "CS262",
+            "th-abbr": "คพ.262",
+            "course_name_th": "การทดสอบซอฟต์แวร์เบื้องต้น",
+            "course_name_en": "Introduction to Software Testing",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดการทดสอบและการประกันคุณภาพซอฟต์แวร์ เทคนิคการสร้างข้อมูลการ ทดสอบแบบแบลคบอกซ์และไวท์บอกซ์ การทดสอบซอฟต์แวร์ในระดับยูนิต โมดูล ระบบย่อย และทั้งระบบ กระบวนการทดสอบและการวางแผนการทดสอบ ซอฟต์แวร์",
+            "course_description_en": "Software testing and quality assurance concepts, test data generation using white-box and black-box techniques, software testing at unit, module, sub-system, and system levels, and software testing process and planning.",
+            "prerequisite_courses": [
+                "CS111"
+            ]
+        },
+        {
+            "course_code": "CS263",
+            "th-abbr": "คพ.263",
+            "course_name_th": "การกำหนดความต้องการทางซอฟต์แวร์",
+            "course_name_en": "Software Requirement Specification",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "กระบวนการในการหาความต้องการในหลายรูปแบบ ได้แก่การสืบค้น การวิเคราะห์ การหาข้อตกลง การระบุข้อกำหนด การทวนสอบ ศึกษาระเบียบวิธี แนะนำเทคนิค และเครื่องมือที่จะนำไปใช้เพื่อนิยาม สร้างเอกสาร และประกันความพึงพอใจของ ลูกค้า",
+            "course_description_en": "Quantify many aspects of requirement processes include eliciting, analyzing, negotiating, specifying, validating, introducing methods, techniques and tools used to define, document and ensure customer satisfaction.",
+            "prerequisite_courses": [
+                "CS261"
+            ]
+        },
+        {
+            "course_code": "CS264",
+            "th-abbr": "คพ.264",
+            "course_name_th": "ความปลอดภัยทางซอฟต์แวร์และความเป็นส่วนตัวของข้อมูล",
+            "course_name_en": "Software Security and Data Privacy",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความปลอดภัยของซอฟต์แวร์ขั้นพื้นฐาน ช่องโหว่และการโจมตีของซอฟต์แวร์ การ เขียนโปรแกรมอย่างปลอดภัย โปรแกรมประสงค์ร้าย รวมถึงการป้องกันและการ จำกัดขอบเขต ความปลอดภัยของระบบปฏิบัติการและฐานข้อมูล ความเป็นส่วนตัว ของข้อมูลและการไม่เปิดเผยตัวตน",
+            "course_description_en": "Basic software security, software vulnerabilities and attacks, security programming, malwares including protection and confinement, operating system and database security, data privacy and anonymity.",
+            "prerequisite_courses": [
+                "CS222",
+                "CS233"
+            ]
+        },
+        {
+            "course_code": "CS265",
+            "th-abbr": "คพ.265",
+            "course_name_th": "การพัฒนาโปรแกรมประยุกต์สำหรับอุปกรณ์พกพาเบื้องต้น",
+            "course_name_en": "Basic Mobile Development",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ภาพรวมการพัฒนาโปรแกรมประยุกต์สำหรับอุปกรณ์พกพา ข้อจำกัดและความ ต้องการในการออกแบบส่วนต่อประสานผู้ใช้สำหรับอุปกรณ์ที่มีทรัพยากรจำกัด การ ออกแบบเพื่อรองรับส่วนต่อประสานผู้ใช้ที่หลากหลาย แนวคิดโดยรวม ป้ญหาการ ออกแบบ และขั้นตอนการพัฒนาในทางปฏิบัติ",
+            "course_description_en": "Developing landscape of mobile applications, the specific constraints and requirements of user interface design for limited-resource devices, providing alternative resources, conceptual overview, design issues, and practical development issues.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "CS271",
+            "th-abbr": "คพ.271",
+            "course_name_th": "ปัญญาประดิษฐ์เบื้องต้น",
+            "course_name_en": "Artificial Intelligence Fundamentals",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ปัญหาทางปัญญาประดิษฐ์ การแทนความรู้การค้นหาแบบไม่มีข้อมูล การค้นหาแบบ มีข้อมูล ปัญหาการทำตามเงื่อนไข ตรรกศาสตร์และการให้เหตุผลอัตโนมัติการค้นหา เชิงปฏิปักษ์ การเรียนรู้ของเครื่องจักรเบื้องต้น",
+            "course_description_en": "Problems in artificial intelligent systems, knowledge representation, uniform search, inform search, constraint satisfaction problems, logics and automatic reasoning, adversarial search, introduction to machine learning.",
+            "prerequisite_courses": [
+                "CS213",
+                "CS216"
+            ]
+        },
+        {
+            "course_code": "CS 285",
+            "th-abbr": "คพ.285",
+            "course_name_th": "การประมวลสารสนเทศของมนุษย์",
+            "course_name_en": "Human Information Processing",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "งานวิจัยและทฤษฎีเบื้องต้นเกี่ยวกับการประมวลผลสารสนเทศของมนุษย์ ความใส่ใจ การรู้จำแบบ ความจำ การแทนองค์ความรู้และภาษา กระบวนการแก้ไขป้ญหา กระบวนการหาเหตุผล และกระบวนการเรียนรู้ความสัมพันธ์ระหว่างกระบวนการ รู้จำของมนุษย์กับต้นแบบทางคอมพิวเตอร์ และการประมวลนัยสำคัญของเนื้อหา เกี่ยวกับการรู้จำเพื่อสร้างระบบสารสนเทศ",
+            "course_description_en": "Introduction to research and theory on topics in human information processing including perception, attention, pattern recognition, memory, representation of knowledge, language, problem solving, reasoning, and learning, with emphasis on the relationship to computer models of these processes and implications of this body of knowledge for building information systems.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "CS 287",
+            "th-abbr": "คพ.287",
+            "course_name_th": "การออกแบบสุนทรียภาพทางทัศนะ",
+            "course_name_en": "Visual Design",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความเข้าใจแบบองค์รวมของสุนทรียภาพทางทัศนะ แนวคิดเชิงทฤษฎีและเชิงปฏิบัติ ของการออกแบบสุนทรียภาพทางทัศนะ การทำความเข้าใจผู้ใช้หลักการออกแบบ หลักองค์ประกอบการออกแบบ ทฤษฎีสีการออกแบบตัวอักษร ระบบกริด เครื่องมือ ออกแบบสุนทรียภาพทางทัศนะ",
+            "course_description_en": "Holistic understanding of visual design, theoretical and practical concepts of visual design, user research, design principles, composition principles, color theory, typography, grid system, visual design tools.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "CS 299",
+            "th-abbr": "คพ.299",
+            "course_name_th": "คอมพิวเตอร์กราฟิก",
+            "course_name_en": "Computer Graphics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.111 ซอฟต์แวร์และฮาร์ดแวร์สำหรับคอมพิวเตอร์กราฟิกแบบโต้ตอบ วิธีการทั่วไปที่ใช้ใน การออกแบบและแสดงผลภาพ การดำเนินการพื้นฐานในปริภูมิ 2 มิติและ 3 มิติการ แปลงในระบบเรขาคณิต การแปลงจุดหรือตำแหน่งที่มองเห็น การตัดภาพ ทฤษฎีสี",
+            "course_description_en": "Prerequisite: Have taken CS 111 Software and hardware principles of interactive graphics, general methods for designing and displaying output, elementary operations in two-and three-dimensional space, transformational geometry, viewing transformations, clipping, color theory.",
+            "prerequisite_courses": [
+                "CS 111"
+            ]
+        },
+        {
+            "course_code": "CP301",
+            "th-abbr": "คพ.301",
+            "course_name_th": "การเตรียมความพร้อมสำหรับโครงงานพิเศษและสหกิจ",
+            "course_name_en": "Preparation for Senior Projects and Co-operative Education",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษา วิชาบังคับก่อน: เคยศึกษา คพ.251 ฝกทักษะที่จำเป็นต้องใช้ในการทำงานทั้งด้านวิชาการและภาคธุรกิจ การเขียนใบ สมัครงาน การเขียนประวัติการสัมภาษณ์ การคิดเชิงวิพากษ์ การสืบค้นข้อมูลเพื่อ ประกอบการทำงาน การทำงานเป็นทีมในการพัฒนาซอฟต์แวร์ การเขียนรายงานและ การอ้างอิง การนำเสนอ รวมถึงเทคนิคการเจรจาสื่อสารภายในองค์กร",
+            "course_description_en": "Preparing students technical professional skills, application and resume writing, interview, critical thinking, searching techniques, teamwork, collaboration in software development teams, professional report writing, academic writing styles, citation and bibliography, presentation techniques, and organization communication.",
+            "prerequisite_courses": [
+                "CP251"
+            ]
+        },
+        {
+            "course_code": "CS303",
+            "th-abbr": "คพ.303",
+            "course_name_th": "โครงงานพิเศษ 1 2",
+            "course_name_en": "Special Projects 1",
+            "course_type": "",
+            "course_credit": 2,
+            "lect_hours": 0,
+            "practice_hours": 6,
+            "self_study_hours": 0,
+            "course_description_th": "วิชาบังคับก่อน: สอบได้คพ.301 โครงงานการศึกษาจะกำหนดหรือได้รับอนุมัติจากสาขาวิชา ศึกษาหัวข้อทางวิชาการ โดยมีวัตถุประสงค์ให้นักศึกษาค้นคว้าทางวิชาการ เขียนรายงาน และเสนอต่อ คณะกรรมการ",
+            "course_description_en": "Prerequisite: Have earned credits of CS 301 Senior Projects will be assigned or approved by the department. This course prepares students for developing a proposal for doing research, writing research papers, and presenting the proposal to the committee.",
+            "prerequisite_courses": [
+                "CS301"
+            ]
+        },
+        {
+            "course_code": "CS304",
+            "th-abbr": "คพ.304",
+            "course_name_th": "สหกิจศึกษา 1",
+            "course_name_en": "Co-operative Education 1",
+            "course_type": "",
+            "course_credit": 2,
+            "lect_hours": 0,
+            "practice_hours": 6,
+            "self_study_hours": 0,
+            "course_description_th": "วิชาบังคับก่อน: สอบได้คพ.301 การปฏิบัติงานที่ได้รับมอบหมายจากสถานประกอบการที่ได้รับความเห็นชอบจาก สาขาวิชา โดยนักศึกษาต้องนำความรู้ทางวิชาการที่ได้เรียนไปประยุกต์ใช้และฝก ทักษะในภาวะแวดล้อมการทำงานจริง ภายใต้การกำกับดูแลของสถานประกอบการ นั้น โดยต้องแสดงงานที่ได้รับมอบหมายอย่างชัดเจน พร้อมทั้งแนวคิดที่ใช้ในการ ออกแบบ พัฒนาและประยุกต์ เมื่อเสร็จสิ้นโครงงานแล้วต้องจัดส่งผลงานในรูปแบบ ของรายงานตามที่สาขาวิชากำหนด",
+            "course_description_en": "Supervised practical training on the given assignments from authorized body from the faculty. Student must show the capability in implementation of knowledge and skill in the actual working environmemt. Written report of design, development, and implementation must be submitted the end of practical period.",
+            "prerequisite_courses": [
+                "CS301"
+            ]
+        },
+        {
+            "course_code": "CS305",
+            "th-abbr": "คพ.305",
+            "course_name_th": "จรรยาบรรณทางวิชาชีพและเชิงสังคม",
+            "course_name_en": "Social and Professional Ethics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "บริบททางสังคมของระบบคอมพิวเตอร์ วิธีการและเครื่องมือในการวิเคราะห์ ความ รับผิดชอบและ จรรยาบรรณทางวิชาชีพ กฎหมายทรัพย์สินทางป้ญญา การยอมรับ ความเสี่ยงและการชดใช้ต่อระบบคอมพิวเตอร์ การละเมิดทรัพย์สินทางป้ญญา การ ละเมิดสิทธิส่วนบุคคล อาชญากรรมในระบบคอมพิวเตอร์",
+            "course_description_en": "Social context of computing, methods and tools of analysis, professional and ethical responsibilities, intellectual property, risks and liabilities of computer-based systems, privacy and civil liberties, intellectual property infringement, computer crime in computing.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "CS 310",
+            "th-abbr": "คพ.310",
+            "course_name_th": "หัวข้อเลือกสรรทางวิทยาการคอมพิวเตอร์",
+            "course_name_en": "Selected Topics in Computer Science",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.111 หัวข้อเลือกสรรจากความก้าวหน้าด้านงานวิจัยและเทคโนโลยีของวิทยาการ คอมพิวเตอร์ ที่เปลี่ยนแปลงตามยุคสมัยและเทคโนโลยี",
+            "course_description_en": "Prerequisite: Have taken CS 111 Topics selected from areas in Computer Science, keep up with the new technology and knowledge.",
+            "prerequisite_courses": [
+                "CS 111"
+            ]
+        },
+        {
+            "course_code": "CS 314",
+            "th-abbr": "คพ.314",
+            "course_name_th": "ทฤษฎีออโตมาตา",
+            "course_name_en": "Automata Theory",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทฤษฎีออโตมาตา นิพจน์แบบเรกูลาร์ ภาษาแบบเรกูลาร์ ออโตมาตาแบบกดลง ภาษาไม่พึ่งบริบท เครื่องจักรทัวริง ป้ญหา การหยุด ความสามารถและประสิทธิภาพในการแก้ป้ญหาของเครื่องคอมพิวเตอร์",
+            "course_description_en": "Prerequisite: Have taken CS 241 Fundamentals of abstract machine and language, automata theory, regular expression, regular language, pushdown automata, context-free language, Turing machine, the halting problem, undecidability and intractability.",
+            "prerequisite_courses": [
+                "CS 241"
+            ]
+        },
+        {
+            "course_code": "CS 320",
+            "th-abbr": "คพ.320",
+            "course_name_th": "หัวข้อเลือกสรรด้านระบบปฏิบัติการ",
+            "course_name_en": "Selected Topics in Operating Systems",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หัวข้อเลือกสรรจากความก้าวหน้าด้านงานวิจัยและเทคโนโลยีของระบบปฏิบัติการ ที่ เปลี่ยนแปลงตามยุคสมัยและเทคโนโลยี",
+            "course_description_en": "Seminar on current research and development in operating systems.",
+            "prerequisite_courses": [
+                "CS 222",
+                "CS 233"
+            ]
+        },
+        {
+            "course_code": "CS 325",
+            "th-abbr": "คพ.325",
+            "course_name_th": "อินเทอร์เน็ตของสรรพสิ่งเบื้องต้น",
+            "course_name_en": "Introduction to Internet of Things",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.221 กรอบความคิดและการประยุกต์ใช้ส่วนรับประสาทสัมผัส เพื่อออกแบบระบบฝ้งตัวใน รูปแบบอินเทอร์เน็ตของสรรพสิ่ง เทคนิคการอ่านค่าจากส่วนรับประสาทสัมผัส การ โปรแกรมอินเทอร์รัพท์ การเชื่อมต่อกับแอปพลิเคชัน ระบบสังเกตการณ์ ระบบ ควบคุมตามเงื่อนไขที่กำหนด",
+            "course_description_en": "Prerequisite: Have taken CS 221 Conceptual framework and application of sensory receptors to design an embedded system as Internet of Things module, techniques for reading values from sensory devices, interrupt programming, integrated into the software application, monitoring system, control system according to the specified conditions.",
+            "prerequisite_courses": [
+                "CS 221"
+            ]
+        },
+        {
+            "course_code": "CS 331",
+            "th-abbr": "คพ.331",
+            "course_name_th": "คอมพิวเตอร์เครือข่าย",
+            "course_name_en": "Net-Centric Computing",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "องค์ประกอบหลักและมาตรฐานเครือข่ายสำหรับการโอนถ่ายข้อมูลผ่านระบบเครือข่ายอินเทอร์เน็ต แบบจำลองแบบลำดับขั้นโอเอสไอ แบบจำลองแบบลำดับขั้นที ซีพี/ไอพีหน้าที่หลักของแต่ละลำดับขั้น โปรโตคอลหลักในแต่ละลำดับขั้นและการทำงานร่วมกัน การเขียนโปรแกรมซ็อกเก็ต",
+            "course_description_en": "Basic network components and major network standards for computer communications via the Internet. The OSI layered model. The TCP/IP layered model. Basic functions of each layer. Major network protocols in each layers and their interoperability, socket programming.",
+            "prerequisite_courses": [
+                "CS 222"
+            ]
+        },
+        {
+            "course_code": "CS 332",
+            "th-abbr": "คพ.332",
+            "course_name_th": "ความปลอดภัยของระบบคอมพิวเตอร์",
+            "course_name_en": "Computer System Security",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ภัยคุกคามและช่องโหว่การพิสูจน์ ตัวตนและการควบคุมการเข้าถึง การเข้ารหัสและลายมือชื่อดิจิทัล ความปลอดภัย ของโปรแกรมและโปรแกรมประสงค์ร้าย ความปลอดภัยของระบบปฏิบัติการ ระบบ ฐานข้อมูล การโจมตีเครือข่ายและการป้องกัน ความปลอดภัยของแอปพลิเคชันบน เครือข่าย ประเด็นดำนกฏหมายและความเป็นส่วนตัว",
+            "course_description_en": "Prerequisite: Have taken CS 331 Introduction to computer system security, threats and vulnerabilities, authentication and access control, cryptography and digital signature, program security and malwares , security in operating system, database system, network attack and defence, netwok application security, legal and privacy issues.",
+            "prerequisite_courses": [
+                "CS 331"
+            ]
+        },
+        {
+            "course_code": "CS 335",
+            "th-abbr": "คพ.335",
+            "course_name_th": "เครือข่ายคอมพิวเตอร์ภาคปฏิบัติ",
+            "course_name_en": "Practical Computer Networking",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความรู้ขั้นสูงเกี่ยวกับการสื่อสารผ่านเครือข่ายคอมพิวเตอร์ ทักษะการต่อเชื่อมและ การตั้งค่าอุปกรณ์ภายในระบบเครือข่าย การตั้งค่าอุปกรณ์เครือข่ายหลักได้แก่ เราท์ เตอร์ สวิตช์ และระบบปลายทาง ไอพีโพรโทคอลเวอร์ชัน 6 การจัดแบ่งเลขที่อยู่ แบบไอพี เทคนิคการแปลงหมายเลขไอพี (แนท) โพรโทคอลสนับสนุนการตั้งค่า กำหนดที่โฮสต์แบบพลวัตร (ดีเอชซีพี) สวิตช์เน็ตเวิร์ก ข่ายงานบริเวณเฉพาะที่แบบ เสมือน การค้นหาเส้นทางระหว่างข่ายงานเฉพาะที่แบบเสมือน โพรโทคอลค้นหา เส้นทาง การป้องกันการโจมตีระบบคอมพิวเตอร์ผ่านทางเครือข่ายเบื้องต้น การ ควบคุมการผ่านเข้าออก",
+            "course_description_en": "Advanced knowledge and hands-on experience in computer communications and networking, basic router, switch, and end-host configurations, internet protocol version 6 (Ipv6). IP addressing, network address translation (NAT), dynamic host configuration protocol (DHCP), switched networks, virtual LAN (VLAN), inter VLAN routing, routing protocols, basic network security, access control List (ACL).",
+            "prerequisite_courses": [
+                "CS 331"
+            ]
+        },
+        {
+            "course_code": "CS 336",
+            "th-abbr": "คพ.336",
+            "course_name_th": "เทคโนโลยีเครือข่ายไร้สาย",
+            "course_name_en": "Wireless Network Technology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "พื้นฐานการส่งข้อมูลแบบไร้ สาย เทคนิคการควบคุมการเข้าถึงพร้อมกันหลายทาง ระบบโทรศัพท์เคลื่อนที่ เทคโนโลยีของระบบแลนไร้สาย (มาตรฐาน IEEE 802.11) โมบายไอพี เทคโนโลยีบลู ทูท เทคโนโลยีซิกบี เทคโนโลยีเซ็นเซอร์ไร้สาย ไวแมกซ์ ความปลอดภัยบนเครือข่าย ไร้สาย",
+            "course_description_en": "Overview of mobile communications and wireless networks, wireless transmission basis, multiple access control techniques, mobile telephone systems, wireless LAN. Mobile IP, Bluetooth, zigbee. WiMAX, wireless network security.",
+            "prerequisite_courses": [
+                "CS 331"
+            ]
+        },
+        {
+            "course_code": "CS 337",
+            "th-abbr": "คพ.337",
+            "course_name_th": "ระบบคลัสเตอร์คอมพิวเตอร์และการประมวลผลแบบกระจายเบื้องต้น",
+            "course_name_en": "Introduction to Cluster Computing and Distributed Computing",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การสร้างระบบคลัสเตอร์หรือบีวูฟ การทดลองสร้างระบบคลัสเตอร์อย่างง่ายๆ การ ติดตั้งซอฟต์แวร์ที่ใช้สำหรับบริหารจัดการระบบคลัสเตอร์ การมอนิเตอร์ระบบฯ การ กำหนดตารางการทำงานของโพรเซสเซอร์ในระบบการบริหารจัดการผู้ใช้การดูแล ระบบคลัสเตอร์ การรักษาความปลอดภัย",
+            "course_description_en": "Study the construction of Beowulf and cluster computers, building a small cluster, using cluster installation and configuration tools, cluster monitoring, job scheduling, user management, cluster systems maintenance, security measures and policies.",
+            "prerequisite_courses": [
+                "CS 222"
+            ]
+        },
+        {
+            "course_code": "CS 340",
+            "th-abbr": "คพ.340",
+            "course_name_th": "หัวข้อเลือกสรรด้านภาษาโปรแกรม",
+            "course_name_en": "Selected Topics in Programming Languages",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.241 หัวข้อเลือกสรรจาก ความก้าวหน้าด้านงานวิจัยและเทคโนโลยีของภาษาโปรแกรมที่ น่าสนใจ ที่เปลี่ยนแปลงตามยุคสมัยและเทคโนโลยี",
+            "course_description_en": "Prerequisite: Have taken CS 241 Seminar on current research and development in programming languages.",
+            "prerequisite_courses": [
+                "CS 241"
+            ]
+        },
+        {
+            "course_code": "CS341",
+            "th-abbr": "คพ.341",
+            "course_name_th": "วิศวกรรมข้อมูลขนาดใหญ่",
+            "course_name_en": "Big Data Engineering",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา หรือ ศึกษาพร้อมกับ คพ.251 ความท้าทายและระบบนิเวศของข้อมูลขนาดใหญ่วงจรชีวิตของการวิศวกรรมข้อมูล แหล่งข้อมูลและชนิดข้อมูล การจัดเก็บข้อมูล บัญชีข้อมูล การสร้างดาต้าเลคและ ดาต้าแวร์เฮาส์ การวางแผนและเตรียมกระบวนการสำหรับดาต้าไปป์ไลน์ รูปแบบอี ทีแอล (นำเข้า-จัดระเบียบ-นำไปใช้ประโยชน์) การสืบค้นและประมวลผลข้อมูล การ แสดงข้อมูลด้วยภาพ กรณีศึกษา",
+            "course_description_en": "Prerequisite: Have taken or Study with CS 251 Big data challenges and ecosystem, data engineering lifecycle, data sources and types, data storage, data catalog, building data lake and data warehouse, orchestrating data pipelines, ETL (Extract-Transform- Load) patterns, data query and processing, data visualization, case studies.",
+            "prerequisite_courses": [
+                "CS251"
+            ]
+        },
+        {
+            "course_code": "CS 342",
+            "th-abbr": "คพ.342",
+            "course_name_th": "การวิเคราะห์และเทคโนโลยีการตลาดดิจิทัล",
+            "course_name_en": "Digital Marketing Technology and Analytics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.240 พื้นฐานเทคโนโลยีของการตลาดดิจิทัล ประเภทของเทคโนโลยีทางการตลาดและ โฆษณา การวัดผลและ KPI ของแผนการตลาด การวางแผนการตลาดดิจิทัล การ วิเคราะห์ข้อมูลทางการตลาดด้วยเทคนิคการเรียนรู้ของเครื่อง",
+            "course_description_en": "Prerequisite: Have taken CS 240 Foundations of digital marketing technology, types of marketing/ad technologies, fundamentals of measuring results and KPIs for marketing plans, digital marketing plan, marketing analysis using machine learning techniques.",
+            "prerequisite_courses": [
+                "คพ.240",
+                "CS 240"
+            ]
+        },
+        {
+            "course_code": "CS343",
+            "th-abbr": "คพ.343",
+            "course_name_th": "การเรียนรู้เชิงลึก",
+            "course_name_en": "Applied Deep Learning",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.240 การทำความเข้าใจแนวคิดการเรียนรู้ของเครื่องและการเรียนรู้เชิงลึกเบื้องต้น หน่วย การรับรู้ (Perceptron) การเรียนรู้ด้วยโครงข่ายประสาทเทียม การเรียนรู้ด้วย โครงข่ายประสาทเทียมเชิงลึก การเรียนรู้เชิงลึกในแบบต่างๆ ได้แก่ CNN, RNN, LSTM, BM การประยุกต์ใช้การเรียนรู้เชิงลึกกับการเรียนรู้แบบทั้งมีผู้สอนและไม่มี ผู้สอนสำหรับการแก้ป้ญหาโดยใช้ไลบรารี่การเรียนรู้เชิงลึกในภาษาโปรแกรม (Tensorflow, PyTorch) การทำโครงงานเพื่อแก้ป้ญหาหัวข้อที่นักศึกษาสนใจโดย ใช้การเรียนรู้เชิงลึก",
+            "course_description_en": "Prerequisite: Have taken CS 240 Basic concepts of machine learning and deep learning; Perceptron; Artificial Neural Network; Various types of neural network: Convolution Neural Networks (CNN), Recurrent Neural Networks (RNN), Multilayer Perceptron (MLP), Long-short Term Memory (LSTM), Auto Encoder (AE); Implementing deep learning-based applications in both supervised and unsupervised learning using libraries to solve a selected problem.",
+            "prerequisite_courses": [
+                "CS240"
+            ]
+        },
+        {
+            "course_code": "CS345",
+            "th-abbr": "คพ.345",
+            "course_name_th": "การเรียนรู้ของเครื่องเชิงประยุกต์",
+            "course_name_en": "Practical Machine Learning",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาการเรียนรู้ของเครื่องและวิทยาศาสตร์ข้อมูลด้วยการลงมือปฏิบัติเขียน โปรแกรม อภิปรายเกี่ยวกับการประยุกต์ใช้โมเดลการเรียนรู้ของเครื่อง ทั้งโมเดลการ เรียนรู้แบบมีผู้สอนและการเรียนรู้แบบไม่มีผู้สอน กับชุดข้อมูลจริง รวมถึงการ จัดเตรียมข้อมูล การเลือกโมเดลและการประเมินผล โดยใช้งานโอเพนซอร์สที่เป็นที่ นิยม เช่น scikit-learn และ tensor flow",
+            "course_description_en": "This class offers a hands-on approach to machine learning and data science. The class discusses the application of machine learning methods both supervised and unsupervised learning on real world dataset, including data preparation, model selection and evaluation. This class relies on available open source implementations such as scikit-learn and tensor flow for all implementations.",
+            "prerequisite_courses": [
+                "CS240"
+            ]
+        },
+        {
+            "course_code": "CS 346",
+            "th-abbr": "คพ.346",
+            "course_name_th": "แอปพลิเคชันและการวิเคราะห์ข้อมูลขนาดใหญ่",
+            "course_name_en": "Big Data Applications and Analytics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเทคโนโลยีที่ทันสมัยในระบบจัดการฐานข้อมูลสมัยใหม่การจัดการและการ ทำงานกับชุดข้อมูลที่มีปริมาณมากในระบบประมวลข้อมูลประสิทธิภาพสูงและระบบ การวิเคราะห์ข้อมูลขนาดใหญ่การทำโครงงานที่เกี่ยวข้องกับข้อมูลขนาดใหญ่ที่มีอยู่ จริง เช่น ข้อมูลโฆษณาทางอินเทอร์เน็ต ข้อมูลสุขภาพ และข้อมูลจากเครือข่ายสังคม ออนไลน์",
+            "course_description_en": "Explore new technologies in modern database management systems. Discuss topics related to managing and using large-scale data sets in both high-performance transaction processing systems and large-scale analytical systems. All class projects will be in the context of real-world application domains, such as Internet advertising, health care, and social network analysis.",
+            "prerequisite_courses": [
+                "CS 345"
+            ]
+        },
+        {
+            "course_code": "CS 347",
+            "th-abbr": "คพ.347",
+            "course_name_th": "คลังข้อมูลและอัจฉริยะทางธุรกิจ",
+            "course_name_en": "Data Warehousing and Business Intelligence",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.240 หลักการของคลังข้อมูล สถาป้ตยกรรมระบบคลังข้อมูล การออกแบบฐานข้อมูลเชิง กายภาพ ตัวแบบเชิงมิติการสกัด การแปลง และการโหลดข้อมูล การประยุกต์ใช้ คลังข้อมูล การวิเคราะห์เชิงธุรกิจ การประมวลผลเชิงวิเคราะห์แบบออนไลน์ (OLAP) การทำเหมืองข้อมูลเบื้องต้น และการทำมโนภาพข้อมูล (Visualization) ตัวแบบและ เทคโนโลยีการจัดเก็บข้อมูล เครื่องมือ และเทคนิคโปรแกรมสำเร็จรูป เพื่อสร้าง อัจฉริยะทางธุรกิจ",
+            "course_description_en": "Prerequisite: Have taken CS 240 Data warehousing, data warehouse architecture, physical database design,dimension modeling; extraction, transformation, and loading, its applications to business intelligence, business analytics, OLAP, introduction to data mining, data visualization, data warehouse storage models and technology, business analytics techniques and tools for business intelligence.",
+            "prerequisite_courses": [
+                "CS 240"
+            ]
+        },
+        {
+            "course_code": "CS 351",
+            "th-abbr": "คพ.351",
+            "course_name_th": "ระบบคอมพิวเตอร์ในธุรกิจและการพาณิชย์อิเล็กทรอนิกส์",
+            "course_name_en": "Business Computing and Electronic Commerce",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดการใช้งานระบบสารสนเทศในการบริหารจัดการธุรกิจ โปรแกรมคอมพิวเตอร์ ประยุกต์ในงานธุรกิจ การดำเนินกิจกรรมทางธุรกิจผ่านเครือข่ายคอมพิวเตอร์ โครงสร้างพื้นฐานของพาณิชย์อิเล็กทรอนิกส์ มาตรฐานการดำเนินการและการ แลกเปลี่ยนข้อมูลทางอิเล็กทรอนิกส์",
+            "course_description_en": "Concepts of information systems in business management, business application software, business processes over computer networks, electronic commerce infrastructures, computing and data exchange standards.",
+            "prerequisite_courses": [
+                "CS 251"
+            ]
+        },
+        {
+            "course_code": "CS 353",
+            "th-abbr": "คพ.353",
+            "course_name_th": "การค้นคืนสารสนเทศและการค้นหาข้อมูลบนเว็บ",
+            "course_name_en": "Information Retrieval and Web Search",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.251 ทฤษฎีและเทคนิคในการจัดทำดรรชนีและการค้นคืนสารสนเทศด้วยระบบ คอมพิวเตอร์ หัวข้อรวมถึงการค้นคืนสารสนเทศแบบข้อความทั่วๆไป การสร้าง ดรรชนีการประมวลผลคิวรี และการจัดลำดับข้อมูลเอกสาร การเรียนรู้ของเครื่อง สำหรับข้อความ วิธีการประเมินระบบค้นคืน สถาป้ตยกรรมของโปรแกรมค้นหาบน เว็บ การรวบรวมหน้าเว็บและการจัดทำดรรชนีค้นหาเว็บ โครงสร้างเว็บและการ วิเคราะห์การเข้าใช้งาน",
+            "course_description_en": "Prerequisite: Have taken CS 251 Theories and techniques on computerized information indexing and retrieval. Topics include text-based information retrieval in general, index building, query processing, and document ranking, text-based machine learning methods, Evaluation methods, Web search engine architecture, Web crawling and indexing, Web structure and usage analytics.",
+            "prerequisite_courses": [
+                "CS 251"
+            ]
+        },
+        {
+            "course_code": "CS 354",
+            "th-abbr": "คพ.354",
+            "course_name_th": "ระบบฐานข้อมูล 2",
+            "course_name_en": "Database Systems 2",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เนื้อหาครอบคลุม วิธีเข้าถึง ประสิทธิภาพและการประมวลผลข้อคำถาม การประมวลผลรายการ เปลี่ยนแปลง การควบคุมภาวะพร้อมกัน การกู้ข้อมูล และความปลอดภัยของข้อมูล ระบบฐานข้อมูลแบบกระจาย แนวคิด การออกแบบ และการจัดการรายการ เปลี่ยนแปลง แนะนำระบบฐานข้อมูลเชิงวัตถุ",
+            "course_description_en": "Topics may be selected from: access methods, query processing and optimization, transaction management: concurrency control, recovery, and data security; distributed database systems: concepts, design and transaction management, and introduction to object-oriented database systems.",
+            "prerequisite_courses": [
+                "CS 251"
+            ]
+        },
+        {
+            "course_code": "CS 355",
+            "th-abbr": "คพ.355",
+            "course_name_th": "กลยุทธ์และการเปลี่ยนแปลงสู่ดิจิทัล",
+            "course_name_en": "Digital Strategy and Transformation",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การวิเคราะห์กลยุทธ์ แนวคิดหลักและเครื่องมือของเทคโนโลยีดิจิทัลยุคใหม่การ วิเคราะห์ข้อมูล ป้ญญาประดิษฐ์ แพลตฟอร์มคลาวด์ บล็อกเชน ไอโอทีการใช้ เทคโนโลยีดิจิทัลในการเพิ่มประสิทธิภาพกระบวนการและบริการขององค์กร",
+            "course_description_en": "Strategic analysis, key concepts and tools of emerging digital technologies (data analysis, artificial intelligence, cloud platform, blockchain, IoT), digital transformation for organizations.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "CS 356",
+            "th-abbr": "คพ.356",
+            "course_name_th": "ระบบสารสนเทศเพื่อการบริหาร",
+            "course_name_en": "Management Information Systems",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดเบื้องต้นเกี่ยวกับระบบสารสนเทศ องค์กร และการบริหาร โครงสร้างพื้นฐาน ทางด้านเทคโนโลยีสารสนเทศสำหรับองค์กร ระบบสารสนเทศที่สำคัญในองค์กร อาทิ ระบบสารสนเทศเพื่อการบริหาร ระบบสารสนเทศเพื่อการดำเนินงาน แนวทางการ พัฒนาระบบสารสนเทศและการบริหารการใช้งานระบบ ประเด็นทางด้านจริยธรรม และผลกระทบทางด้านสังคมที่เกี่ยวข้องกับการใช้ระบบ",
+            "course_description_en": "Fundamental of information systems, organizations and management; Information technology infrastructure; Key System Applications: management and enterprise information systems; Building information systems; Managing information systems; Ethics and social impact of information systems.",
+            "prerequisite_courses": [
+                "CS 251"
+            ]
+        },
+        {
+            "course_code": "CS360",
+            "th-abbr": "คพ.360",
+            "course_name_th": "หัวข้อเลือกสรรด้านวิศวกรรมซอฟต์แวร์",
+            "course_name_en": "Selected Topics in Software Engineering",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.261 หัวข้อเลือกสรรจากความก้าวหน้าด้านงานวิจัยและเทคโนโลยีของวิศวกรรมซอฟต์แวร์ ที่เปลี่ยนแปลงตามยุคสมัยและเทคโนโลยี",
+            "course_description_en": "Prerequisite: Have taken CS 261 Seminar on current research and development in software engineering.",
+            "prerequisite_courses": [
+                "CS261",
+                "คพ.261"
+            ]
+        },
+        {
+            "course_code": "CS 361",
+            "th-abbr": "คพ.361",
+            "course_name_th": "สถาป้ตยกรรมซอฟต์แวร์บนคลาวด์",
+            "course_name_en": "Cloud-Based Software Architecting",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.232 หลักการออกแบบสถาป้ตยกรรมซอฟต์แวร์ที่อิงตามความต้องการเชิงธุรกิจ องค์ประกอบและบริการบนคลาวด์ คุณสมบัติของระบบที่มีสถาป้ตยกรรมที่ดี (ความ พร้อมใช้งานที่เสถียรสูง ความทนทานต่อความเสียหาย ความน่าเชื่อถือ และ ความสามารถในการปรับขนาดได้) แนวการออกแบบที่ดี โครงสร้างพื้นฐานแบบโค้ด",
+            "course_description_en": "Prerequisite: Have taken CS 232 Architectural design principles based on business requirements, cloud- based components and services, well-architected system quality (high availability, fault tolerance, reliability and scalability), design best practices, infrastructure as a code.",
+            "prerequisite_courses": [
+                "คพ.232",
+                "CS 232"
+            ]
+        },
+        {
+            "course_code": "CS 362",
+            "th-abbr": "คพ.362",
+            "course_name_th": "การออกแบบซอฟต์แวร์และระบบ",
+            "course_name_en": "Software System and Design",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิเคราะห์ความต้องการของระบบเพื่อออกแบบระบบ แนะนำแนวคิดพื้นฐานของการ ออกแบบสถาป้ตยกรรมระบบและหลักการในการออกแบบซอฟต์แวร์โดยใช้รูปแบบ การออกแบบและลักษณะสถาป้ตยกรรมผ่านการทำโครงงานแบบเป็นกลุ่ม เข้าใจ ประเด็นที่กระทบการออกแบบและการตัดสินในออกแบบเพื่อรองรับประเด็นเหล่านั้น เช่น ประเด็นการออกแบบเพื่อรองรับประสิทธิภาพการทำงานของระบบ, การ ออกแบบเพื่อรองรับการใช้งานที่เพิ่มขึ้นของผู้ใช้หรือการออกแบบที่คำนึงถึงความ ปลอดภัยของระบบ อธิบายรูปแบบของการออกแบบเพื่อให้ตอบโจทย์ประเด็นที่ กระทบการออกแบบ ฝกฝนการวิเคราะห์และออกแบบผ่านการทำโครงงาน",
+            "course_description_en": "Prerequisite: Have taken CS 261 Analyze system requirements in order to perform system design. Introduce the basic concept of software architecture and principle of software design by applying design patterns and architectural styles through team-based project. Understand concerns impacting the design decisions such as performance, scalability and security. Explain design solutions to address those design concerns. Practice system analysis and design method through project.",
+            "prerequisite_courses": [
+                "CS 261"
+            ]
+        },
+        {
+            "course_code": "CS363",
+            "th-abbr": "คพ.363",
+            "course_name_th": "โครงงานทางวิศวกรรมซอฟต์แวร์",
+            "course_name_en": "Software Engineering Project",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ฝกปฏิบัติการพัฒนาซอฟต์แวร์ในรูปแบบของการทำงานเป็นทีมผ่านการพัฒนา แอพพลิเคชั่นจริง เช่น เวปแอพพลิเคชั่น หรือแอพพลิเคชั่นสำหรับอุปกรณ์พกพา เรียนรู้กระบวนการพัฒนาซอฟต์แวร์ผ่านการทำงานจริง: การพัฒนาซอฟต์แวร์แบบอ ไจล์ การเขียนเทสเพื่อเป็นหลักในการเขียนซอฟต์แวร์ การวิเคาะห์ความต้องการของ ผู้ใช้การบริหารความต้องการ การทดสอบซอฟต์แวร์ การบริหารคุณภาพของ ซอฟต์แวร์ การวางแผนและความคุมแผนการทำงาน การออกแบบและสร้างระบบ มี ประสบการณ์การใช้เครื่องมือในภาคอุตสาหกรรมเพื่อสนับสนุนการทำงานร่วมกันเป็น",
+            "course_description_en": "Practice team-based software development through real application projects such as web application or mobile application. Learn by doing best practices of software development process: agile development, test driven development, user requirements analysis, requirement managements, software testing, quality management, project planning and monitoring, software design and constructions. Experience industrial collaboration tools in order to work as a team.",
+            "prerequisite_courses": [
+                "คพ.234",
+                "คพ.331"
+            ]
+        },
+        {
+            "course_code": "CS 364",
+            "th-abbr": "คพ.364",
+            "course_name_th": "การพัฒนาโปรแกรมประยุกต์สำหรับอุปกรณ์พกพา",
+            "course_name_en": "Mobile Application Development",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.251 ภาพรวมการพัฒนาโปรแกรมประยุกต์สำหรับอุปกรณ์พกพา แพลตฟอร์มของอุปกรณ์ พกพา ข้อจำกัดและความต้องการในการออกแบบส่วนต่อประสานผู้ใช้สำหรับ อุปกรณ์ที่มีทรัพยากรจำกัด วัฏจักรของกิจกรรม ทรัพยากรของอุปกรณ์พกพาและ โปรแกรมประยุกต์ การออกแบบเพื่อรองรับส่วนต่อประสานผู้ใช้ที่หลากหลาย การ รองรับการเปลี่ยนแปลงขณะประมวลผล แนวคิดโดยรวม ป้ญหาการออกแบบ และ ขั้นตอนการพัฒนาในทางปฏิบัติ",
+            "course_description_en": "Prerequisite: Have taken CS 251 Developing landscape of mobile applications, mobile platforms, the specific constraints and requirements of user interface design for limited-resource devices, activity life cycle, mobile and application resources, providing alternative resources, handling runtime changes, conceptual overview, design issues, and practical development issues.",
+            "prerequisite_courses": [
+                "CS 251"
+            ]
+        },
+        {
+            "course_code": "CS365",
+            "th-abbr": "คพ.365",
+            "course_name_th": "กระบวนการและไปป์ไลน์เดฟออปส์",
+            "course_name_en": "DevOps Pipelines and Processes",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "กระบวนการรวบรวมซอฟต์แวร์และส่งมอบบริการ อย่างอัตโนมัติการนำระบบขึ้นใช้งานจริงบนคลาวด์ เครื่องมือสำหรับเดฟออปส์ (เช่น การควบคุมเวอร์ชันของโค้ดด้วยกิท การเขียนสคริปต์ การทดสอบระบบอัตโนมัติ คอนเทนเนอร์ การสร้างซีไอซีดีไปป์ไลน์ การติดตามประสิทธิภาพ ค่าวัด และการ บันทึกข้อมูลระหว่างการทำงาน)",
+            "course_description_en": "Continuous Integration/Continuous Delivery (CI/CD) processes, cloud deployment, DevOps tools (e.g. code version control/git, scripting, automated test, container, CI/CD pipeline, performance monitoring, metrics, and logging).",
+            "prerequisite_courses": [
+                "CS232"
+            ]
+        },
+        {
+            "course_code": "CS 366",
+            "th-abbr": "คพ.366",
+            "course_name_th": "ไมโครเซอร์วิสและสถาป้ตยกรรมแบบไร้เซิร์ฟเวอร์",
+            "course_name_en": "Microservices and Serverless Architectures",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.232 แอปพลิเคชันที่รวมทุกส่วนไว้ด้วยกันและไมโครเซอร์วิส การประมวลผลแบบไร้ เซิร์ฟเวอร์ สถาป้ตยกรรมแบบแยกส่วนด้วยการใช้คิวข้อความ เว็บเซอร์วิสและเอพีไอ การพิสูจน์ตัวตนและประเด็นทางด้านความปลอดภัย",
+            "course_description_en": "Prerequisite: Have taken CS 232 Monolithic applications and microservices, serverless computing, decoupled architecture with message queues, web services and API, authentication and security issues.",
+            "prerequisite_courses": [
+                "CS 232"
+            ]
+        },
+        {
+            "course_code": "CS367",
+            "th-abbr": "คพ.367",
+            "course_name_th": "แนวคิดการพัฒนาเว็บบริการ",
+            "course_name_en": "Web Service Development Concepts",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.331 แนวคิดและทฤษฎีเกี่ยวกับเว็บบริการ สถาป้ตยกรรมเว็บบริการ มาตรฐานที่เกี่ยวข้อง ทางเว็บบริการ โปรโตคอลการรักษาความปลอดภัยของเว็บบริการ เทคโนโลยีที่ใช้ใน การพัฒนาเว็บบริการ การบูรณาการทฤษฎีกับการออกแบบพัฒนาเว็บบริการเพื่อใช้ งานจริงในทางธุรกิจ",
+            "course_description_en": "Prerequisite: Have taken CS 331 Basic concepts of web services, web service architecture and related standards, security issues and protocols for web services, industrial technologies relating to web service developments, applying theoretical concepts in designing and developing web services for businesses.",
+            "prerequisite_courses": [
+                "CS331"
+            ]
+        },
+        {
+            "course_code": "CS368",
+            "th-abbr": "คพ.368",
+            "course_name_th": "การเป็นผู้ประกอบการสำหรับผลิตภัณฑ์ดิจิทัล",
+            "course_name_en": "Entrepreneurship for Digital Product",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษากระบวนการของผู้ประกอบการโดยเน้นที่การพัฒนาและบริหารผลิตภัณฑ์ ดิจิทัล การสร้างแนวคิด ความคิดสร้างสรรค์ รูปแบบของการทำธุรกิจเริ่มต้น ฝก ปฏิบัติกิจกรรมของผู้ประกอบการ การสร้างวิสัยทัศน์ของสินค้า การวิเคราะห์กรณี ธุรกิจ การวิเคราะห์โอกาสของผลิตภัณฑ์ การระบุตำแหน่งในตลาดของผลิตภัณฑ์ การออกแบบและพัฒนาผลิตภัณฑ์",
+            "course_description_en": "Study of the entrepreneurial process focusing on the digital product development and management; ideation, innovation, startup models. Practice entrepreneurial activities: product vision creation, business case analysis, opportunities analysis, market position identification, digital product design and development.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "CS 370",
+            "th-abbr": "คพ.370",
+            "course_name_th": "หัวข้อเลือกสรรด้านระบบป้ญญาประดิษฐ์",
+            "course_name_en": "Selected Topics in Artificial Intelligent Systems",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.271 หัวข้อเลือกสรรจากความก้าวหน้าด้านงานวิจัยและเทคโนโลยีทางด้าน ป้ญญาประดิษฐ์ ที่เปลี่ยนแปลงตามยุคสมัยและเทคโนโลยี",
+            "course_description_en": "Prerequisite: Have taken CS 271 Seminar on current research and development in artificial intelligent systems.",
+            "prerequisite_courses": [
+                "CS 271"
+            ]
+        },
+        {
+            "course_code": "CS 371",
+            "th-abbr": "คพ.371",
+            "course_name_th": "ป้ญญาประดิษฐ์กับการประยุกต์",
+            "course_name_en": "Artificial Intelligence in Practice",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.271 การให้เหตุผลเชิงสถิติการให้เหตุผลแบบนอนโมโนโทนิก การแสดงความรู้แบบเฟรม การแสดงความรู้แบบกราฟมโนภาพ โครงข่ายแบบเบย์ โครงข่ายแบบมาร์คอฟ แบบจำลองความน่าจะเป็นเชิงสัมพันธ์ แบบจำลองฮิดเดนมาร์คอฟ และ ทฤษฎีการ ตัดสินใจ การพัฒนาระบบด้วยภาษาโปรแกรมทางด้านป้ญญาประดิษฐ์",
+            "course_description_en": "Prerequisite: Have taken CS 271 Probabilistic reasoning, non-monotonic reasoning, frame, conceptual graph, Bayesian networks, markov networks, relational probability models, hidden Markov models, decision theory, artificial intelligence programming.",
+            "prerequisite_courses": [
+                "CS 271"
+            ]
+        },
+        {
+            "course_code": "CS 372",
+            "th-abbr": "คพ.372",
+            "course_name_th": "การเรียนรู้ของเครื่อง",
+            "course_name_en": "Machine Learning",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การเรียนรู้เชิงอุปนัยและนิรนัย การเรียนรู้เบย์อย่างง่าย ต้นไม้ ตัดสินใจ การเรียนรู้แบบมีผู้สอน การเรียนรู้แบบไม่มีผู้สอน การเรียนรู้แบบเสริมแรง ป้ญหาการเข้ากันมากเกินไป การประเมินความถูกต้อง การประเมินประสิทธิภาพ และ ตัวอย่างการประยุกต์ใช้การเรียนรู้ของเครื่อง เช่น การทำเหมืองข้อมูล การ ควบคุมหุ่นยนต์ การนำทางแบบอัตโนมัติ และ ชีวสารสนเทศศาสตร์",
+            "course_description_en": "Learning theory, inductive and deductive learning, naïve bayesian learning, decision trees, supervised learning, unsupervised learning, reinforcement learning, overfitting problem, validation, performance evaluation, and applications of machine learning.",
+            "prerequisite_courses": [
+                "คพ.271"
+            ]
+        },
+        {
+            "course_code": "CS373",
+            "th-abbr": "คพ.373",
+            "course_name_th": "กลยุทธ์การค้นหาขั้นสูง",
+            "course_name_en": "Advanced Search Strategies",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การค้นหาเชิงการจัดกลุ่ม การค้นหาแบบฮิวริสติก การค้นหาแบบสุ่ม ต้นไม้ค้นหา ขั้นตอนวิธีการจำลองการอบเหนียว ขั้นตอนวิธีเชิงวิวัฒน์ ป้ญหาโลคอ ลออฟติมัม ป้ญหาการลู่เข้าสู่เป้าหมายได้ชำ การประเมินประสิทธิภาพของคำตอบ ตัวอย่างของการประยุกต์ใช้",
+            "course_description_en": "Search space, combinatorial search, heuristic search, stochastic search, search tree, simulated annealing algorithm, evolutionary algorithm, local optimum problem, ridge and plateau problem, Performance evaluation, example of applications.",
+            "prerequisite_courses": [
+                "CS271"
+            ]
+        },
+        {
+            "course_code": "CS 374",
+            "th-abbr": "คพ.374",
+            "course_name_th": "การประมวลภาษาธรรมชาติ",
+            "course_name_en": "Natural Language Processing",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.271 รู้จักกับภาษาธรรมชาติและข้อจำกัดในการประมวลผล การทำให้เป็นมาตรฐานของ ข้อความ การวัดระยะห่างระหว่างข้อความ นิพจน์ปรกติการติดประเภทชนิดคำ แบบจำลองทางภาษา เวกเตอร์ความหมายและการฝ้ง การวิเคราะห์ความรู้สึก ไวยากรณ์หน่วยประกอบ การแปลด้วยเครื่อง การจำแนกข้อความ ความหมายแอบ แฝงและเวิร์ดเน็ต",
+            "course_description_en": "Prerequisite: Have taken CS 271 Introduction to natural language and its limitation in processing, text normalization, text distance measurement, regular expression, part of speech tagging, language model, vector semantics and embedding, sentiment classification, constituency grammars, machine translation, text classification, word senses and WordNet.",
+            "prerequisite_courses": [
+                "CS 271"
+            ]
+        },
+        {
+            "course_code": "CS 381",
+            "th-abbr": "คพ.381",
+            "course_name_th": "การประมวลภาพดิจิทัล",
+            "course_name_en": "Digital Image Processing",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การแทนค่าข้อมูลสีการแปลงข้อมูลภาพ การ ปรับปรุงคุณภาพของภาพ ตัวกรองในโดเมนพื้นที่และโดเมนความถี่การแบ่งภาพเป็น หลายส่วนอย่างมีความหมาย ไบนารีมอร์โฟโลยีการแทนค่าและการบรรยายลักษณะ ข้อมูลภาพ การประยุกต์ใช้ข้อมูลภาพดิจิทัล",
+            "course_description_en": "Digital image fundamentals, color models, image transform, image enhancement, spatial-domain and frequency-domain filters, image segmentation, binary morphology, image representation and description, applications of digital image processing.",
+            "prerequisite_courses": [
+                "คพ.213",
+                "CS 213"
+            ]
+        },
+        {
+            "course_code": "CS382",
+            "th-abbr": "คพ.382",
+            "course_name_th": "ทัศนศาสตร์คอมพิวเตอร์เบื้องต้น",
+            "course_name_en": "Introduction to Computer Vision",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การได้มาซึ่งภาพดิจิทัล การประมวลผลก่อน การตรวจหาวัตถุในภาพ การหา คุณลักษณะวัตถุ การรู้จำวัตถุ การวิเคราะห์การเคลื่อนไหว การประยุกต์ใช้ทัศนศาสตร์คอมพิวเตอร์",
+            "course_description_en": "Image acquisition, image preprocessing, object detection, feature extraction, object recognition, motion analysis, applications for computer vision.",
+            "prerequisite_courses": [
+                "CS381"
+            ]
+        },
+        {
+            "course_code": "CS 384",
+            "th-abbr": "คพ.384",
+            "course_name_th": "การปฏิสัมพันธ์ระหว่างมนุษย์และคอมพิวเตอร์",
+            "course_name_en": "Human - Computer Interaction",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ตระหนักถึงความสำคัญการศึกษาปฏิสัมพันธ์ระหว่างคอมพิวเตอร์และมนุษย์มีผลต่อการพัฒนาระบบคอมพิวเตอร์ให้ยอมรับได้และมีความสามารถใช้งานได้ศึกษาบริบทที่สำคัญต่อการปฏิสัมพันธ์ระหว่างคอมพิวเตอร์และมนุษย์ กระบวนการพัฒนาระบบแบบผู้ใช้เป็นศูนย์กลาง การประเมินและมาตรวัดความสามารถใช้งานได้ป้จจัยทางมนุษย์ที่เกี่ยวข้องกับการประมวลผลสารสนเทศของมนุษย์ และ กฎเกณฑ์และหลักการที่ใช้ตลอดจน ข้อผิดพลาดที่เกิดขึ้นบ่อยๆ ในการออกแบบส่วนต่อประสาน",
+            "course_description_en": "Importance of human-computer interaction (HCI) to the development of acceptable and usable systems, context for HCI, human-information processing model applicable to HCI, evaluation, measure of usability, and user interface principle and guidelines.",
+            "prerequisite_courses": [
+                "CS 180"
+            ]
+        },
+        {
+            "course_code": "CS 385",
+            "th-abbr": "คพ.385",
+            "course_name_th": "โครงงานทางการออกแบบผลิตภัณฑ์และบริการด้านดิจิทัล",
+            "course_name_en": "Digital Product and Service Design Project",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.384 แนวการปฏิบัติและความเข้าใจแบบองค์รวมเกี่ยวกับการออกแบบผลิตภัณฑ์และ บริการดิจิทัล ทำความเข้าใจผู้มีส่วนได้ส่วนเสีย การประยุกต์วิธีการออกแบบที่เน้น มนุษย์เป็นศูนย์กลาง เช่น การคิดเชิงออกแบบ การทำแผนที่การเดินทางของผู้ใช้ พิมพ์เขียวบริการ เพื่อจัดลำดับความสำคัญและออกแบบผลิตภัณฑ์ การวางแผน Minimal Viable Product (MVP) ตามแนวทางการพัฒนาผลิตภัณฑ์แบบลีน",
+            "course_description_en": "Prerequisite: Have taken CS 384 Practical concepts and holistic understanding of digital product and service design, understanding stakeholders, apply human-centered design approach, such as design thinking, user journey mapping, service blueprint, to prioritize and design products, planning Minimal Viable Product (MVP) based on lean product development approach.",
+            "prerequisite_courses": [
+                "CS 384"
+            ]
+        },
+        {
+            "course_code": "CS390",
+            "th-abbr": "คพ.390",
+            "course_name_th": "หัวข้อเลือกสรรด้านการวิเคราะห์ข้อมูลมัลติมีเดีย",
+            "course_name_en": "Selected Topics in Multimedia Content Analysis",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.381 หัวข้อเลือกสรรจากความก้าวหน้างานวิจัยและเทคโนโลยีด้านการวิเคราะห์ข้อมูล มัลติมีเดียที่เปลี่ยนแปลงตามเทคโนโลยี",
+            "course_description_en": "Prerequisite: Have taken CS 381 Selected Topic on current research and development in multimedia content analysis.",
+            "prerequisite_courses": [
+                "CS381"
+            ]
+        },
+        {
+            "course_code": "CS403",
+            "th-abbr": "คพ.403",
+            "course_name_th": "โครงงานพิเศษ 2",
+            "course_name_en": "Special Projects 2",
+            "course_type": "",
+            "course_credit": 4,
+            "lect_hours": 0,
+            "practice_hours": 12,
+            "self_study_hours": 0,
+            "course_description_th": "ศึกษาค้นคว้าโครงงานที่ได้เสนอในลักษณะวิชา คพ.303 ให้ลึกซึ้งกว้างขวางยิ่งขึ้น เขียนรายงานและเสนอต่อคณะกรรมการ จัดพิมพ์เป็นรูปเล่ม",
+            "course_description_en": "Study the Projects proposed in CS 303 in details, implement the proposed idea, write papers and present results to the committee.",
+            "prerequisite_courses": [
+                "CS303"
+            ]
+        },
+        {
+            "course_code": "CS404",
+            "th-abbr": "คพ.404",
+            "course_name_th": "สหกิจศึกษา 2",
+            "course_name_en": "Co-operative Education 2",
+            "course_type": "",
+            "course_credit": 4,
+            "lect_hours": 0,
+            "practice_hours": 12,
+            "self_study_hours": 0,
+            "course_description_th": "การปฏิบัติงานที่ได้รับมอบหมายจากสถานประกอบการที่ได้รับความเห็นชอบจาก สาขาวิชา โดยนักศึกษาต้องนำความรู้ทางวิชาการที่ได้เรียนไปประยุกต์ใช้และฝก ทักษะในภาวะแวดล้อมการทำงานจริง ภายใต้การกำกับดูแลของสถานประกอบการ นั้น โดยต้องแสดงงานที่ได้รับมอบหมายอย่างชัดเจน พร้อมทั้งแนวคิดที่ใช้ในการ ออกแบบ พัฒนาและประยุกต์ เมื่อเสร็จสิ้นโครงงานแล้วต้องจัดส่งผลงานในรูปแบบ ของรายงานตามที่สาขาวิชากำหนด",
+            "course_description_en": "Supervised practical training on the given assignments from authorized body from the faculty. Student must show the capability in implementation of knowledge and skill in the actual working environmemt. Written report of design, development, and implementation must be submitted the end of practical period.",
+            "prerequisite_courses": [
+                "CS304"
+            ]
+        },
+        {
+            "course_code": "CS420",
+            "th-abbr": "คพ.420",
+            "course_name_th": "หัวข้อเลือกสรรด้านสถาป้ตยกรรมคอมพิวเตอร์",
+            "course_name_en": "Selected Topics in Computer Architecture",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.221 หัวข้อเลือกสรรจากความก้าวหน้าด้านงานวิจัยและเทคโนโลยีของสถาป้ตยกรรม คอมพิวเตอร์ ที่เปลี่ยนแปลงตามยุคสมัยและเทคโนโลยี",
+            "course_description_en": "Prerequisite: Have taken CS 221 Seminar on current research and development in computer architecture.",
+            "prerequisite_courses": [
+                "CS221"
+            ]
+        },
+        {
+            "course_code": "CS 430",
+            "th-abbr": "คพ.430",
+            "course_name_th": "หัวข้อเลือกสรรด้านคอมพิวเตอร์เครือข่าย",
+            "course_name_en": "Selected Topics in Net-Centric Computing",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.331 หัวข้อเลือกสรรจากความก้าวหน้าด้านงานวิจัยและเทคโนโลยีของระบบเครือข่าย ที่ เปลี่ยนแปลงตามยุคสมัยและเทคโนโลยี",
+            "course_description_en": "Prerequisite: Have taken CS 331 Seminar on current research and development in computer and telecommunication networking.",
+            "prerequisite_courses": [
+                "CS 331"
+            ]
+        },
+        {
+            "course_code": "CS 440",
+            "th-abbr": "คพ.440",
+            "course_name_th": "หัวข้อเลือกสรรด้านวิทยาการข้อมูล",
+            "course_name_en": "Selected Topics in Data Science",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา หรือ ศึกษาพร้อมกับ คพ.345 หัวข้อเลือกสรรจากความก้าวหน้าด้านงานวิจัยและเทคโนโลยีของวิทยาการข้อมูลที่ เปลี่ยนแปลงตามยุคสมัยและเทคโนโลยี",
+            "course_description_en": "Prerequisite: Have taken or Study with CS 345 The purpose of Selected Topics in Data Science being a topics course is to respond to new researches and technologies in the rapidly evolving fields of Data Science.",
+            "prerequisite_courses": [
+                "CS 345"
+            ]
+        },
+        {
+            "course_code": "CS 450",
+            "th-abbr": "คพ. 450",
+            "course_name_th": "หัวข้อเลือกสรรด้านระบบสารสนเทศ",
+            "course_name_en": "Selected Topics in Information Systems",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หัวข้อเลือกสรรจากความก้าวหน้าด้านงานวิจัยและเทคโนโลยีของระบบสารสนเทศ ที่ เปลี่ยนแปลงตามยุคสมัยและเทคโนโลยี",
+            "course_description_en": "Seminar on current research and development in information systems.",
+            "prerequisite_courses": [
+                "CS 251",
+                "CS 356"
+            ]
+        },
+        {
+            "course_code": "CS 480",
+            "th-abbr": "คพ.480",
+            "course_name_th": "หัวข้อเลือกสรรด้านการปฏิสัมพันธ์ระหว่างมนุษย์และคอมพิวเตอร์",
+            "course_name_en": "Selected Topics in Human-Computer Interaction",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา คพ.384 หัวข้อเลือกสรรจากความก้าวหน้างานวิจัยและเทคโนโลยีด้านการปฏิสัมพันธ์ระหว่าง มนุษย์และคอมพิวเตอร์",
+            "course_description_en": "Prerequisite: Have taken CS 384 Seminar on current research and development in human-computer interaction.",
+            "prerequisite_courses": [
+                "CS 384"
+            ]
+        },
+        {
+            "course_code": "CS 490",
+            "th-abbr": "คพ.490",
+            "course_name_th": "หัวข้อเลือกสรรด้านคอมพิวเตอร์กราฟิก",
+            "course_name_en": "Selected Topics in Computer Graphics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หัวข้อเลือกสรรจากความก้าวหน้าด้านงานวิจัยและเทคโนโลยีของคอมพิวเตอร์กราฟิก ที่เปลี่ยนแปลงตามยุคสมัยและเทคโนโลยี",
+            "course_description_en": "Seminar on current research and development in computer graphics.",
+            "prerequisite_courses": [
+                "คพ.299"
+            ]
+        }
+    ],
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "วนิดา",
+            "lecture-last-name": "พฤทธิวิทยา",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Iowa State University, USA.",
+            "doctor-graduate-year": "2549",
+            "bachelor-graduate-year": "2539"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "นุชชากร",
+            "lecture-last-name": "งามเสาวรส",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "พบ.ม.",
+            "bachelor-institute": "มหาวิทยาลัยสงขลานครินทร์",
+            "doctor-institute": "สถาบันบัณฑิตพัฒนบริหารศาสตร์",
+            "doctor-graduate-year": "2534",
+            "bachelor-graduate-year": "2530"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "สิริกันยา",
+            "lecture-last-name": "นิลพานิช",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "M.Sc.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Syracuse University, USA.",
+            "doctor-graduate-year": "2538",
+            "bachelor-graduate-year": "2533"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "วิลาวรรณ",
+            "lecture-last-name": "รักผกาวงศ์",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Loughborough University, UK",
+            "doctor-graduate-year": "2557",
+            "bachelor-graduate-year": "2534"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ปกป้อง",
+            "lecture-last-name": "ส่องเมือง",
+            "bachelor-degree": "วศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "The University of Electro-Communications, Japan",
+            "doctor-graduate-year": "2553",
+            "bachelor-graduate-year": "2549"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ธนาธร",
+            "lecture-last-name": "ทะนานทอง",
+            "bachelor-degree": "วศ.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยเทคโนโลยีสุรนารี",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2557",
+            "bachelor-graduate-year": "2548"
+        }
+    ]
+}

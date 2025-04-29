@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "รองศาสตราจารย์ ดร.",
+            "lecture-first-name": "ฐิติกาญจน์",
+            "lecture-last-name": "อัศตรกุล",
+            "bachelor-degree": "ศษ.บ.",
+            "doctor-degree": "ศศ.ด.",
+            "bachelor-institute": "มหาวิทยาลัยศิลปากร",
+            "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-graduate-year": "2559",
+            "bachelor-graduate-year": "2549"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "ไอยเรศ",
+            "lecture-last-name": "บุญฤทธิ์",
+            "bachelor-degree": "ค.บ.",
+            "doctor-degree": "อ.ด.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-graduate-year": "2560",
+            "bachelor-graduate-year": "2546"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "กิตติ",
+            "lecture-last-name": "คงตุก",
+            "bachelor-degree": "ค.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "มหาวิทยาลัยมหิดล",
+            "doctor-graduate-year": "2557",
+            "bachelor-graduate-year": "2545"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตรจารย์ ดร.",
+            "lecture-first-name": "ชลิดา",
+            "lecture-last-name": "จูงพันธ์",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยมหาสารคาม",
+            "doctor-institute": "มหาวิทยาลัยมหาสารคาม",
+            "doctor-graduate-year": "2560",
+            "bachelor-graduate-year": "2551"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "ศรัณวิชญ์",
+            "lecture-last-name": "พรหมสาขา ณ สกลนคร",
+            "bachelor-degree": "ผ.บ.",
+            "doctor-degree": "Ph.D",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "University of Sassari, Italy",
+            "doctor-graduate-year": "2558",
+            "bachelor-graduate-year": "2552"
+        }
+    ]
+}

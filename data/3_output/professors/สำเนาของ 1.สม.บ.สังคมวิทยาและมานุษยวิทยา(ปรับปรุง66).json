@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "วิลาสินี",
+            "lecture-last-name": "พนานครทรัพย์",
+            "bachelor-degree": "สม.ม.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "La Trobe University, Australia.",
+            "doctor-graduate-year": "2558",
+            "bachelor-graduate-year": "2545"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "พจนก",
+            "lecture-last-name": "กาญจนจันทร",
+            "bachelor-degree": "Μ.Α.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "Warwick University, UK",
+            "doctor-institute": "University of Bristol, UK",
+            "doctor-graduate-year": "2549",
+            "bachelor-graduate-year": "2543"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ธนานนท์",
+            "lecture-last-name": "บัวทอง",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "ศศ.ด.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-graduate-year": "2562",
+            "bachelor-graduate-year": "2552"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "วาทินีย์",
+            "lecture-last-name": "วิชัยยา",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "สม.ม.",
+            "bachelor-institute": "มหาวิทยาลัยเชียงใหม่",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2556",
+            "bachelor-graduate-year": "2551"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "เทียมสูรย์",
+            "lecture-last-name": "สิริศรีศักดิ์",
+            "bachelor-degree": "สถ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+            "doctor-institute": "The University of Tokyo, Japan",
+            "doctor-graduate-year": "2554",
+            "bachelor-graduate-year": "2541"
+        }
+    ]
+}

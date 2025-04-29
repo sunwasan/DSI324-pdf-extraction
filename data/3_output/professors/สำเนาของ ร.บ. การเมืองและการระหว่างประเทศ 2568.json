@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "จิตติภัทร",
+            "lecture-last-name": "พูนขำ",
+            "bachelor-degree": "ร.บ.",
+            "doctor-degree": "Ph.D",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "Aberystwyth University, UK",
+            "doctor-graduate-year": "2561",
+            "bachelor-graduate-year": "2551"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ภูริ",
+            "lecture-last-name": "ฟูวงศ์เจริญ",
+            "bachelor-degree": "ร.บ.",
+            "doctor-degree": "Ph.D",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "University of Cambridge, UK",
+            "doctor-graduate-year": "2556",
+            "bachelor-graduate-year": "2551"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "พีระ",
+            "lecture-last-name": "เจริญวัฒนนุกูล",
+            "bachelor-degree": "ร.บ.",
+            "doctor-degree": "Ph.D",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "University of Cambridge, UK",
+            "doctor-graduate-year": "2561",
+            "bachelor-graduate-year": "2556"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "Charles",
+            "lecture-last-name": "E. M. Thame",
+            "bachelor-degree": "Β.Α.",
+            "doctor-degree": "Ph.D",
+            "bachelor-institute": "Cardiff University, UK",
+            "doctor-institute": "Aberystwyth University, UK",
+            "doctor-graduate-year": "2555",
+            "bachelor-graduate-year": "2549"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "lain",
+            "lecture-last-name": "F. Cowie",
+            "bachelor-degree": "LL.B.",
+            "doctor-degree": null,
+            "bachelor-institute": "University of Birmingham",
+            "doctor-institute": null,
+            "doctor-graduate-year": null,
+            "bachelor-graduate-year": "2539"
+        }
+    ]
+}

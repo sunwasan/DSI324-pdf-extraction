@@ -1,0 +1,2016 @@
+{
+    "faculty_name_th": "คณะสังคมวิทยาและมานุษยวิทยา",
+    "faculty_name_en": "Faculty of Sociology and Anthropology",
+    "curr-id": "25510051100351",
+    "cur-name-th": "หลักสูตรสังคมวิทยาและมานุษยวิทยาบัณฑิต สาขาวิชาการวิจัยทางสังคม",
+    "cur-name-en": "Bachelor of Arts Program in Social Research",
+    "degree-full-th": "สังคมวิทยาและมานุษยวิทยาบัณฑิต (การวิจัยทางสังคม)",
+    "degree-full-en": "Bachelor of Arts (Social Research)",
+    "degree-abr-th": "สม.บ. (การวิจัยทางสังคม)",
+    "degree-abr-en": "B.A. (Social Research)",
+    "num-majors": [],
+    "curr-type": "หลักสูตรปริญญาตรีทางวิชาการ",
+    "lang": "จัดการศึกษาเป็นภาษาไทย",
+    "collaboration": [],
+    "institution": [],
+    "organization": [],
+    "partner": 0,
+    "single-degree": "ให้ปริญญาเพียงสาขาวิชาเดียว",
+    "approve-date": "2566-07-25",
+    "first-open-term": "1/2566",
+    "careers": [
+        "นักวิจัยทางสังคม (Social Researcher) หรือนักวิชาการ (Acadamian) ทางด้านสังคมและ\nวัฒนธรรม ทั้งในหน่วยงานของรัฐและเอกชน",
+        "นักวิชาการ/ครู/อาจารย์",
+        "นักบริหารและนักวิเคราะห์ (Analyst) ทางด้านการบริหารจัดการ นโยบายและการวางแผนทาง\nสังคม และการวิเคราะห์ผลกระทบทางสังคมและวัฒนธรรม",
+        "นักวิชาการพัฒนาชุมชน (Community Development Specialist)/ นักพัฒนาสังคม (Social\nDevelopment Worker)",
+        "ผู้เชี่ยวชาญด้านการรับผิดชอบต่อสังคม (CSR Specialist)",
+        "ผู้บริหารทางด้านทรัพยากรบุคคล (Human Resource Manager)",
+        "นักประวัติศาสตร์สังคม (Social Historian)",
+        "นักวิชาการวัฒนธรรม (Cultural Officer)",
+        "นักการจัดการและบริหารพิพิธภัณฑ์ (Museum Manager)",
+        "นักพัฒนาการท่องเที่ยว (Tourism Development Officer)",
+        "นักเขียนสารคดี (Documentary Writer)",
+        "ผู้ผลิตสื่อดิจิตอล (Digital Media Producer)/ผู้กำกับสื่อ (Media Director)/ผู้สื่อข่าว\n(Reporter)",
+        "นักวิจารณ์สังคม (Social Criticist)"
+    ],
+    "campus": "ศูนย์รังสิต",
+    "expense-type": "ปกติ",
+    "student-nation-id": "รับทั้งนักศึกษาไทยและนักศึกษาต่างชาติ ที่สามารถใช้ภาษาไทยได้ดี",
+    "admit-plan-yearly": 100,
+    "ผลลัพธ์การเรียนรู้ของหลักสูตร (PLOs)": {
+        "Knowledge": [
+            "มีความรู้ ความเข้าใจองค์ความรู้ต่างๆ ที่เกี่ยวข้องกับการวิจัยสังคม ทั้งในส่วนของปรัชญาการ\nวิจัย เครื่องมือและระเบียบวิธีวิจัยทางสังคมในรูปแบบต่างๆ รวมไปถึง แนวคิด ทฤษฎีทางสังคมวิทยาและ\nมานุษยวิทยาที่เกี่ยวข้อง",
+            "สามารถนำองค์ความรู้ด้านการวิจัย เครื่องมือและระเบียบวิจัยทางสังคม รวมถึงแนวคิดทาง\nสังคมวิทยาและมานุษยวิทยาไปปรับประยุกต์ใช้เพื่อทำความเข้าใจ อธิบาย วิเคราะห์ วิพากษ์ และวิจารณ์\nปรากฏการณ์ทางสังคมต่างๆ ที่มีความเคลื่อนไหวเปลี่ยนแปลงอยู่เสมอ",
+            "สามารถนำองค์ความรู้จากสาขาวิชาวิจัยทางสังคมไปประยุกต์ใช้และต่อยอดความรู้เพื่อศึกษา\nต่อระดับสูง หรือ ประกอบอาชีพทั้งในหน่วยงานภาครัฐและเอกชนได้อย่างมีประสิทธิภาพ"
+        ],
+        "Skills": [
+            "สามารถประยุกต์ใช้ทักษะทางการวิจัยทางสังคมในการตั้งคำถาม ค้นคว้า รวบรวม และ\nวิเคราะห์ข้อมูลเพื่อทำความเข้าใจปรากฏการณ์ต่างๆ ที่เกิดขึ้นทั้งในระดับปัจเจกและระดับสังคมได้อย่างเป็น\nระบบและสร้างสรรค์",
+            "สามารถสะท้อนให้เห็นความเชื่อมโยงและความซับซ้อนของปัจจัยต่างๆ ที่มีความเกี่ยวข้องกับ\nมนุษย์และสังคมได้อย่างลึกซึ้ง",
+            "สามารถนำข้อมูลและผลจากการวิจัย ไปประยุกต์ใช้เพื่ออธิบายปรากฏการณ์ทางสังคม และ\nวิพากษ์วิจารณ์ได้อย่างชัดเจน เป็นระบบ และมีเหตุผล เพื่อค้นหาแนวทางในการแก้ไขปัญหาและพัฒนา\nสังคมอย่างยั่งยืน"
+        ],
+        "Ethics": [
+            "มีความรับผิดชอบในการวิจัย คำนึงถึงความรับผิดชอบทั้งต่อตนเองและผู้อื่น",
+            "เคารพในคุณค่าและศักดิ์ศรีของความเป็นมนุษย์",
+            "พยายามทำความเข้าใจและมีความอดกลั้นในความแตกต่างของความเชื่อ ความคิดและ\nวัฒนธรรมอันหลากหลายทั้งที่อยู่รอบตน สังคมอื่นรอบข้าง และสังคมวัฒนธรรมอื่นซึ่งอยู่ห่างออกไป"
+        ]
+    },
+    "max-years": 16,
+    "total-credits": 129,
+    "gen-ed-credits": 30,
+    "req-credits": 39,
+    "elec-credits": 45,
+    "intern-credits": 0,
+    "coop-credits": 0,
+    "courses": [
+        {
+            "course_code": "SO201",
+            "th-abbr": "สว.201",
+            "course_name_th": "สังคมวิทยาเบื้องต้น",
+            "course_name_en": "Introduction to Sociology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนะนำสาขาวิชาสังคมวิทยา และมโนทัศน์ แนวทัศน์เชิงทฤษฎี และวิธีวิจัยพื้นฐานของสังคมวิทยา วิเคราะห์สังคมจากจินตนาการทางสังคมวิทยา เชื่อมโยงประสบการณ์ของปัจเจกบุคคลเข้ากับโครงสร้างและ บริบททางสังคมวัฒนธรรม ลักษณะของความสัมพันธ์ทางสังคมและหน่วยทางสังคมพื้นฐาน เช่น กลุ่มทาง สังคม องค์กร และสังคม ตลอดจนแบบแผนความสัมพันธ์และกระบวนการเปลี่ยนแปลงของหน่วยทางสังคม มุ่งพัฒนาวิธีคิดเชิงวิเคราะห์และวิพากษ์ต่อปรากฏการณ์ทางสังคม",
+            "course_description_en": "A comprehensive introduction to the discipline of sociology and its foundational concepts, theoretical perspectives and methods. Analyse society from a sociological imagination; connect experiences of individuals with broader socio-cultural structures and contexts. Characteristics of basic social relationships and social units such as social groups, organisations, and society; their patterns of interrelations and processes of changes. Develop an analytical and critical thinking toward social phenomena.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SO210",
+            "th-abbr": "สว.210",
+            "course_name_th": "ประเด็นวิจัยทางสังคมในโลกร่วมสมัย",
+            "course_name_en": "Social Research Issues in Contemporary World",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การเชื่อมโยงปัญหาสังคมเข้ากับปัญหาการวิจัย การนิยามปรากฏการณ์ องค์ประกอบของปัญหาการ วิจัย บทบาทของทฤษฎีมโนทัศน์และตัวชี้วัด จินตนาการทางสังคมวิทยา สถานะองค์ความรู้ในประเด็นวิจัย หลักๆ ของสังคมวิทยา",
+            "course_description_en": "Association between social problems and research problems; naming the phenomena; what constitutes researchable problems, the roles of theories, concepts and indicators; the sociological imagination; state of the art in key sociological areas.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SO216",
+            "th-abbr": "สว.216",
+            "course_name_th": "สถิติประยุกต์สำหรับการวิจัยทางสังคม",
+            "course_name_en": "Applied Statistics for Social Research",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความหมายและวัตถุประสงค์ของสถิติศาสตร์กับการประยุกต์ใช้สำหรับการวิจัยทางสังคมวิทยา การ ประยุกต์ใช้สถิติสำหรับการสุ่มตัวอย่างและการตรวจสอบเครื่องมือที่ใช้ในการเก็บรวบรวมข้อมูล สถิติว่าด้วย การพรรณนาข้อมูล การนำเสนอข้อมูล การหาค่ากลางและการกระจายของข้อมูล สถิติศาสตร์ว่าด้วยการ อนุมานข้อมูลจากตัวอย่างไปสู่ประชากร การประมาณค่าและการทดสอบสมมุติฐาน",
+            "course_description_en": "Definition and objectives of statistics for sociological research. Application of statistics for sampling and measurement. Descriptive statistics: data presenting, central tendency and dispersion. Inferential statistics: estimation and hypothesis testing.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SO240",
+            "th-abbr": "สว.240",
+            "course_name_th": "การจัดระเบียบทางสังคม",
+            "course_name_en": "Social Organisation",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ระเบียบของสังคมในแง่มุมต่างๆ ทั้งในเชิงโครงสร้างการหน้าที่ความขัดแย้ง กระบวนการทางสังคม และการเปลี่ยนแปลง ระบบสังคมและสถาบันทางสังคม กลุ่มและองค์การทางสังคมรูปแบบต่างๆ โครงสร้าง วัฒนธรรม และความสัมพันธ์ในองค์การ การจัดช่วงชั้นและความไม่เสมอภาคทางสังคม",
+            "course_description_en": "Social order in various aspects; both structural and functional, conflict, social process and change. Social system and social institutions. Social groups and organisations. Structures, culture and relationships in organisation. Social stratification and social inequality.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SO241",
+            "th-abbr": "สว.241",
+            "course_name_th": "ครอบครัวศึกษา",
+            "course_name_en": "Family Studies",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ข้อโต้แย้งเกี่ยวกับการศึกษาครอบครัวและเครือญาติครอบครัวข้ามวัฒนธรรมในสังคมต่างๆ ทฤษฎี เกี่ยวกับครอบครัว ความสัมพันธ์ระหว่างครอบครัวกับการเปลี่ยนแปลงทางสังคมวัฒนธรรม และความ หลากหลายของครอบครัว",
+            "course_description_en": "Cross-cultural studies on family relations in societies. Theories of family. Interrelations between family and socio-cultural changes and family diversities.",
+            "prerequisite_courses": [
+                "SO201"
+            ]
+        },
+        {
+            "course_code": "SO310",
+            "th-abbr": "สว.310",
+            "course_name_th": "วิธีวิทยาวิจัยเชิงปริมาณ",
+            "course_name_en": "Methodology for Quantitative Research",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "กระบวนการวิจัยเชิงปริมาณ ได้แก่การกำหนดปัญหา การวิจัย การทบทวนแนวคิดทฤษฎีและวรรณกรรม การออกแบบการวิจัย การสร้างกรอบแนวคิดและ สมมติฐานการวิจัย การกำหนดนิยามเชิงปฏิบัติการ การสร้างเครื่องมือในการเก็บรวบรวมข้อมูล การกำหนด ประชากรและกลุ่มตัวอย่าง การวิเคราะห์ข้อมูล และการเขียนรายงานการวิจัย",
+            "course_description_en": "Prerequisite : Have earned credits of SA211 Quantitative research procedure including research questioning, theoretical and literature review, research design, conceptualisation of framework and hypothesis, operationalisation of definition, data collection tools, population and sampling, data analysis and research report.",
+            "prerequisite_courses": [
+                "สม.211"
+            ]
+        },
+        {
+            "course_code": "SO312",
+            "th-abbr": "สว.312",
+            "course_name_th": "วิธีวิทยาวิจัยเชิงคุณภาพ",
+            "course_name_en": "Methodology for Qualitative Research",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา สม.211 ปรัชญาและระเบียบวิธีวิจัยเกี่ยวกับการวิจัยเชิงคุณภาพ การพัฒนาประเด็นการศึกษาและการ ออกแบบการวิจัย การทบทวนวรรณกรรม การเก็บข้อมูลเชิงคุณภาพด้วยวิธีการต่างๆ การวิเคราะห์และ ตีความข้อมูลเชิงคุณภาพ การนำเสนอและการเขียนรายงานการวิจัย จริยธรรมในการวิจัย",
+            "course_description_en": "Prerequisite : Have earned credits of SA211 Philosophy and methodology of qualitative research. Developing research questions and research design. Literature reviews. Key techniques for qualitative data collections. Qualitative data analysis and interpretation. Presentation and writing research report. Research ethics.",
+            "prerequisite_courses": [
+                "SA211"
+            ]
+        },
+        {
+            "course_code": "SO314",
+            "th-abbr": "สว.314",
+            "course_name_th": "การวิจัยประเมินผล",
+            "course_name_en": "Evaluation Research",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิด รูปแบบ วัตถุประสงค์ และเทคนิคในการออกแบบการวิจัยประเมินความสำเร็จของ แผนงานแบบต่างๆ ศึกษากระบวนการและระเบียบวิธีวิจัยที่เกี่ยวข้อง วิเคราะห์และอธิบายที่มาและ ประเภทของข้อมูลที่ใช้ในการประเมินผล และสร้างตัวชี้หรือดัชนีวัดระดับความสำเร็จของแผนงาน ตลอดจนการนำผลการวิจัยไปใช้ในการวางแผนงานและการจัดทำงบประมาณ",
+            "course_description_en": "Concepts, forms, objective and techniques of research design for the evaluation of program effectiveness. Study of related research methods and processes, analysis and explanation of sources and types of data employed in evaluation research, construction of indicator or index of degree of effectiveness of program. Application of research findings for planning and budgeting.",
+            "prerequisite_courses": [
+                "SA211"
+            ]
+        },
+        {
+            "course_code": "SO318",
+            "th-abbr": "สว.318",
+            "course_name_th": "สถิติขั้นสูงสำหรับการวิจัยทางสังคม",
+            "course_name_en": "Advanced Statistics for Sociological Research",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา สว.216 สถิติขั้นสูงสำหรับการวิจัยทางสังคมวิทยาเพื่อใช้ในการอธิบายปรากฏการณ์ทางสังคม เทคนิคการ วิเคราะห์ข้อมูลทางสถิติขั้นสูง เช่น การวิเคราะห์การถดถอยเชิงเส้นตรงทั้งอย่างง่ายและเชิงพหุตัวแปร การ วิเคราะห์การถดถอยแบบบโลจิสติก การวิเคราะห์เส้นทาง",
+            "course_description_en": "Prerequisite : Have earned credits of SO216 Advanced statistics for sociological research applied to social phenomena. The advanced statistical techniques—e.g., simple and multiple linear regression analysis, logistic regression analysis and path analysis.",
+            "prerequisite_courses": [
+                "SO216"
+            ]
+        },
+        {
+            "course_code": "SO321",
+            "th-abbr": "สว.321",
+            "course_name_th": "จิตวิทยาสังคมแนวสังคมวิทยา",
+            "course_name_en": "Sociological Social Psychology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความแตกต่างระหว่างจิตวิทยาสังคมแนวสังคม วิทยากับแนวจิตวิทยา ความสัมพันธ์ระหว่างสังคมและปัจเจกบุคคล การปฏิสังสรรค์ทางสังคม ตัวตนและ อัตลักษณ์ พฤติกรรมความขัดแย้ง การช่วยเหลือ อารมณ์และความรู้สึก ของมนุษย์ และพฤติกรรมการ ช่วยเหลือ การประยุกต์ใช้ความรู้ทางสังคมวิทยาในการวิเคราะห์ประเด็นเชิงจิตวิทยาร่วมสมัย เช่น สุขภาพจิต และสุขภาวะ",
+            "course_description_en": "Differences between sociological and psychological approaches to social psychology. Relationships between society and individual. Social interactions, self and identity, conflict, emotion and feeling, and helping. Sociological approaches in analysing some psychologically related issues such as mental health and well-being.",
+            "prerequisite_courses": [
+                "สว.201"
+            ]
+        },
+        {
+            "course_code": "SO322",
+            "th-abbr": "สว.322",
+            "course_name_th": "อาชญาวิทยา",
+            "course_name_en": "Criminology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ข้อมูลทางอาชญวิทยาและวิธีวิจัย นิยามความหมาย ลักษณะ ประเภท และสาเหตุของอาชญากรรม ปฏิกิริยาของสังคมต่ออาชญากรรม กระบวนการทางสังคมที่ เกี่ยวกับพฤติกรรมอาชญากร โดยมุ่งเน้นกระบวนการยุติธรรมทางอาญา การควบคุมและป้องกัน อาชญากรรม รวมทั้งความสัมพันธ์ระหว่างอาชญากรรมและบริบทสังคมวัฒนธรรม เช่น ชนชั้นทางสังคม เชื้อ ชาติ เพศภาวะ และโลกาภิวัตน์",
+            "course_description_en": "Criminological data and research methods. Definitions, nature, forms and causes of crime. Societal responses to crime. Social processes involved in criminal behaviors emphasising on criminal justice process, crime control and crime prevention. Relationship between crime and socio-cultural contexts — e . g . , social class, race, gender, and globalisation.",
+            "prerequisite_courses": [
+                "SO201"
+            ]
+        },
+        {
+            "course_code": "SO323",
+            "th-abbr": "สว.323",
+            "course_name_th": "ปฏิบัติการสังคมวิทยาควอนตัม",
+            "course_name_en": "Practice of Quantum Sociology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การจำลองเชิงสังคมวิทยาเพื่อเข้าใจความเป็นจริงจากมุมต่างๆ อุบัติการณ์แบบโต้ตอบ และ ความเห็นอกเห็นใจ ความแตกต่างพื้นฐานระหว่างการมองโลกแบบสำนักนิวตันกับแบบควอนตัมที่มีอิทธิพล ต่อสังคมวิทยา แนวคิดเชิงสังคมวิทยาที่ใกล้เคียงกับการมองโลกแบบควอนตัม อาทิสังคมวิทยาความรู้โดย คาร์ล มันน์ไฮม์ ปรากฏการณ์วิทยา การปฏิสังสรรค์นิยม และระเบียบวิธีในสังคมวิทยาสำนักชิคาโก มุมมอง แบบควอนตัมที่มีต่อชีวิต โลกทางสังคม ความรู้สึกตัว และอุบัติการณ์ ข้อถกเถียงในประเด็นปัญหา ความสัมพันธ์ระหว่างร่างกายและจิตใจ การตัดสินใจแบบควอนตัม ผู้กระทำการ-โครงสร้าง และโลกาภิวัตน์ เชิงวิวัฒนาการ",
+            "course_description_en": "Sociological simulations to understand circling reality, dialogical emergence and sympathy. Fundamental differences between Newtonian and quantum worldview that affect sociology. Sociological perspectives close to quantum worldview—e.g., Karl Mannheim's sociology of knowledge, phenomenology, interactionism and Chicago School of sociology methodology. Quantum perspectives towards life, social world, consciousness and emergence. Debates on mind-body problem, quantum decision theory, agency- structure and evolutionary globalisation.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SO324",
+            "th-abbr": "สว.324",
+            "course_name_th": "สังคมวิทยาผัสสะ",
+            "course_name_en": "Sociology of senses",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "กระบวนการสร้างและรับรู้ทางผัสสะที่สัมพันธ์กับมิติทางสังคมและ วัฒนธรรมเพื่อทำความเข้าใจสภาพแวดล้อมทางสังคมและการใช้ชีวิตประจำวันของผู้คน มุมมองและวิธี การศึกษาทางสังคมวิทยาเพื่อศึกษาชีวิตทางสังคมผ่านผัสสะและประสบการณ์ทางผัสสะ",
+            "course_description_en": "Sense-making and sensual perception processes associated with socio-cultural dimensions for the understanding of social environment and everyday life. Sociological concepts and approaches for the examination of social life through senses and sensory experiences.",
+            "prerequisite_courses": [
+                "สว.201"
+            ]
+        },
+        {
+            "course_code": "SO331",
+            "th-abbr": "สว.331",
+            "course_name_th": "ประชากรศาสตร์สังคม",
+            "course_name_en": "Social Demography",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ปฏิสัมพันธ์ระหว่างขนาดของประชากร องค์ประกอบของประชากร การกระจายตัวของประชากร ตามพื้นที่ภาวะการตาย ภาวะเจริญพันธุ์ และการย้ายถิ่น ปฏิสัมพันธ์ระหว่างปรากฏการณ์ทางประชากรกับ ปัจจัยทางเศรษฐกิจ สังคม และสิ่งแวดล้อม",
+            "course_description_en": "Interactions between population size, population composition, spatial distribution, mortality, fertility and migration. Interactions between demographic phenomena and socio-economic and environmental factors.",
+            "prerequisite_courses": [
+                "SO201"
+            ]
+        },
+        {
+            "course_code": "SO332",
+            "th-abbr": "สว.332",
+            "course_name_th": "ปัญหาและนโยบายทางประชากร",
+            "course_name_en": "Population Problems and Policies",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ปัญหาทางประชากรที่สำคัญของประเทศไทยและโลกในอดีต ปัจจุบัน และอนาคต ที่มาความสำคัญ และผลที่ตามของปัญหาทางประชากรทั้งในเชิงสังคม วัฒนธรรม เศรษฐกิจ และสิ่งแวดล้อม นโยบายทาง ประชากรที่สำคัญต่อการเปลี่ยนแปลงทางสังคมทั้งของประเทศไทยและโลก",
+            "course_description_en": "Population problems in Thailand and the world through time. Causes and effects of population problems in terms of society, culture, economy and environment. Population policies effecting social changes in Thailand and the world.",
+            "prerequisite_courses": [
+                "SO201"
+            ]
+        },
+        {
+            "course_code": "SO333",
+            "th-abbr": "สว.333",
+            "course_name_th": "สังคมวิทยาเมือง",
+            "course_name_en": "Urban Sociology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เมืองในยุคสมัยใหม่ภายใต้ อิทธิพลของทุนนิยม ลักษณะการดำรงชีวิตและความสัมพันธ์ที่หลากหลายของคนเมือง ความสำคัญของพื้นที่ เมือง บทบาทของรัฐในการจัดการเมือง ลักษณะเฉพาะของเมืองในประเทศด้อยพัฒนา รวมทั้งแนวคิดของนัก สังคมวิทยาหลายสำนักที่ให้ความสนใจกับประเด็นของสังคมเมือง",
+            "course_description_en": "Modern cities under the extending influence of capitalism. The heterogeneity of social relations and lifestyles. The importance of urban space. The role of the state in urban management. The specific characteristics of urban society in developing countries. Various social theories applied to urban issues.",
+            "prerequisite_courses": [
+                "สว.201"
+            ]
+        },
+        {
+            "course_code": "SW334",
+            "th-abbr": "สว.334",
+            "course_name_th": "ชนบทศึกษาร่วมสมัย",
+            "course_name_en": "Contemporary Rural Studies",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การศึกษาสังคมชนบทในโลกร่วมสมัย การประสานเชื่อมโยง การเปลี่ยนผ่าน และการปะทะของชนบทกับภาคส่วนอื่นๆ ของสังคมในหลายระนาบและหลายระดับ",
+            "course_description_en": "Prerequisite : Have earned credits of SO201 Sociological debates in contemporary rural studies; engagement, connectivity, transaction, clash between rural and other sectors of society in various dimensions and levels.",
+            "prerequisite_courses": [
+                "SO201"
+            ]
+        },
+        {
+            "course_code": "SO335",
+            "th-abbr": "สว.335",
+            "course_name_th": "ภูมิทัศน์เมืองและชีวิตในเมือง",
+            "course_name_en": "Cityscape and Urban Life",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การเกิดขึ้นของสถานที่พื้นที่ และ ความสัมพันธ์ทางสังคมรูปแบบใหม่สัมพันธภาพระหว่างมนุษย์กับสิ่งแวดล้อม วัตถุสิ่งของ และสิ่งมีชีวิตอื่นๆ การให้คุณค่าและความหมายต่อชีวิตประจำวันในเมือง การเมืองและความสัมพันธ์เชิงอำนาจในบริบทเมือง ประสบการณ์และจินตนาการในด้านต่างๆ ของชีวิตในเมือง",
+            "course_description_en": "Place-making and the emergence of new kinds of space and social relationship. Relationships between human and natural/material environment as well as non-human. Values and meanings of everyday life in the city. Power relations and urban politics. Experiences and imagination on various aspects of urban life.",
+            "prerequisite_courses": [
+                "สว.201"
+            ]
+        },
+        {
+            "course_code": "SO336",
+            "th-abbr": "สว.336",
+            "course_name_th": "สังคมวิทยาสิ่งแวดล้อม",
+            "course_name_en": "Environmental Sociology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "มุมมองทางสังคมวิทยาต่อประเด็น สิ่งแวดล้อมในโลกร่วมสมัย เช่น ภาวะโลกร้อน การเปลี่ยนแปลงสภาพภูมิอากาศ สังคมเสี่ยงภัย มลพิษ ภัย พิบัติ แอนโทรพอซีนและแคปิทำลอซีน ขบวนการเคลื่อนไหวด้านสิ่งแวดล้อม และความยุติธรรมเชิงนิเวศ",
+            "course_description_en": "Sociological perspectives on environmental issues in the contemporary society: global warming, climate change, risk society, pollution, disasters, Anthropocene and Capitalocene, environment movements and justice.",
+            "prerequisite_courses": [
+                "สว.201"
+            ]
+        },
+        {
+            "course_code": "SO339",
+            "th-abbr": "สว.339",
+            "course_name_th": "สังคมวิทยาสุขภาพ",
+            "course_name_en": "Sociology of Health",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ผลกระทบ ของเงื่อนไขทางสังคม วิถีชีวิต และประเด็นทางสังคมที่มีต่อความไม่เท่าเทียมกันทางสุขภาพ กระบวนการ ทางสังคมของบริบทโลกที่เกี่ยวข้องกับสุขภาพ เทคโนโลยีในการจัดการร่างกายและความเจ็บป่วย การ เคลื่อนไหวทางสังคมในประเด็นสุขภาพในสังคมร่วมสมัย",
+            "course_description_en": "Effects of social factors, lifestyles, and social issues on health inequities. Social processes in global context involving health issues. Healthcare technologies. Social movements on health issues in contemporary society.",
+            "prerequisite_courses": [
+                "สว.201"
+            ]
+        },
+        {
+            "course_code": "SO342",
+            "th-abbr": "สว.342",
+            "course_name_th": "สังคมวิทยาเศรษฐกิจ",
+            "course_name_en": "Economic Sociology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "มุมมองเชิงสังคมวิทยาที่ใช้อธิบายปรากฏการณ์ทางเศรษฐกิจในประเด็นการผลิต การแจกจ่าย การ แลกเปลี่ยน การบริโภคสินค้าและบริการต่างๆ นักคิดคนสำคัญ เช่น คาร์ล โปลานี, โยเซฟ ชุมเพเทอร์, แกรี่ เบเกอร์ และมาร์ก กรำโนเวตเทอร์ ประเด็นทางเศรษฐกิจสมัยใหม่ เช่น เป้าหมายการพัฒนาที่ยั่งยืน เศรษฐกิจดิจิทัล ระบบการเงินแบบไร้ตัวกลาง เศรษฐกิจหมุนเวียน เพศวิถีและอุตสาหกรรมทางเพศ ความไม่ เท่าเทียม เมืองอัจฉริยะ ประเด็นด้านสิ่งแวดล้อม และการระบาดของโรคที่เกิดขึ้นทั่วโลก",
+            "course_description_en": "Sociological perspectives on economic activities including production, distribution, exchange and consumption. Important economic sociologists such as Karl Polanyi, Joseph Schumpeter, Gary Baker and Mark Granovetter. Contemporary economic issues such as sustainable development goals, digital economy, decentralized finance, circular economy, sexuality and sex industry, inequality, smart city, environmental concerns, and pandemics.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SO343",
+            "th-abbr": "สว.343",
+            "course_name_th": "สังคมวิทยาการเมือง",
+            "course_name_en": "Political Sociology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทฤษฎีและแนวคิดว่าด้วยอำนาจ ความสัมพันธ์ทางอำนาจ รัฐ ประชาขน การเคลื่อนไหวทางสังคม อุดมการณ์ทางการเมือง เสรีภาพและความยุติธรรม",
+            "course_description_en": "theories and concepts of power, power relations, state, the people, social movement, ideology, liberty, and justice.",
+            "prerequisite_courses": [
+                "สว.201"
+            ]
+        },
+        {
+            "course_code": "SO344",
+            "th-abbr": "สว.344",
+            "course_name_th": "สังคมวิทยาว่าด้วยงานและแรงงาน",
+            "course_name_en": "Sociology of Work and Labour",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การใช้แรงงานทั้งที่เป็นทางการและไม่เป็นทางการ มี หรือไม่มีค่าตอบแทน งานบ้าน และงานอาสาสมัคร เส้นแบ่งและขอบเขตระหว่างงานกับการพักผ่อนหย่อนใจ ที่ทำงานกับที่อยู่อาศัย พื้นที่สาธารณะกับพื้นที่ส่วนตัว การผลิตกับการอุ้มชูการผลิต ฯลฯ ความสัมพันธ์ ระหว่างบ้านกับพื้นที่ทำงานในวัฒนธรรมต่างๆ เพศภาวะกับการจัดพื้นที่ทำงาน การแบ่งงานกันทำระหว่าง เพศ งานกับการสร้างความเป็นหญิงและความเป็นชาย พลวัตของงานและแรงงานในยุคดิจิทัล",
+            "course_description_en": "The matter of work on well-being and identity. Definitions of formal and informal labour, paid and unpaid employment, domestic work and voluntary work. Dichotomies and boundaries between work and leisure, house and workplace, the public and the private, production and reproduction, etc. Co-constitution of work and home across cultures. Gendered operation of work and varieties of gendered division of labour. Contribution of work to the construction of femininities and masculinities. Dynamics of work and labour in the digital age.",
+            "prerequisite_courses": [
+                "สว.201"
+            ]
+        },
+        {
+            "course_code": "SO349",
+            "th-abbr": "สว.349",
+            "course_name_th": "สังคมวิทยาศาสนาและจิตวิญญาณ",
+            "course_name_en": "Sociology of Religion and Spirituality",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "มโนทัศน์ ระเบียบวิธี และกลวิธีเชิงสังคมวิทยาในการศึกษาความสัมพันธ์ระหว่างศาสนา จิต วิญญาณ และสังคม แนวโน้มสำคัญของการเปลี่ยนแปลงทางศาสนาและจิตวิญญาณในกระแสสังคมและโลก อาทิการทำให้เป็นโลกวิสัย การไม่นับถือศาสนา การทำให้ศักดิ์สิทธิ์ การเปลี่ยนแปลงประเพณี และการทำ ให้เป็นสากล ข้อถกเถียงเกี่ยวกับความเหลื่อมล้ำ อาทิ ในประเด็นทางเพศ ความพิการ ชนชั้น ทุนนิยม และ ความรุนแรงในบริบททางศาสนาและจิตวิญญาณ",
+            "course_description_en": "Sociological concepts, methodology and strategies to study relationship between religion, spirituality and society. Important social and global changing trends—e.g., secularisation, irreligion, sacralisation, detraditionalisation and universalisation. Debates on inequality, for examples, in gender, disability, class, capitalism and violence in religious and spiritual contexts.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SO350",
+            "th-abbr": "สว.350",
+            "course_name_th": "การเปลี่ยนแปลงทางสังคมและวัฒนธรรม",
+            "course_name_en": "Social and Cultural Change",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ลักษณะ แบบแผน สาเหตุ และผลกระทบของการเปลี่ยนแปลงทางสังคม เช่น การกลายเป็นเมือง การพัฒนาอุตสาหกรรม การ เข้าสู่ยุคสมัยใหม่และหลังสมัยใหม่ทฤษฎีทางสังคมวิทยาว่าด้วยการเคลื่อนไหวทางสังคม ประชาสังคม ประเด็นร่วมสมัยและรูปธรรมของการเคลื่อนไหวทางสังคมเพื่อการเปลี่ยนแปลงทั้งในระดับท้องถิ่น ระดับประเทศ และระดับสากล",
+            "course_description_en": "Prerequisite : Have earned credits of SO201 Social theories and concepts of social and cultural change; nature, patterns, causes, and effects of change, for example, urbanisation, industrialisation, modernisation, and postmodernisation; sociological theories of social movements, civil society; contemporary issues and concrete examples of social movements for changes in local, national, and global levels.",
+            "prerequisite_courses": [
+                "SO201"
+            ]
+        },
+        {
+            "course_code": "SO352",
+            "th-abbr": "สว.352",
+            "course_name_th": "แนวทัศน์ทางสังคมวิทยาว่าด้วยสิทธิมนุษยชน",
+            "course_name_en": "Sociological Perspective on Human Rights",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวทางการตีความแนวคิดและปฏิบัติการสิทธิมนุษยชนจากมุมมองทางสังคมวิทยาและมุมมองอื่นที่หลากหลาย การประยุกต์ใช้มุมมองทางปรัชญา สังคมวิทยา และกฎหมายระหว่างประเทศ ประเด็นปัญหาร่วมสมัยว่าด้วยสิทธิมนุษยชน อาทิความเป็นสากล เสรีภาพในการแสดงออก การละเมิดสิทธิและความรุนแรงที่เกิดจากรัฐ การแทรกแซงด้านมนุษยธรรม สงคราม การฆ่าล้างเผ่าพันธุ์ และขบวนการเรียกร้องสิทธิในระดับท้องถิ่นและสากล",
+            "course_description_en": "Interpretive approaches to sociological and various human rights concepts and practices; application of philosophical, sociological, and international legal frameworks; contemporary issues on human rights, including universality of human rights, freedom of expression, human rights violation and state’s violence, humanitarian intervention, war, genocide; and global and local human rights movements.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SO354",
+            "th-abbr": "สว.354",
+            "course_name_th": "สังคมวิทยาภาพยนตร์",
+            "course_name_en": "Sociology of Film",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แง่มุมทางสังคมในการผลิต เผยแพร่ และการตอบรับต่อภาพยนตร์ ความน่าจับตา ตระกูลของหนัง อุดมการณ์ ความเป็นเจ้าของผลงาน ความเป็นดารา ความสัมพันธ์ระหว่างภาพยนตร์กับสังคมผ่านภาพยนตร์ รูปแบบต่างๆ รวมถึงหนังยอดนิยม หนังพากษ์ หนังสารคดีหนังมรดกวัฒนธรรม หนังหลังสมัยใหม่หนังสั้น และหนังแนวเวิลด์ ซิเนมา โดยผ่านการชมภาพยนตร์และคลิปภาพยนตร์รายสัปดาห์",
+            "course_description_en": "Sociological analysis of the production, distribution and reception of films. Spectatorship, genre, ideology, authorship and stardom. The relationship between films and society. Film genres: mass cinema, versioning cinema, documentary film, heritage film, postmodern cinema, short film and world cinema.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SO356",
+            "th-abbr": "สว.356",
+            "course_name_th": "สังคมวิทยาซูเปอร์ฮีโร่",
+            "course_name_en": "Sociology of Superhero",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "อุดมการณ์และการเปลี่ยนแปลงทางสังคมผ่านการผลิต การเผยแพร่ และการบริโภคซูเปอร์ฮีโร่ใน ฐานะเรื่องเล่า บริบททางประวัติศาสตร์และสังคมวัฒนธรรมของซูเปอร์ฮีโร่กรอบแนวคิดและทฤษฎีทาง สังคมวิทยาที่เกี่ยวข้อง ซูเปอร์ฮีโร่กับประเด็นทางสังคม การเมือง และปรัชญา",
+            "course_description_en": "Ideologies and changes in production, distribution, and consumption of Superheroes as narrative. Historical and socio-cultural contexts of Superheroes. Sociological frameworks and theories related to Superheroes. Superheroes and social, political and philosophical issues.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SO401",
+            "th-abbr": "สว.401",
+            "course_name_th": "ทฤษฎีทางสังคมวิทยา",
+            "course_name_en": "Sociological Theory",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา สว.201 พัฒนาการของทฤษฎีสังคมวิทยาตั้งแต่ยุคคลาสสิกจนถึงปัจจุบัน ในยุคคลาสสิกศึกษาผลงานของเอ มีล เดอร์ไคม์, คาร์ล มาร์กซ์, มัคส์ เวเบอร์ และเกออร์ค ซีมเมิล และสายธารทางความคิดที่กลายเป็นสำนัก ต่างๆ ในปัจจุบัน เช่น มาร์กซิสต์ ปฏิสังสรรค์สัญลักษณ์ โครงสร้างนิยม หลังโครงสร้างนิยม หลังสมัยใหม่ และทฤษฎีกลุ่มที่พยายามบูรณาการสำนักคิดต่างๆ เข้าด้วยกัน โจทย์ทางทฤษฎีในแต่ละยุค กระบวนการ สร้างมโนทัศน์และทฤษฎีผ่านเทคนิคต่างๆ เช่น แบบอุดมคติการสร้างประเภท ระดับการวิเคราะห์",
+            "course_description_en": "Prerequisite : Have earned credits of SO201 The historical development of sociological theory from the classical period to the contemporary period. In the classical period, the study includes the works of Emile Durkheim, Karl Marx, Max Weber and Georg Simmel and streams of thought drawn from these classical thinkers in the contemporary period. Contemporary theories including Marxism, Symbolic Interactionism, Structuralism, Post-structuralism, Postmodernism and integration theories. Theoretical problems of different eras, conceptualisation and other techniques of theorisation: ideal types, typology and levels of analysis.",
+            "prerequisite_courses": [
+                "SO201"
+            ]
+        },
+        {
+            "course_code": "SO409",
+            "th-abbr": "สว.409",
+            "course_name_th": "สัมมนาประเด็นทางสังคมวิทยา",
+            "course_name_en": "Seminar on Sociological Issues",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "อภิปรายและ วิเคราะห์ข้อค้นพบทางสังคมวิทยาจากหลายแนวทัศน์",
+            "course_description_en": "Discussion and analysis of sociological findings from different perspectives.",
+            "prerequisite_courses": [
+                "SO201"
+            ]
+        },
+        {
+            "course_code": "SO411",
+            "th-abbr": "สว.411",
+            "course_name_th": "กระบวนการประชามติ",
+            "course_name_en": "Public Opinion Processes",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทัศนคติและมติต่างๆ ที่ก่อให้เกิดประชามติบทบาทของประชามติในการกำหนดนโยบายของรัฐ การเปลี่ยนแปลงทางด้านทัศนคติและมติทางการเมือง อุดมการณ์ทางการเมือง แนวคิด ระเบียบวิธี และ ขั้นตอนในการออกเสียงและการหยั่งเสียงประชามติ",
+            "course_description_en": "Attitudes and opinions in relation to the formation of public opinion. Roles of public opinion in public policy. Change of political attitudes and opinions political ideology. Concepts, methodology and processes of referendum and public opinion.",
+            "prerequisite_courses": [
+                "SA211"
+            ]
+        },
+        {
+            "course_code": "SO412",
+            "th-abbr": "สว.412",
+            "course_name_th": "สังคมวิทยาและแนวคิดหลังอาณานิคม",
+            "course_name_en": "Sociology and Postcolonialism",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "พัฒนาการและอิทธิพลของแนวคิดหลังอาณานิคมต่อองค์ความรู้ทางสังคมวิทยา อิทธิพลของลัทธิ อาณานิคมและลัทธิจักรวรรดินิยมต่อปรากฏการณ์ความเป็นสมัยใหม่ความเชื่อมโยงระหว่างแนวคิดความ เป็นตะวันออกนิยม สตรีนิยม การศึกษากลุ่มคนที่ถูกกดทับ แนวคิดสากลนิยม และข้อวิพากษ์ของแนวคิด หลังอาณานิคม",
+            "course_description_en": "Development and influences of postcolonialism on sociology. Consequences of colonialism and Imperialism on modernity. Linkages between orientalism, feminism, subaltern studies, Universalism and postcolonialism.",
+            "prerequisite_courses": [
+                "SO201"
+            ]
+        },
+        {
+            "course_code": "SW413",
+            "th-abbr": "สว.413",
+            "course_name_th": "การวิจัยเชิงสำรวจ",
+            "course_name_en": "Survey Research",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิด รูปแบบ วัตถุประสงค์ กระบวนการ และระเบียบวิธีการเก็บรวบรวมข้อมูล เน้นและให้ ความสำคัญเรื่องโครงสร้างแบบสอบถาม มาตรวัด แบบสัมภาษณ์ การสุ่มตัวอย่าง และการวิเคราะห์ข้อมูล ทางสถิติ โดยอาศัยแนวคิดและทฤษฎีที่เกี่ยวข้องในการฝึกปฏิบัติการวิจัยจริงต่อประเด็นทางสังคมที่นักศึกษา สนใจ",
+            "course_description_en": "Concepts, forms, objectives, processes and methods of data collection. Questionaire focus on structure and structure interview, measurement, sampling and statistical data analyses. Application and practice of concepts and theories in specific survey on social issues of interest.",
+            "prerequisite_courses": [
+                "SA211"
+            ]
+        },
+        {
+            "course_code": "SW416",
+            "th-abbr": "สว.416",
+            "course_name_th": "การวิจัยพฤติกรรมผู้บริโภค",
+            "course_name_en": "Consumer Behavior Research",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิด ขั้นตอน และวิธีการวิจัยพฤติกรรมผู้บริโภค บทบาทของการวิจัยต่อการวางแผนและการ ตัดสินใจทางการตลาด การประยุกต์องค์ความรู้ทางสังคมวิทยาและมานุษวิทยามาใช้ในการศึกษาวิจัย พฤติกรรมผู้บริโภค",
+            "course_description_en": "Concepts and processes of consumer behavior research. Role of research in planning and decision-making in marketing. Sociological and anthropological knowledge applied to consumer behavior.",
+            "prerequisite_courses": [
+                "SA211"
+            ]
+        },
+        {
+            "course_code": "SO418",
+            "th-abbr": "สว.418",
+            "course_name_th": "การวิจัยแนวสตรีนิยม",
+            "course_name_en": "Feminist Methods in Social Research",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ข้อวิพากษ์แนวสตรีนิยมที่มีต่อการวิจัยและองค์ความรู้กระแสหลักในเรื่องเพศภาวะและเพศวิถีวิธี วิทยาแนวสตรีนิยมที่เน้นประสบการณ์ ความรู้ และอัตภาวะของผู้หญิง ความสัมพันธ์ของชนชั้น เชื้อชาติกับ ความสัมพันธ์ในมิติเพศภาวะ วิธีวิจัยสตรีนิยมที่หลากหลาย เช่น การสัมภาษณ์เชิงลึก การศึกษาชาติพันธุ์ วรรณนา การใช้ประวัติศาสตร์จากการบอกเล่า",
+            "course_description_en": "Feminist critiques on traditional research and knowledge on gender and sexuality. Feminist methodology highlighting women’s experiences, knowledge and subjectivity. The nexus between class, race and gender relations. Various feminist methods—e.g., feminist interview, ethnography, oral history.",
+            "prerequisite_courses": [
+                "สม.211"
+            ]
+        },
+        {
+            "course_code": "SW419",
+            "th-abbr": "สว.419",
+            "course_name_th": "การวิจัยนโยบายสังคม",
+            "course_name_en": "Social Policy Research",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "กระบวนการนโยบาย การวิจัยนโยบายจากมุมมอง สังคมวิทยาเพื่อประโยชน์สำหรับการตัดสินใจด้านนโยบาย ผลกระทบของนโยบายต่อสังคม และอิทธิพลของ สังคมต่อนโยบาย",
+            "course_description_en": "Impact of policy on society and social influences on policy.",
+            "prerequisite_courses": [
+                "SA211"
+            ]
+        },
+        {
+            "course_code": "SO430",
+            "th-abbr": "สว.430",
+            "course_name_th": "สังคมวิทยาศิลปะ",
+            "course_name_en": "Sociology of Arts",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "โลกศิลปะและชีวิตทางสังคมของศิลปะ งานศิลปะ และศิลปิน ความสัมพันธ์ระหว่างศิลปะกับสังคม คุณค่าและความหมายของศิลปะ พื้นที่ศิลปะ และปฏิบัติการศิลปะ ประวัติศาสตร์และการเมืองของศิลปะ และสุนทรียภาพ ความเป็นผู้กระทำการของศิลปะ ศิลปะเพื่อการเปลี่ยนแปลงสังคม ศิลปะบำบัด ตลาด ศิลปะและเศรษฐกิจเชิงสร้างสรรค์",
+            "course_description_en": "Art worlds and social life of art, artworks and artists. Relationships between art and society. Meanings and values of art, art space and artistic practice. Histories and politics of art and aesthetics. Art agency, art for social change and art healing. Art market and creative economy.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SO434",
+            "th-abbr": "สว.434",
+            "course_name_th": "สังคมวิทยาที่อยู่อาศัย",
+            "course_name_en": "Sociology of Housing",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความสัมพันธ์ระหว่างปัจจัยทางเศรษฐกิจ สังคม วัฒนธรรม และสิ่งแวดล้อมทางกายภาพที่มีผลต่อการจัดการเกี่ยวกับที่อยู่อาศัยและความพึงพอใจในที่อยู่อาศัย แนวคิด และนโยบายในการแก้ไขปัญหาที่อยู่อาศัย โดยเฉพาะในประเทศไทยและประเทศกำลังพัฒนาอื่นๆ",
+            "course_description_en": "Effects of the interplay between socio-economic, cultural and physical factors on housing management and satisfaction. Policy and practices on housing solutions in Thailand and other developing countries.",
+            "prerequisite_courses": [
+                "SO201"
+            ]
+        },
+        {
+            "course_code": "SO435",
+            "th-abbr": "สว.435",
+            "course_name_th": "สังคมวิทยาสตรี",
+            "course_name_en": "Sociology of Women",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แบบแผนของเพศภาวะที่ส่งผลต่อสถานภาพ บทบาท และประสบการณ์ของผู้หญิงในสังคมร่วมสมัย โครงสร้างทางสังคมและความสัมพันธ์เชิงอำนาจที่ส่งผลต่อโอกาสและทางเลือกของผู้หญิงในสถานการณ์ ต่างๆ",
+            "course_description_en": "Patterns of gender shaping women’s status, roles and experiences in contemporary society. Social structure and power relations effecting women’s opportunities and choices.",
+            "prerequisite_courses": [
+                "SO201"
+            ]
+        },
+        {
+            "course_code": "SO436",
+            "th-abbr": "สว.436",
+            "course_name_th": "สังคมวิทยาความสูงวัย",
+            "course_name_en": "Sociology of Aging",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การเปลี่ยนแปลงสถานภาพและบทบาท การปรับตัวของบุคคลที่เปลี่ยนผ่านเข้าสู่ความสูงวัย ความสัมพันธ์ระหว่างกลุ่มอายุ นโยบายทางสังคม เกี่ยวกับความสูงวัย และผู้สูงวัย",
+            "course_description_en": "Changing in status, role and adjustment to aging. Relationships between age groups, social policy and the elderly.",
+            "prerequisite_courses": [
+                "SO201"
+            ]
+        },
+        {
+            "course_code": "SO437",
+            "th-abbr": "สว.437",
+            "course_name_th": "สังคมวิทยาการแพทย์",
+            "course_name_en": "Medical Sociology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา สว.201 การแพทย์สมัยใหม่ผ่านแนวคิด ทฤษฎี และงานวิจัยทางสังคมวิทยาที่เกี่ยวข้องกับสุขภาพ ความ เจ็บป่วย พฤติกรรมสุขภาพ ประสบการณ์และการรับมือกับความเจ็บป่วย การแสวงหาการเยียวยาของคนไข้ ปัจจัยทางสังคมที่กำหนดสุขภาพและความเจ็บป่วย อำนาจของแพทย์และกระบวนการแพทยานุวัตร ความ ผิดพลาดทางการแพทย์และจริยธรรมทางการแพทย์",
+            "course_description_en": "Prerequisite : Have earned credits of SO201 Biomedicine through sociological concepts, theories, and research related to health, illness, health behaviors. Illness experiences and coping. Social determinant of health and illness. Medical authority and medicalisation. Medical errors and medical ethics.",
+            "prerequisite_courses": [
+                "SO201"
+            ]
+        },
+        {
+            "course_code": "SO439",
+            "th-abbr": "สว.439",
+            "course_name_th": "สังคมวิทยากีฬา",
+            "course_name_en": "Sociology of Sport",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "กีฬาในฐานะส่วนหนึ่งของโลกทางสังคม กีฬาสมัยใหม่ในฐานะผลผลิตของการกลายเป็นสมัยใหม่ ความเป็นสมัยใหม่และไม่เป็นสมัยใหม่ในกีฬา ความสัมพันธ์ของกีฬากับสถาบันทางสังคมต่างๆ แนวคิดและ วิธีการศึกษาทางสังคมวิทยาในการทำความเข้าใจกีฬาในประเด็นต่างๆ",
+            "course_description_en": "Modern sports as a product of modernisation. Modernity and unmodernity in sports. Association between sport and social institutions. Sociological concepts and approaches to understand issues pertaining sports.",
+            "prerequisite_courses": [
+                "SO201"
+            ]
+        },
+        {
+            "course_code": "SO445",
+            "th-abbr": "สว.445",
+            "course_name_th": "สังคมวิทยาพิพิธภัณฑ์",
+            "course_name_en": "Sociology of Museum",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา สว.201 ความเข้าใจพิพิธภัณฑ์ในฐานะเป็นปรากฏการณ์ทางสังคม ความเชื่อมโยงกับประเด็นทางสังคมวิทยา เช่น พิพิธภัณฑ์กับสังคมพหุวัฒนธรรม พื้นที่และความทรงจำทางสังคม การเปลี่ยนแปลงทางสังคม ความไม่ เสมอภาคทางสังคมและความยุติธรรม บทบาทหน้าที่ของพิพิธภัณฑ์ต่อสังคม ความเป็นผู้กระทำการทาง สังคมของพิพิธภัณฑ์",
+            "course_description_en": "Prerequisite : Have earned credits of SO201 Understanding ‘museum’ as social phenomena relating to sociological issues; relationships between museums and multicultural society, social space and memory, social change, social inequality and justice, social roles and agency of museums.",
+            "prerequisite_courses": [
+                "SO201"
+            ]
+        },
+        {
+            "course_code": "SO456",
+            "th-abbr": "สว.456",
+            "course_name_th": "สังคมวิทยาการพัฒนา",
+            "course_name_en": "Sociology of Development",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดพื้นฐานด้านการพัฒนาช่วงหลังสงครามโลกครั้งที่ 2 โลกาภิวัฒน์กับการพัฒนา การวิพากษ์การพัฒนากระแสหลักอันนำไปสู่การปรับเปลี่ยนกระบวนทัศน์ การพัฒนาที่ยั่งยืน และการพัฒนาทางเลือก อิทธิพลของแนวคิดหลังโครงสร้างนิยมและมิติวัฒนธรรมในการพัฒนา ขบวนการ การเคลื่อนไหวทางสังคมในภูมิภาคต่างๆ โดยวิเคราะห์ผ่านมุมมองทางสังคมวิทยา",
+            "course_description_en": "Basic concepts of development after World War II. Globalisation and development. Critiques on the mainstream development leading to paradigm shift, sustainable development and alternative development. Influences of post-structuralism and cultural dimensions in development. Sociological analysis of social movement in various regions.",
+            "prerequisite_courses": [
+                "SO201"
+            ]
+        },
+        {
+            "course_code": "SO457",
+            "th-abbr": "สว.457",
+            "course_name_th": "สังคมวิทยาเควียร์",
+            "course_name_en": "Sociology of Queer",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ข้อถกเถียงว่าด้วยประเด็นร่วมสมัยทางสังคม การเมือง เศรษฐกิจ และวัฒนธรรมในเควียร์ศึกษา และญาณวิทยาเควียร์ในฐานะการท้าทายทวิลักษณ์ในเพศสรีระ เพศภาวะและเพศวิถีที่ปรากฏในองค์ความรู้ ด้านวิทยาศาสตร์สมัยใหม่",
+            "course_description_en": "Contemporary debates on society, politics, economy and culture in queer studies; and queer epistemology as a challenge to the dualism in biological sex, gender and sexuality in modern scientific knowledge.",
+            "prerequisite_courses": [
+                "SO201"
+            ]
+        },
+        {
+            "course_code": "SO459",
+            "th-abbr": "สว.459",
+            "course_name_th": "สัมมนานโยบายสังคม",
+            "course_name_en": "Seminar in Social Policy",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา สว.201 การสัมมนาประเด็นทางนโยบายสังคมที่เลือกสรรมา ซึ่งอาจเป็นประเด็นสำคัญทางเศรษฐกิจสังคม ในด้านต่างๆ เช่น สาธารณสุข การศึกษา ที่อยู่อาศัย ประชากรศาสตร์ ความมั่นคงทางอาหาร ความยากจน ความเหลื่อมล้ำ และการพัฒนา พร้อมแนวคิดพื้นฐานด้านนโยบายสังคมและกระบวนการนโยบาย",
+            "course_description_en": "Prerequisite : Have earned credits of SO201 Selected issues of social policy related to important socio-economic issues such as health, education, demography, food security poverty, inequality, and development. Basic concepts in social policy and policy process.",
+            "prerequisite_courses": [
+                "SO201"
+            ]
+        },
+        {
+            "course_code": "AN201",
+            "th-abbr": "ม.201",
+            "course_name_th": "มานุษยวิทยาเบื้องต้น",
+            "course_name_en": "Introduction to Anthropology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "สำรวจเนื้อหาและมโนทัศน์พื้นฐานทางมานุษยวิทยา ซึ่งรวมสาขาย่อยต่างๆ ได้แก่มานุษยวิทยา กายภาพ โบราณคดีมานุษยวิทยาภาษา และมานุษยวิทยาสังคมวัฒนธรรม",
+            "course_description_en": "Introduction to basic concepts in anthropology, including four major subfields: physical anthropology, archaeology, linguistic anthropology, social and cultural anthropology.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "AN226",
+            "th-abbr": "ม.226",
+            "course_name_th": "ความรู้เบื้องต้นว่าด้วยวัตถุวัฒนธรรมและแนววิธีเชิงวัตถุ",
+            "course_name_en": "Introduction to Material Culture and Material Methods",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความรู้เบื้องต้นว่าด้วยวัตถุวัฒนธรรมและวัตถุสภาวะในการศึกษาทางมานุษยวิทยา โดยเฉพาะ ประเด็นอภิปรายในสาขาย่อยว่าด้วยวัตถุวัฒนธรรมศึกษาและพัฒนาการของแนววิธีเชิงวัตถุ ครอบคลุม ประเด็นถกเถียงเกี่ยวกับฐานคิดว่าด้วยความสัมพันธ์ระหว่างมนุษย์กับสิ่งไม่ใช่มนุษย์ในการศึกษาทาง มานุษยวิทยา กรอบคิดและแนววิธีศึกษาที่มีบทบาทต่อการพัฒนาประเด็นศึกษาว่าด้วยวัตถุวัฒนธรรมและ วัตถุสภาวะ และการประยุกต์ใช้แนววิธีเชิงวัตถุในการวิจัยเชิงชาติพันธุ์วรรณนา",
+            "course_description_en": "Introduction to the study of material culture and materiality in anthropology, particularly discussions in the subfield of material culture studies and the development of material methods: debates on human-nonhuman relations in anthropology, key conceptual frameworks and methods in the study of material culture and materiality, and material methods in ethnographic research.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "AN241",
+            "th-abbr": "ม.241",
+            "course_name_th": "โบราณคดีเบื้องต้น",
+            "course_name_en": "Introduction to Archaeology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การศึกษาประวัติและพัฒนาการของโบราณคดีการทำความเข้าใจระเบียบวิธีวิจัยทางโบราณคดีและ กระบวนการค้นหาข้อมูล เทคนิคการศึกษาภาคสนาม เทคโนโลยีประยุกต์ในงานโบราณคดีการวิเคราะห์และ ตีความหลักฐาน โดยอาศัยตัวอย่างกรณีศึกษาของไทยและต่างประเทศ ประเด็นและข้อถกเถียงทางวิชาการ ในปัจจุบัน และความเชื่อมโยงระหว่างโบราณคดีกับการศึกษาสังคมและวัฒนธรรมร่วมสมัย",
+            "course_description_en": "Study of history and development of archaeology as a discipline. Methods and techniques in archaeological research – fieldwork, analysis of artefacts, relevant scientific technique and archaeological interpretation through examining study cases in Thailand and abroad. Current debates in archaeology, relationship between archaeology and contemporary society.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "AN242",
+            "th-abbr": "ม.242",
+            "course_name_th": "พิพิธภัณฑ์ศึกษาเบื้องต้น",
+            "course_name_en": "Introduction to Museum Studies",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ประวัติศาสตร์ และพัฒนาการของของพิพิธภัณฑ์ และแนวคิดทางด้านพิพิธภัณฑ์ศึกษา นิยามและ บทบาทของพิพิธภัณฑ์ในสังคมร่วมสมัย ความรู้เบื้องต้นว่าด้วยเรื่องการบริหารงานพิพิธภัณฑ์ การจัดการวัตถุ พิพิธภัณฑ์ การเล่าเรื่อง การออกแบบนิทรรศการ และจริยธรรมในงานพิพิธภัณฑ์",
+            "course_description_en": "The history and development of museums and concepts in museum studies. Definition of museum and its role in contemporary society. Basic knowledge regarding museum management, collection management, storytelling, exhibition design, and museum ethics.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "AN243",
+            "th-abbr": "ม.243",
+            "course_name_th": "มรดกวัฒนธรรมศึกษาเบื้องต้น",
+            "course_name_en": "Introduction to Cultural Heritage Studies",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "นิยามของมรดกวัฒนธรรมและการอนุรักษ์บนฐานคิดเรื่องคุณค่า พัฒนาการของแนวคิดเกี่ยวกับ มรดกศึกษา ภายใต้กรอบคิดการอนุรักษ์สมัยใหม่อนุสัญญามรดกโลก อนุสัญญามรดกวัฒนธรรมที่ไม่เป็น กายภาพ และประเด็นที่เกี่ยวข้องรวมทั้งสิทธิทางวัฒนธรรม การสื่อความหมาย และการอนุรักษ์ชุมชนเมือง",
+            "course_description_en": "Definition of cultural heritage and value based conservation. Development of concepts in heritage studies within the framework of modern conservation. World Heritage Convention and Intangible Cultural Heritage Convention and related issues including cultural rights, interpretation, and urban conservation.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "AN251",
+            "th-abbr": "ม.251",
+            "course_name_th": "มานุษยวิทยากายภาพเบื้องต้น",
+            "course_name_en": "Introduction to Physical Anthropology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "สำหรับศึกษาความเป็นมาทาง วิวัฒนาการของมนุษย์ ปริทรรศน์หลักฐาน ข้อค้นพบ รวมถึงข้อถกเถียงภายใต้ทฤษฎีต่างกระแส เพื่ออธิบาย ความเป็นมา ความสัมพันธ์ทางวิวัฒนาการและการอพยพแพร่กระจายของมนุษย์โบราณรุ่นต่างๆ เริ่มตั้งแต่ เมื่อประมาณหำล้านปีก่อนจนถึงปัจจุบัน",
+            "course_description_en": "It reviews evidence, discoveries and scientific arguments concerning the evolutionary relationships and migration history of hominids during the past five million years.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN310",
+            "th-abbr": "ม.310",
+            "course_name_th": "แนวทฤษฎีและวิธีวิทยาทางมานุษยวิทยา",
+            "course_name_en": "Theoretical Approaches and Methodology in Anthropology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวทฤษฎีและวิธีวิทยาทางมานุษยวิทยา",
+            "course_description_en": "Critical review of contemporary anthropological theories, approaches and methodology for understanding society and culture—e.g., structural- functionalism, structuralism, Marxist anthropology, interpretive anthropology, post-structural anthropology, and ontological anthropology.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN311",
+            "th-abbr": "ม.311",
+            "course_name_th": "การวิจัยทางมานุษยวิทยาและชาติพันธุ์นิพนธ์",
+            "course_name_en": "Anthropological Research and Ethnography",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "กำเนิดและพัฒนาการของวิธีวิทยาต่างๆ ที่นักมานุษยวิทยาใช้ในการรวบรวมข้อมูล การตีความ และ การวิเคราะห์ข้อมูล หลักการสำคัญๆ ของการวิจัยทางมานุษยวิทยา เช่น การสังเกตอย่างมีส่วนร่วม วัฒนธรรมสัมพัทธ์ การศึกษาเปรียบเทียบข้ามวัฒนธรรม การวิพากษ์ภาพแทนความจริงในงานชาติพันธุ์ นิพนธ์ การวิจัยเอกสาร รวมทั้งแนวโน้มใหม่ๆ ของวิธีวิทยาทางมานุษยวิทยา และการเขียนงานชาติพันธุ์ นิพนธ์ยุคใหม่การศึกษางานชาติพันธุ์นิพนธ์ การทำงานภาคสนาม และการเขียนงานชาติพันธุ์นิพนธ์",
+            "course_description_en": "Origin and evolution of methodologies that anthropologists use in data collection, interpretation and analysis; core principles of anthropological methodologies, such as participant observations, cultural relativism, cross-cultural comparative studies, critical approach to ethnographic representation and documentary survey; exploring current trends in ethnography, fieldwork and ethnographic writing.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN320",
+            "th-abbr": "ม.320",
+            "course_name_th": "มานุษยวิทยาความตาย",
+            "course_name_en": "Anthropology of Death",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "มลพิษของภูตผีอันเนื่องมาจากความตาย การจัดการและควบคุม มลพิษนั้นๆ การจัดระบบความสัมพันธ์ใหม่กับผู้ตายในฐานะวิญญาณบรรพบุรุษ พิธีกรรมต่างๆ ที่เกี่ยวข้อง การุณยฆาต และการทำแท้ง โดยเน้นให้นักศึกษาได้ฝึกฝนและมีประสบการณ์การวิเคราะห์แบบแผนทาง วัฒนธรรมของพิธีกรรมต่างๆ จากข้อมูลในงานวิจัยทางชาติพันธุ์วรรณนา",
+            "course_description_en": "Death, evil pollution, the management and control of death pollution, the demortication of ancestral spirits, and their rituals entailed, euthanasia and abortion. Studies on the issues and materials from various cultures. Analyse cultural patterns of the rituals concerned and their social significance, including approaches employed in works under review.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN321",
+            "th-abbr": "ม.321",
+            "course_name_th": "มานุษยวิทยาการเดินทาง",
+            "course_name_en": "Anthropology of Travel",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความหมาย ความสำคัญของการเดินทางและความปรารถนาใน “ที่อื่น” ของมนุษย์ การเดินทางใน รูปแบบต่างๆ และผลสืบเนื่องในทางวัฒนธรรม รวมถึงความสัมพันธ์ระหว่างการเดินทางกับงานเขียน งาน ชาติพันธุ์วรรณา และมานุษยวิทยา",
+            "course_description_en": "Significances and meanings of travel and the quest for “other” places. Different forms of travel and their cultural consequences. Relationship between travel, writing, ethnography and anthropology.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "AN322",
+            "th-abbr": "ม.322",
+            "course_name_th": "มานุษยวิทยาภาษา",
+            "course_name_en": "Linguistic Anthropology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความสัมพันธ์ระหว่างคำพูดและการเขียน ภาษากับวัฒนธรรม ภาษา กับระบบคิด ภาษากับปฏิบัติการทางสังคม ภาษากับอำนาจ และวัตถุสภาวะของภาษา",
+            "course_description_en": "from anthropological perspective, including the relationship between speech and writing, language as symbol and as system, language acquisition, linguistic change and culture change.",
+            "prerequisite_courses": [
+                "ม.201"
+            ]
+        },
+        {
+            "course_code": "AN324",
+            "th-abbr": "ม.324",
+            "course_name_th": "มานุษยวิทยาการเมือง",
+            "course_name_en": "Political Anthropology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา ม.201 มโนทัศน์ ทฤษฎีประเด็น และงานศึกษาทางมานุษยวิทยาแนวประเพณีเกี่ยวกับการเมืองและ อำนาจ เช่น ระบบการเมือง ระบบกษัตริย์ กระบวนการตัดสินใจทางการเมือง มโนทัศน์อำนาจ สัญลักษณ์ และพิธีกรรม เป็นต้น มโนทัศน์ ทฤษฎี และประเด็นศึกษาอำนาจร่วมสมัย เช่น หลังโครงสร้างนิยม หลัง สมัยใหม่การต่อต้านในชีวิตประจำวัน สภาวะการนำอำนาจอธิปัตย์ ศักยภาพกระทำการ และเพศภาวะ เป็น ต้น และการปรับใช้มโนทัศน์ ทฤษฎี และประเด็นเหล่านี้ในงานศึกษาทางมานุษยวิทยา รวมถึงงานศึกษาทาง มานุษยวิทยาเกี่ยวกับการเมืองไทยร่วมสมัย",
+            "course_description_en": "Prerequisite : Have earned credits of AN201 Concepts, theories, issues and traditional anthropological studies of politics and powers such as political systems, kingships, political decision-making processes, concepts of power, symbols, rituals, etc. Contemporary concepts, theories and issues of power such as post-structuralism, postmodernism, everyday forms of resistance, hegemony, sovereign power, agency, gender, etc. including the applications in anthropological studies. Anthropological studies of contemporary Thai politics.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN325",
+            "th-abbr": "ม.325",
+            "course_name_th": "มานุษยวิทยาศาสนา",
+            "course_name_en": "Anthropology of Religion",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "มานุษยวิทยาศาสนาในฐานะปรากฏการณ์และปฏิบัติการภายใต้ บริบททางสังคมและวัฒนธรรมเชิงเปรียบเทียบ หัวข้อการศึกษาศาสนาเชิงมานุษยวิทยา เช่น พิธีกรรม ความ ตาย การรักษาโรคด้วยความเชื่อ การเคลื่อนไหวทางการเมือง และอัตลักษณ์",
+            "course_description_en": "Critical and comparative examination of religion as phenomenon and practice in sociocultural contexts. Issues relevant to anthropology of religion such as ritual, death, healing, activism, and identities.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN326",
+            "th-abbr": "ม.326",
+            "course_name_th": "มานุษยวิทยากฎหมาย",
+            "course_name_en": "Anthropology of Law",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา ม.201 พื้นฐานแนวคิด ทฤษฎี และระเบียบวิธีที่นักมานุษยวิทยาใช้ศึกษากฎหมายและปรากฏการณ์ทาง สังคมวัฒนธรรมที่มีลักษณะเหมือนกฎหมาย ความสัมพันธ์ระหว่างกฎหมาย ประเพณี และวัฒนธรรมใน บริบทเปรียบเทียบ มิติเชิงวัฒนธรรมของการจัดการข้อพิพาทในกระบวนการที่เป็นทางการและไม่เป็น ทางการ พหุลักษณะทางกฎหมาย และแนวโน้มการศึกษากฎหมายในระดับประเทศและระดับโลก",
+            "course_description_en": "Prerequisite : Have earned credits of AN201 Approaches, theories and methods used by anthropologists to study law and law- like social and cultural phenomena; relationships between law, custom and culture in comparative perspective; cultural analysis of disputing process in both formal and informal contexts; legal pluralism; and trends in anthropological analysis of law in both local and global levels.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN327",
+            "th-abbr": "ม.327",
+            "course_name_th": "อาหารและวัฒนธรรม",
+            "course_name_en": "Food and Culture",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "มุมมองทางทฤษฎีและวิธีวิทยาที่นักมานุษยวิทยาใช้ในการเข้าใจบทบาทและความสำคัญของอาหาร และการกินอาหารร่วมกัน ในฐานะปรากฏการณ์ทางวัฒนธรรม ทั้งในสังคมบุพกาลและสังคมสมัยใหม่ รวมทั้งศึกษาอาหารในฐานะสินค้าทางวัฒนธรรมอย่างหนึ่ง ผ่านการอ่านงานชาติพันธุ์วรรณนาและการ นำเสนอในสื่อประเภทอื่น เช่น ภาพยนตร์ คู่มือหรือตำราการทำอาหาร",
+            "course_description_en": "Theories and methodologies used by anthropologists to understand the social function and meaning of food, commensality in primitive and modern society and the recent phenomenon in which ethnic food becomes cultural heritage. Materials used include ethnographies and other media such as films and cookbooks.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "AN328",
+            "th-abbr": "ม.328",
+            "course_name_th": "มานุษยวิทยานิเวศ",
+            "course_name_en": "Ecological Anthropology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา ม.201 มโนทัศน์ ทฤษฎี และวิธีการศึกษาความสัมพันธ์ระหว่างมนุษย์กับสิ่งแวดล้อมผ่านปัจจัยทาง วัฒนธรรม การเมือง เศรษฐกิจ และประวัติศาสตร์ ได้แก่กลุ่มที่ให้ความสำคัญกับการปรับตัวเข้าหากัน ระหว่างมนุษย์ วัฒนธรรม และสิ่งแวดล้อม เช่น วัฒนธรรมนิเวศ ชาติพันธุ์นิเวศ ประชากรนิเวศ และยุทธวิธี การปรับตัว กลุ่มที่ได้รับอิทธิพลจากเศรษฐศาสตร์การเมืองและนิเวศวิทยาการเมือง กลุ่มที่ได้รับอิทธิพลจาก มโนทัศน์และทฤษฎีร่วมสมัย เช่น นิเวศวิทยาหลังสมัยใหม่นิเวศวิทยาประวัติศาสตร์ และนิเวศวิทยาจิต วิญญาณ รวมถึงงานศึกษาปัญหาสภาพแวดล้อมปัจจุบัน เช่น การเปลี่ยนแปลงสภาพภูมิอากาศ สภาวะโลก ร้อน และภัยพิบัติ เป็นต้น",
+            "course_description_en": "Prerequisite : Have earned credits of AN201 Concepts, theories and methods in studies of the relationships between humans and environments via cultures, politics, economy and history. A group of concepts, theories and methods that are focused on mutual adaptation between humans, cultures and environment, which include cultural ecology, ethnoecology, population ecology, and adaptive strategy. Works that are influenced by political economy and political ecology. Works that are influenced by contemporary concepts and theories such as postmodern ecology, historical ecology, and spiritual ecology. Studies of current environmental problems such as climate change, global warming, and disaster.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN329",
+            "th-abbr": "ม.329",
+            "course_name_th": "มานุษยวิทยาดิจิทัล",
+            "course_name_en": "Digital Anthropology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ขอบเขตและความหมายของมานุษยวิทยาดิจิทัล แนวคิด วิธีและวิธีวิทยาในการศึกษาดิจิทัล โดยเฉพาะทางมานุษยวิทยา การศึกษาดิจิทัล ทั้งสื่อดิจิทัล และเทคโนโลยีดิจิทัล รวมถึงสังคมวัฒนธรรม ออนไลน์ เช่น โลกเสมือน เกมส์ดิจิทัล และโซเชียลมีเดีย เชื่อมโยงกับแง่มุมต่างๆ ในสังคม เช่น เพศภาวะ ตัวตน และศาสนา เน้นบริบทสังคมไทยเปรียบเทียบกับสังคมอื่นๆ",
+            "course_description_en": "Scope and meaning of digital anthropology. Notions, methods and methodologies in studying the digital, particularly those in anthropology. Studies of the digital; digital media, digital technologies, and online cultures and societies, such as virtual world, digital games, and social media. Association of the digital with various social aspects such as gender, self, and religion. Focusing on Thai society in comparison with other societies.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN331",
+            "th-abbr": "ม.331",
+            "course_name_th": "วัฒนธรรมและสังคมไทย",
+            "course_name_en": "Thai Culture and Society",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "โดยใช้เครื่องมือทางมานุษยวิทยา จากตัวอย่างงานวิจัยของ นักมานุษยวิทยาไทยและต่างประเทศ โดยเน้นการศึกษาอย่างวิพากษ์วิจารณ์ให้เห็นถึงคุณประโยชน์และ ข้อจำกัดในแนวทางมานุษยวิทยา และส่งเสริมให้นักศึกษาฝึกฝนวิเคราะห์ปรากฏการณ์ในสังคมและ วัฒนธรรมไทย",
+            "course_description_en": "Prerequisite : Have earned credits of AN201 Thai society and culture in different dimensions with the use of an anthropological approach, drawing from anthropological studies by Thai and foreign anthropologists. Emphasising a critical approach to understand potentialities and limitations of anthropology, and encouraging students to think analytically about social phenomena relating to Thai society and culture.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN333",
+            "th-abbr": "ม.333",
+            "course_name_th": "วัฒนธรรมและสังคมเอเชียตะวันออกเฉียงใต้",
+            "course_name_en": "Cultures and Societies in Southeast Asia",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา ม.201 วัฒนธรรมและโครงสร้างทางสังคมของประเทศต่างๆ ในเอเชียตะวันออกเฉียงใต้ทั้งประเทศบนผืน แผ่นดินใหญ่และประเทศบนเกาะ จากรายงานการวิจัย หนังสือ และบทความหรือเอกสารทางมานุษยวิทยา โดยเน้นถึงการจัดระเบียบและการเปลี่ยนแปลงของสถาบันต่างๆ ในทางเศรษฐกิจ การเมือง สังคม ศาสนา และสถาบันอื่นๆ เพื่อสร้างความเข้าใจสังคมและวัฒนธรรมในระดับภูมิภาค และเป็นพื้นฐานในการทำความ เข้าใจสังคมไทยและเปรียบเทียบกับสังคมอื่นอย่างกว้างขวาง",
+            "course_description_en": "Prerequisite : Have earned credits of AN201 Cultures and social structure of countries in Southeast Asia, both mainland and insular, through ethnographic works, focusing on aspects of their social organisations and changes of economic, political, social, religious and other institutions. Aiming to understand regional societies and cultures, which will provide a basis to understand Thai society and compare with other societies extensively.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "",
+            "th-abbr": "ม.335",
+            "course_name_th": "วัฒนธรรมและสังคมจีน",
+            "course_name_en": "Chinese Culture and Society",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วัฒนธรรมและโครงสร้างสังคมจีน จากรายงานการวิจัย หนังสือ และบทความหรือเอกสารทาง มานุษยวิทยา โดยเน้นการจัดระเบียบและการเปลี่ยนแปลงของสถาบันต่างๆ ในทางเศรษฐกิจ การเมือง สังคม ศาสนาและสถาบันอื่นๆ เพื่อให้นักศึกษาได้ทราบถึงรูปแบบและเนื้อหาของสังคมและวัฒนธรรมใน ประเทศจีน",
+            "course_description_en": "Cultures and social structure as represented in China ethnographic works, focusing on aspects of its social organisation and changes of economic, political, social, religious and other institutions. Aiming to understand dynamic and diversity of Chinese society and culture.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "AN336",
+            "th-abbr": "ม.336",
+            "course_name_th": "วัฒนธรรมและสังคมญี่ปุ่น",
+            "course_name_en": "Japanese Culture and Society",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "โครงสร้างสังคมและวัฒนธรรมประเทศญี่ปุ่น จากรายงานการวิจัย หนังสือ และบทความหรือ เอกสารทางมานุษยวิทยา โดยเน้นถึงการจัดระเบียบและการเปลี่ยนแปลงของสถาบันต่างๆ ในทางเศรษฐกิจ การเมือง สังคม ศาสนาและสถาบันอื่นๆ เพื่อให้นักศึกษาได้ทราบถึงรูปแบบและเนื้อหาของสังคมและ วัฒนธรรมในประเทศญี่ปุ่น",
+            "course_description_en": "Social structure and culture of Japan through ethnographic works, focusing on aspects of its social organisation and changes of economic, political, social, religious and other institutions. Aiming to understand dynamic and diversity of Japanese society and culture.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "AN339",
+            "th-abbr": "ม.339",
+            "course_name_th": "วัฒนธรรมและสังคมมลายู",
+            "course_name_en": "Malay Culture and Society",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิถีชีวิต พิธีกรรม ความเชื่อ และการปรับตัวเองของชาวมลายูในคาบสมุทรมลายูและหมู่เกาะใน เอเชียตะวันออกเฉียงใต้ในบริบทของการเปลี่ยนแปลงทางการเมือง เศรษฐกิจ สังคม และระบบนิเวศ",
+            "course_description_en": "Ways of life, rituals, beliefs and adaptation of Malays in the Malay Peninsular and Southeast Asian Archipelago in the contexts of political, economic, social and ecological changes.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "AN341",
+            "th-abbr": "ม.341",
+            "course_name_th": "โบราณคดีในประเทศไทย",
+            "course_name_en": "Archaeology of Thailand",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาร่องรอยและหลักฐานจากสังคมและวัฒนธรรมในอดีตที่พบในดินแดนประเทศไทยในปัจจุบัน ตั้งแต่สมัยก่อนประวัติศาสตร์จนถึงสมัยรัตนโกสินทร์ตอนต้น พัฒนาการและความหลากหลายทางวัฒนธรรมของสังคมในอดีต การศึกษาความสัมพันธ์ทางเศรษฐกิจของสังคมโบราณผ่านการวิเคราะห์หลักฐานวัตถุเชิงเปรียบเทียบระหว่างภูมิภาคในประเทศไทย องค์ความรู้และข้อถกเถียงทางวิชาการในปัจจุบัน",
+            "course_description_en": "Study of society and culture in the past through analysis of archaeological materials and features discovered in the area of today Thailand from prehistory to early Rattanakosin Period. Study of development and diversity of past society by exploring socio-economic relationship through comparative studies of regional cultural materials. Current knowledge and debates in Thai archaeology.",
+            "prerequisite_courses": [
+                "AN241"
+            ]
+        },
+        {
+            "course_code": "AN342",
+            "th-abbr": "ม.342",
+            "course_name_th": "วัตถุพิพิธภัณฑ์และงานภัณฑารักษ์",
+            "course_name_en": "Museum Collections and Curatorship",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิด และทฤษฎีเกี่ยวกับการศึกษาวัฒนธรรมในยุคอาณานิคมและหลังอาณานิคม ระเบียบวิธีการจัดการและการ จัดเก็บวัตถุพิพิธภัณฑ์ การวิจัย การแปลความ การนำเสนอทางวัฒนธรรม การทำงานข้ามศาสตร์ การสร้าง การมีส่วนร่วมทางสังคม ข้อถกเถียงเรื่องการจัดการวัตถุทางชาติพันธุ์ในบริบทของพิพิธภัณฑ์ในยุคปัจจุบัน บทบาทหน้าที่ของภัณฑารักษ์ที่มีต่อพิพิธภัณฑ์และสังคม และความรู้เชิงปฏิบัติการโดยใช้วัตถุสะสมใน พิพิธภัณฑ์ธรรมศาสตร์เฉลิมพระเกียรติในการเรียนการสอน",
+            "course_description_en": "The history and concepts of collecting cultural materials that have developed into the culture of museums. Concepts and theories in the study of cultures during colonial and post-colonial periods. Theories and practices in management of museum collections, research, interpretation, representation, cross disciplinary integration, and social engagement. Issues in managing ethnographic materials for museums in modern society. Responsibilities of curators and their societal roles. Museum practices employing the collections of Thammasat Museum of Anthropology.",
+            "prerequisite_courses": [
+                "AN242"
+            ]
+        },
+        {
+            "course_code": "AN343",
+            "th-abbr": "ม.343",
+            "course_name_th": "เทคโนโลยีและวัฒนธรรม",
+            "course_name_en": "Technology and Culture",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การศึกษาเทคโนโลยีในอดีตในเชิงมานุษยวิทยาจากหลักฐานทางโบราณคดีและประวัติศาสตร์ ประกอบกับการศึกษาเปรียบเทียบกับเทคโนโลยีพื้นบ้านร่วมสมัย การวิเคราะห์การเปลี่ยนแปลงของ เทคโนโลยีที่ส่งผลต่อวัฒนธรรม",
+            "course_description_en": "Study of ancient technologies from archaeological evidences and historical documents including contemporary folk technology with anthropological aspects. Examine impact of technological changes on cultural system.",
+            "prerequisite_courses": [
+                "AN241"
+            ]
+        },
+        {
+            "course_code": "AN344",
+            "th-abbr": "ม.344",
+            "course_name_th": "การวิเคราะห์วัตถุทางชาติพันธุ์",
+            "course_name_en": "Ethnographic Object Analysis",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา ม.201 การศึกษาและวิเคราะห์วัตถุชาติพันธุ์และวัตถุโบราณคดีที่นำไปสู่ความรู้ความเข้าใจกระบวนการ ทางวัฒนธรรม เครือข่ายการแลกเปลี่ยน กระบวนการผลิต ตลอดจนรูปแบบ เทคนิค วัสดุ จากการสังเกต บรรยาย บันทึกและลงทะเบียน เพื่อการจัดเก็บ รักษา รวมถึงการสำรวจและปฏิบัติการที่เกี่ยวข้องกับการจัด แสดง ออกแบบ และเพื่อการศึกษาวิจัยในเชิงลึก และเริ่มต้นในกระบวนการทางอาชีพในพิพิธภัณฑ์และหอ ศิลป์",
+            "course_description_en": "Prerequisite : Have earned credits of AN201 Analytical study of materials of ethnography and archaeology leading to the understanding of cultural processes, i.e. exchanges, manufacturing processes, changes in technology. Visual examination of objects, documentation and data management for conservation. Curatorial practices relating to exhibition design and advanced research. Introduction to curatorship in the museum profession.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN345",
+            "th-abbr": "ม.345",
+            "course_name_th": "การจัดการทรัพยากรทางวัฒนธรรม",
+            "course_name_en": "Cultural Resource Management",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ปัญหาของ การนิยามและการประเมินคุณค่ามรดกทางวัฒนธรรม และเน้นกรณีศึกษาในประเทศและต่างประเทศ บทบาทของรัฐ และกฎหมายที่เกี่ยวกับทรัพยากรวัฒนธรรม ผลกระทบจากการพัฒนา ประเด็นจริยธรรม ปัญหาการลักลอบขุดแหล่งโบราณคดีและการค้าโบราณศิลปวัตถุ การเผยแพร่ประชาสัมพันธ์ และบทบาท ของสังคมในการจัดการทรัพยากรทางวัฒนธรรม",
+            "course_description_en": "Difference issues and case studies in Thailand; role and policy of state, local and international legislation concerning CRM. Impact of modernisation on archaeological site, site vandalism and international trafficking in antiquities, contract archaeology, ethics in archaeology and museum, communication with public and role of society in CRM.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN347",
+            "th-abbr": "ม.347",
+            "course_name_th": "โบราณคดีความตาย",
+            "course_name_en": "Archaeology of Death",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักฐานทางโบราณคดีที่เกี่ยวข้องกับพิธีกรรมความตาย ความเชื่อ ความคิดและความสัมพันธ์ของ มนุษย์ที่มีต่อความตายและร่างกายที่ไร้วิญญาณ ที่แสดงออกผ่านทางพิธีกรรมต่างๆ เช่น การจัดการกับศพ การสร้างความทรงจำ การอุทิศ การไว้อาลัย ตลอดจนการลืมโดยอาศัยตัวอย่างจากบริบททางโบราณคดีใน ภูมิภาคต่างๆ",
+            "course_description_en": "Archaeological evidence in burial context, belief, perception and relation of human with death and corpse. Body disposal, commemoration, offering and forgetting process, using archaeological examples from various regions.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "AN348",
+            "th-abbr": "ม.348",
+            "course_name_th": "การอนุรักษ์ในงานพิพิธภัณฑ์และมรดกวัฒนธรรม",
+            "course_name_en": "Conservation in Museum and Heritage",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความรู้เชิงปฏิบัติการด้านการอนุรักษ์ที่เกี่ยวข้องกับ งานพิพิธภัณฑ์และมรดกวัฒนธรรม การจัดการคลังวัตถุสะสม จดหมายเหตุ การจัดการฐานข้อมูลดิจิทัล ทำ ความเข้าใจในกระบวนการทำงาน ความรู้เฉพาะทาง การประยุกต์และผสานกับศาสตร์ที่เกี่ยวข้อง เพื่อเป็น พื้นฐานในการพัฒนาทักษะและความเข้าใจสำหรับการปฏิบัติงานด้านพิพิธภัณฑ์และมรดกวัฒนธรรม",
+            "course_description_en": "Theory and practice in conservation relating to museum and cultural heritage. Management of museum collections and archive materials. Knowledge of technology applications for museum and heritage studies. Development of students’ understandings and skills in conservation practice for museum and heritage management.",
+            "prerequisite_courses": [
+                "ม.242"
+            ]
+        },
+        {
+            "course_code": "AN349",
+            "th-abbr": "ม.349",
+            "course_name_th": "ศาสนาและวัตถุวัฒนธรรม",
+            "course_name_en": "Religion and Material Culture",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา ม.201 บทบาทสำคัญของวัตถุวัฒนธรรมในการขยายตัวของศาสนา ปฏิสัมพันธ์ของผู้คน และวัตถุในบริบท ของศาสนา และการขยายตัวของศาสนาบนเส้นทางการค้า มรดกสืบทอดและบทบาทของวัตถุวัฒนธรรมใน การดำเนินชีวิตของชุมชนท้องถิ่นที่ศาสนาเข้าไปตั้งถิ่นฐาน",
+            "course_description_en": "Prerequisite : Have earned credits of AN201 The important role of material cultures in the movement of religions. Interactions between people and objects in the context of religions, and religious movement along trade. The legacy and role of material cultures in the living of present-day local communities in the areas where religions established themselves.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN351",
+            "th-abbr": "ม.351",
+            "course_name_th": "พันธุศาสตร์และทฤษฎีวิวัฒนาการ",
+            "course_name_en": "Genetics and Evolutionary Theory",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "สำรวจทฤษฎีวิวัฒนาการทั้งในแนวมหภาคและ จุลภาพ กล่าวถึงพัฒนาการของแนวคิด หลักฐานที่ปรากฏในธรรมชาติหรือจากการทดลอง และสถานภาพใน ปัจจุบัน",
+            "course_description_en": "Prerequisite : Have earned credits of AN251 Basic principles and theories in human genetics, including theories of micro and macro evolution with reference to evidence derived as natural phenomena and from experiments.",
+            "prerequisite_courses": [
+                "ม.251"
+            ]
+        },
+        {
+            "course_code": "AN361",
+            "th-abbr": "ม.361",
+            "course_name_th": "แนวทางการศึกษามานุษยวิทยาว่าด้วยเพศภาวะและเพศวิถี",
+            "course_name_en": "Anthropological Approaches to Gender and Sexuality",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา ม.201 การนิยามอัตลักษณ์และบทบาทความเป็นหญิง ความเป็นชาย เกย์ เลสเบี้ยน และเพศอื่นๆ โดยการ อ่านงานเขียนชาติพันธุ์นิพนธ์ และงานเขียนอื่นๆ ที่เกี่ยวข้องกับเพศภาวะและเพศวิถีอย่าง วิพากษ์วิจารณ์ เพื่อทำความเข้าใจปัจจัยทางสังคม การเมือง วัฒนธรรม จิตวิทยา และประวัติศาสตร์ ที่ส่งผล ต่อการประกอบสร้างเพศภาวะในสังคม รวมทั้งสำรวจประเด็นและแนวคิดต่างๆ ที่เกี่ยวข้อง เพื่อเป็นพื้นฐาน ในการทำความเข้าใจเพศภาวะและเพศวิถีจากมุมมองมานุษยวิทยา",
+            "course_description_en": "Prerequisite : Have earned credits of AN201 The definition of identity, femininity, masculinity, gay, lesbian and other gender through critical reading of ethnographies and other relevant writings of gender and sexuality to understand social, political, cultural, psychological and historical factors which effect to the construction of gender in society. Examining relevant issues and concepts for understanding gender and sexuality from anthropological perspectives.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN362",
+            "th-abbr": "ม.362",
+            "course_name_th": "มานุษยวิทยาสตรีนิยม",
+            "course_name_en": "Feminist Anthropology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "มานุษยวิทยาสตรีนิยมเป็นหนึ่งในมโนทัศน์ในการศึกษาวัฒนธรรม ที่เกิดขึ้นในทศวรรษ 1970 ซึ่งมี อิทธิพลมาจากการวิพากษ์สังคมศาสตร์จากแนวคิดสตรีนิยม โดยมีจุดมุ่งหมายสำคัญในการวิพากษ์แนวคิดที่ เน้นการศึกษา “ผู้ชายเป็นศูนย์กลาง” (Androcentrism) ที่แฝงอยู่ในการศึกษามานุษยวิทยา สำรวจการทับ ซ้อนระหว่างมานุษยวิทยาและสตรี เพศภาวะ และเพศวิถีศึกษา และคุณูปการที่สำคัญต่อการศึกษา มานุษยวิทยา สำรวจมโนทัศน์ ทฤษฎีวิธีวิทยา และประเด็นสำคัญในการวิเคราะห์ และวิพากษ์ปรากฏการณ์ ทางสังคมและวัฒนธรรม จากมุมมองมานุษยวิทยาสตรีนิยม อาทิอำนาจทับซ้อนของมิติ เชื้อชาติชาติพันธุ์ ชนชั้น เพศภาวะ เพศวิถี และปัจจัยอื่นๆ รวมทั้งสำรวจงานเขียนของนักมานุษยวิทยาที่ศึกษาประเด็นผู้หญิง เพศภาวะ และเพศวิถีอาทิ โซรา นีล เฮิร์สตัน, มิเชล โรซัลโด, เชอร์รีออร์ตเนอร์, หลุยส์ แลมเฟียร์, รูธ เบ ฮาร์, เอสเธอร์ นิวตัน",
+            "course_description_en": "The approaches of Feminist Anthropology to study culture in the 1970s, stemmed from the feminist critiques of social sciences. Critique of androcentrism within anthropology. Examining the concept, theory, methodology, and significant issues of analysis and critique of socio-cultural phenomena from feminist anthropology, including the intersectionality of race, ethnicity, class, gender, sexuality and others. Intersection of Anthropology and Women, Gender and Sexuality Studies and how this approach contributes to anthropology. Exploring the works of anthropologists such as Zora Neale Hurston, Michelle Rosaldo, Sherry Ortner, Louise Lamphere, Ruth Behar and Esther Newton.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN367",
+            "th-abbr": "ม.367",
+            "course_name_th": "เพศภาวะกับการพัฒนา",
+            "course_name_en": "Gender and Development",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เพศภาวะกับการพัฒนา เป็นหนึ่งในปรากฏการณ์ทางสังคมวัฒนธรรมร่วมสมัยที่สำคัญ ทั้งในระดับ โลกและประเทศ แนวคิดและข้อโต้แย้งต่อประเด็นปัญหาเกี่ยวกับเพศภาวะ รวมทั้งศึกษานโยบายที่ภาครัฐ และเอกชนนำมาใช้ในการพัฒนาดังกล่าว เพื่อสร้างความเข้าใจเชิงทฤษฎีต่อยุทธศาสตร์ และการดำเนินงาน พัฒนาเกี่ยวกับเพศภาวะ ทั้งในช่วงที่การพัฒนาเน้นสตรีอย่างเดียว (แนวคิดผู้หญิงในการพัฒนา) มาจนถึงช่วง ปัจจุบันที่เน้นเรื่องเพศภาวะ (แนวคิดเพศภาวะและการพัฒนา)",
+            "course_description_en": "This course examines concepts and debates on problems relating to gender, and the government and NGOs’ policies for such development. It provides theoretical understanding of strategies and processes for gender and development, from the period that development focuses only on women (Women in Development, WID) to the current period that focuses on gender (Gender and Development, GAD).",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN368",
+            "th-abbr": "ม.368",
+            "course_name_th": "เพศภาวะกับความรุนแรง",
+            "course_name_en": "Gender and Violence",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา ม.201 ทฤษฎี และแนวความคิดเกี่ยวกับความรุนแรง รวมทั้งสำรวจแนวทางการวิเคราะห์ปัญหาความ รุนแรงด้วยเหตุแห่งเพศภาวะ ทั้งในระดับโครงสร้างและระดับปัจเจก ซึ่งปรากฏผ่านประสบการณ์ความ รุนแรงทั้งในพื้นที่ส่วนตัว และพื้นที่สาธารณะ โดยศึกษาถึงความสัมพันธ์เชื่อมโยงระหว่างประเด็นปัญหา และ การรณรงค์เพื่อแก้ปัญหาเหล่านี้กับการรณรงค์เคลื่อนไหวเพื่อยุติความรุนแรงด้วยเหตุแห่งเพศ ที่ดำเนินการ ผ่านองค์กรต่างๆ รวมไปถึงศึกษาการต่อรองต่อสู้ทางเลือก ข้อเสนอ และมุมมองจากประสบการณ์ของผู้คน ทุกเพศที่ประสบปัญหาความรุนแรงนี้",
+            "course_description_en": "Prerequisite : Have earned credits of AN201 Theories and concepts about violence. Surveying the analysis of gender-based violence both in structural and personal levels through violence experiences in both personal and public spheres. To link between the problems issues to the campaigns to end gender-based violence from many organizations. Also exploring the negotiation, struggles, alternatives, proposals and perspectives of people from all genders who have experienced this violence.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN409",
+            "th-abbr": "ม.409",
+            "course_name_th": "สัมมนาทางมานุษยวิทยา",
+            "course_name_en": "Seminar in Anthropology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา ม.201 ประเด็นทางมานุษยวิทยาที่เลือกสรรมา ซึ่งอาจเป็นประเด็นสำคัญทางทฤษฎีร่วมสมัยหรือเกี่ยวข้อง กับปรากฏการณ์ในสังคมวัฒนธรรมไทย การศึกษาจะเน้นการอภิปรายแนวการวิเคราะห์และข้อมูลจาก ผลงานวิจัยทางมานุษยวิทยา",
+            "course_description_en": "Prerequisite : Have earned credits of AN201 Selected issues, concepts, theories of current interest in anthropology. The seminar focuses on methodology and data analysis in anthropological research.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN418",
+            "th-abbr": "ม.418",
+            "course_name_th": "ชุมชนศึกษา 3",
+            "course_name_en": "Community Study",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาพัฒนาการเชิงความคิด และมโนทัศน์ที่เกี่ยวข้องกับชุมชน และการศึกษาชุมชนในทาง มานุษยวิทยา โดยเน้นวิธีศึกษาวิจัยเชิงคุณภาพ ผู้ศึกษาจะต้องใช้ในการศึกษาวิจัยในสนามด้วยตนเอง",
+            "course_description_en": "Studies of cognitive development and concepts related to community and community studies in anthropology. A qualitative approach in collecting and analysing data.",
+            "prerequisite_courses": [
+                "ม.201"
+            ]
+        },
+        {
+            "course_code": "AN420",
+            "th-abbr": "ม.420",
+            "course_name_th": "โลกาภิวัตน์กับสังคมข้ามพรมแดน",
+            "course_name_en": "Globalisation and Transnationalism",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ปรากฏการณ์โลกาภิวัตน์และสังคมข้ามพรมแดนในโลกยุคปัจจุบัน จากแนวทฤษฎีทางสังคมศาสตร์ และแนวคิดและวิธีวิทยาใหม่ทางมานุษยวิทยา ที่พัฒนาขึ้นมาเพื่อทำความเข้าใจปรากฏการณ์ดังกล่าว เป็น ต้นว่าแนวคิดระบบโลก สภาวะสลายพรมแดน แนวคิดพลเมืองยืดหยุ่น คนพลัดถิ่น ความเป็นท้องถิ่นในยุค โลกาภิวัตน์ สังคม-วัฒนธรรมผู้อพยพ การวิจัยเชิงชาติพันธุ์วรรณนาหลากพื้นที่ และการวิจัยชุมชนใน เครือข่ายอินเทอร์เน็ต",
+            "course_description_en": "Globalisation and transnational societies in the modern world through social theories and contemporary anthropological concepts and methodologies, for example, world system, deterritorialisation, flexible citizenship, diaspora, localisation of globalisation, migrant society and culture, multi-sited ethnography and ethnography of internet community.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN421",
+            "th-abbr": "ม.421",
+            "course_name_th": "วัฒนธรรมและการท่องเที่ยว",
+            "course_name_en": "Culture and Tourism",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ประวัติ แนวคิดและจุดมุ่งหมายของการท่องเที่ยว นโยบายของรัฐและเอกชนเกี่ยวกับการท่องเที่ยว บทบาทของภาคเอกชนและสื่อสมัยใหม่ต่อการท่องเที่ยว ความเปลี่ยนแปลงและปัจจัยใหม่ที่ส่งผลต่อการ ท่องเที่ยวและวัฒนธรรม เช่น ภูมิอากาศและโรคระบาด ผลกระทบของการท่องเที่ยวที่มีต่อทรัพยากรทาง ธรรมชาติและมรดกวัฒนธรรม พัฒนาการและทิศทางใหม่ของการท่องเที่ยวในโลกร่วมสมัย",
+            "course_description_en": "Development of concepts and objectives of tourism, state policies, with special review of the role of business firms, private sectors, educational institutions, and mass media and impact of Tourism on cultural and natural recourses, including new approaches toward future sustainable Tourism.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "AN422",
+            "th-abbr": "ม.422",
+            "course_name_th": "มานุษยวิทยาเศรษฐกิจ",
+            "course_name_en": "Economic Anthropology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา ม.201 ระบบเศรษฐกิจของสังคมต่างๆ และความสัมพันธ์ที่มีต่อสถาบันสังคมอื่นๆ ของสังคมที่มิใช่ อุตสาหกรรม สังคมอุตสาหกรรม และสังคมหลังอุตสาหกรรม รวมถึงอิทธิพลของเศรษฐกิจดิจิทัลที่มีต่อสังคม ต่างๆ เน้นถึงความสัมพันธ์ระหว่างกลไกทางวัฒนธรรมและการใช้ประโยชน์จากทรัพยากร และผลกระทบ",
+            "course_description_en": "Prerequisite : Have earned credits of AN201 Economic systems of various societies and their relations to other social institutions in non-industrial societies, industrial societies and post-industrial societies, including influences of digital economy in various societies. Focusing on relations between cultural mechanisms and resource utilisation as well as their effects.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN424",
+            "th-abbr": "ม.424",
+            "course_name_th": "มานุษยวิทยาเมือง",
+            "course_name_en": "Urban Anthropology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา ม.201 แนวคิดและทฤษฎีต่างๆ ที่อธิบายชุมชนเมืองและวิถีชีวิตของคนในเมือง รวมทั้งการศึกษาการ พัฒนาการไปสู่ความเป็นเมืองในลักษณะต่างๆ ความสัมพันธ์ระหว่างมนุษย์กับพื้นที่ และความหลากหลาย ทางสังคมและวัฒนธรรมในเมือง",
+            "course_description_en": "Prerequisite : Have earned credits of AN201 Concepts and theoretical frameworks used to understand urban community and lifestyles, including different processes of urbanisation, relationship between human and space, urban issues, and socio-cultural diversity in urban areas.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN425",
+            "th-abbr": "ม.425",
+            "course_name_th": "มานุษยวิทยารัฐ",
+            "course_name_en": "Anthropology of the State",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา ม.201 แนวทางการศึกษารัฐจากมุมมองของมานุษยวิทยา ทฤษฎีและวิธีวิทยาที่ใช้ศึกษารัฐในฐานะภาพ แทนและรัฐในฐานะปฏิบัติการ การวิเคราะห์รัฐผ่านปฏิบัติการและปฏิสัมพันธ์ระหว่างเจ้าหน้าที่รัฐและ ประชาชน รัฐและอำนาจอธิปไตยจากมุมมองของชีวิตประจำวัน กรณีศึกษาเปรียบเทียบกลไกของรัฐในรูป หน่วยงานและองค์กรจากวัฒนธรรมต่างๆ",
+            "course_description_en": "Prerequisite : Have earned credits of AN201 Anthropological approaches to the study of the state. Theories and methodologies to study the state as representation and practice. Examination of the state through the practices and interaction between state agents and their clients. The state and sovereignty in everyday perspective. Cross-cultural examples of state apparatus in the forms of bureaucracy and agency.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN426",
+            "th-abbr": "ม.426",
+            "course_name_th": "มานุษยวิทยาอวกาศ",
+            "course_name_en": "Anthropology of Outer Space",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความรู้จารีตและวิทยาศาสตร์ต่อจักรวาล จินตนาการในตำนาน วรรณกรรม สื่อ วัฒนธรรมประชานิยม ชุมชนและวัฒนธรรมในอวกาศ ทัศนะของ มนุษย์ต่อโลกและสิ่งแวดล้อมอวกาศในบริบทที่หลากหลาย วิธีวิทยาทางมานุษยวิทยาอวกาศ",
+            "course_description_en": "traditional knowledge and science in cosmology, imagination in legend, literature, media and pop culture, community and culture in outer space, human’s view of the world and space environment in diverse contexts. Methodology in anthropology of outer space.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN427",
+            "th-abbr": "ม.427",
+            "course_name_th": "มานุษยวิทยาเพื่อสาธารณะ",
+            "course_name_en": "Public Anthropology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา ม.201 การใช้ความรู้ในทางมานุษยวิทยาเพื่อสร้างการเปลี่ยนแปลงทางสังคมในทางบวก ท้าทายการกดขี่ และความไม่เท่าเทียมรูปแบบต่างๆ ส่งเสริมการมีสิทธิและโอกาสที่เท่าเทียมกันของมนุษย์ทุกคน การมีส่วน ร่วมของนักมานุษยวิทยาต่อประเด็นปัญหาทางสาธารณะ",
+            "course_description_en": "Prerequisite : Have earned credits of AN201 Using anthropological knowledge to create positive social change; challenging forms of oppression and injustice; enhancing equal rights and opportunities for all people; contribution of anthropologies to public issues.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN428",
+            "th-abbr": "ม.428",
+            "course_name_th": "ไสยศาสตร์และพิธีกรรมในสังคมร่วมสมัย",
+            "course_name_en": "Magic and Ritual in Contemporary Society",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา ม.201 แนวคิดและปฏิบัติการทางความเชื่อ ไสยศาสตร์ สัญลักษณ์ และพิธีกรรมในสังคมไทยร่วมสมัยและ วัฒนธรรมเปรียบเทียบจากการสำรวจเอกสาร การสังเกตการณ์ และการวิเคราะห์ปรากฏการณ์ร่วมสมัย เข้าใจความหลากหลายทางความเชื่อ ความหมายทางสังคม วัฒนธรรม การเมือง เศรษฐกิจ และขบวนการ ทางสังคม",
+            "course_description_en": "Prerequisite : Have earned credits of AN201 Concepts and practices of magic and ritual in contemporary Thai society and comparative cultures; documents, observations and analysis of contemporary phenomena; understanding of multi-beliefs in socio-cultural meanings, politics, economic and social movement.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN429",
+            "th-abbr": "ม.429",
+            "course_name_th": "มานุษยวิทยาการแพทย์",
+            "course_name_en": "Medical Anthropology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบผ่านวิชา ม.201 สุขภาพ ความป่วยไข้วิธีการรักษา ตลอดจนผู้ทำการรักษาในสังคมต่างๆ ในระดับดั้งเดิม โดยเน้นถึง ปัญหาของความป่วยไข้ และการรักษาที่สัมพันธ์กันกับวัฒนธรรม",
+            "course_description_en": "Prerequisite : Have earned credits of AN201 Concepts to health and illness in cross-culture perspective; medical practitioners and treatment of illness in relation to cultural factors; implications of technological change for folk and scientific medicine.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN432",
+            "th-abbr": "ม.432",
+            "course_name_th": "วัฒนธรรมกลุ่มชาติพันธุ์ในเอเชียตะวันออกเฉียงใต้",
+            "course_name_en": "Cultures of Ethnic Groups in Southeast Asia",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เนื้อหาวัฒนธรรม รูปแบบสังคม ลักษณะความสัมพันธ์ การเปลี่ยนแปลง การ ผสมผสานทางวัฒนธรรมของกลุ่มชาติพันธุ์ต่างๆ ในภูมิภาคเอเชียตะวันออกเฉียงใต้",
+            "course_description_en": "Settlement history, cultural contents and forms of social relations, social changes and acculturation among ethnic groups in Southeast Asia Region.",
+            "prerequisite_courses": [
+                "ม.201"
+            ]
+        },
+        {
+            "course_code": "AN433",
+            "th-abbr": "ม.433",
+            "course_name_th": "วัฒนธรรมและสังคมเอเชียใต้",
+            "course_name_en": "Cultures and Societies of South Asia",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาจากรายงานการวิจัย หนังสือ และบทความหรือเอกสารทางมานุษยวิทยา โดยเน้นถึงการจัดระเบียบและการเปลี่ยนแปลงสถาบันต่างๆ ทาง เศรษฐกิจ การเมือง สังคม ศาสนา และสถาบันอื่นๆ เพื่อสร้างความเข้าใจสังคมและวัฒนธรรมในระดับ ภูมิภาค และเป็นพื้นฐานในการทำความเข้าใจสังคมและเปรียบเทียบกับสังคมอื่นอย่างกว้างขวาง",
+            "course_description_en": "Prerequisite : Have earned credits of AN201 Social structure and culture of countries in South Asia through ethnographic works, focusing on aspects of their social organisation and changes of economic, politic, social, religious and other institutions, aiming to understand regional societies and cultures, which will provide a basis to understand Thai society and compare with ither societies extensively.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN438",
+            "th-abbr": "ม.438",
+            "course_name_th": "ความหลากหลายทางสังคมและวัฒนธรรมกลุ่มชาติพันธุ์ไต",
+            "course_name_en": "Social and Cultural Diversity of Tai Ethnic Groups",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การจัดระเบียบและการเปลี่ยนแปลงสถาบันต่างๆ ทาง เศรษฐกิจ การเมือง สังคม ศาสนา และสถาบันสังคมอื่นๆ ของกลุ่มชาติพันธุ์ไตในระดับภูมิภาค",
+            "course_description_en": "Social organisations and changes of economic, political, social, religious and other institutions of Tai ethnic groups in the region.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN441",
+            "th-abbr": "ม.441",
+            "course_name_th": "โบราณคดีภาคสนาม",
+            "course_name_en": "Field Archaeology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 3,
+            "self_study_hours": 3,
+            "course_description_th": "การสำรวจภาคพื้นดิน การทำแผนที่ผังบริเวณ แหล่งโบราณคดีการใช้ภาพถ่ายทางอากาศ ภาพถ่ายดาวเทียม และการสำรวจระยะไกล เทคนิคและวิธีการ ขุดค้นทางโบราณคดีการบันทึกข้อมูล ระบบทะเบียนวัตถุ และจริยธรรมการทำงานภาคสนาม",
+            "course_description_en": "Techniques and field methods in archaeology including ground survey, site mapping and planning, interpreting aerial photographs and satellite images, and remote sensing. Techniques of archaeological excavations, data recording, artifact assessment, and ethic in archaeological fieldwork.",
+            "prerequisite_courses": [
+                "AN241"
+            ]
+        },
+        {
+            "course_code": "AN442",
+            "th-abbr": "ม.442",
+            "course_name_th": "โบราณคดีในประเด็นโลกร่วมสมัย",
+            "course_name_en": "Archaeology in Global Issues",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาและวิเคราะห์การเมืองในการสร้างและ ทำลายความรู้ทางประวัติศาสตร์-โบราณคดีสงคราม อคติด้านเชื้อชาติอำนาจ การค้า และการแข่งขัน สำรวจแนวคิดเกี่ยวกับมรดกโบราณคดีองค์กรระหว่างประเทศ และกฎหมายที่เกี่ยวข้อง",
+            "course_description_en": "Critical analyses of political reconstructions. Appraisal and dismissal in archaeology and history. Contest, conflict, bias, power and trade. Explore concepts of archaeological heritage, international laws and organisations.",
+            "prerequisite_courses": [
+                "AN241"
+            ]
+        },
+        {
+            "course_code": "AN443",
+            "th-abbr": "ม.443",
+            "course_name_th": "การวิจัยและการออกแบบนิทรรศการพิพิธภัณฑ์",
+            "course_name_en": "Museum Research and Exhibit Design",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การกำหนดแนวคิด จุดประสงค์และขอบเขตของเนื้อหาที่ จัดแสดง การรวบรวมข้อมูล การศึกษาภาคสนาม การวิเคราะห์ข้อมูลและการออกแบบนิทรรศการ รวมถึง กิจกรรมเผยแพร่อื่นๆ ประกอบการจัดนิทรรศการ ประเด็นทางจริยธรรมของการจัดแสดงและความ รับผิดชอบของพิพิธภัณฑ์",
+            "course_description_en": "theme setting, exhibition research, display technique and museum activities. Ethics for museum exhibitions and responsibilities of museum.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN444",
+            "th-abbr": "ม.444",
+            "course_name_th": "การบริการการศึกษาของพิพิธภัณฑ์",
+            "course_name_en": "Museum Education",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "รูปแบบต่างๆ ของการบริการ การศึกษา ขอบเขตและเนื้อหาของการบริการการศึกษาแก่ผู้ใช้บริการกลุ่มต่างๆ เทคโนโลยีและสิ่งอำนวย ความสะดวกในการบริการการศึกษาของพิพิธภัณฑ์ บทบาทของพิพิธภัณฑ์ในฐานะสถาบันการเรียนรู้ที่ ตอบสนองสังคม",
+            "course_description_en": "Prerequisite : Have earned credits of AN342 Concepts and practices of museum education; activities, techniques and facilities for museum education. Scope and theme of museum education for different audiences. Role of museum as educational institution and responses to social needs.",
+            "prerequisite_courses": [
+                "AN342"
+            ]
+        },
+        {
+            "course_code": "AN446",
+            "th-abbr": "ม.446",
+            "course_name_th": "สัมมนาประเด็นพิพิธภัณฑ์และมรดกวัฒนธรรมศึกษา",
+            "course_name_en": "Seminar in Museum and Heritage Studies",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การค้นคว้าและวิจัย ถกเถียงและโต้แย้ง ในประเด็นเฉพาะทางด้านพิพิธภัณฑ์และมรดกวัฒนธรรม ศึกษา ข้อวิพากษ์และข้อเสนอใหม่ทางทฤษฎีและวิธีวิทยา",
+            "course_description_en": "Exploration and research of current issues and debates in museum and cultural heritage studies. Critical analysis and current development in theory and methodology.",
+            "prerequisite_courses": [
+                "AN242",
+                "AN243"
+            ]
+        },
+        {
+            "course_code": "AN447",
+            "th-abbr": "ม.447",
+            "course_name_th": "เส้นทางการค้าและมรดกวัฒนธรรม",
+            "course_name_en": "Trade routes and Cultural Heritage",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เส้นทางสาย ไหมทางบกและทางทะเล มรดกสืบทอดของการค้าสมัยโบราณในทางวัฒนธรรม สังคม และเศรษฐกิจของ โลกปัจจุบัน",
+            "course_description_en": "Inland and martime silk roads. Heritage of ancient trade in cultures, societies and economy in contemporary world.",
+            "prerequisite_courses": [
+                "AN201"
+            ]
+        },
+        {
+            "course_code": "AN459",
+            "th-abbr": "ม.459",
+            "course_name_th": "ประเด็นเฉพาะทางมานุษยวิทยากายภาพ",
+            "course_name_en": "Special Issue in Physical Anthropology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การอภิปรายและศึกษาเชิงลึกในประเด็นที่เลือกสรรในมานุษยวิทยากายภาพ",
+            "course_description_en": "Discussion and in-depth study of selected issues in physical anthropology.",
+            "prerequisite_courses": [
+                "ม.251"
+            ]
+        },
+        {
+            "course_code": "SA110",
+            "th-abbr": "สม.110",
+            "course_name_th": "การอ่านและการเขียนสำหรับนักสังคมวิทยาและมานุษยวิทยา",
+            "course_name_en": "Reading and Writing for Sociologists and Anthropologists",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การอ่านจับใจความงานเขียนทางสังคมวิทยาและมานุษยวิทยา การแยกแยะและวิเคราะห์ข้อมูล ฝึกฝนการเขียนและการตั้งข้อสังเกตในประเด็นทางสังคมและวัฒนธรรม",
+            "course_description_en": "Comprehensive reading of sociological and anthropological literature. Deciphering data and modes of analysis in the text. Writing reflections and literature review.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SOC211",
+            "th-abbr": "สม.211",
+            "course_name_th": "ปรัชญาและวิธีวิทยาการวิจัยทางสังคม",
+            "course_name_en": "Philosophy and Methodology of Social Research",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิวัฒนาการและปรัชญาพื้นฐานในการวิจัยทางสังคม แนวคิดเรื่องทฤษฎีและความเป็นเหตุเป็นผล ข้อถกเถียงว่าด้วยความเป็นวิทยาศาสตร์ของสังคมศาสตร์ รวมถึงความเป็นกลางของสังคมศาสตร์ และวิธีการ วิจัยตามแนวปรัชญาต่างๆ รวมถึงจริยธรรมในการทำวิจัย",
+            "course_description_en": "Evolution and philosophy of social research. Theoretical concepts and logic of social sciences. Debates on the limitations of the scientific method in the social sciences. Value-free social sciences and research ethics.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SA222",
+            "th-abbr": "สม.222",
+            "course_name_th": "การละครแบบมีส่วนร่วมในฐานะเครื่องมือในการวิจัยเชิงปฏิบัติการ 1",
+            "course_name_en": "Participatory Theatre as an Action Research Tool I",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การวิจัยประยุกต์ซึ่งมีกระบวนการหาความรู้อย่างเป็นระบบเกี่ยวกับวิธีการแก้ไขเพื่อปรับปรุง สภาวะที่เป็นอยู่ของชุมชนหรือองค์กร กระบวนการหาคำตอบให้กับคำถามที่ตั้งไว้โดยสมาชิกในชุมชน องค์กร และผู้เชี่ยวชาญ การใช้ละครแบบมีส่วนร่วมอย่างมีประสิทธิผลในการเก็บข้อมูลและในการ เปลี่ยนแปลง เครื่องมือพื้นฐานของการละครของผู้ถูกกดขี่ ได้แก่ เกมสำหรับผู้ทำงานร่วมกับชุมชน สุนทรียศาสตร์ของผู้ถูกกดขี่ละครภาพนิ่ง การแสดงแบบด้นสด ละครหนังสือพิมพ์ และละครแทรกสด",
+            "course_description_en": "Applied systematic enquiry to improve existing conditions of communities or organisations. Process of action research conducted by the local and the professional to improve the conditions. Using participatory theatre as an effective tool to collect data and for transformative purposes. Fundamental tools of the Theatre of the Oppressed: theatre games for community, Aesthetics of the Oppressed, Image Theatre, impromptu performances, Newspaper Theatre and Forum Theatre.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SA 231",
+            "th-abbr": "สม.231",
+            "course_name_th": "ศาสนาในสังคมไทย",
+            "course_name_en": "Religions in Thai Society",
+            "course_type": "SA",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิเคราะห์ความเปลี่ยนแปลงและปฏิสัมพันธ์ของศาสนาหลักในสังคมไทย สำรวจความสัมพันธ์ ระหว่างศาสนาและสถาบันทางสังคมอื่นๆ ในสังคมไทย เช่น ความสัมพันธ์ระหว่างศาสนากับรัฐ การศึกษา เชิงอภิปรายเกี่ยวกับการปฏิบัติตามความเชื่อของผู้ที่เลื่อมใสในความเชื่อต่างๆ ในสังคมไทย ทฤษฎีทางสังคม วิทยาและมานุษยวิทยาในฐานะเครื่องมือในการทำความเข้าใจปรากฏการณ์ทางศาสนาในสังคมไทย",
+            "course_description_en": "Analysis of changes of main religions in Thai society and interactions among themselves. Exploring the relationship between faiths and other social institutions. Examples of the relationship between the Thai state and religions. Practices of faith believers as members of Thai society. Sociological and anthropological theories as a tool to understand religious phenomena in Thai society.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SA232",
+            "th-abbr": "สม.232",
+            "course_name_th": "ประเด็นร่วมสมัยในสังคมไทย",
+            "course_name_en": "Contemporary Issues in Thai Society",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิเคราะห์ประเด็นร่วมสมัยในสังคมไทยด้วยทฤษฎีทางสังคมวิทยาและมานุษยวิทยา ศึกษา สังคมไทยในภาพรวมจากหลายแง่มุม ทั้งการเมือง เศรษฐกิจ วัฒนธรรม โครงสร้างและความสัมพันธ์ทาง สังคม",
+            "course_description_en": "Analysis of contemporary Thai society through sociological and anthropological theories. Study Thai society in various aspects including its political and economic landscape, cultures, social structure and relations.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SA233",
+            "th-abbr": "สม.233",
+            "course_name_th": "พหุวัฒนธรรมนิยม",
+            "course_name_en": "Multiculturalism",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความเป็นมา ความหมาย และความหลากหลายของแนวคิดพหุวัฒนธรรมนิยม ประเด็นท้าทายและ วิพากษ์แนวคิดพหุวัฒนธรรมนิยม ความเกี่ยวโยงของแนวคิดพหุวัฒนธรรมนิยมกับแง่มุมต่างๆ ในสังคม เช่น เชื้อชาติชาติพันธุ์ ศาสนา และเพศภาวะ เน้นบริบทสังคมไทยเปรียบเทียบกับสังคมอื่น",
+            "course_description_en": "Background, meaning, and varieties of multiculturalism. Challenges and critiques of multiculturalism. Association of multiculturalism with various social aspects such as race, ethnicity, religion, and gender. Focusing on Thai society in comparison with other societies.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SA241",
+            "th-abbr": "สม.241",
+            "course_name_th": "เพศภาวะในสังคมสมัยใหม่",
+            "course_name_en": "Gender in Modern Society",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เพศภาวะประกอบสร้างขึ้นอย่างไรบ้างในสังคมสมัยใหม่สถาบันทางสังคม เช่น ครอบครัว สื่อ ศาสนา รวมถึงรัฐเอง เข้ามาเกี่ยวข้องกับการประกอบสร้างนี้อย่างไร เพศภาวะเกี่ยวพันกับอะไรในสังคมบ้าง และผูกโยงกับแง่มุมต่างๆ ในชีวิตเราแบบใด ศึกษาสังคมสมัยใหม่หลากหลายแห่ง เน้นสังคมไทย โดยใช้ มุมมองทางมานุษยวิทยาและสังคมวิทยา รวมถึงแนวคิดสตรีนิยม เพื่อสร้างความเข้าใจทางเพศภาวะ และ ตระหนักถึงความไม่เท่าเทียมทางเพศที่สามารถเปลี่ยนแปลงได้",
+            "course_description_en": "Gender and how it is constructed in modern society. Social institutions such as family, media, and religion, as well as the state, and their involvement in the gender construction. Gender and its relation to society, as well as its association to various aspects of our lives. Studying various modern societies, particularly Thai society. Using the lens of anthropology and sociology, including feminism. For the sake of understanding gender issues and recognising gender inequality, which can be changed.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SA313",
+            "th-abbr": "สม.313",
+            "course_name_th": "คอมพิวเตอร์โปรแกรมสำหรับการวิจัยทางสังคม",
+            "course_name_en": "Computer Programs for Social Research",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การใช้คอมพิวเตอร์โปรแกรมสำหรับการวิจัยทางสังคมในการวิจัยเชิงปริมาณและคุณภาพ การ บันทึกข้อมูล การจัดระเบียบข้อมูล การประมวลผลและการวิเคราะห์ข้อมูล การใช้โปรแกรมประยุกต์สำหรับ การวิจัยเชิงปริมาณ เช่น Microsoft Excel, Statistical Package for Social Sciences (SPSS), Minitab, STATA, SAS, R, AMOS, LISREL และคอมพิวเตอร์โปรแกรมสำหรับการวิจัยเชิงคุณภาพ เช่น NVIvo, ATLAS, Win MAX",
+            "course_description_en": "Computer programs for quantitative and qualitative research, data recording and processing, data manipulation, data processing and analysis, computer programs for applied quantitative research such as Microsoft Excel, Statistical Package for Social Sciences (SPSS), Minitab, STATA, SAS, R, AMOS, LISREL. Computer programs for applied qualitative research such as NVIvo, ATLAS, WinMAX.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SA314",
+            "th-abbr": "สม.314",
+            "course_name_th": "การบริหารจัดการข้อมูลขององค์การ",
+            "course_name_en": "Data Management for Organisation",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความหมายของข้อมูลและคลังข้อมูล โครงสร้าง การจัดเก็บ และการสงวนรักษาข้อมูลตาม มาตรฐานความมั่นคงและปลอดภัย การใช้เครื่องมือพื้นฐานในการจัดเก็บและบริหารข้อมูล การเขียน โปรแกรมที่ใช้ในการเก็บและเข้าถึงข้อมูล การสร้างระบบการบริหารจัดการฐานข้อมูล การใช้หนังสือและ ห้องสมุดอิเล็กทรอนิกส์",
+            "course_description_en": "Definitions of data and data warehouse. Structure, storage and the preservation of data under the data security standard. Basic tools for data storage and management. Programming for data storage and database access. Construction of database management system. Using of e-book and e-library.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SA315",
+            "th-abbr": "สม.315",
+            "course_name_th": "การวิเคราะห์ข้อมูลเชิงปริมาณสำหรับการวิจัยทางสังคม",
+            "course_name_en": "Quantitative data analysis for Social Research",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การวิเคราะห์ข้อมูลเชิงปริมาณสำหรับการวิจัยทางสังคม",
+            "course_description_en": "Quantitative data analysis for Social Research",
+            "prerequisite_courses": [
+                "SO216"
+            ]
+        },
+        {
+            "course_code": "SA321",
+            "th-abbr": "สม.321",
+            "course_name_th": "การสำรวจเอกสารภาษาอังกฤษทางสังคมวิทยาและมานุษยวิทยา",
+            "course_name_en": "Survey of English Literatures in Sociology and Anthropology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษางานเขียนที่เป็นภาษาอังกฤษของนักสังคมวิทยาและมานุษยวิทยา เพื่อให้นักศึกษาเข้าใจคำ มโนทัศน์ และแนวคิดพื้นฐาน",
+            "course_description_en": "Examination of literatures written by sociologists and anthropologists in order to familiarise students with terms, concepts and basic ideas in sociology and anthropology.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SA322",
+            "th-abbr": "สม.322",
+            "course_name_th": "การละครแบบมีส่วนร่วมในฐานะเครื่องมือในการวิจัยเชิงปฏิบัติการ 2",
+            "course_name_en": "Participatory Theatre as an Action Research Tool II",
+            "course_type": "",
+            "course_credit": 2,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "โครงการวิจัยเชิงปฏิบัติการที่ใช้เครื่องมือขั้นสูงของการละครแบบมีส่วนร่วมซึ่งได้รับการยอมรับจาก UNESCO อันได้แก่ละครแทรกสด ละครซ่อนบัญญัติ และสายรุ้งแห่งความปรารถนา",
+            "course_description_en": "Action research projects using advanced tools of participatory theatre approved by UNESCO as effectively transformative–e.g., Forum Theatre, Legislative Theatre and Rainbow of Desire.",
+            "prerequisite_courses": [
+                "SA222"
+            ]
+        },
+        {
+            "course_code": "SA331",
+            "th-abbr": "สม.331",
+            "course_name_th": "ขบวนการเคลื่อนไหวทางสังคมในมิติเพศภาวะ",
+            "course_name_en": "Social Movement in Gender Issues",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ขบวนการเคลื่อนไหวทางสังคมในฐานะปรากฏการณ์ของการรวมกลุ่มที่เกิดจากความขัดแย้งชุดใหม่ ที่ซับซ้อนอันเนื่องมาจากความแตกต่างด้านอัตลักษณ์ ลักษณะสำคัญของขบวนการเคลื่อนไหวทางสังคมที่มี พื้นฐานมาจากปัจจัยด้านเพศภาวะ การเมือง สังคม เศรษฐกิจ และวัฒนธรรม ที่มีอิทธิพลต่อพัฒนาการและ ความหลากหลายของขบวนการดังกล่าว",
+            "course_description_en": "Social movement as a phenomenon of the union of people from different identities due to the new complicated conflicts. Examining the character of social movements based on gender, political, social, economic and cultural factors which effect the developments and diversity among the movements.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SA411",
+            "th-abbr": "สม.411",
+            "course_name_th": "การออกแบบและการจัดการโครงการวิจัย",
+            "course_name_en": "Design and Management of Research Project",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เทคนิคการเขียนงานวิจัยทั้งการวิจัยเชิงปริมาณและการวิจัยเชิงคุณภาพ การบริหารเชิงกลยุทธ์และ การจัดสรรงบประมาณในโครงการวิจัยตามแผนการดำเนินการวิจัย การจัดทำข้อเสนอโครงการวิจัยเพื่อยื่น ขอในแหล่งเงินทุน การฝึกปฏิบัติออกแบบและจัดการโครงการวิจัย",
+            "course_description_en": "Research writing techniques in quantitative and qualitative research. Strategic management and budgeting for research projects. Research planning and writing research proposal for funding agencies. Practice of research design and project management.",
+            "prerequisite_courses": [
+                "SO310",
+                "SO312"
+            ]
+        },
+        {
+            "course_code": "SA417",
+            "th-abbr": "สม.417",
+            "course_name_th": "การศึกษาภาคสนามในต่างประเทศ",
+            "course_name_en": "Field Study in Foreign Countries",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 15,
+            "practice_hours": 30,
+            "self_study_hours": 6,
+            "course_description_th": "การศึกษาภาคสนามในมิติสังคม วัฒนธรรม เศรษฐกิจ และการเมือง วิถีชีวิตและโลกทัศน์ของผู้คน ในต่างประเทศ สำหรับนักศึกษาชั้นปีที่ 3",
+            "course_description_en": "Field study on social, cultural, economic, and political aspects. People’s ways of life and worldview in foreign countries for the third-year students.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SA418",
+            "th-abbr": "สม.418",
+            "course_name_th": "การวิจัยรายบุคคล (ฝึกปฏิบัติ)",
+            "course_name_en": "Individual Research (practice)",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 0,
+            "practice_hours": 6,
+            "self_study_hours": 3,
+            "course_description_th": "ฝึกปฏิบัติการวิจัยในประเด็นทางสังคมวิทยาหรือมานุษยวิทยาอย่างเป็นระบบ ตั้งแต่การพัฒนา หัวข้อและคำถามการวิจัย การเก็บรวบรวมข้อมูลภาคสนามหรือแหล่งข้อมูลทุติยภูมิการวิเคราะห์ตามกรอบ แนวคิดทฤษฎีการเรียบเรียงผลการศึกษาและเสนอเป็นรายงานวิจัยหรือบทความวิชาการ",
+            "course_description_en": "Practice of a systematic enquiry for sociological and anthropological research. Developing the research topic and research questions, collecting data from fieldwork or secondary sources, analyzing data based on conceptual/ theoretical framework, and writing research outcome as a comprehensive work of research paper or academic article.",
+            "prerequisite_courses": [
+                "SO310",
+                "SO312",
+                "AN310",
+                "SO401"
+            ]
+        },
+        {
+            "course_code": "SA420",
+            "th-abbr": "สม.420",
+            "course_name_th": "การฝึกประสบการณ์วิชาชีพ",
+            "course_name_en": "Internship Study",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 0,
+            "practice_hours": 9,
+            "self_study_hours": 0,
+            "course_description_th": "เงื่อนไขก่อนการลงทะเบียน 1. ศึกษาวิชาตามหลักสูตรและมีหน่วยกิตไม่น้อยกว่า 90 หน่วยกิต 2. มีอาจารย์ประจำคณะฯ ลงนามในเอกสารขออนุมัติการฝึกงานในฐานะ อาจารย์ที่ปรึกษาการฝึกงาน ซึ่งอาจารย์จะเป็นผู้พิจารณาคุณสมบัติของ นักศึกษาและหน่วยงาน 3. ในภาคเรียนที่มีการลงทะเบียนเรียนรายวิชานี้นักศึกษาต้องไม่ลงทะเบียน",
+            "course_description_en": "",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "",
+            "th-abbr": "",
+            "course_name_th": "",
+            "course_name_en": "",
+            "course_type": "วิชาตามหลักสูตรและมีหน่วยกิตไม่น้อยกว่า",
+            "course_credit": 0,
+            "lect_hours": 0,
+            "practice_hours": 0,
+            "self_study_hours": 0,
+            "course_description_th": "นักศึกษาใช้เวลาไม่น้อยกว่า 135 ชั่วโมง/ภาคการศึกษา ฝึกประสบการณ์วิชาชีพนอกห้องเรียนกับ หน่วยงานต่างๆ ได้แก่องค์กรพัฒนาเอกชน หน่วยงานราชการ หรือชุมชน หรือหน่วยงานอื่นใดโดยได้รับการ อนุมัติจากคณบดี เพื่อให้นักศึกษาได้นำความรู้ทางสังคมวิทยาและมานุษยวิทยาไปประยุกต์ใช้กับการ ปฏิบัติงาน ภายใต้คำแนะนำของอาจารย์ที่ปรึกษาฝึกงานและผู้บังคับบัญชาหรือบุคลากรที่ได้รับมอบหมายให้ ดูแลนักศึกษาในขณะที่ฝึกงานในหน่วยงานดังกล่าว",
+            "course_description_en": "A student must spend at least 135 hours per semester to undertake a significant experiential learning opportunity with a non-profit, governmental, or community-based organisation. (A proposed organisation must be approved by the Dean before students register for the course.) The purpose of this course is for students to apply the knowledge of sociology and anthropology into practices.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "TU121",
+            "th-abbr": "มธ.121",
+            "course_name_th": "มนุษย์ สังคม และวัฒนธรรม",
+            "course_name_en": "Man, Societies and Cultures",
+            "course_type": "วิชาตามหลักสูตรและมีหน่วยกิตไม่น้อยกว่า",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ลักษณะทั่วไปของสังคมมนุษย์ องค์ประกอบโครงสร้างและกระบวนการทางสังคม การ เปลี่ยนแปลง และวิวัฒนาการของสังคมอันเป็นผลจากการเปลี่ยนแปลงทางสิ่งแวดล้อม เทคโนโลยี และ ปัจจัยสำคัญอื่นๆ วิเคราะห์สังคมแบบต่างๆ เพื่อให้เห็นความสัมพันธ์ระหว่างองค์ประกอบต่างๆ ภายใน สังคม และความสัมพันธ์ระหว่างสังคมกับสิ่งแวดล้อม เสริมสร้างจริยธรรม จิตสำนึก และความรับผิดชอบ ต่อสังคมทั้งในระดับชาติ และระดับสากล",
+            "course_description_en": "To study general characteristics of human societies, elements of social structures and procedures, social changes and evolution resulting from such factors as environment, and technology, etc. To analyze various kinds of societies to find out the relationship among elements within each society, and the relationship between society and environment. To strengthen ethics and awareness on social responsibilities both in national and international levels.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SA240",
+            "th-abbr": "สม.240",
+            "course_name_th": "เพศภาวะและเพศวิถีในโลกร่วมสมัย",
+            "course_name_en": "Gender and Sexuality in Contemporary World",
+            "course_type": "วิชาตามหลักสูตรและมีหน่วยกิตไม่น้อยกว่า",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความเข้าใจเพศภาวะและเพศวิถีความหมาย ความสัมพันธ์กับชีวิตประจำวัน การประกอบสร้าง และการเปลี่ยนแปลงในโลกร่วมสมัย ศึกษาผ่านเหตุการณ์และปรากฏการณ์ร่วมสมัยในสังคม ใน หลากหลายสังคมวัฒนธรรม เชื่อมโยงกับสังคมวัฒนธรรมไทย โดยใช้มุมมองหลากหลายทั้งจาก มานุษยวิทยา สังคมวิทยา และสตรีนิยม",
+            "course_description_en": "Understanding gender and sexuality; their meanings, relation to everyday lives, construction and change in contemporary world. Studying through contemporary social events and phenomena in various cultures and societies, in association with Thai cultures and society. Using various perspectives from anthropology, sociology, and feminism.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SA242",
+            "th-abbr": "สม.242",
+            "course_name_th": "รักและความสัมพันธ์ใกล้ชิดในสังคมร่วมสมัย",
+            "course_name_en": "Love and intimacy in contemporary societies",
+            "course_type": "วิชาตามหลักสูตรและมีหน่วยกิตไม่น้อยกว่า",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความต่อเนื่องและการเปลี่ยนแปลงความหมายและปฏิบัติการของความรักและความสัมพันธ์ใกล้ชิด ในสังคมร่วมสมัย ผลของการเปลี่ยนแปลงทางเศรษฐกิจ โลกาภิวัตน์ ปัจเจกชนนิยม ทุนนิยม สื่อ เทคโนโลยี และนโยบายของรัฐที่มีต่อความสัมพันธ์ใกล้ชิด ความซับซ้อนของความรัก เพศสัมพันธ์ เพศสภาพ และเพศ วิถีในการก่อร่างครอบครัวและความสัมพันธ์ใกล้ชิด",
+            "course_description_en": "The continuity and changes of meanings and practices of love and intimacy in contemporary societies. The impact of economic changes, globalization, individualism, capitalism, mass media, technology, and government policies on intimate relationship. The complexity of love, sex, gender, and sexuality in structuring family and intimate relationships.",
+            "prerequisite_courses": []
+        }
+    ],
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "ณัฐจรี",
+            "lecture-last-name": "สุวรรณภัฏ",
+            "bachelor-degree": "สม.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "La Trobe University, Australia.",
+            "doctor-graduate-year": "2557",
+            "bachelor-graduate-year": "2541"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "อัครนัย",
+            "lecture-last-name": "ขวัญอยู่",
+            "bachelor-degree": "สม.บ.",
+            "doctor-degree": "สม.ม.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2559",
+            "bachelor-graduate-year": "2554"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "วิภาวี",
+            "lecture-last-name": "พงษ์ปิ่น",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "สม.ม.",
+            "bachelor-institute": "มหาวิทยาลัยศิลปากร",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2554",
+            "bachelor-graduate-year": "2550"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "บุญเลิศ",
+            "lecture-last-name": "วิเศษปรีชา",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยเกษตรศาสตร์",
+            "doctor-institute": "University of Wisconsin-Madison, U.S.A.",
+            "doctor-graduate-year": "2558",
+            "bachelor-graduate-year": "2538"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "อรอุมา",
+            "lecture-last-name": "เตพละกุล",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "M.Sc.",
+            "bachelor-institute": "มหาวิทยาลัยเกษตรศาสตร์",
+            "doctor-institute": "Asian Institute of Technology, Thailand",
+            "doctor-graduate-year": "2543",
+            "bachelor-graduate-year": "2541"
+        }
+    ]
+}

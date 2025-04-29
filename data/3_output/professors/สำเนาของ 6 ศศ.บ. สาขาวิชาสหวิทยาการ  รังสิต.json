@@ -1,0 +1,103 @@
+{
+    "professor": [
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "สายฝน",
+            "lecture-last-name": "สุเอียนทรเมธี",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Mie University, Japan",
+            "doctor-graduate-year": "2560",
+            "bachelor-graduate-year": "2540"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ปาณิศา",
+            "lecture-last-name": "วิชุพงษ์",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "Ph.D",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Nagoya University, Japan",
+            "doctor-graduate-year": "2559",
+            "bachelor-graduate-year": "2545"
+        },
+        {
+            "lecture-position": "ผู้ช่วย\nศาสตราจารย์",
+            "lecture-first-name": "สิทธิกร",
+            "lecture-last-name": "นิภพยะ",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "ศ.ม.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2546",
+            "bachelor-graduate-year": "2539"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ณัฏฐดา",
+            "lecture-last-name": "ศรีมุข",
+            "bachelor-degree": "บธ.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยหอการค้าไทย",
+            "doctor-institute": "สถาบัณบัณฑิตพัฒนบริหารศาสตร์",
+            "doctor-graduate-year": "2562",
+            "bachelor-graduate-year": "2529"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "วสิศ",
+            "lecture-last-name": "ลิ้มประเสริฐ",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยมหิดล",
+            "doctor-institute": "Heriot-Watt University",
+            "doctor-graduate-year": "2555",
+            "bachelor-graduate-year": "2547"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ธนัชพรรณ",
+            "lecture-last-name": "เพ็ชรรัตน์",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "วศ.ด.",
+            "bachelor-institute": "มหาวิทยาลัยวลัยลักษณ์",
+            "doctor-institute": "มหาวิทยาลัยมหิดล",
+            "doctor-graduate-year": "2563",
+            "bachelor-graduate-year": "2546"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "รุ่งนภา",
+            "lecture-last-name": "เทพภาพ",
+            "bachelor-degree": "สส.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Japan College of Social\nWork, Japan",
+            "doctor-graduate-year": "2560",
+            "bachelor-graduate-year": "2544"
+        },
+        {
+            "lecture-position": "ผู้ช่วย\nศาสตราจารย์",
+            "lecture-first-name": "อารีรัตน์",
+            "lecture-last-name": "อดิศัยเดชรินทร์",
+            "bachelor-degree": "สส.บ.",
+            "doctor-degree": "ศษ.ม.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยเชียงใหม่",
+            "doctor-graduate-year": "2554",
+            "bachelor-graduate-year": "2544"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "เทียนชัย",
+            "lecture-last-name": "สุริมาศ",
+            "bachelor-degree": "สส.บ.",
+            "doctor-degree": "ศศ.ม.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-graduate-year": "2558",
+            "bachelor-graduate-year": "2551"
+        }
+    ]
+}

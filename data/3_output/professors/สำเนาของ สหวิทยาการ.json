@@ -1,0 +1,202 @@
+{
+    "professor": [
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "พิทยา",
+            "lecture-last-name": "สุวคันธ์",
+            "bachelor-degree": "วท.บ",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "สถาบันเทคโนโลยีราชมงคลภาคตะวันออก",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2550",
+            "bachelor-graduate-year": "2536"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ชิตวร",
+            "lecture-last-name": "วราศิริพงศ์",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "Master",
+            "bachelor-institute": "มหาวิทยาลัยรามคำแหง",
+            "doctor-institute": "Yunnan University",
+            "doctor-graduate-year": "2554",
+            "bachelor-graduate-year": "2550"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "วาสนา",
+            "lecture-last-name": "ละอองปลิว",
+            "bachelor-degree": "ร.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "University of Durham",
+            "doctor-graduate-year": "2556",
+            "bachelor-graduate-year": "2542"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ธีรภัท",
+            "lecture-last-name": "ชัยพิพัฒน์",
+            "bachelor-degree": "ศษ.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยเชียงใหม่",
+            "doctor-institute": "มหาวิทยาลัยเชียงใหม่",
+            "doctor-graduate-year": "2562",
+            "bachelor-graduate-year": "2541"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "กนกวรรณ",
+            "lecture-last-name": "อู่ทองทรัพย์",
+            "bachelor-degree": "สม.ม",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัย ธรรมศาสตร์",
+            "doctor-institute": "Waseda University",
+            "doctor-graduate-year": "2555",
+            "bachelor-graduate-year": "2538"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ศิวริน",
+            "lecture-last-name": "เลิศภูษิต",
+            "bachelor-degree": "ร.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Waseda University",
+            "doctor-graduate-year": "2562",
+            "bachelor-graduate-year": "2542"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ถิรวัฒน์",
+            "lecture-last-name": "ตันทนิส",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "ค.ม.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "จุฬาลงกรณ์ มหาวิทยาลัย",
+            "doctor-graduate-year": "2545",
+            "bachelor-graduate-year": "2541"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ชัยยุทธ",
+            "lecture-last-name": "ถาวรานุรักษ์",
+            "bachelor-degree": "น.บ",
+            "doctor-degree": "นศ.ม.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2552",
+            "bachelor-graduate-year": "2547"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "วรดาภา",
+            "lecture-last-name": "พันธุ์เพ็ง",
+            "bachelor-degree": "ศศ.บ",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยเชียงใหม่",
+            "doctor-institute": "มหาวิทยาลัยเชียงใหม่",
+            "doctor-graduate-year": "2561",
+            "bachelor-graduate-year": "2550"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "โอฬาร",
+            "lecture-last-name": "รัตนภักดี",
+            "bachelor-degree": "อ.บ.",
+            "doctor-degree": "ค.ม.",
+            "bachelor-institute": "มหาวิทยาลัยศิลปากร",
+            "doctor-institute": "มหาวิทยาลัยศิลปากร",
+            "doctor-graduate-year": "2553",
+            "bachelor-graduate-year": "2543"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "โขมสี",
+            "lecture-last-name": "มีภักดี",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยศิลปากร",
+            "doctor-graduate-year": "2553",
+            "bachelor-graduate-year": "2533"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "เพ็ญศิริ",
+            "lecture-last-name": "พันพา",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "พช.ม",
+            "bachelor-institute": "มหาวิทยาลัยขอนแก่น",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2545",
+            "bachelor-graduate-year": "2536"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ยิ่งลักษณ์",
+            "lecture-last-name": "กาญจนฤกษ์",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "School of Earth and Environment, Uni versity of Leeds",
+            "doctor-graduate-year": "2557",
+            "bachelor-graduate-year": "2542"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "วัลลภ",
+            "lecture-last-name": "ทองอ่อน",
+            "bachelor-degree": "กศ.บ.",
+            "doctor-degree": "วท.ม.",
+            "bachelor-institute": "มหาวิทยาลัยศรีนครินทร วิโรฒ",
+            "doctor-institute": "มหาวิทยาลัย เชียงใหม่",
+            "doctor-graduate-year": "2535",
+            "bachelor-graduate-year": "2528"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "วรรณวนัช",
+            "lecture-last-name": "อรุณฤกษ์",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "ศศ.ม.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2559",
+            "bachelor-graduate-year": "2555"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "รัชภูมิ",
+            "lecture-last-name": "ปัญส่งเสริม",
+            "bachelor-degree": "ค.อ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
+            "doctor-institute": "Kyushu University, Japan",
+            "doctor-graduate-year": "2562",
+            "bachelor-graduate-year": "2543"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ธีรศักดิ์",
+            "lecture-last-name": "สะกล",
+            "bachelor-degree": "ค.อ.บ.",
+            "doctor-degree": "ค.อ.ด.",
+            "bachelor-institute": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
+            "doctor-institute": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
+            "doctor-graduate-year": "2563",
+            "bachelor-graduate-year": "2543"
+        },
+        {
+            "lecture-position": "หัวหน้างาน",
+            "lecture-first-name": "พิรุญ",
+            "lecture-last-name": "กองแปง",
+            "bachelor-degree": "ร.บ.",
+            "doctor-degree": "ศษ.บ.",
+            "bachelor-institute": "มหาวิทยาลัยสุโขทัยธรรมาธิราช",
+            "doctor-institute": "มหาวิทยาลัยเซนต์จอห์น",
+            "doctor-graduate-year": "2553",
+            "bachelor-graduate-year": "2547"
+        }
+    ]
+}

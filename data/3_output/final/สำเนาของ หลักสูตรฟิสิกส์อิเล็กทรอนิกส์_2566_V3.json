@@ -1,0 +1,954 @@
+{
+    "faculty_name_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+    "faculty_name_en": "Faculty of Science and Technology",
+    "curr-id": "25400051100393",
+    "cur-name-th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาฟิสิกส์อิเล็กทรอนิกส์",
+    "cur-name-en": "Bachelor of Science Program in Electronics Physics",
+    "degree-full-th": "วิทยาศาสตรบัณฑิต (ฟิสิกส์อิเล็กทรอนิกส์)",
+    "degree-full-en": "Bachelor of Science (Electronics Physics)",
+    "degree-abr-th": "วท.บ.",
+    "degree-abr-en": "B.Sc.",
+    "num-majors": [
+        "ไม่มี"
+    ],
+    "curr-type": "หลักสูตรปริญญาตรีทางวิชาการ",
+    "lang": "จัดการศึกษาเป็นภาษาไทย",
+    "collaboration": [
+        "เป็นหลักสูตรของสถาบันโดยเฉพาะ"
+    ],
+    "institution": [],
+    "organization": [],
+    "partner": 0,
+    "single-degree": "ให้ปริญญาเพียงสาขาวิชาเดียว",
+    "approve-date": "2566-05-25",
+    "first-open-term": "1/2566",
+    "careers": [
+        "ประกอบอาชีพเป็นนักวิทยาศาสตร์ นักวิจัย นักวิชาการ บุคลากรทางการศึกษา ในหน่วยงานของรัฐ รัฐวิสาหกิจ หรือหน่วยงานด้านอุตสาหกรรมของภาคเอกชน รวมทั้งเป็นผู้ประกอบการทางด้านวิทยาศาสตร์และเทคโนโลยี หรือบุคคลที่มีศักยภาพทางวิชาการด้านฟิสิกส์สำหรับศึกษาต่อในขั้นสูง"
+    ],
+    "campus": "รังสิต",
+    "expense-type": "โครงการปกติ",
+    "student-nation-id": "รับเฉพาะนักศึกษาไทย",
+    "admit-plan-yearly": 40,
+    "ผลลัพธ์การเรียนรู้ของหลักสูตร (PLOs)": {
+        "Knowledge": [
+            "อธิบายหลักการและทฤษฎีด้านวิทยาศาสตร์ คณิตศาสตร์ และเทคโนโลยีที่จำเป็นและเพียงพอต่อการนำไปใช้ในวิชาแกนของแต่ละหลักสูตร และ/หรือ ศึกษาต่อในระดับบัณฑิตศึกษา",
+            "บูรณาการหลักการและทฤษฎีด้านวิทยาศาสตร์ คณิตศาสตร์ และเทคโนโลยี สาขาต่างๆ และ/ หรือ บูรณาการเข้ากับศาสตร์อื่น เพื่อสังเคราะห์ และ/หรือ สร้างสรรค์องค์ความรู้ใหม่ และ/หรือ นวัตกรรม",
+            "อธิบายหลักการและทฤษฎีในวิชาแกนทางฟิสิกส์อิเล็กทรอนิกส์ที่จำเป็นและเพียงพอต่อการนำไปใช้ในโครงงานทางฟิสิกส์อิเล็กทรอนิกส์ หรือศึกษาต่อในระดับบัณฑิตศึกษา"
+        ],
+        "Skills": [
+            "ปฏิบัติงานด้านฟิสิกส์อิเล็กทรอนิกส์ และเทคโนโลยีได้อย่างเหมาะสมและปลอดภัย",
+            "เลือกเครื่องมือทางวิทยาศาสตร์ คณิตศาสตร์ และเทคโนโลยีได้อย่างเหมาะสมและถูกต้อง",
+            "ใช้ภาษาอังกฤษหรือภาษาต่างประเทศอื่น เพื่อการสืบค้นข้อมูลและสื่อสารได้อย่างเหมาะสม",
+            "วิเคราะห์และสังเคราะห์ความรู้จากแหล่งข้อมูลต่าง ๆ ที่หลากหลายได้อย่างถูกต้อง เพื่อนำไปสู่การวางแผนการทดลอง ออกแบบการทดลอง และ/หรือ สร้างสรรค์นวัตกรรม",
+            "คิดวิเคราะห์อย่างเป็นระบบและมีเหตุมีผลตามหลักการและวิธีการทางวิทยาศาสตร์",
+            "ประยุกต์ใช้หลักการและทฤษฎีทางฟิสิกส์ในการแก้ปัญหาที่ซับซ้อนทางฟิสิกส์หรือหลากหลายสาขาวิชา",
+            "ประยุกต์ความรู้ทางคณิตศาสตร์และสถิติ เพื่อการวิเคราะห์ ประมวลผล แก้ปัญหา และ/หรือ นำเสนอข้อมูลได้อย่างเหมาะสม",
+            "สามารถใช้เทคโนโลยีสารสนเทศในการสืบค้น เก็บรวบรวม วิเคราะห์ข้อมูล และ/หรือ สร้างการจำลองได้อย่างมีประสิทธิภาพและเหมาะกับสถานการณ์"
+        ],
+        "Ethics": [
+            "มีความซื่อสัตย์สุจริต",
+            "มีจิตสาธารณะ",
+            "มีจิตสำนึกและตระหนักในการปฏิบัติตามจรรยาบรรณทางวิชาการและวิชาชีพ"
+        ]
+    },
+    "max-years": 16,
+    "total-credits": 122,
+    "gen-ed-credits": 30,
+    "req-credits": 49,
+    "elec-credits": 18,
+    "intern-credits": 0,
+    "coop-credits": 0,
+    "courses": [
+        {
+            "course_code": "TU109",
+            "th-abbr": "มธ.109",
+            "course_name_th": "นวัตกรรมกับกระบวนคิดผู+ประกอบการ",
+            "course_name_en": "Innovation and Entrepreneurial Mindset",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การประเมินความเสี่ยงและการสร+างโอกาสใหมR การคิดและการวางแผนแบบผู+ประกอบการ การ ตัดสินใจและการพัฒนาธุรกิจ การสื่อสารเชิงธุรกิจและการสร+างแรงจูงใจอยRางมีประสิทธิภาพ การสร+างคุณคRารRวม เพื่อสังคม",
+            "course_description_en": "Risk assessment and creating new opportunities. Thinking and planning as an entrepreneur. Decision making and entrepreneurial venture development. Business communication for delivering concept or initiative in an efficient, effective and compelling manner. Social shared value creation.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "LAS101",
+            "th-abbr": "ศศ.101",
+            "course_name_th": "การคิด อ่าน และเขียนอย่างมีวิจารณญาณ",
+            "course_name_en": "Critical Thinking, Reading, and Writing",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "พัฒนาทักษะการคิดอย่างมีวิจารณญาณผ่านการตั้งคำถาม การวิเคราะห์ การสังเคราะห์ และ การประเมินค่า พัฒนาทักษะการอ่านเพื่อจับสาระสำคัญ เข้าใจจุดมุ่งหมาย ทัศนคติ สมมติฐาน หลักฐาน มคอ. & ฟิสิกส์อิเล็กทรอนิกส์ มธ. สนับสนุน การใช้เหตุผลที่นาไปสู่ข้อสรุปของงานเขียน พัฒนาทักษะการเขียนแสดงความคิดเห็นอย่างมีเหตุผลและ การเขียนเชิงวิชาการ รู้จักถ่ายทอดความคิด และเชื่อมโยงข้อมูลเข้ากับมุมมองของตนเอง รวมถึงสามารถอ้างอิง หลักฐานและข้อมูลมาใช้ในการสร้างสรรค์งานเขียนได้อย่างมีประสิทธิภาพ",
+            "course_description_en": "Development of critical thinking through questioning, analytical, synthetic and evaluation skills. Students learn how to read without necessarily accepting all the information presented in the text, but rather consider the content in depth, taking into account the objectives, perspectives, assumptions, bias and supporting evidence, as well as logic or strategies leading to the author’s conclusion. The purpose is to apply these methods to students’ own persuasive writing based on information researched from various sources, using effective presentation techniques.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EL105",
+            "th-abbr": "สษ.105",
+            "course_name_th": "ทักษะการสื่อสารทางภาษาอังกฤษ",
+            "course_name_en": "English Communication Skills",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "พัฒนาทักษะการสื่อสารทางภาษาอังกฤษด้านการฟัง พูด อ่าน และเขียน ฝึกการใช้ภาษา คำศัพท์ และสำนวนในบริบททางวิชาการและสังคม",
+            "course_description_en": "Development of English communication skills, including listening, speaking, reading and writing. Practice of language, vocabulary and expressions used in academic and social contexts.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SC123",
+            "th-abbr": "วท.123",
+            "course_name_th": "เคมีพื้นฐาน",
+            "course_name_en": "Fundamental Chemistry",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "โครงสร+างอะตอม ปริมาณสัมพันธJ พันธะเคมีสมบัติของธาตุเรพริเซนเททีฟและแทรนซิชัน แก°ส ของเหลว และสารละลาย ของแข็ง อุณหเคมีจลนพลศาสตรJ สมดุลเคมีกรด-เบส เคมีไฟฟ‹า",
+            "course_description_en": "Atomic structure, Stoichiometry, Chemical Bonds, Properties of representative and transition elements, Gases, Liquids and solutions, Solids, Thermochemistry, Chemical kinetics, Chemical equilibrium, Acids and bases and Electrochemistry",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "TU155",
+            "th-abbr": "มธ.155",
+            "course_name_th": "สถิติพื้นฐาน",
+            "course_name_en": "Elementary Statistics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ลักษณะปัญหาทางสถิติ ทบทวนสถิติเชิงพรรณนา ความน่าจะเป็น ตัวแปรสุ่มและการแจกแจงของตัวแปรสุ่ม ทวินาม ปัวซง และปกติ เทคนิคการชักตัวอย่างและการแจกแจงของตัวสถิติ การประมาณค่า และการทดสอบสมมุติฐาน เกี่ยวกับค่าเฉลี่ยประชากรกลุ่มเดียวและสองกลุ่ม การวิเคราะห์ความแปรปรวนจำแนกทางเดียว การวิเคราะห์การถดถอยและสหสัมพันธ์เชิงเส้นเชิงเดียว การทดสอบไคกำลังสอง",
+            "course_description_en": "To identify the Nature of statistical problems; review of descriptive statistics; probability; random variables and some probability distributions (binomial, poison and normal); elementary sampling and sampling distributions; estimation and hypotheses testing for one and two populations; one-way analysis of variance; simple linear regression and correlation; chi-square test.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "TU108",
+            "th-abbr": "มธ.108",
+            "course_name_th": "การพัฒนาและจัดการตนเอง",
+            "course_name_en": "Self-Development and Management",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การจัดการและการปรับเข้ากับชีวิตในรั้วมหาวิทยาลัยท่ามกลางความหลากหลายและเสรีภาพ การพัฒนาทักษะทางสังคมและความฉลาดทางอารมณ์ การเข้าใจตนเองและการวางแผนอนาคต การพัฒนาการเรียนรู้ตลอดชีวิต และกำรอยูร่วมกับผู้อื่นอย่างสงบสุขและเคารพซึ่งกันและกัน การดูแลสุขภาพแบบองค์รวม",
+            "course_description_en": "Coping with and adaptation to university life. Development of social skill and emotional intelligence. Self understanding and planning for the future. Personality and social etiquette. Learning to live harmoniously and respectfully with others and the society. Holistic healthcare.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "TU100",
+            "th-abbr": "มธ.100",
+            "course_name_th": "พลเมืองกับการลงมือแก+ป…ญหา",
+            "course_name_en": "Civic Engagement",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ปลูกฝ…งจิตสำนึก บทบาท และหน+าที่ความรับผิดชอบของการเป}นสมาชิกที่ดีของสังคมในฐานะ พลเมืองโลก ผRานกระบวนการหลากหลายวิธี เชRน การบรรยาย การอภิปรายกรณีศึกษาตRางๆ ดูงานเป}นต+น โดย นักศึกษาจะต+องจัดทำโครงการรณรงคJ เพื่อให+เกิดการรับรู+ หรือเกิดการเปลี่ยนแปลง ในประเด็นที่สนใจ",
+            "course_description_en": "Instillation of social conscience and awareness of one’s role and duties as a good global citizen. This is done through a variety of methods such as lectures, discussion of various case studies and field study outings. Students are required to organise a campaign to raise awareness or bring about change in an area of their interest.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EL296",
+            "th-abbr": "สษ.296",
+            "course_name_th": "ภาษาอังกฤษเชิงวิชาการสำหรับสาขาวิทยาศาสตรJ 1 3",
+            "course_name_en": "Academic English for Science Disciplines 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การพัฒนาทักษะการฟ…ง พูด อRาน เขียน ภาษาอังกฤษเชิงวิชาการด+านวิทยาศาสตรJ การฝŸกการ สรุป การให+คำจำกัดความ การอธิบายกระบวนการ การออกคำสั่ง การอธิบายความสัมพันธJระหวRางเหตุและผล และการอธิบายความสัมพันธJระหวRางความเหมือนและความตRาง",
+            "course_description_en": "Development of English listening, speaking, reading, and writing skills for scientific academic purposes. Practice of summarizing, giving definitions, describing processes, giving instructions, explaining cause and effect relationships, and describing compare and contrast relationships.",
+            "prerequisite_courses": [
+                "EL105"
+            ]
+        },
+        {
+            "course_code": "TU201",
+            "th-abbr": "มธ.201",
+            "course_name_th": "ความรู้ทางการเงินสำหรับบุคคล",
+            "course_name_en": "Financial Literacy for Individuals",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เรียนรู้พื้นฐานหลักการความสำคัญ และแนวทางวางแผนการเงินเพื่อเป้าหมายชีวิตการใช้เครื่องมือทางการเงิน รวมทั้งเทคนิคต่างๆ ประกอบด้วย เทคนิคการค้นหาตนเอง เทคนิคการวางแผนการเงินทั้งรู้หา รู้เก็บ รู้ใช้ และรู้ขยายดอกผล เทคนิคการจัดสรรเงินออมและการลงทุนแบบ DCA เทคนิคบริหารจัดการหนี้ เทคนิคการเพิ่มเงินออม เทคนิคในการวางแผนประหยัดภาษีเงินได้บุคคลธรรมดา ตลอดจนหลักการและความสำคัญของปรัชญาเศรษฐกิจพอเพียงต่อสังคมไทย เพื่อนำมาประยุกต์ใช้ในการดำรงชีวิต",
+            "course_description_en": "",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "TU238",
+            "th-abbr": "มธ.238",
+            "course_name_th": "พื้นฐานการใช+งานป…ญญาประดิษฐJ อินเตอรJเนทสรรพสิ่ง",
+            "course_name_en": "Basic AI & IoT",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "กระบวนการจัดการและการวิเคราะหJข+อมูลประเภทไมRมีโครงสร+างให+เป}นข+อมูลในแบบดิจิทัลทั้ง ในเชิงคุณภาพและปริมาณการประมวลผลข+อมูลแบบเชิงลึก อัลกอริทึมป…ญญาประดิษฐJและการประยุกตJใช+ อัลกอริทึมเพื่อการวิเคราะหJข+อมูลการนำข+อมูลที่ผRานกระบวนการวิเคราะหJไปใช+พัฒนาและสามารถเชื่อมโยงหรือ สRงข+อมูลถึงกันได+ด+วยอินเทอรJเน็ต โดยไมRต+องป‹อนข+อมูล การนำ Internet of Things (IoT) ไปประยุกตJใช+ในเชิง ลึกมากขึ้น หลักการทำงานของ IoT รRวมกับสภาพแวดล+อมและอุปกรณJอื่น และการเชื่อมตRออุปกรณJด+วยเครือขRาย ไร+สาย เพื่อผู+เรียนจะสามารถนาไปปรับใช+ได+อยRางถูกต+องและเกิดประโยชนJในชีวิตประจำวันตRอไป",
+            "course_description_en": "",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SC113",
+            "th-abbr": "วท.113",
+            "course_name_th": "ชีววิทยาทั่วไป",
+            "course_name_en": "General Biology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาชีววิทยาเบื้องต้นของพืชและสัตว์ เพื่อการดำรงชีวิตประจำวัน ศึกษาธรรมชาติ ตลอดจน หลักเกณฑ์ทางชีววิทยา รวมทั้งโครงสร้างและกระบวนการทำงานเพื่อการดำรงชีวิตของพืชและสัตว์ ตั้งแต่ระดับ มอเลกุล เซลล์ เนื้อเยื่อ ระบบ ถึงระดับชีวิต การทำงานของกรดนิวคลีอิคในการถ่ายทอดลักษณะทางพันธุกรรม พันธุศาสตร์ การเจริญพันธุ์ พฤติกรรมสัตว์ วิวัฒนาการ และนิเวศวิทยา",
+            "course_description_en": "Biological concepts of flora and fauna in daily life, principles, structures, and basic metabolic processes of organisms at molecular, cell, tissue, organ, system, and individual levels, structures, and functions of nucleic acids in genetic inheritance, genetics, reproduction, animal behavior, evolution, and ecology.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SC131",
+            "th-abbr": "วท.131",
+            "course_name_th": "ฟิสิกส์ 1",
+            "course_name_en": "Physics 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เวกเตอร์ ปริมาณทางกายภาพ ระบบหน่วย การเคลื่อนที่และกฎการเคลื่อนที่ของนิวตัน งาน พลังงาน โมเมนตัมและกฎการอนุรักษ์ การเคลื่อนที่แบบหมุน โมเมนตัมเชิงมุมและกฎการอนุรักษ์ สมดุล สภาพ ยืดหยุ่น กลศาสตร์ของไหล การแกว่งกวัด คลื่น เสียง ความร้อน อุณหภูมิ สมบัติทางความร้อนของวัสดุ อุณหพลศาสตร์ ทฤษฎีจลน์ของก๊าซ",
+            "course_description_en": "Vectors, physical quantities, systems of units, motion and Newton’s laws of motion, work, energy, momentum and the conservation law, rotational motion, angular momentum and the conservation law, equilibrium, elasticity, fluid mechanics, oscillations, waves, sound, heat, temperature, thermal properties of materials, thermodynamics, the kinetic theory of gases.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SC173",
+            "th-abbr": "วท.173",
+            "course_name_th": "ปฏิบัติการเคมีพื้นฐาน 1",
+            "course_name_en": "Fundamental Chemistry Laboratory",
+            "course_type": "",
+            "course_credit": 0,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "ปฏิบัติการเสริมความรู้ทางทฤษฎีวิชา วท. 123 Experiments related to the contents in SC 123",
+            "course_description_en": "",
+            "prerequisite_courses": [
+                "วท.123",
+                "SC123"
+            ]
+        },
+        {
+            "course_code": "SC181",
+            "th-abbr": "วท.181",
+            "course_name_th": "ปฏิบัติการฟิสิกส์ 1",
+            "course_name_en": "Physics Laboratory 1",
+            "course_type": "",
+            "course_credit": 1,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "ปฏิบัติการเกี่ยวกับ การวัดและความคลาดเคลื่อน กลศาสตร์ คลื่น และอุณหพลศาสตร์",
+            "course_description_en": "Laboratory practices involving measurement and errors, mechanics, waves and thermodynamics.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SC 182",
+            "th-abbr": "วท.182",
+            "course_name_th": "ปฏิบัติการฟิสิกส์ 2",
+            "course_name_en": "Physics Laboratory 2",
+            "course_type": "",
+            "course_credit": 2,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "ปฏิบัติการเกี่ยวกับ ไฟฟา แมเหล็ก ทัศนศาสตร์ และฟิสิกส์แผนใหม่",
+            "course_description_en": "Laboratory practices involving electricity, magnetism, optics and modern physics.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "MA111",
+            "th-abbr": "ค.111",
+            "course_name_th": "แคลคูลัสพื้นฐาน",
+            "course_name_en": "Fundamentals of Calculus",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "อุปนัยเชิงคณิตศาสตรJ ระบบจำนวนและฟ…งกJชันเบื้องต+น แคลคูลัสอนุพันธJและปริพันธJของ ฟ…งกJชันตัวแปรเดียว ลิมิต ความตRอเนื่อง อนุพันธJ และการประยุกตJอนุพันธJ ปฏิยานุพันธJ เทคนิคการหาปริพันธJ และการประยุกตJปริพันธJ ปริพันธJไมRตรงแบบ อนุกรม ทฤษฎีของเทยJเลอรJของฟ…งกJชันพื้นฐาน การหาปริพันธJเชิง ตัวเลขเบื้องต+น",
+            "course_description_en": "Mathematical induction, number systems and elementary functions, calculus of one variable functions, limit, continuity, the derivative and its applications, antiderivatives, techniques of integrations and its applications, improper integrals, series, Taylor’s Theorem for basic functions, numerical integration.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "MA112",
+            "th-abbr": "ค.112",
+            "course_name_th": "เรขาคณิตวิเคราะหJและแคลคูลัสประยุกตJ",
+            "course_name_en": "Analytic Geometry and Applied Calculus",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เรขาคณิตวิเคราะหJ พิกัดเชิงขั้ว พีชคณิตของเวกเตอรJในปริภูมิสามมิติ เส+น ระนาบ และผิวใน ปริภูมิสามมิติลิมิต ความตRอเนื่อง อนุพันธJ และปริพันธJของฟ…งกJชันคRาเวกเตอรJ แคลคูลัสของฟ…งกJชันคRาจริงหลาย ตัวแปรและการประยุกตJ ปริพันธJตามเส+นเบื้องต+น ปริพันธJตามผิว ทฤษฎีบทของเกาสJ กรีน และสโตกสJ การ วิเคราะหJฟูเรียรJและลาปลาซและการประยุกตJ",
+            "course_description_en": "Analytic geometry, polar coordinates, vector algebra in three dimensional space, line, plane and surface in three dimensional space, limit, continuity derivative and integral of vector valued functions, calculus of real- valued functions of several variables and theirs applications, introduction to line integrals, surface integrals, Gauss’s Theorem, Green’s Theorem and Stokes’ Theorem, Fourier and Laplace analysis and theirs applications.",
+            "prerequisite_courses": [
+                "MA111"
+            ]
+        },
+        {
+            "course_code": "PC202",
+            "th-abbr": "ฟ.202",
+            "course_name_th": "สมการเชิงอนุพันธJสำหรับนักฟdสิกสJ",
+            "course_name_en": "Differential Equations for Physicist",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "สมการเชิงอนุพันธJสามัญ ป…ญหาทางฟdสิกสJในรูปสมการเชิงอนุพันธJสามัญ สมการเชิงอนุพันธJเลอ จองดJและพหุนามเลอจองดJ สมการเชิงอนุพันธJเบสเซิลและฟ…งกJชันเบสเซิล ฟ…งกJชันพิเศษ สมการเชิงอนุพันธJยRอย ป…ญหาทางฟdสิกสJในรูปสมการเชิงอนุพันธJยRอย ป…ญหาคRาขอบ การแปลงลาปาซสำหรับการแก+ป…ญหาสมการเชิง อนุพันธJ",
+            "course_description_en": "Ordinary differential equations (ODE), physics problems involving ODE, Legendre differential equation and Legendre polynomials, Bessel differential equation and Bessel function, special functions, partial differential equations (PDE), physics problems involving PDE, boundary value problems, Laplace transform for solving differential equations.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "PC211",
+            "th-abbr": "ฟ.211",
+            "course_name_th": "กลศาสตรJ 1",
+            "course_name_en": "Mechanics 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การวิเคราะหJเวกเตอรJ เวกเตอรJแคลคูลัส เวกเตอรJโอเปอรJเรเตอรJ การแปลงพิกัด กฎของนิวตัน มวลและแรง การประยุกตJกฎของนิวตัน การแกวRงกวัดแบบเชิงเส+น เรโซแนนซJ กรอบอ+างอิงแบบไมRเฉื่อยและ กรอบอ+างอิงหมุน การเคลื่อนที่ภายใต+แรงโน+มถRวง ฟ…งกJชันพลังงานศักยJ วงโคจรและกฎของเคปเลอรJ พลังงานและ โมเมนตัม ของระบบอนุภาค การหมุนรอบแกนใน 1 มิติกลศาสตรJแบบลากรานจJและแฮมิลตัน",
+            "course_description_en": "Vector analysis, vector calculus, vector operators, coordinate transformations, Newton’s laws, mass and force, applications of Newton’s laws, linear oscillations, rasonance,non- initia and circular frame, motion under gravitational force, potential energy function, Kepler’s orbit and law, energy and momentum of a system of particles, 1-dimensional rotation, mechanics of Lagrange and Hamilton.",
+            "prerequisite_courses": [
+                "SC 131"
+            ]
+        },
+        {
+            "course_code": "PC331",
+            "th-abbr": "ฟ.331",
+            "course_name_th": "ทฤษฎีแมRเหล็กไฟฟ‹า 1",
+            "course_name_en": "Electromagnetic Theory 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ไฟฟ‹าสถิต ป…ญหาไฟฟ‹าสถิตที่มีเงื่อนไข ไดโพลและมัลติโพลไฟฟ‹า ไดอิเล็ก ตริก แมRเหล็กสถิต ไดโพลแมRเหล็ก สารแมRเหล็ก สมการแมกซJเวลลJ พลังงานแมRเหล็กไฟฟ‹า คลื่นแมRเหล็กไฟฟ‹า",
+            "course_description_en": "Vector analysis, electrostatics, boundary-value problems in electrostatics, electric dipoles and multipoles, dielectrics, magnetostatics, magnetic dipoles, magnetic materials, Maxwell’s equations, electromagnetic energy, electromagnetic waves.",
+            "prerequisite_courses": [
+                "วท.132"
+            ]
+        },
+        {
+            "course_code": "FOR190",
+            "th-abbr": "ฟอ.190",
+            "course_name_th": "การเรียนรู+เชิงแนวคิดเพื่อการสร+างสรรคJและนวัตกรรม 1",
+            "course_name_en": "Conceptual learning for creativity and innovation",
+            "course_type": "NP",
+            "course_credit": 0,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "นักศึกษาได+รับโจทยJที่ท+าทายเพื่อวัตถุประสงคJให+เกิดความคิดสร+างสรรคJในการสร+างนวัตกรรม โดยจะเน+นโจทยJที่ได+จากการพัฒนาการป…จจุบันและนวัตกรรมทำงด+านฟdสิกสJประยุกตJและอิเล็กทรอนิกสJที่ทันสมัย ซึ่งจะชRวยให+นักศึกษาสามารถหาวิธีการเรียนรู+เชิงแนวคิดในการสร+างนวัตกรรมได+ด+วยตนเองและตกผลึกความคิด เพื่อนำเสนอแนวคิดสำหรับผลเฉลยของป…ญหาตRอคณะกรรมการ โดยมีการวัดผลด+วยระดับ S หรือ U",
+            "course_description_en": "Challenge problems are given to students with the objective of enhancing and creating a road map of developing creative and innovative thoughts in their minds. Main focus is upon international current developments and trends of innovation in the field of applied physics or electronics. With the assistance of challenge problems, students can gain the methodology of conceptual learning by themselves and crystalize their ideas for the suggestion of the problems’ solutions to committee. Grades: S or U.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "NP210",
+            "th-abbr": "ฟอ.210",
+            "course_name_th": "อิเล็กทรอนิกสJเบื้องต+น",
+            "course_name_en": "Introduction to Electronics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 4,
+            "course_description_th": "ทฤษฎีเบื้องต+นเกี่ยวกับวงจร การวิเคราะหJวงจรไฟฟ‹ากระแสตรงและกระแสสลับ วงจรกรอง สัญญาณความถี่สารกึ่งตัวนำและรอยตRอพี-เอ็น วงจรไดโอด ทรานซิสเตอรJ วงจรขยายสัญญาณ แนะนำระบบ ดิจิทัล หลักการเบื้องต+นเกี่ยวกับลอจิกเกต ฟลิปฟลอป รีจิสเตอรJ วงจรนับ การสื่อสารระบบดิจิทัล",
+            "course_description_en": "Elementary circuit theory, analysis of DC and AC circuits, frequency filter circuits, semiconductors and p-n junction, diode circuits, transistors, amplifier circuits, digital systems, elementary principles of logic gates, flip-flops, registers, counting circuits, digital communications.",
+            "prerequisite_courses": [
+                "วท.132",
+                "วท.135"
+            ]
+        },
+        {
+            "course_code": "NP201",
+            "th-abbr": "ฟอ.201",
+            "course_name_th": "การโปรแกรมคอมพิวเตอร์เบื้องต้นสำหรับอิเล็กทรอนิกส์",
+            "course_name_en": "Introduction to Computer Programming for Electronics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักการพื้นฐานของการเขียนโปรแกรมคอมพิวเตอร์ แนวคิดเบื้องต้นของการแก้ปัญหา การออกแบบโปรแกรมและการพัฒนาอัลกอริทึมสำหรับงานด้านอิเล็กทรอนิกส์ เนื้อหาครอบคลุมไวยากรณ์และโครงสร้างของภาษา ชนิดของข้อมูล โครงสร้างการควบคุม โปรแกรมย่อยและการส่งผ่านค่าพารามิเตอร์ การทดสอบและการตรวจหาข้อผิดพลาดของโปรแกรม โดยเน้นการฝึกปฏิบัติด้วยการใช้ภาษาระดับสูง",
+            "course_description_en": "Introduction to computer programming, basic concepts of problem solving, programming design and algorithm development for electronic problems. Topics include syntax and structure of programming language, data type, control structure, procedure and parameter passing, testing, debugging and emphasis on practical exercise based on the use of a high level language.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "FOR202",
+            "th-abbr": "ฟอ.202",
+            "course_name_th": "การเขียนและการสื่อสารเชิงวิทยาศาสตร์",
+            "course_name_en": "Scientific Writing and Communications",
+            "course_type": "NP",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "บทความทางวิทยาศาสตร์ ฐานข้อมูลทางวิทยาศาสตร์ การสืบค้นบทความทางวิทยาศาสตร์และสิทธิบัตร การลอกเลียนและการผิดจริยธรรมทางวิชาการ การเขียนอ้างอิงและซอฟต์แวร์สำหรับจัดการ มคอ. & ฟิสิกส์อิเล็กทรอนิกส์ มธ. เอกสารอ้างอิง การเขียนรายงานเชิงวิทยาศาสตร์ การนำเสนองานวิจัย การใช้โปรแกรมเลเท็กซ์สำหรับเขียนงานเชิงวิทยาศาสตร์",
+            "course_description_en": "Scientific literature, scientific databases, scientific literature and patent searching, plagiarism and unethical practices in academics, citation, and citation management software, writing scientific reports, research presentation, using LaTeX for scientific writing.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "NP211",
+            "th-abbr": "ฟอ.211",
+            "course_name_th": "แอนะล็อกอิเล็กทรอนิกสJ",
+            "course_name_en": "Analog Electronics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 4,
+            "course_description_th": "ลักษณะสมบัติกระแส-แรงดันและแบบจำลองของอุปกรณJอิเล็กทรอนิกสJ วงจรขยายทรานซิสเตอรJแบบตRางๆ การ ไบอัสไบโพลารJทรานซิสเตอรJ การวิเคราะหJวงจรขยายสำหรับสัญญาณขนาดเล็กที่ใช+ทรานซิสเตอรJ ผลตอบสนอง เชิงความถี่ของวงจรขยายสำหรับสัญญาณขนาดเล็กที่ใช+ทรานซิสเตอรJ การไบอัสฟ`ลดJเอฟเฟคทJทรานซิสเตอรJ ออป-แอมปªเบื้องต+นและการประยุกตJใช+งาน",
+            "course_description_en": "Current-voltage characteristics of electronic devices and their models, transistor amplifier circuits, bi-polar transistor biasing, analysis of small signal transistor amplifier, frequency response of small signal linear amplifier, field-effect transistor biasing, elementary op-amp and its applications.",
+            "prerequisite_courses": [
+                "NP210"
+            ]
+        },
+        {
+            "course_code": "NP212",
+            "th-abbr": "ฟอ.212",
+            "course_name_th": "ดิจิทัลอิเล็กทรอนิกสJ",
+            "course_name_en": "Digital Electronics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 4,
+            "course_description_th": "ระบบจำนวน พีชคณิตบลูลีน การลดรูปโครงขRายตรรกะ วงจรเลขคณิต การวิเคราะหJและ ออกแบบโครงขRายซิงโครนัสซีเควนเชียล รีจิสเตอรJและวงจรนับ วงจรสัญญาณนา³ิกา วงจรแปลง A/D และ D/A",
+            "course_description_en": "Number system, boolean algebra, minimization of logic networks, arithmetic circuits, analysis and design of synchronous sequential networks, registers and counter circuits, multivibrator circuits, A/D and D/A converter circuits.",
+            "prerequisite_courses": [
+                "NP210"
+            ]
+        },
+        {
+            "course_code": "NP213",
+            "th-abbr": "ฟอ.213",
+            "course_name_th": "ระบบไมโครคอนโทรลเลอรJ",
+            "course_name_en": "Microcontroller System",
+            "course_type": "NP",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 4,
+            "course_description_th": "วิชาบังคับกRอน : เคยศึกษา ฟอ.210 Prerequisite : Have taken NP210 มคอ. & ฟิสิกส์อิเล็กทรอนิกส์ มธ. ไมโครโพรเซสเซอรJเบื้องต+น โครงสร+างของไมโครโพรเซสเซอรJ สถาป…ตยกรรมภายในของ ไมโครคอนโทรลเลอรJ หนRวยความจำ ขนาดของบัส รีจิสเตอรJและกำรอ+างแอดเดรส พอรJตแบบขนานและอนุกรม โครงสร+างการขัดจังหวะ ไทมJเมอรJและตัวนับ การเชื่อมตRออุปกรณJอินพุตและเอาตJพุต และการประยุกตJใช+งาน ไมโครคอนโทรลเลอรJในระบบควบคุม",
+            "course_description_en": "Introduction to microprocessors, structure of microprocessor, internal architecture of the microcontroller, memories, bus size, register and addressing modes, parallel and serial ports, interrupt concept, timer and counter, input- output interfaces, and application of microcontrollers in controlling system.",
+            "prerequisite_courses": [
+                "NP210"
+            ]
+        },
+        {
+            "course_code": "NP214",
+            "th-abbr": "ฟอ.214",
+            "course_name_th": "ระบบไมโครคอนโทรลเลอรJ",
+            "course_name_en": "Microcontroller System",
+            "course_type": "",
+            "course_credit": 2,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 4,
+            "course_description_th": "แนะนำภาษาระดับสูงสำหรับไมโครคอนโทรลเลอรJ การสื่อสารอนุกรมแบบ SPI และ I 2 C การ เขียนโปรแกรมควบคุมอุปกรณJไร+สาย การออกแบบไมโครคอนโทรลเลอรJสำหรับงาน Internet of Things และการประยุกตJใช+งานไมโครคอนโทรลเลอรJโดยใช+การเชื่อมตRอกับแอนดรอยดJ",
+            "course_description_en": "Introduction to high level language for microcontrollers, SPI and I2C serial communication, wireless devices programming, microcontroller design for internet of things, and microcontroller applications using android interface.",
+            "prerequisite_courses": [
+                "NP213"
+            ]
+        },
+        {
+            "course_code": "NP215",
+            "th-abbr": "ฟอ.215",
+            "course_name_th": "วิธีการเชิงคำนวณสำหรับงานวิจัยเชิงวิทยาศาสตรJ",
+            "course_name_en": "Computational Methods for Scientific Research",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 4,
+            "course_description_th": "แนะนำเบื้องต+นภาษาโปรแกรมระดับสูงที่เป}นโอเพนซอรJซ ซึ่งมาพร+อมกับเครื่องมือคำนวณทาง วิทยาศาสตรJ พัฒนาอัลกอริทึมและออกแบบโปรแกรมเพื่อควบคุมเครื่องมือทางวิทยาศาสตรJ นำเสนอข+อมูลเป}น ภาพ และการวิเคราะหJข+อมูล สำหรับงานวิจัยทางวิทยาศาสตรJ",
+            "course_description_en": "Introduction of open-source high-level programming languages equipped with comprehensive scientific computing tools, developing algorithms, and designing programmes in scientific instrument control, data visualization and data analysis for scientific research.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "NP300",
+            "th-abbr": "ฟอ.300",
+            "course_name_th": "วิทยาศาสตร์และเทคโนโลยีควอนตัม",
+            "course_name_en": "Quantum Science and Technology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดของกลศาสตร์ควอนตัม สัจพจน์ของกลศาสตร์ควอนตัม สมการชโรดิงเจอร์ ปัญหาในหนึ่งมิติของระบบที่ถูกกักขังและไม่กักขัง โมเมนตัมเชิงมุมและสปินของอิเล็กตรอน อะตอมไฮโดรเจน ควอนตัมเซนเซอร์ ควอนตัมคอมพิวเตอร์ และการสื่อสารเชิงควอนตัม",
+            "course_description_en": "Concepts of quantum mechanics, postulates of quantum mechanics, Schrödinger equation, one dimension problem of free particles and trapped particles, angular momentum and spin of electron, hydrogen atom, quantum sensor, quantum computer, quantum communication.",
+            "prerequisite_courses": [
+                "วท.132",
+                "มคอ."
+            ]
+        },
+        {
+            "course_code": "NP301",
+            "th-abbr": "ฟอ.301",
+            "course_name_th": "ฟิสิกส์ของอุปกรณ์สารกึ่งตัวนำสำหรับอิเล็กทรอนิกส์",
+            "course_name_en": "Physics of Semiconductor Devices for Electronics",
+            "course_type": "NP301",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทฤษฎีแถบพลังงาน คุณสมบัติทางอิเล็กทรอนิกส์สำหรับวัสดุสารกึ่งตัวนำ ปรากฏการณ์การกลับมารวมตัวกันใหม่ ไดโอดรอยตอพีเอ็น ผิวสัมผัสระหว่างโลหะกับสารกึ่งตัวนำ ไบโพลาร์ทรานซิสเตอร์ อุปกรณ์โลหะออกไซด์-สารกึ่งตัวนำ",
+            "course_description_en": "Band energy theory, electronic properties of semiconductor materials, recombination phenomena, P-N junction diode, metal-semiconductor contact, bipolar transistor, Metal-Oxide Semiconductor (MOS) devices",
+            "prerequisite_courses": [
+                "NP300"
+            ]
+        },
+        {
+            "course_code": "NP310",
+            "th-abbr": "ฟอ.310",
+            "course_name_th": "เทคนิคการเชื่อมตRอไมโครคอมพิวเตอรJ",
+            "course_name_en": "Microcomputer Interfacing Techniques",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 4,
+            "course_description_th": "การเขียนภาษาระดับสูงในการควบคุมฮารJดแวรJและเซ็นเซอรJ พื้นฐานการออกแบบวงจรเชื่อมตRอ สำหรับการประยุกตJใช+งานไมโครคอมพิวเตอรJเพื่อควบคุมอุปกรณJภายนอกผRานทางพอรJตคอมพิวเตอรJ การประยุกตJใช+งานไมโครคอมพิวเตอรJเพื่อควบคุมอุปกรณJอินพุต เอาตJพุต และเซ็นเซอรJ",
+            "course_description_en": "High level language programming in controlling the hardware and sensors, the principles of interfacing circuit design for applying the microcomputer to control the peripheral devices via computer ports, application of the microcomputer for controlling the input/output devices and sensors.",
+            "prerequisite_courses": [
+                "NP210"
+            ]
+        },
+        {
+            "course_code": "NP390",
+            "th-abbr": "ฟอ.390",
+            "course_name_th": "สัมมนา 1",
+            "course_name_en": "Seminar",
+            "course_type": "",
+            "course_credit": 0,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "วิชาบังคับกRอน : เป}นนักศึกษาตั้งแตRชั้นป`ที่ 3 ขึ้นไป หัวข+อการสัมมนาครอบคลุมเนื้อหาวิชาทำงด+านฟdสิกสJประยุกตJ หรืออิเล็กทรอนิกสJ นักศึกษา ต+องเสนอหัวข+อสัมมนาที่เหมาะสมและผRานการเห็นชอบจากสาขาวิชาฯ เพื่อบรรยายในที่สัมมนาพร+อมทั้งสRง รายงานตามเวลาที่สาขาวิชาฯ กำหนด",
+            "course_description_en": "Seminar topics include subject matters in applied physics or electronics. Students are required to offer appropriate seminar topics. Upon the approval of the department, each student is required to give a lecture and submit a report on the approved topic.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "NP391",
+            "th-abbr": "ฟอ.391",
+            "course_name_th": "โครงงานพิเศษ 1",
+            "course_name_en": "Special Project 1",
+            "course_type": "",
+            "course_credit": 1,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "โครงงานของนักศึกษาแต่ละคนจะเกี่ยวข้องกับการศึกษาและวิจัยทางฟิสิกส์ประยุกต์หรืออิเล็กทรอนิกส์ โดยมีวัตถุประสงค์ให้นักศึกษาค้นคว้าทางวิชาการ เขียนรายงาน และจัดทำข้อเสนอโครงงานต่อคณะกรรมการ ภายใตการควบคุมดูแลโดยอาจารย์ วัดผลด้วยระดับ S หรือ U",
+            "course_description_en": "A student project involving a study and research in a field of applied physics or electronics. This course prepares students for developing a proposal for doing research, writing research papers and presenting the proposal to the committee. Grades : S or U.",
+            "prerequisite_courses": [
+                "Third-year standing or higher"
+            ]
+        },
+        {
+            "course_code": "NP392",
+            "th-abbr": "ฟอ.392",
+            "course_name_th": "การฝึกงาน 1",
+            "course_name_en": "Training 1",
+            "course_type": "",
+            "course_credit": 1,
+            "lect_hours": 0,
+            "practice_hours": 0,
+            "self_study_hours": 0,
+            "course_description_th": "นักศึกษาต้องฝึกงานในภาคฤดูร้อนในหน่วยงานหรือโรงงานที่ภาควิชาฯ เห็นชอบ เป็นเวลาไม่น้อยกว่า 180 ชั่วโมง เพื่อให้นักศึกษาได้ฝึกปฏิบัติงานจริงและได้รับประสบการณ์จากการฝึกงาน การประเมินผลโดย นักศึกษาต้องส่งรายงานและสอบปากเปล่า วัดผลด้วยระดับ S หรือ U",
+            "course_description_en": "A summer training in an appropriate organization or a factory approved by the Physics department. A minimum of 180 hours is required for each student in the training. Students will participate in relevant practical works and gain hands on experiences in real situations. Assessment : each student is required to submit a written report on the acquired training and gives an oral presentation. Grades : S or U.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "NP490",
+            "th-abbr": "ฟอ.490",
+            "course_name_th": "โครงงานพิเศษ 2",
+            "course_name_en": "Special Project 2",
+            "course_type": "NP",
+            "course_credit": 3,
+            "lect_hours": 0,
+            "practice_hours": 9,
+            "self_study_hours": 0,
+            "course_description_th": "ศึกษาหัวข้อที่ได้ศึกษาในวิชา ฟ.391 ให้ลึกซึ้งกว้างขวางยิ่งขึ้น ดำเนินงานการวิจัยตามโครงงานพิเศษ 1 เขียนรายงาน และนำเสนอต่อคณะกรรมการ ภายใต้อการควบคุมดูแลโดยอาจารย์ วัดผลด้วยระดับ S หรือ U และนักศึกษาสามารถนำผลงานจากการเข้าร่วมแข่งขันในเวทีระดับสถาบัน ระดับชาติหรือระดับนานาชาติ การจดอนุสิทธิบัตร สิทธิบัตร หรือขึ้นทะเบียนทรัพย์สินทางปัญญามาเทียบโอนเพื่อรับหน่วยกิตได้ ภายใต้อดุลยพินิจของคณะกรรมการ",
+            "course_description_en": "Study the topics proposal in NP 391 in details, implement the proposed idea, operation research as a special project 1, write papers and present results to the committee. Grades : S or U. Students can use the works from participating in the competition at the institution, national or international level, Petty patents, patents or intellectual property registration to receive the credits under the discretion of the committee.",
+            "prerequisite_courses": [
+                "NP391"
+            ]
+        },
+        {
+            "course_code": "NP206",
+            "th-abbr": "ฟอ.206",
+            "course_name_th": "ระบบและการประมวลสัญญาณ",
+            "course_name_en": "Systems and Signal Processing",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนะนำเบื้องต้นระบบและสัญญาณ ระบบเชิงเส้นและคอนโวลูชัน การวิเคราะห์ระบบและ สัญญาณด้วย อนุกรมฟูเรียร์และการแปลงฟูเรียร์ การแปลงลาปลาซ และการแปลงแซด การสุ่มตัวอย่างสัญญาณ ระบบควบคุมและระบบป้อนกลับ",
+            "course_description_en": "Introduction to systems and signals, linear systems and convolution, system and signal analysis using the Fourier series and Fourier transformation, the Laplace transform, and the z-transform, signal sampling, control system and feedback system",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "NP207",
+            "th-abbr": "ฟอ.207",
+            "course_name_th": "กระแสสปdน",
+            "course_name_en": "Spin Current",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนะนำความรู+เกี่ยวกับการสร+างกระแสสปdนบริสุทธิ์ ที่เกิดจากความร+อน (spin Seebeck effect), คลื่นไมโครเวฟ (spin pumping), การถRายเทแรงสปdน (spin transfer toque) และวิธีอื่น ๆ โดยอธิบาย หลักการทางฟdสิกสJของการกำเนิดกระแสสปdนบริสุทธิ์ด+วยความรู+พื้นฐานทางฟdสิกสJ",
+            "course_description_en": "Introduction to the generation of pure spin current which is created by heat, microwave, spin transfer toque and etc., Explanation of physics principle on the origin of creating pure spin current by knowledge of physics",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "NP216",
+            "th-abbr": "ฟอ.216",
+            "course_name_th": "การออกแบบวงจรด+วยคอมพิวเตอรJ",
+            "course_name_en": "Computer-Aided Circuit Design",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 4,
+            "course_description_th": "แนวความคิดพื้นฐานของกระบวนออกแบบวงจร การสร+างแบบจำลองและการจำลอง การใช+ เครื่องมือเชิงคอมพิวเตอรJชRวยออกแบบ เชRน โปรแกรม Protel, OrCAD, Eagle หรือ Pspice การออกแบบและ วิเคราะหJวงจรด+วยโปรแกรมคอมพิวเตอรJ ตัวอยRางของการประยุกตJใช+งานการออกแบบวงจรด+วยการใช+ คอมพิวเตอรJชRวย",
+            "course_description_en": "Basic concepts of circuit design process, modeling and simulation, use of computer-aidded design tools such as Protel, OrCAD, Eagle, or Pspice, circuit design and analysis with computer programming, example of computer-aided circuit design applications.",
+            "prerequisite_courses": [
+                "NP211"
+            ]
+        },
+        {
+            "course_code": "NP217",
+            "th-abbr": "ฟอ.217",
+            "course_name_th": "การออกแบบเครื่องมือสำหรับการตรวจสอบแบบไมRทำลาย",
+            "course_name_en": "Instrument Design for Nondestructive Testing",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 4,
+            "course_description_th": "แนะนำวิธีการและการประยุกตJใช+การตรวจสอบแบบไมRทำลายในอุตสาหกรรม ได+แกR วิธีการ ตรวจพินิจ การทดสอบด+วยคลื่นความถี่สูง การถRายภาพความร+อน และการตรวจสอบด+วยคลื่นแมRเหล็กไฟฟ‹า อธิบายหลักการทางฟdสิกสJของวิธีการตรวจสอบแบบไมRทำลายดังกลRาว การออกแบบเครื่องมือสำหรับการ ตรวจสอบแบบไมRทำลายโดยใช+ความรู+ทางฟdสิกสJและอิเล็กทรอนิกสJ",
+            "course_description_en": "Introduction to methods and applications of nondestructive testing in industries such as visual testing, ultrasound testing, thermographic inspection, and electromagnetic testing, Explanation of physical principles of the nondestructive testing methods, designs of the nondestructive testing instruments using physics and electronics knowledge.",
+            "prerequisite_courses": [
+                "NP210"
+            ]
+        },
+        {
+            "course_code": "NP218",
+            "th-abbr": "ฟอ.218",
+            "course_name_th": "ตัวตรวจวัดและทรานสดิวเซอรJ",
+            "course_name_en": "Sensors and Transducers",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 4,
+            "course_description_th": "ความรู+เบื้องต+นเกี่ยวกับตัวตรวจวัดและทรานสดิวเซอรJยุคใหมR กระบวนการทางสัญญาณและวงจร อิเล็กทรอนิกสJที่เกี่ยวข+อง คุณสมบัติทางฟdสิกสJของตัวตรวจวัดแบบตRาง ๆ พื้นฐานการออกแบบและการเลือกใช+ตัว ตรวจวัดและทรานสดิวเซอรJแบบตRาง ๆ ในระบบวัดและควบคุม",
+            "course_description_en": "An introduction to the principles of modern-day sensors and transducers, signal processing and electronic circuits, physical properties of sensors, the fundamentals of modeling, selecting, and using various sensors and transducers for measurement and control systems.",
+            "prerequisite_courses": [
+                "NP210"
+            ]
+        },
+        {
+            "course_code": "NP 219",
+            "th-abbr": "ฟอ.219",
+            "course_name_th": "เมคาทรอนิกสJ",
+            "course_name_en": "Mechatronics",
+            "course_type": "NP",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 4,
+            "course_description_th": "วิชาบังคับกRอน : เคยศึกษา ฟอ.210 แนวคิดการออกแบบเบื้องต+น เครื่องกล การวิเคราะหJทางไคเนแมติกเบื้องต+น เซนเซอรJ แอคทูเอ เตอรJ การปรับแตRงสภาพเงื่อนไขสัญญาณ สถาป…ตยกรรมคอมพิวเตอรJ ระบบจัดการข+อมูล ซอฟทJแวรJควบคุมระบบ ภาระที่มอบหมายให+ทำงานและโครงงาน",
+            "course_description_en": "Basic designing concept, mechanisms, basic kinematic analysis, sensors, actuators, signal conditioning, computer architecture, data acquisition system, control software system, assignments, and projects.",
+            "prerequisite_courses": [
+                "ฟอ.210",
+                "NP 210"
+            ]
+        },
+        {
+            "course_code": "NP306",
+            "th-abbr": "ฟอ.306",
+            "course_name_th": "ออปโตอิเล็กทรอนิกสJ",
+            "course_name_en": "Optoelectronics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทัศนศาสตรJเบื้องต+น ทRอนำแสงและเส+นใยนำแสง ฟdสิกสJของสารกึ่งตัวนำ ฟdสิกสJของ ไดโอดเปลRงแสง เลเซอรJและอุปกรณJบนพื้นฐานของการเปลRงแสงแบบถูกกระตุ+น ตัวตรวจวัดแสงและตรวจวัดภาพ มอดูเลชันเชิงแสง การสื่อสารเชิงแสง",
+            "course_description_en": "Optics, optical waveguides and fibers, semiconductor physics, physics of light- emitting diodes, lasers, and stimulated emission devices, photodector and image sensors, optical modulation, optical communication.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "NP307",
+            "th-abbr": "ฟอ.307",
+            "course_name_th": "เทคโนโลยีนวัตกรรมตัวตรวจวัด",
+            "course_name_en": "Innovative Sensor Technology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "นำเสนอเทคโนโลยีของนวัตกรรมตัวตรวจวัดแบบใหมRที่กำลังเป}นที่สนใจและกำลังพัฒนา อธิบาย แนวคิดในการ บูรณาการหลักการทางฟdสิกสJ อิเล็กทรอนิกสJ และการเขียนโปรแกรมควบคุมเพื่อพัฒนานวัตกรรม ระบบตัวตรวจวัดสำหรับใช+เป}นตัวตรวจวัดทางเคมีและทางชีววิทยา การประยุกตJใช+นวัตกรรมตัวตรวจวัดเพื่อการ ดูแลสุขภาพ การเกษตร ทำงด+านพลังงาน อุตสาหกรรมยานยนตJ และเทคโนโลยีสารสนเทศและการสื่อสาร",
+            "course_description_en": "Present new and emerging technologies of innovative sensors. Describe the integration concept of physics, electronics, and the control programming for developing the innovative sensors used for chemical and biological sensing. Present the applications of innovative sensors for healthcare, agriculture, energy automotive industry, and information technology and communication, construction, and architecture.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "NP316",
+            "th-abbr": "ฟอ.316",
+            "course_name_th": "ออป-แอมปªและวงจรรวมเชิงเส+น",
+            "course_name_en": "Op-Amps and Linear Integrated Circuits",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 2,
+            "self_study_hours": 4,
+            "course_description_th": "คุณสมบัติของออป-แอมปª วงจรขยายสัญญาณกลับเฟสและไมRกลับเฟส วงจรขยายผลตRาง วงจร รวมสัญญาณ วงจรกรองสัญญาณ วงจรแปลงและกำเนิดสัญญาณ วงจรขยายอินสตรูเมนตJ การใช+งานวงจรรวม 555 เฟสล°อกลูปและวงจรกำเนิดสัญญาณ วงจรกำเนิดสัญญาณด+วย OTA",
+            "course_description_en": "Characteristics of Op-Amp, non-inverting and Inverting amplifier circuit, difference amplifier circuit, summing amplifier circuit, filters circuit, converter and oscillator circuit, instrument amplifier, using IC 555, phase lock loop and oscillator circuit, oscillator circuit with OTA.",
+            "prerequisite_courses": [
+                "NP210"
+            ]
+        },
+        {
+            "course_code": "NP317",
+            "th-abbr": "ฟอ.317",
+            "course_name_th": "ระบบควบคุมทางอุตสาหกรรม",
+            "course_name_en": "Industrial Control System",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 4,
+            "course_description_th": "ความรู+พื้นฐานของระบบวัดและควบคุมเครื่องมือหรือเครื่องจักรในอุตสาหกรรม ทฤษฎีการ ทำงานของระบบพีแอลซีระบบควบคุมพีไอดีและระบบควบคุมแบบป‹อนกลับ กระบวนการทางโปรแกรมและ การจัดการสัญญาณสำหรับระบบอัตโนมัติการออกแบบและเลือกใช+เซ็นเซอรJและแอคทูเอเตอรJสำหรับการ สร+างเครื่องมือหรือระบบควบคุมเครื่องจักรในอุตสาหกรรม ปฏิบัติการระบบควบคุมทางอุตสาหกรรมด+วย พีแอลซี",
+            "course_description_en": "The basic knowledge of measurement and control systems for instruments or machines in industries, theoretical principles of operation of programmable logic control (PLC), proportional integral derivative (PID) and feedback control, programming and signal processing for automatic control systems, the design and selecting of sensors and actuators for construction of instruments or machine controller in industries, laboratories for industrial control system based on PLC.",
+            "prerequisite_courses": [
+                "NP210"
+            ]
+        },
+        {
+            "course_code": "NP318",
+            "th-abbr": "ฟอ.318",
+            "course_name_th": "การวิเคราะหJวงจรไฟฟ‹าด+วยคอมพิวเตอรJ",
+            "course_name_en": "Computer Analysis of Electrical Circuits",
+            "course_type": "NP",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 4,
+            "course_description_th": "พื้นฐานการออกแบบวงจรไฟฟ‹า การจำลองการทำงานวงจรอนำลอกและดิจิตอล การออกแบบ ลายวงจรพิมพJและการวิเคราะหJวงจรโดยใช+โปรแกรมคอมพิวเตอรJ",
+            "course_description_en": "Principle of design electrical circuits, analog and digital circuit simulation, print circuit board design, and circuit analysis using computer programming.",
+            "prerequisite_courses": [
+                "NP210"
+            ]
+        },
+        {
+            "course_code": "NP406",
+            "th-abbr": "ฟอ.406",
+            "course_name_th": "การออกแบบตัวตรวจวัดไมโครเวฟ",
+            "course_name_en": "Microwave Sensor Design",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดและองคJประกอบไมโครเวฟ ทฤษฎีสายสRง เอสพารามิเตอรJ การใช+สมิธชารJท เทคนิคการ แมชชิงคJอิมพีแดนซJ การวิเคราะหJวงจรไมโครเวฟ การแบRงกำลังและคัปเปลอรJแบบมีทิศทาง การออกแบบและ จำลองตัวตราวจวัดไมโครเวฟโดยใช+เทคนิคการออกแบบใช+คอมพิวเตอรJชRวย และการประยุกตJใช+งานตัวตรวจวัด ไมโครเวฟ",
+            "course_description_en": "Microwave concepts and components, transmission line theorem, scattering parameters, Smith’s chart, impedance matching techniques, microwave circuit analysis, power divider and directional coupler, microwave sensor design and simulation using computer aided design (CAD) techniques, and microwave sensor applications.",
+            "prerequisite_courses": [
+                "NP210"
+            ]
+        },
+        {
+            "course_code": "NP407",
+            "th-abbr": "ฟอ.407",
+            "course_name_th": "เทคโนโลยีตัวตรวจวัดอนุภาคนาโน",
+            "course_name_en": "Nanoparticle sensor technologies",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "สมบัติพื้นฐานของอนุภาคนาโน การสังเคราะหJอนุภาคนาโน เทคนิคการวัดลักษณะเฉพาะของ อนุภาคนาโน ควอนตัมดอท คารJบอนดอท อนุภาคนาโนโลหะ อนุภาคนาโนสำหรับตัวตรวจวัดทางเคมีอนุภาค นาโนสำหรับตัวตรวจวัดทางชีวภาพ",
+            "course_description_en": "Basic properties of nanoparticles, Nanoparticle synthesis, Nanoparticle characterization techniques, Quantum dots, Carbon dots, Metal nanoparticles, Nanoparticle- based chemical sensors, Nanoparticle-based biosensors.",
+            "prerequisite_courses": [
+                "NP300"
+            ]
+        },
+        {
+            "course_code": "FOR408",
+            "th-abbr": "ฟอ.408",
+            "course_name_th": "การตรวจวัดทางแสงบนอุปกรณJอัจฉริยะ",
+            "course_name_en": "Optical sensing on smart devices",
+            "course_type": "NP",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักการฟdสิกสJของการตรวจจับด+วยแสงหลายหลายแบบ ได+แกR การตรวจจับการเปลี่ยนแปลงสี การตรวจจับการเรืองแสง การตรวจจับด+วยคลื่นผิวพลำสมอนเรโซแนนซJ การตรวจจับด+วยอิลิปโซเมทรีการ ตรวจจับด+วยการกระเจิงแสง การตรวจจับด+วยสเปกโตรสโคป`ทางแสง การออกแบบอุปกรณJทางแสงและเทคนิค การสร+าง การออกแบบซอฟแวรJและการวิเคราะหJข+อมูลเพื่อใช+งานรRวมกับอุปกรณJอัจฉริยะ และตัวอยRางการ ประยุกตJใช+งานอุปกรณJ",
+            "course_description_en": "Physics principle of various optical sensing including colorimetric sensors, fluorescence-based sensors, surface plasmon resonance-based sensors, ellipsometry-based sensors, optical scattering-based sensors, and spectroscopy-based sensors, Optical devices design and fabrication, Software design and data processing for using with smart devices, and the application examples of the devices",
+            "prerequisite_courses": [
+                "PC331"
+            ]
+        },
+        {
+            "course_code": "NP416",
+            "th-abbr": "ฟอ.416",
+            "course_name_th": "การมองเห็นประดิษฐ์สำหรับการประยุกต์ในอุตสาหกรรม",
+            "course_name_en": "Machine Vision for Industrial Applications",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 4,
+            "course_description_th": "ทำความเข้าใจฟิสิกส์ของแสงและสี การสร้างภาพ การประมวลผลภาพและการกรองข้อมูลภาพ การกู้คืนรูปร่าง การวางแนวและการเคลื่อนที่ของวัตถุจากภาพ การประยุกต์ใช้เพื่อการควบคุมหุ่นยนต์และเครื่องจักรในอุตสาหกรรม",
+            "course_description_en": "Understanding physics of light and color, Image processing and Image filtering, Recovering shape, orientation, and motion of object from images, Applications for robotics machines controlling in industry",
+            "prerequisite_courses": [
+                "NP210"
+            ]
+        },
+        {
+            "course_code": "NP417",
+            "th-abbr": "ฟอ.417",
+            "course_name_th": "การออกแบบและพัฒนาระบบอินเตอรJเนตของสรรพสิ่ง",
+            "course_name_en": "Designing and Developing of Internet of Things System",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 4,
+            "course_description_th": "แนวคิดของอินเทอรJเน็ตของสรรพสิ่ง สถาป…ตยกรรมของอินเทอรJเน็ตของสรรพสิ่ง เทคโนโลยี อินเทอรJเน็ตของสรรพสิ่ง เทคโนโลยตรวจวัด ระบบฝ…งตัวและการโปรแกรม การออกแบบและการประยุกตJใช+ งานอินเทอรJเน็ตของสรรพสิ่ง มคอ. & ฟิสิกส์อิเล็กทรอนิกส์ มธ.",
+            "course_description_en": "Concepts of the Internet of Things, Internet of Things architecture, Internet of technology, Sensor technology, Embedded systems and programming, IoT system design and applications.",
+            "prerequisite_courses": [
+                "NP210"
+            ]
+        },
+        {
+            "course_code": "NP418",
+            "th-abbr": "ฟอ.418",
+            "course_name_th": "การเขียนโปรแกรมสำหรับเครื่องมือวัดและควบคุมด้วยคอมพิวเตอร์",
+            "course_name_en": "Programming for Computerized Measuring and controlling instruments",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 4,
+            "course_description_th": "หลักการพื้นฐานของระบบวัดและควบคุมด้วยคอมพิวเตอร์ มาตรฐานการสื่อสารระหว่าง คอมพิวเตอร์และเครื่องมือวัด การเรียนรู้คำสั่งของเครื่องมือวัดทางไฟฟ้าสำหรับการเชื่อมต่อกับโปรแกรม คอมพิวเตอร์ การเขียนโปรแกรมสำหรับเชื่อมต่อเครื่องมือวัดและควบคุมทางไฟฟ้า ปฏิบัติการออกแบบ โปรแกรม และควบคุมเครื่องมือทางไฟฟ้าด้วยคำสั่งคอมพิวเตอร์",
+            "course_description_en": "Basic principles of computerized measurement and control system, standard communication protocols between computer and measuring and control instruments, learning the commands of electrical measuring instruments for connecting to a computer program, programming for connecting electrical measuring and controlling instruments, experiments of design, program and control the electrical instruments with computer commands.",
+            "prerequisite_courses": [
+                "NP210"
+            ]
+        },
+        {
+            "course_code": "NP419",
+            "th-abbr": "ฟอ.419",
+            "course_name_th": "การเรียนรู+ของเครื่องสำหรับวิเคราะหJข+อมูลเซนเซอรJ",
+            "course_name_en": "Machine learning for sensor data analysis",
+            "course_type": "NP",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 4,
+            "course_description_th": "หลักการพื้นฐานของการเรียนรู+ของเครื่องโดยใช+ข+อมูลจากภาพถRายหรือเซนเซอรJตRาง ๆ การ วิเคราะหJองคJประกอบหลัก การวิเคราะหJแบบถดถอย เวกเตอรJเครื่องคายัน โครงขRายประสาท การเรียนรู+เชิงลึก และป…ญญาประดิษฐJ การประยุกตJใช+งานการเรียนรู+ของเครื่องสำหรับวิเคราะหJข+อมูลจากเซนเซอรJ",
+            "course_description_en": "Basic machine learning for signals images, and other data acquired from sensors. Principal components analysis, regression, support vector machines, neural networks, deep learning and artificial intelligent. Machine learning applications for analyzing data from sensors.",
+            "prerequisite_courses": [
+                "NP210"
+            ]
+        },
+        {
+            "course_code": "PHY309",
+            "th-abbr": "ฟอ.309",
+            "course_name_th": "หัวข้อพิเศษ",
+            "course_name_en": "Special Topics",
+            "course_type": "NP",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หัวข้อที่น่าสนใจที่สะท้อนความทันสมัยของงานวิจัยทางด้านฟิสิกส์ ฟิสิกส์ประยุกต์และอิเล็กทรอนิกส์",
+            "course_description_en": "Interesting topics reflecting state-of-the-art in research fields of physics, applied physics, or electronics",
+            "prerequisite_courses": [
+                "Third-year standing"
+            ]
+        }
+    ],
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "เรวัตร",
+            "lecture-last-name": "ใจสุทธิ",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยมหิดล",
+            "doctor-graduate-year": "2555",
+            "bachelor-graduate-year": "2547"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "อดิศักดิ์",
+            "lecture-last-name": "ร่มพุฒตาล",
+            "bachelor-degree": "วศ.บ.",
+            "doctor-degree": "วศ.ด.",
+            "bachelor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+            "doctor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+            "doctor-graduate-year": "2560",
+            "bachelor-graduate-year": "2545"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ปกรณ์",
+            "lecture-last-name": "ปรีชาบูรณะ",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Linkoping University, Sweden",
+            "doctor-graduate-year": "2555",
+            "bachelor-graduate-year": "2543"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ปรเมศวร์",
+            "lecture-last-name": "วงศ์จอม",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยขอนแก่น",
+            "doctor-institute": "มหาวิทยาลัยขอนแก่น",
+            "doctor-graduate-year": "2561",
+            "bachelor-graduate-year": "2551"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "เอกรัฐ",
+            "lecture-last-name": "พงษ์โอภาส",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยมหิดล",
+            "doctor-institute": "มหาวิทยาลัยมหิดล",
+            "doctor-graduate-year": "2559",
+            "bachelor-graduate-year": "2551"
+        }
+    ]
+}

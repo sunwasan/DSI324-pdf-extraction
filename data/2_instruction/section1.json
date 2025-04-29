@@ -1,0 +1,145 @@
+{
+    "faculty_name_th": {
+        "detail": "ชื่อคณะภาษาไทย",
+        "loc": "1.1",
+        "result_type": "str"
+    },
+    "faculty_name_en": {
+        "detail": "ชื่อคณะภาษาอังกฤษ (using translation of *faculty_name_th* if not provided)",
+        "loc": "1.1",
+        "result_type": "str"
+    },
+    "curr-id": {
+        "detail": "รหัสหลักสูตร",
+        "loc": "1.1",
+        "result_type": "str"
+    },
+    "cur-name-th": {
+        "detail": "ชื่อหลักสูตรภาษาไทย",
+        "loc": "1.1",
+        "result_type": "str"
+    },
+    "cur-name-en": {
+        "detail": "ชื่อหลักสูตรภาษาอังกฤษ (using translation of *cur-name-th* if not provided)",
+        "loc": "1.1",
+        "result_type": "str"
+    },
+    "degree-full-th": {
+        "detail": "ชื่อปริญญาภาษาไทย",
+        "loc": "1.2",
+        "result_type": "str"
+    },
+    "degree-full-en": {
+        "detail": "ชื่อปริญญาภาษาอังกฤษ (using translation of *degree-full-th* if not provided)",
+        "loc": "1.2",
+        "result_type": "str"
+    },
+    "degree-abr-th": {
+        "detail": "ตัวย่อปริญญาภาษาไทย (get only abbreviation e.g.  'วท.บ.' ",
+        "loc": "1.2",
+        "result_type": "str"
+    },
+    "degree-abr-en": {
+        "detail": "ตัวย่อปริญญาภาษาอังกฤษ (using translation of *degree-abr-th* if not provided) (get only abbreviation e.g. 'B.Sc.'",
+        "loc": "1.2",
+        "result_type": "str"
+    },
+    "num-majors": {
+        "detail": "วิชาเอก",
+        "loc": "1.3",
+        "result_type": "list"
+    },
+    "curr-type": {
+        "detail": "ประเภทหลักสูตร",
+        "loc": "1.4.2",
+        "result_type": "str"
+    },
+    
+    "lang": {
+        "detail": "ภาษาที่ใช้ในการเรียนการสอน",
+        "loc": "1.4.3",
+        "result_type": "str",
+        "options": [
+            "จัดการศึกษาเป็นภาษาไทย",
+            "จัดการศึกษาเป็นภาษาอังกฤษ",
+            "จัดการศึกษาทั้งภาษาไทยและภาษาอังกฤษ",
+            "จัดการศึกษาเป็นภาษาต่างประเทศ (<language>)"
+        ]
+    },
+    "collaboration": {
+        "detail": "ความร่วมมือกับสถาบันการศึกษาอื่น",
+        "loc": "1.4.4",
+        "result_type": "list",
+        "options": [
+            "เป็นหลักสูตรของสถาบันโดยเฉพาะ",
+            "เป็นหลักสูตรที่ได้รับความร่วมมือสนับสนุนจากสถาบันอื่น"
+        ]
+    },
+
+    "institution": {
+        "detail": "*สถาบัน*ที่ร่วมมือ",
+        "caution": "carefully check the name of institution make sure it not organization(องค์กร)",
+        "loc": "1.4.4",
+        "result_type": "list"
+    },
+    "organization": {
+        "detail": "*องค์กร*ในความร่วมมือ",
+        "caution": "carefully check the name of organization make sure it not university(สถาบัน)",
+        "loc": "1.4.4",
+        "result_type": "list"
+    },
+    "partner": {
+        "detail": "number of institution or organization that collaborate with the curriculum",
+        "loc": "1.4.4",
+        "result_type": "int"
+    },
+    "single-degree": {
+        "detail": "การให้ปริญญาแก่ผู้สำเร็จการศึกษา",
+        "loc": "1.4.5",
+        "result_type": "str",
+        "options": [
+            "ให้ปริญญาเพียงสาขาวิชาเดียว",
+            "ให้ปริญญามากกว่าหนึ่งสาขาวิชา"
+        ]
+    },
+    "approve-date": {
+        "detail": "วันที่อนุมัติหลักสูตร",
+        "loc": "1.4.6",
+        "result_type": "YYYY-MM-DD (in thai year)"
+    },
+    
+    "first-open-term" : {
+        "detail": "กำหนดเปิดสอนในภาคการศึกษาที่เท่าไหร่",
+        "loc": "1.4.6",
+        "result_type": "str",
+        "format": "term (1-3)/year (YYYY) in thai year"
+    },
+    
+
+    "careers": {
+        "detail": "อาชีพที่เป็นได้หลังจบการศึกษา",
+        "loc": "1.5",
+        "result_type": "list"
+    },
+    "campus": {
+        "detail": "ศูนย์การศึกษา",
+        "loc": "1.6",
+        "options": [
+            "ท่าพระจันทร์",
+            "รังสิต",
+            "ลำปาง",
+            "พัทยา"
+        ],
+        "result_type": "str"
+    },
+    "expense-type": {
+        "detail": "ประเภทค่าใช้จ่าย",
+        "loc": "1.7",
+        "options": [
+            "ปกติ",
+            "พิเศษ",
+            "ปกติ-พิเศษ"
+        ],
+        "result_type": "str"
+    }
+}

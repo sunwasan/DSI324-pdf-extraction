@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "สุมิตา",
+            "lecture-last-name": "สุภากรณ์",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "Ph.D",
+            "bachelor-institute": "มหาวิทยาลัยเชียงใหม่",
+            "doctor-institute": "University of Newcastle",
+            "doctor-graduate-year": "2560",
+            "bachelor-graduate-year": "2538"
+        },
+        {
+            "lecture-position": "อาจารย",
+            "lecture-first-name": "กฤตภาศ",
+            "lecture-last-name": "ศักดิษฐานนท์",
+            "bachelor-degree": "ร.บ.",
+            "doctor-degree": "อ.ม.",
+            "bachelor-institute": "มหาวิทยาลัยรามคำแหง",
+            "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-graduate-year": "2557",
+            "bachelor-graduate-year": "2562"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย ดร.",
+            "lecture-first-name": "รุงนภา",
+            "lecture-last-name": "เทพภาพ",
+            "bachelor-degree": "สส.บ",
+            "doctor-degree": "Ph.D",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Japan College of Social Work",
+            "doctor-graduate-year": "2560",
+            "bachelor-graduate-year": "2545"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ชวนนท์",
+            "lecture-last-name": "กาญจนสุวรรณ",
+            "bachelor-degree": "ศศ.บ",
+            "doctor-degree": "ศศ.ม.",
+            "bachelor-institute": "มหาวิทยาลัยเชียงใหม่",
+            "doctor-institute": "มหาวิทยาลัยเชียงใหม่",
+            "doctor-graduate-year": "2558",
+            "bachelor-graduate-year": "2553"
+        },
+        {
+            "lecture-position": "อาจารย",
+            "lecture-first-name": "พงศยา",
+            "lecture-last-name": "ภูมิพัฒน์โยธิน",
+            "bachelor-degree": "สส.บ.",
+            "doctor-degree": "รส.ม.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2552",
+            "bachelor-graduate-year": "2549"
+        }
+    ]
+}

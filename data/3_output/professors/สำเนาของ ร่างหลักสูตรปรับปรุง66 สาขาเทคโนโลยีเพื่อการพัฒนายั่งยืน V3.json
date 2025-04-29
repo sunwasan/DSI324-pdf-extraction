@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ธนาพล",
+            "lecture-last-name": "ตันติสัตยกุล",
+            "bachelor-degree": "วศ.บ.",
+            "doctor-degree": "D.Eng.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "Toyama University, Japan",
+            "doctor-graduate-year": "2548",
+            "bachelor-graduate-year": "2542"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ณัฐพล",
+            "lecture-last-name": "จันทร์แก้ว",
+            "bachelor-degree": "ร.บ.",
+            "doctor-degree": "",
+            "bachelor-institute": "มหาวิทยาลัยรามคำแหง",
+            "doctor-institute": "",
+            "doctor-graduate-year": "",
+            "bachelor-graduate-year": "2562"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "อมรเทพ",
+            "lecture-last-name": "จิรศักดิ์จำรูญศรี",
+            "bachelor-degree": "วศ.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2560",
+            "bachelor-graduate-year": "2553"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "เยาวทัศน์",
+            "lecture-last-name": "บุญกล้า",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าฯคุณทหารลาดกระบัง",
+            "doctor-institute": "Kanazawa University, Japan",
+            "doctor-graduate-year": "2561",
+            "bachelor-graduate-year": "2552"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ณัฐพล",
+            "lecture-last-name": "ใจสำรวม",
+            "bachelor-degree": "วศ.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยเทคโนโลยีมหานคร",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2563",
+            "bachelor-graduate-year": "2544"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "เสาวธาร",
+            "lecture-last-name": "โพธิ์กลัด",
+            "bachelor-degree": "ศศ.ม.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยมหิดล",
+            "doctor-institute": "Widener University, U.S.A.,",
+            "doctor-graduate-year": "2562",
+            "bachelor-graduate-year": "2553"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "รณรงค์",
+            "lecture-last-name": "จันใด",
+            "bachelor-degree": "สส.บ.",
+            "doctor-degree": "พช.ม.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2555",
+            "bachelor-graduate-year": "2549"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "พัชชา",
+            "lecture-last-name": "เจิงกลิ่นจันทร์",
+            "bachelor-degree": "สส.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2564",
+            "bachelor-graduate-year": "2551"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ชัยพร",
+            "lecture-last-name": "อุโฆษจันทร์",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยเชียงใหม่",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2566",
+            "bachelor-graduate-year": "2553"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ปฐมพร",
+            "lecture-last-name": "สันติเมธี",
+            "bachelor-degree": "อ.บ.",
+            "doctor-degree": "สส.ม.",
+            "bachelor-institute": "มหาวิทยาลัยศิลปากร",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2558",
+            "bachelor-graduate-year": "2553"
+        }
+    ]
+}

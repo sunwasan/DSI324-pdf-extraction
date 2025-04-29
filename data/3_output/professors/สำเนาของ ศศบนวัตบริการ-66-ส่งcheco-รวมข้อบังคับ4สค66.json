@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "กาญจน์นภา",
+            "lecture-last-name": "พงศ์พนรัตน์ เชี่ยวชาญ",
+            "bachelor-degree": "ร.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Asian Institute of Technology, Thailand",
+            "doctor-graduate-year": "2550",
+            "bachelor-graduate-year": "2540"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "คม",
+            "lecture-last-name": "คัมภิรานนท์",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "Ph.D",
+            "bachelor-institute": "มหาวิทยาลัยเกษตรศาสตร์",
+            "doctor-institute": "University of Queensland, Australia",
+            "doctor-graduate-year": "2550",
+            "bachelor-graduate-year": "2542"
+        },
+        {
+            "lecture-position": "อาจารย์ ดร.",
+            "lecture-first-name": "ปุริมปรัชญ์",
+            "lecture-last-name": "แสงแก้ว",
+            "bachelor-degree": "B.B.A.",
+            "doctor-degree": "Ph.D",
+            "bachelor-institute": "Mahidol University International College",
+            "doctor-institute": "University of Surrey, UK",
+            "doctor-graduate-year": "2562",
+            "bachelor-graduate-year": "2550"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "เวฬุรีย์",
+            "lecture-last-name": "เมธาวีวินิจ",
+            "bachelor-degree": "B.S.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "Thammasat University",
+            "doctor-institute": "University of London, UK",
+            "doctor-graduate-year": "2558",
+            "bachelor-graduate-year": "2542"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ปรีชญา",
+            "lecture-last-name": "ชวลิตธำรง",
+            "bachelor-degree": "สถ.บ.",
+            "doctor-degree": "M.P.S",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "Cornell University, USA",
+            "doctor-graduate-year": "2552",
+            "bachelor-graduate-year": "2549"
+        }
+    ]
+}

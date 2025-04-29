@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "เรวัตร",
+            "lecture-last-name": "ใจสุทธิ",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยมหิดล",
+            "doctor-graduate-year": "2555",
+            "bachelor-graduate-year": "2547"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "อดิศักดิ์",
+            "lecture-last-name": "ร่มพุฒตาล",
+            "bachelor-degree": "วศ.บ.",
+            "doctor-degree": "วศ.ด.",
+            "bachelor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+            "doctor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+            "doctor-graduate-year": "2560",
+            "bachelor-graduate-year": "2545"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ปกรณ์",
+            "lecture-last-name": "ปรีชาบูรณะ",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Linkoping University, Sweden",
+            "doctor-graduate-year": "2555",
+            "bachelor-graduate-year": "2543"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ปรเมศวร์",
+            "lecture-last-name": "วงศ์จอม",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยขอนแก่น",
+            "doctor-institute": "มหาวิทยาลัยขอนแก่น",
+            "doctor-graduate-year": "2561",
+            "bachelor-graduate-year": "2551"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "เอกรัฐ",
+            "lecture-last-name": "พงษ์โอภาส",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยมหิดล",
+            "doctor-institute": "มหาวิทยาลัยมหิดล",
+            "doctor-graduate-year": "2559",
+            "bachelor-graduate-year": "2551"
+        }
+    ]
+}

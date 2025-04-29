@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "หรรษา",
+            "lecture-last-name": "ศรีเลิศชัยพานิช",
+            "bachelor-degree": "B.Arch.",
+            "doctor-degree": "วท.ม.",
+            "bachelor-institute": "University of Auckland, New Zealand",
+            "doctor-institute": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
+            "doctor-graduate-year": "2556",
+            "bachelor-graduate-year": "2546"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "พร้อมจันทร์",
+            "lecture-last-name": "จันทร์รัตนปรีดา",
+            "bachelor-degree": "สถ.บ.",
+            "doctor-degree": "M.Arch.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "UniversityCollege London, UK",
+            "doctor-graduate-year": "2557",
+            "bachelor-graduate-year": "2554"
+        },
+        {
+            "lecture-position": "Instructor",
+            "lecture-first-name": "Federico",
+            "lecture-last-name": "Puggioni",
+            "bachelor-degree": "B.Arch.",
+            "doctor-degree": "M.Arch.",
+            "bachelor-institute": "University of Sassari, Alghero's Architecture Department, Italy",
+            "doctor-institute": "University of Sassari, Alghero's Architecture Department, Italy",
+            "doctor-graduate-year": "2557",
+            "bachelor-graduate-year": "2555"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "พีรดร",
+            "lecture-last-name": "แก้วลาย",
+            "bachelor-degree": "B.Arch.",
+            "doctor-degree": "D.Des.",
+            "bachelor-institute": "Southern California Institute of Architecture, USA",
+            "doctor-institute": "Harvard University, USA",
+            "doctor-graduate-year": "2550",
+            "bachelor-graduate-year": "2541"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ สถ.ม. ภ.สถ.บ.",
+            "lecture-first-name": "สุภณัฐ",
+            "lecture-last-name": "เดชนิรัติศัย",
+            "bachelor-degree": "ภ.สถ.บ.",
+            "doctor-degree": "สถ.ม.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "มหาวิทยาลัยศิลปากร",
+            "doctor-graduate-year": "2552",
+            "bachelor-graduate-year": "2550"
+        }
+    ]
+}

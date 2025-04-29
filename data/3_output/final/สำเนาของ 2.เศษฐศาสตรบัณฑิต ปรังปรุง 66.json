@@ -1,0 +1,2103 @@
+{
+    "faculty_name_th": "คณะเศรษฐศาสตร์",
+    "faculty_name_en": "Faculty of Economics",
+    "curr-id": "25400051100191",
+    "cur-name-th": "หลักสูตรเศรษฐศาสตรบัณฑิต",
+    "cur-name-en": "Bachelor of Economics Program",
+    "degree-full-th": "เศรษฐศาสตรบัณฑิต",
+    "degree-full-en": "Bachelor of Economics",
+    "degree-abr-th": "ศ.บ.",
+    "degree-abr-en": "B.Econ.",
+    "num-majors": [],
+    "curr-type": "หลักสูตรปริญญาตรีทางวิชาการ",
+    "lang": "จัดการศึกษาเป็นภาษาไทย",
+    "collaboration": [],
+    "institution": [],
+    "organization": [],
+    "partner": null,
+    "single-degree": "ให้ปริญญาเพียงสาขาวิชาเดียว",
+    "approve-date": "2566-04-25",
+    "first-open-term": "1/2566",
+    "careers": [
+        "นักเศรษฐศาสตร์",
+        "นักวิจัยด้านเศรษฐศาสตร์",
+        "นักวิเคราะห์ด้านนโยบายและการวางแผน",
+        "นักวิเคราะห์ด้านการตลาด",
+        "นักวิเคราะห์ด้านการลงทุน",
+        "นักวิเคราะห์ด้านการเงิน",
+        "ประกอบอาชีพอิสระธุรกิจส่วนตัวหรือเจ้าของกิจการ",
+        "นักข่าวและสื่อสารมวลชน",
+        "อาจารย์",
+        "งานองค์กรระหว่างประเทศ",
+        "นักวิจัยอิสระ",
+        "เจ้าหน้าที่งบประมาณ",
+        "ตัวแทนประกันภัย",
+        "นักวิชาการ"
+    ],
+    "campus": "รังสิต",
+    "expense-type": "ปกติ",
+    "student-nation-id": "รับเฉพาะนักศึกษาไทย",
+    "admit-plan-yearly": 300,
+    "ผลลัพธ์การเรียนรู้ของหลักสูตร (PLOs)": {
+        "Knowledge": [
+            "มีความรู้ ความเข้าใจแนวคิด ทฤษฎีเศรษฐศาสตร์ เครื่องมือพื้นฐานทางเศรษฐศาสตร์ พัฒนาการของทฤษฎี และเศรษฐศาสตร์ประยุกต์",
+            "สามารถนำความรู้ทางทฤษฎี มาวิเคราะห์ปัญหาเศรษฐกิจและสังคม และสามารถให้ ข้อเสนอแนะที่เป็นประโยชน์ต่อสาธารณะได้",
+            "สามารถบูรณาการความรู้สาขาเศรษฐศาสตร์ กับศาสตร์สาขาอื่นๆ ได้อย่างเหมาะสม",
+            "มีความสามารถในการแสวงหาความรู้ตลอดชีวิต รวมทั้งความเข้าใจอย่างเท่าทันใน สถานการณ์ การเปลี่ยนแปลง และผลกระทบทางเศรษฐกิจและสังคมโลก"
+        ],
+        "Skills": [
+            "มีทักษะทางปัญญา สามารถคิด วิเคราะห์ได้อย่างเป็นระบบ เป็นเหตุเป็นผล สามารถ กำหนดประเด็นการศึกษา สืบค้น รวบรวมและประมวลข้อมูล",
+            "มีทักษะในการวิเคราะห์ สังเคราะห์ แปลความหมาย และสรุปประเด็นจากแหล่งข้อมูลที่ หลากหลาย นำมาวิเคราะห์ และบูรณาการความรู้เพื่อเสนอแนะแนวทางแก้ไขปัญหาทาง เศรษฐกิจและสังคมได้อย่างเหมาะสม มีทักษะในการสื่อสาร",
+            "มีทักษะในการวิเคราะห์เชิงตัวเลข และการใช้เทคโนโลยีเพื่อการศึกษาวิจัย"
+        ],
+        "Ethics": [
+            "มีความตระหนักในคุณค่าและคุณธรรม จริยธรรม มีความเป็นธรรม เสียสละ มีจิตอาสา และซื่อสัตย์สุจริต",
+            "มีวินัย และมีความรับผิดต่อตนเองและสังคมและมีความเป็นพลเมืองที่ดี",
+            "เคารพสิทธิ์และรับฟังความคิดเห็นผู้อื่น รวมทั้งเคารพในคุณค่าและศักดิ์ศรีของความเป็น มนุษย์ เคารพและปฏิบัติตนตามกฎ ระเบียบและข้อบังคับขององค์กรและสังคม",
+            "มีจริยธรรมและจรรยาบรรณในวิชาชีพ"
+        ]
+    },
+    "max-years": 16,
+    "total-credits": 131,
+    "gen-ed-credits": 30,
+    "req-credits": 35,
+    "elec-credits": 24,
+    "intern-credits": 0,
+    "coop-credits": 0,
+    "courses": [
+        {
+            "course_code": "TU100",
+            "th-abbr": "มธ.100",
+            "course_name_th": "พลเมืองกับการลงมือแก้ปัญหา",
+            "course_name_en": "Civic Engagement",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ปลูกฝังจิตสำนึก บทบาท และหน้าที่ความรับผิดชอบของการเป็นสมาชิกที่ดีของสังคมในฐานะ พลเมืองโลกผ่านกระบวนการหลากหลายวิธี เช่น การบรรยาย การอภิปรายกรณีศึกษาต่าง ๆ ดูงาน เป็นต้น โดยนักศึกษาจะต้องจัดทำโครงการรณรงค์ เพื่อให้เกิดการรับรู้หรือเกิดการเปลี่ยนแปลง ใน ประเด็นที่สนใจ",
+            "course_description_en": "Instillation of social conscience and awareness of one’s role and duties as a good global citizen. This is done through a variety of methods such as lectures, discussion of various case studies and field study outings. Students are required to organise a campaign to raise awareness or bring about change in an area of their interest.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "TU101",
+            "th-abbr": "มธ.101",
+            "course_name_th": "โลก อาเซียน และไทย",
+            "course_name_en": "Thailand, ASEAN, and the World",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาปรากฏการณ์ที่สำคัญของโลก อาเซียนและไทย ในมิติทางการเมือง เศรษฐกิจ สังคม วัฒนธรรม โดยใช้กรอบแนวคิด ทฤษฎี และระเบียบวิจัยทางสังคมศาสตร์ ผ่านการอภิปรายและ ยกตัวอย่างสถานการณ์หรือบุคคลที่ได้รับความสนใจ เพื่อให้เกิดมุมมองต่อความหลากหลายและ เข้าใจความซับซ้อนที่สัมพันธ์กันทั้งโลก มีจิตสำนึกสากล (GLOBAL MINDSET) สามารถท้าทายกรอบ ความเชื่อเดิมและเปิดโลกทัศน์ใหม่ให้กว้างขวางขึ้น",
+            "course_description_en": "Study of significant phenomena around the world, in the ASEAN region and in Thailand in terms of their political, economic and sociocultural dimensions. This is done through approaches, theories and principles of social science research via discussion and raising examples of situations or people of interest. The purpose of this is to create a perspective of diversity, to understand the complexity of global interrelationships, to build a global mindset and to be able to challenge old paradigms and open up a new, broader worldview.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "TU103",
+            "th-abbr": "มธ.103",
+            "course_name_th": "ชีวิตกับความยั่งยืน",
+            "course_name_en": "Life and Sustainability",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การดำเนินชีวิตอย่างเท่าทันกับการเปลี่ยนแปลงของโลก เข้าใจความสัมพันธ์ระหว่างพลวัตของ ธรรมชาติมนุษย์ และสรรพสิ่ง ทั้งสิ่งแวดล้อมสรรสร้าง การใช้พลังงาน เศรษฐกิจ สังคมในความขัดแย้ง และการแปรเปลี่ยน ตลอดจนองค์ความรู้ทางวิทยาศาสตร์สิ่งแวดล้อม ที่นำไปสู่การปรับเปลี่ยนวิถีชีวิตสู่ ความยั่งยืน",
+            "course_description_en": "This course provides an introduction to the importance of life-cycle systems perspectives in understanding major challenges and solutions to achieving more sustainable societies in this changing world. Students will learn about the relationship between mankind and the environment in the context of energy and resource use, consumption and development, and environmental constraints. Furthermore, an examination of social conflict and change from the life-cycle perspective will be used to develop an understanding of potential solution pathways for sustainable lifestyle modifications.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "TU106",
+            "th-abbr": "มธ.106",
+            "course_name_th": "ความคิดสร้างสรรค์และการสื่อสาร",
+            "course_name_en": "Creativity and Communication",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "กระบวนการคิดอย่างสร้างสรรค์ โดยมีการคิดเชิงวิพากษ์เป็นองค์ประกอบสำคัญ และการสื่อสาร ความคิดดังกล่าวให้เกิดผลสัมฤทธิ์อย่างเหมาะสมตามบริบทสังคม วัฒนธรรม สภาพแวดล้อม ทั้งในระดับ บุคคล องค์กร และสังคม",
+            "course_description_en": "Creative thought processes, with critical thinking as an important part, as well as communication of these thoughts that lead to suitable results in social, cultural and environmental contexts, at personal, organisational and social levels",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "TU107",
+            "th-abbr": "มธ.107",
+            "course_name_th": "ทักษะดิจิทัลกับการแก้ปัญหา",
+            "course_name_en": "Digital Skill and Problem Solving",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทักษะการคิดเชิงคำนวณเพื่อการแก้ปัญหาและการพัฒนาโอกาสใหม่ด้านสังคมและเศรษฐกิจ ความสามารถในค้นหาและการเข้าถึงสารสนเทศได้อย่างมีประสิทธิภาพ การประเมินความน่าเชื่อถือของ สารสนเทศ การกลั่นกรองและจัดการสารสนเทศอย่างเป็นระบบ การใช้และจรรยาบรรณด้านดิจิทัล การ สื่อสารออนไลน์อย่างมืออาชีพ",
+            "course_description_en": "Basic computational thinking skill for solving problems and developing new social and economic opportunities. Efficient access and search for information. Information reliability evaluation. Filtering and managing information systematically. Ethical digital usage and professional online communication.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "TU108",
+            "th-abbr": "มธ.108",
+            "course_name_th": "การพัฒนาและจัดการตนเอง",
+            "course_name_en": "Self Development and Management",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การจัดการและการปรับเข้ากับชีวิตในรั้วมหาวิทยาลัย ท่ามกลางความหลากหลายและเสรีภาพ การพัฒนา ทักษะทางสังคมและความฉลาดทางอารมณ์ การเข้าใจตนเองและการวางแผนอนาคต การ พัฒนาบุคลิกภาพและมารยาททางสังคม การเรียนรู้ตลอดชีวิต การอยู่ร่วมกับผู้อื่นอย่างสงบสุขและเคารพ ซึ่งกันและกัน และการดูแลสุขภาพแบบองค์รวม",
+            "course_description_en": "Coping with and adaptation to university life. Development of social skill and emotional intelligence. Self-understanding and planning for the future. Personality and social etiquette. Lifelong learning. Learning to live harmoniously and respectfully with others and the society. Holistic healthcare.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EL295",
+            "th-abbr": "สษ.295",
+            "course_name_th": "ภาษาอังกฤษเชิงวิชาการและทักษะศึกษา 1",
+            "course_name_en": "Academic English and Study Skills 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การศึกษาทักษะภาษาอังกฤษทางวิชาการขั้นกลาง การพัฒนาทักษะที่จำเป็นต่อการศึกษาเชิง วิชาการ การฝึกกลยุทธ์การอ่าน การเขียนข้อความทางวิชาการที่หลากหลาย และการนำเสนอผล การศึกษา",
+            "course_description_en": "Study of academic English skills at an intermediate level. Development of skills required for academic study. Practice of reading strategies, writing different types of academic texts, and presenting results.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "ST211",
+            "th-abbr": "ส.211",
+            "course_name_th": "สถิติ 1",
+            "course_name_en": "Statistics 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ข้อมูลและตัวแปร การศึกษาจากการสังเกตและจากการทดลอง การสำรวจตัวอย่าง การ พรรณนา และการแสดงผลข้อมูลจำแนกประเภทและข้อมูลเชิงปริมาณ การเปรียบเทียบการแจกแจง การ ทำให้ข้อมูลเป็นมาตรฐาน การสำรวจความสัมพันธ์ระหว่างตัวแปร แนวคิดเกี่ยวกับความสุ่มและการ จำลอง ความน่าจะเป็น ตัวแปรสุ่ม การแจกแจงค่าตัวอย่าง การประมาณค่าพารามิเตอร์และการทดสอบ สมมุติฐานสำหรับประชากรหนึ่งกลุ่ม และสองกลุ่ม การใช้โปรแกรมสำเร็จรูปทางสถิติ",
+            "course_description_en": "Data and variable; observational and experimental studies; sample surveys; displaying and describing categorical and quantitative data; comparing distributions; standardizing data; exploring relationships between variables; concepts of randomness and simulation; probability, random variables, sampling distributions, parameter estimation and hypothesis testing for one and two populations; use of statistical packages.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "ST216",
+            "th-abbr": "ส.216",
+            "course_name_th": "สถิติสำหรับสังคมศาสตร์ 1",
+            "course_name_en": "Statistics for Social Science 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความรู้ทั่วไปเกี่ยวกับสถิติเชิงพรรณนา เลขดัชนีความน่าจะเป็นทั้งไม่มีเงื่อนไขและมีเงื่อนไข ตัวแปรสุ่มและการแจกแจงความน่าจะเป็นของตัวแปรสุ่ม ค่าคาดหมายมีเงื่อนไขและไม่มีเงื่อนไข การชักตัวอย่างเบื้องต้นและการแจกแจงของตัวสถิติการประมาณค่าและการทดสอบสมมุติฐานเกี่ยวกับ พารามิเตอร์ของประชากรกลุ่มเดียว การอ่านผลลัพธ์จากโปรแกรมสำเร็จรูปทางสถิติ",
+            "course_description_en": "Introduction to descriptive statistics; index numbers; unconditional and conditional probability; random variables and probability distribution; unconditional and conditional expectations; elementary sampling and sampling distribution; estimation and hypotheses testing for one population; statistical package results interpretation.",
+            "prerequisite_courses": [
+                "มธ.155"
+            ]
+        },
+        {
+            "course_code": "EL241",
+            "th-abbr": "สษ.241",
+            "course_name_th": "ภาษาอังกฤษสำหรับนักเศรษฐศาสตร์ 1",
+            "course_name_en": "English for Economists 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การพัฒนาทักษะภาษาอังกฤษสำหรับเศรษฐศาสตร์ผ่านการบรรยาย การอ่านและการอภิปราย ประเด็นร่วมสมัย การฝึกและใช้คำศัพท์และทักษะการเรียนที่เกี่ยวข้อง ได้แก่การจดบันทึก การเขียนถอด ความ การอภิปรายกลุ่มในประเด็นเศรษฐศาสตร์เบื้องต้น การพัฒนาทักษะการบรรยายและคาดการณ์ แนวโน้มทางเศรษฐศาสตร์ และการถกประเด็นทางเศรษฐศาสตร์",
+            "course_description_en": "Development of language skills in English for economics through lectures, reading, and discussion of contemporary issues. Practice and use of relevant vocabulary and study skills including note taking, paraphrasing and group discussions of basic economic issues. Skills development in describing economic trends, making predictions, and conducting economic debates.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EL341",
+            "th-abbr": "สษ.341",
+            "course_name_th": "ภาษาอังกฤษสำหรับนักเศรษฐศาสตร์ 2",
+            "course_name_en": "English for Economists 2",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การฝึกภาษาอังกฤษขั้นสูงด้านการพูด การอ่าน การฟัง และการเขียนในสาขาเศรษฐศาสตร์ การ ฝึกการนำเสนอความคิดเห็นเกี่ยวกับสถานการณ์ในโลกปัจจุบัน ผ่านการอภิปรายกลุ่ม การเขียนรายงาน และการนำเสนอทางวิชาการ",
+            "course_description_en": "Advanced English language practice in speaking, reading, listening and writing related to the field of economics. Practice in presenting opinions of current global events through group discussions, written reports and academic presentations.",
+            "prerequisite_courses": [
+                "สษ.241",
+                "EL241"
+            ]
+        },
+        {
+            "course_code": "EC490",
+            "th-abbr": "ศ.490",
+            "course_name_th": "สัมมนาเศรษฐศาสตร์",
+            "course_name_en": "Seminar in Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "สัมมนาและเลือกหัวข้อวิจัย การพัฒนางานวิจัยตามขั้นตอนของวิธีวิทยาการวิจัย และการเขียน รายงานการวิจัยในหัวข้อเศรษฐศาสตร์ที่สนใจ ภายใต้การควบคุมและแนะนำจากผู้สอน",
+            "course_description_en": "Seminar and Selection of research topics; development of stages of research; data collection and analysis, report writing under the supervision of the lecturer.",
+            "prerequisite_courses": [
+                "EC215"
+            ]
+        },
+        {
+            "course_code": "EC301",
+            "th-abbr": "ศ.301",
+            "course_name_th": "ประวัติศาสตร์เศรษฐกิจไทย",
+            "course_name_en": "History of Thai Economy",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาวิวัฒนาการของระบบเศรษฐกิจไทยการศึกษาจะเน้น อธิบายการเปลี่ยนแปลงโครงสร้าง ทางเศรษฐกิจและสังคม รวมทั้งบทบาทของรัฐที่มีต่อระบบเศรษฐกิจโดยรวมและโดยเชื่อมโยงการ เปลี่ยนแปลงดังกล่าวเข้ากับปัจจัยทางเศรษฐกิจ การเมือง และสังคม ทั้งในประเทศไทยและในสากล",
+            "course_description_en": "Studying the evolution of Thailand’s economic system. The study focuses on examining the development of Thailand's economic and social structure, while also investigating the roles of the state in the economy. The study links the changes in the Thai economy to the related economic, political, and social factors, both at the national and global levels.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC302",
+            "th-abbr": "ศ.302",
+            "course_name_th": "ประวัติศาสตร์เศรษฐกิจโลก",
+            "course_name_en": "History of World Economy",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิเคราะห์ประวัติศาสตร์และพัฒนาการของระบบทุนนิยมโลก รวมทั้งประเด็นเศรษฐกิจโลกที่มี ความสำคัญ โดยอาจเลือกศึกษาในประเด็น ตัวอย่างเช่น กำเนิดของระบบทุนนิยม การปฏิวัติอุตสาหกรรม การล่าอาณานิคมทางเศรษฐกิจ เศรษฐกิจตกต่ำครั้งใหญ่ทั่วโลกในทศวรรษ 1930 (the Great Depression) การล่มสลายของระบบเศรษฐกิจสังคมนิยมแบบโซเวียต พัฒนาการของเศรษฐกิจจีนและ เอเชียตะวันออก วิกฤตการณ์น้ำมัน วิกฤตการณ์การเงินครั้งสำคัญของโลก เป็นต้น",
+            "course_description_en": "Analyzing the history and development of world capitalism. The importance of the world economy is emphasized by selected topics such as the birth of capitalism, the Industrial Revolution, colonization, the Great Depression of the 1930s, the collapse of the Soviet Union, the development of Chinese and East Asian economies, the Oil Crises, and the World Financial Crises.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC401",
+            "th-abbr": "ศ.401",
+            "course_name_th": "เศรษฐศาสตร์การเมือง",
+            "course_name_en": "Political Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิเคราะห์พัฒนาการของระบบทุนนิยม ระเบียบวิธี (Methodology) และทฤษฎีของวิชา เศรษฐศาสตร์สำนักต่าง ๆ ตั้งแต่เศรษฐศาสตร์การเมืองยุคคลาสสิก เศรษฐศาสตร์การเมืองของคาร์ล มาร์กซ์ เศรษฐศาสตร์การเมืองยุคหลังมาร์กซ์",
+            "course_description_en": "Analyzing the development of capitalism. Theories and methodology of different schools of Economic thought from classical political economics to Karl Marx’s political economics, post-Marxist political economics.",
+            "prerequisite_courses": [
+                "EC210",
+                "EC211",
+                "EC212",
+                "EC213",
+                "EC214"
+            ]
+        },
+        {
+            "course_code": "EC402",
+            "th-abbr": "ศ.402",
+            "course_name_th": "เศรษฐศาสตร์สถาบัน",
+            "course_name_en": "Institutional Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "พัฒนาการแนวคิดของเศรษฐศาสตร์สถาบัน วิเคราะห์บทบาทของสถาบันที่มีต่อการเปลี่ยนแปลง เศรษฐกิจและสังคม วิเคราะห์ปัจจัยที่กำหนดการเกิดและดับของสถาบัน ต้นทุนทางธุรกรรมของสถาบัน ตลอดจนการเปลี่ยนแปลงของสถาบัน ศึกษาและวิเคราะห์การปฏิรูปนโยบายเศรษฐกิจของรัฐ ปรากฏการณ์ทางการเมือง โครงสร้างตลาดการเมือง และประพฤติกรรมทางการเมือง การแลกเปลี่ยน ผลประโยชน์ทางการเมืองผ่านตลาดการเมือง ตลอดจนการแสวงหาค่าเช่าทางเศรษฐกิจผ่านกลไกของ อำนาจรัฐ ศึกษาอิทธิพล และผลกระทบของการรวมกลุ่มของกลุ่มผลประโยชน์ และองค์กรต่าง ๆ ในการ ผลักดันและกดดันให้เกิดการเปลี่ยนแปลงนโยบายเศรษฐกิจ",
+            "course_description_en": "Studying the development of institutional economics thought. Analyzing how institutions shape the incentives of economic agents, and how this influences socioeconomic outcomes. Examining factors contributing to the formation and demise of institutions, transactional costs, and changes within institutions. Using mainstream Economics to analyze the political market structure, political phenomena, and rent- seeking behavior as exercised by government bodies. Studying how Special Interest Groups (SIGs) impact economic policies.",
+            "prerequisite_courses": [
+                "EC210",
+                "EC211",
+                "EC212",
+                "EC213",
+                "EC214"
+            ]
+        },
+        {
+            "course_code": "EC403",
+            "th-abbr": "ศ.403",
+            "course_name_th": "นิติเศรษฐศาสตร์",
+            "course_name_en": "Law and Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ระบบกฎหมายไทย ความสัมพันธ์ของกฎหมาย เศรษฐกิจ และการเมือง การนำทฤษฎี เศรษฐศาสตร์มาวิเคราะห์เหตุผลของการมีกฎหมาย เช่น กฎหมายกรรมสิทธิ์ กฎหมายแพ่งและพาณิชย์ ศึกษาการควบคุมกำกับระบบเศรษฐกิจและผลของกฎหมายที่มีต่อพฤติกรรมทางเศรษฐกิจ",
+            "course_description_en": "Thailand’s Legal System. The relationship between law, economy, and politics. Applying economic theory to analyze reasons for the existence of property rights, civil, and commercial law. The effects of law on economic behavior and on economic outcomes.",
+            "prerequisite_courses": [
+                "EC210",
+                "EC211",
+                "EC212",
+                "EC213",
+                "EC214"
+            ]
+        },
+        {
+            "course_code": "EC404",
+            "th-abbr": "ศ.404",
+            "course_name_th": "พัฒนาการแนวคิดทางเศรษฐศาสตร์",
+            "course_name_en": "History of Economic Thought",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "พัฒนาการของแนวคิดและทฤษฎีเศรษฐศาสตร์ตั้งแต่อดีตจนถึงปัจจุบัน ผ่านการศึกษาปรัชญา พื้นฐานและสาระสำคัญของแนวคิดและทฤษฎีเศรษฐศาสตร์สำนักต่าง ๆ รวมถึงบริบททางเศรษฐกิจ การเมือง และสังคม ที่มีส่งผลต่อแนวคิดทางเศรษฐศาสตร์ในแต่ละยุคสมัย ทั้งนี้การศึกษาอาจมุ่งเน้นไปที่ การถกเถียงประเด็นสำคัญทางเศรษฐศาสตร์ ในเรื่องทฤษฎีปัญหาสำคัญและเหตุการณ์ทางประวัติศาสตร์",
+            "course_description_en": "Studying philosophical foundations, main ideas of different schools of economic thoughts, and debates among economists from past to present. Studying socio-economic and important events in history that influence economic ideas.",
+            "prerequisite_courses": [
+                "EC210",
+                "EC211",
+                "EC212",
+                "EC213",
+                "EC214"
+            ]
+        },
+        {
+            "course_code": "EC406",
+            "th-abbr": "ศ.406",
+            "course_name_th": "สถานการณ์เศรษฐกิจร่วมสมัย",
+            "course_name_en": "Contemporary Economic Issues",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบได้ศ.211 และ ศ.212 วิชานี้เป็นการแนะนำนักศึกษาให้รู้จักกับเนื้อหาและวิธีการศึกษาของวิชาเศรษฐศาสตร์ผ่านการ สำรวจประเด็นสถานการณ์ทางเศรษฐกิจร่วมสมัย อาทิการเติบโตทางเศรษฐกิจ ความเหลื่อมล้ำ ความ ยากจน และความเสื่อมถอยในสถานการณ์ทางสิ่งแวดล้อม ความสนใจหลักอีกประการหนึ่งของวิชานี้อยู่ที่ วิธีการที่นักเศรษฐศาสตร์ใช้ในวิเคราะห์และจัดการกับสถานการณ์เหล่านี้",
+            "course_description_en": "Prerequisites: Have earned credits of EC211 and EC212 This course is a general introduction to the subject matter and methods of economics, through the investigation of specific contemporary economic issues such as economic growth, inequality, poverty, and environmental deterioration. The focus also is on how economists address these issues.",
+            "prerequisite_courses": [
+                "EC211",
+                "EC212"
+            ]
+        },
+        {
+            "course_code": "EC409",
+            "th-abbr": "ศ.409",
+            "course_name_th": "สัมมนาเศรษฐศาสตร์การเมืองและประวัติศาสตร์เศรษฐกิจ",
+            "course_name_en": "Seminar in Political Economics and Economic History",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "สัมมนาและวิจัยในหัวข้อเศรษฐศาสตร์การเมืองและประวัติศาสตร์เศรษฐกิจ ภายใต้การควบคุม และแนะนำจากผู้สอน",
+            "course_description_en": "Seminar and research on specific topics in Political Economics and Economic History under the supervision of the lecturer.",
+            "prerequisite_courses": [
+                "EC400",
+                "EC404",
+                "EC406",
+                "EC500"
+            ]
+        },
+        {
+            "course_code": "EC501",
+            "th-abbr": "ศ.501",
+            "course_name_th": "เศรษฐศาสตร์การเมือง : ศึกษาเฉพาะเรื่อง 1",
+            "course_name_en": "Selected Topics in Political Economics 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านเศรษฐศาสตร์การเมืองและประวัติศาสตร์เศรษฐกิจ ซึ่งจะประกาศเป็นคราว ๆ ไป",
+            "course_description_en": "Studying selected topics in Political Economics and Economic History to be announced later.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC502",
+            "th-abbr": "ศ.502",
+            "course_name_th": "เศรษฐศาสตร์การเมือง : ศึกษาเฉพาะเรื่อง 2",
+            "course_name_en": "Selected Topics in Political Economics 2",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านเศรษฐศาสตร์การเมืองและประวัติศาสตร์เศรษฐกิจ ซึ่งจะประกาศเป็นคราว ๆ ไป",
+            "course_description_en": "Studying selected topics in Political Economics and Economic History to be announced later.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC210",
+            "th-abbr": "ศ.210",
+            "course_name_th": "เศรษฐศาสตร์เบื้องต้น",
+            "course_name_en": "Introductory Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักคิดและแนวคิดวิเคราะห์ทางเศษฐศาสตร์เพื่อการเข้าใจและการตัดสินใจในเรื่องรอบตัวตั้งแต่ การทำธุรกิจและการดำเนินนโยบายของรัฐบาลผ่านมุมมองทางเศรษฐศาสตร์จุลภาคและมหาภาค ใน ส่วนเศรษฐศาสตร์จุลภาคจะศึกษาแก่นความคิดทางเศรษฐศาสตร์และการเข้าใจจากตัวอย่างที่เป็นจริงเพื่อ เข้าใจการตัดสินใจเลือกภายใต้ข้อจำกัดของผู้บริโภคและผู้ประกอบการ เนื้อหาครอบคลุมหลักการทำงาน ร่วมกันของอุปสงค์และอุปทานผ่านกลไกตลาดและโครงสร้างตลาดประเภทต่าง ๆ ตั้งแต่ตลาดผูกขาดไป ถึงตลาดแข่งขันสมบูรณ์ รวมไปถึงแนวคิดความล้มเหลวของตลาดและบทบาทของภาครัฐบาลเพื่อ เสริมสร้างสวัสดิการสังคม ในส่วนเศรษฐศาสตร์มหภาคพิจารณาพฤติกรรมในองค์รวม ศึกษาตัววัดรายได้ ประชาชาติการทำงานของระบบการเงินการธนาคาร การดำเนินนโยบายการเงิน และ นโยบายการคลัง เพื่อรักษาเสถียรภาพและเสริมสร้างการเจริญเติบโตทางเศรษฐกิจ ในภาคต่างประเทศศึกษาถึงความสำคัญ ของการค้าและการเงินระหว่างประเทศ และข้อโต้แย้งระหว่างการค้าเสรี และการปกป้องตลาด",
+            "course_description_en": "This course introduces the economic method of thinking to better understand real-world decision-making and improve analytical skills to better understand business and policy concerns. The fundamentals of modern economics, the general principles of microeconomics and macroeconomics, are introduced. Microeconomics covers how to apply the fundamental economic principles that explain why individuals and businesses make decisions with limited resources. The interactions of supply and demand in market operations are covered, as well as a variety of market structures ranging from monopoly to perfect competition. Furthermore, the course explores different sorts of failures and how government intervention policies might increase social welfare. Microeconomics covers how to apply the fundamental economic principles that explain why individuals and businesses make decisions with limited resources. The interactions of supply and demand in market operations are covered, as well as a variety of market structures ranging from monopoly to perfect competition. Furthermore, the course explores different sorts of failures and how government intervention policies might increase social welfare.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC211",
+            "th-abbr": "ศ.211",
+            "course_name_th": "หลักเศรษฐศาสตร์จุลภาค",
+            "course_name_en": "Principles of Microeconomics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาทฤษฎีทางเศรษฐศาสตร์เพื่อเข้าใจการตัดสินใจเลือกภายใต้ข้อจำกัดของผู้บริโภคและ ผู้ประกอบการ ทฤษฎีเบื้องต้นเกี่ยวกับพฤติกรรมบริโภคและผู้ผลิต ซึ่งนำไปสู่อุปสงค์และอุปทาน ตัวกำหนดอุปสงค์และอุปทาน การทำงานร่วมกันของอุปสงค์และอุปทานผ่านกลไกตลาดในการกำหนด ราคาและประสิทธิภาพของการจัดสรรทรัพยากรภายใต้ตลาดผูกขาด และ ตลาดแข่งขันสมบูรณ์ ทฤษฎี เบื้องต้นเกี่ยวกับตลาดปัจจัยการผลิตในตลาดแข่งขันสมบูรณ์ รวมไปถึงแนวคิดความล้มเหลวของตลาด",
+            "course_description_en": "The course covers the principle microeconomic theories for making decisions under scarcity. The fundamentals of supply and demand, as well as their determinants, are established in the introduction to consumer and producer theories. Supply and demand collaborate to establish pricing and resource allocation efficiency through two basic market structures: monopoly and perfect competitive markets, and competitive factor markets. The principles and effects of market failures are also introduced.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC212",
+            "th-abbr": "ศ.212",
+            "course_name_th": "หลักเศรษฐศาสตร์มหภาค",
+            "course_name_en": "Principles of Macroeconomics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาทฤษฎีทางเศรษฐศาสตร์มหภาคเพื่อเข้าใจการตัดสินใจกลไกการทำงานของเศรษฐกิจในภาพรวม และเข้าใจกลไกการทำงานของนโยบายในการแทรกแซงและเปลี่ยนแปลงระบบเศรษฐกิจ โดยครอบคลุมวิธีการวัดทางเศรษฐศาสตร์และปัญหาที่สำคัญของเศรษฐกิจในภาพรวม หลักการคำนวณรายได้ประชาชาติทฤษฎีการกำหนดรายได้ประชาชาติดุลยภาพ ทฤษฎีการบริโภคมวลรวม ทฤษฎีการลงทุนมวลรวม ทฤษฎีตัวเร่ง ตลาดการเงิน ทฤษฎีอุปสงค์ของเงิน และอุปทานของเงิน แบบจำลองดุลยภาพร่วมของตลาดผลผลิตและตลาดเงิน (แบบจำลอง IS - LM) นโยบายการเงินและการคลังในการรักษาเสถียรภาพของระบบเศรษฐกิจ ดุลการชำระเงิน ตลอดจนการสืบค้นและการจัดการข้อมูลเพื่อการประยุกต์ทฤษฎีเศรษฐศาสตร์มหภาคเพื่อวิเคราะห์สถานการณ์ทางเศรษฐกิจของประเทศไทย",
+            "course_description_en": "The course covers the principle macroeconomic theories that explain how the economy works at a macro level and the mechanisms via which policies might intervene. The course covers the most important macroeconomic measurements and issues. The accelerator principle, money markets, the theory of supply and demand for money, the joint equilibrium model of product and money markets (IS-LM model), the balance of payments, and fiscal and monetary policy as means of stabilizing an economy are all discussed. The concept of collecting and managing Thai macroeconomic data for the purpose of analyzing economic situations is introduced.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC213",
+            "th-abbr": "ศ.213",
+            "course_name_th": "เศรษฐศาสตร์จุลภาคเบื้องต้น",
+            "course_name_en": "Introductory Microeconomics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาแก่นความคิดทางเศรษฐศาสตร์และการเข้าใจจากตัวอย่างที่เป็นจริงเพื่อเข้าใจการตัดสินใจ เลือกภายใต้ข้อจำกัดของผู้บริโภคและผู้ประกอบการ เนื้อหาครอบคลุมหลักการทำงานร่วมกันของอุปสงค์ และอุปทานผ่านกลไกตลาดและโครงสร้างตลาดประเภทต่าง ๆ ตั้งแต่ตลาดผูกขาดไปถึงตลาดแข่งขัน สมบูรณ์ รวมไปถึงแนวคิดความล้มเหลวของตลาดและบทบาทของภาครัฐบาลเพื่อเสริมสร้างสวัสดิการ สังคม",
+            "course_description_en": "The course provides a practical understanding of the core economic principles that explain why consumers and companies make their decisions given scarce resources. The topics include the interactions of supply and demand of market operations, through wide- range market structures, ranging from monopoly to perfect competition. Moreover, the course also explains types of failures, in which the role of government intervention policy can improve social welfare.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC214",
+            "th-abbr": "ศ.214",
+            "course_name_th": "เศรษฐศาสตร์มหภาคเบื้องต้น",
+            "course_name_en": "Introductory Macroeconomics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาแก่นความคิดทางเศรษฐศาสตร์มหภาคและการเข้าใจจากตัวอย่างที่เป็นจริงเพื่อเข้าใจการตัดสินใจกลไกการทำงานของเศรษฐกิจในภาพรวม และ เข้าใจกลไกการทำงานของนโยบายในระดับมหภาค พิจารณาตัววัดและปัญหาที่สำคัญในทางเศรษฐศาสตร์มหภาครายได้ประชาชาติการทำงานของระบบการเงินการธนาคาร การดำเนินนโยบายการเงิน และ นโยบายการคลัง เพื่อรักษาเสถียรภาพของระบบเศรษฐกิจ ในภาคต่างประเทศศึกษาดุลการชำระเงิน ตลาดเงินตราต่างประเทศ และการกำหนดอัตราแลกเปลี่ยน รวมถึงการนำดัชนีชี้วัดเศรษฐกิจมหภาคไปใช้ในการวิเคราะห์สถานการณ์ทางเศรษฐกิจ",
+            "course_description_en": "The course will provide you a practical understanding of the fundamental macroeconomic theories that explain how the economy functions and how macroeconomic policies affect it. The course will cover key macroeconomic measurements, problems, and policy performance, as well as the determinants of national income, employment, and price level, the role of monetary policy and the banking system in stabilizing the economy, and the role of monetary and fiscal policies in stabilizing the economy. The balance of payments, foreign currency market and exchange rate determination, and the use of economic indicators to understand economic circumstances are all covered in the international economics part.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC215",
+            "th-abbr": "ศ.215",
+            "course_name_th": "ระเบียบวิธีวิจัย",
+            "course_name_en": "Research Methodology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาวิธีการทำวิจัยและการเขียนรายงานทางด้านเศรษฐศาสตร์โดยศึกษาความหมาย วัตถุประสงค์และลักษณะการวิจัยทางเศรษฐศาสตร์ ศึกษาองค์ประกอบและขั้นตอนการทำวิจัย ประกอบด้วยการเลือกหัวข้อ การกำหนดวัตถุประสงค์และขอบเขต การตั้งและทดสอบสมมุติฐานการ เลือกใช้ทฤษฎีและวิธีการศึกษา แหล่งข้อมูลสถิติต่าง ๆ ทั้งปฐมภูมิและทุติยภูมิการจัดทำข้อเสนอ โครงการวิจัย การประมวลและวิเคราะห์ข้อมูลและการเขียนรายงานวิจัย",
+            "course_description_en": "Study methods of conducting research and writing report in economics by studying the meaning and objectives and economic research characteristics. Study the composition and process of conducting research consisting of topic selection. Defining Objectives and Scopes setting and testing hypotheses for the use of educational theories and methods; Various statistical sources, both primary and secondary. preparation of research projects, proposals, data processing, and analysis and writing of research reports",
+            "prerequisite_courses": [
+                "EC211",
+                "EC212",
+                "EC325"
+            ]
+        },
+        {
+            "course_code": "EC311",
+            "th-abbr": "ศ.311",
+            "course_name_th": "ทฤษฎีเศรษฐศาสตร์จุลภาค",
+            "course_name_en": "Microeconomic Theory",
+            "course_type": "",
+            "course_credit": 4,
+            "lect_hours": 4,
+            "practice_hours": 0,
+            "self_study_hours": 8,
+            "course_description_th": "ศึกษาและวิเคราะห์พฤติกรรมผู้บริโภค โดยเน้นทฤษฎีความพอใจเท่ากัน การบริโภคข้ามเวลา การบริโภคกับภายใต้ความเสี่ยง ทฤษฎีการผลิตและต้นทุนการผลิต การอธิบายสาเหตุการเกิดบริษัทโดย ใช้ต้นทุนสารสนเทศ การวิเคราะห์ตลาดแข่งขันไม่สมบูรณ์ได้แก่ตลาดผูกขาด ตลาดกึ่งแข่งขันกึ่งผูกขาด และตลาดผู้ขายน้อยราย ทฤษฎีเกมเบื้องต้น การตั้งราคาในทางปฏิบัติการกำหนดราคาในตลาดปัจจัย การผลิตภายใต้โครงสร้างตลาดประเภทต่าง ๆ ดุลยภาพทั่วไปและเศรษฐศาสตร์สวัสดิการ ความล้มเหลว ของตลาดและการแก้ปัญหา",
+            "course_description_en": "Consumer behavior focuses on indifference curve analysis, intertemporal consumption, consumption, and risks. Theory of production and cost, the birth of the firm using information cost, structure and behavior of imperfectly competitive markets which are a monopoly, monopolistic competition, and duopoly markets. Introduction to game theory. Price setting in practice. Price determination in factor markets, general equilibrium analysis, welfare Economics, market failures ,and measures to correct.",
+            "prerequisite_courses": [
+                "EC211",
+                "MA216"
+            ]
+        },
+        {
+            "course_code": "EC312",
+            "th-abbr": "ศ.312",
+            "course_name_th": "ทฤษฎีเศรษฐศาสตร์มหภาค",
+            "course_name_en": "Macroeconomic Theory",
+            "course_type": "",
+            "course_credit": 4,
+            "lect_hours": 4,
+            "practice_hours": 0,
+            "self_study_hours": 8,
+            "course_description_th": "ศึกษาระบบและการใช้นโยบายเพื่อรักษาเสถียรภาพของเศรษฐกิจโดยภาพรวมด้วยทฤษฎีดุลยภาพทั่วไปทั้งระบบเศรษฐกิจปิดและเศรษฐกิจเปิดผ่านข้อสมมติและแนวคิดทางทฤษฎีต่าง ๆ เช่น คลาสสิก คลาสสิกใหม่ เคนส์เซียน เคนส์เซียนใหม่ เป็นต้น ตลอดจนการประยุกต์ทฤษฎีเศรษฐศาสตร์มหภาคมา วิเคราะห์สถานการณ์ทางเศรษฐกิจ ในเศรษฐกิจปิดศึกษาข้อสมมติและพฤติกรรมของตลาดแรงงาน การคาดกาณ์และการปรับตัวของตลาดแรงงานซึ่งนำไปสู่การทำงานร่วมกันของอุปสงค์มวลรวมและ อุปทานมวลรวมและเส้นโค้งฟิลลิปส์ ทั้งในเชิงสถิตและพลวัตรรวมถึงนัยในการดำเนินนโยบาย ศึกษาการตัดสินใจของหน่วยเศรษฐกิจแต่ละหน่วยด้วยพื้นฐานเศรษฐศาตร์จุลภาคเพื่อเข้าการใจทำงาน การปรับตัว การเติบโต และ นโยบายที่เหมาะสม ในภาคต่างประเทศศึกษาแบบจำลองดุลยภาพร่วมในตลาดเงิน ตลาดผลผลิต และตลาดเงินตราต่างประเทศ (แบบจำลอง IS - LM - BP)",
+            "course_description_en": "The course discusses the economy's mechanism using a general equilibrium approach, which proposes appropriate government policies to stabilize and boost economic growth. Classics, New Classics, Keynesian, and New Keynesian school of thinking are all used to create appropriate policies. The role of how the labor market perceives and responds to information in determining the character of aggregate supply and the Phillips curve is examined for the closed economy. The static and dynamic elements of aggregate supply and demand interactions are investigated. Furthermore, the microeconomics foundation is utilized to investigate how agents react to one another, to policies, and to the economy's growth. The model of joint equilibrium (IS-LM-BP) in product markets, money markets, and foreign exchange markets for an open economy.",
+            "prerequisite_courses": [
+                "EC211",
+                "EC212",
+                "EC213",
+                "EC214"
+            ]
+        },
+        {
+            "course_code": "EC411",
+            "th-abbr": "ศ.411",
+            "course_name_th": "เศรษฐศาสตร์จุลภาควิเคราะห์",
+            "course_name_en": "Microeconomic Analysis",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทฤษฎีเศรษฐศาสตร์จุลภาคโดยใช้คณิตศาสตร์เป็นสื่อในการวิเคราะห์ประเด็นในทาง เศรษฐศาสตร์จุลภาค อาทิพฤติกรรมผู้บริโภค ความพึงใจที่เปิดเผย (Revealed Preference) การบริโภค ข้ามเวลา การบริโภคกับความเสี่ยง ทฤษฎีการผลิตและต้นทุนการผลิต โครงสร้างและพฤติกรรมของ ตลาดประเภทต่าง ๆ และหัวข้ออื่น ๆ ที่ผู้สอนเห็นสมควร",
+            "course_description_en": "Microeconomic theory with an emphasis on utilizing mathematical tools to analyze economic issues such as consumer behavior, revealed preferences, intertemporal consumption, consumption under risk, theories of production and cost, market structures and behavior of markets, and other topics that the lecturer finds suitable.",
+            "prerequisite_courses": [
+                "EC311",
+                "EC320"
+            ]
+        },
+        {
+            "course_code": "EC412",
+            "th-abbr": "ศ.412",
+            "course_name_th": "เศรษฐศาสตร์มหภาควิเคราะห์",
+            "course_name_en": "Macroeconomic Analysis",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทฤษฎีเศรษฐศาสตร์มหภาคโดยใช้คณิตศาสตร์และกรอบวิเคราะห์เชิงพลวัตรเป็นสื่อในการ วิเคราะห์ประเด็นในทางเศรษฐศาสตร์มหภาค อาทิดุลยภาพทั่วไปและสวัสดิการสำหรับรูปแบบการ จัดสรรทรัพยากรเพื่อการวิเคราะห์เศรษฐศาสตร์มหภาคสมัยใหม่การวิเคราะห์ประเด็นการเจริญเติบโต ทางเศรษฐกิจในระยะยาว กรอบการวิเคราะห์ปัญหาการเจริญเติบโตและความผันผวนทางเศรษฐกิจใน ระยะสั้นในทางทฤษฎีและเชิงประจักษ์ บทบาทของภาครัฐบาลในระบบเศรษฐกิจ แนวคิดสมัยใหม่สำหรับ แบบจำลองเพื่อการวิเคราะห์นโยบายเศรษฐกิจมหภาค รวมถึงหัวข้ออื่น ๆ ที่ผู้สอนเห็นสมควร",
+            "course_description_en": "Macroeconomic theory with an emphasis on utilizing mathematical tools and dynamic framework to analyze economic issues, such as, general equilibrium and welfare analysis in modern Macroeconomics, analysis of long-term growth, analysis of short-term growth and fluctuations both theoretically and empirically, roles of government in the economy, modern concepts for macroeconomic policy analytical frameworks, and the other topics that the lecturer finds suitable.",
+            "prerequisite_courses": [
+                "EC312",
+                "EC320",
+                "EC421"
+            ]
+        },
+        {
+            "course_code": "EC415",
+            "th-abbr": "ศ.415",
+            "course_name_th": "ทฤษฎีเกม",
+            "course_name_en": "Game Theory",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิด เครื่องมือ และการประยุกต์ใช้ทฤษฎีเกมภายใต้สภาวการณ์ที่สารสนเทศสมบูรณ์และไม่ สมบูรณ์ อาทิ เกมกลยุทธ์ ดุลยภาพแบบแนช ดุลยภาพแบบกลยุทธ์ผสม เกมที่มีการต่อขยาย (Extensive game) ดุลยภาพแบบสมบูรณ์ทุกเกมย่อย เกมเบย์ และเกมที่มีการต่อขยายภายใต้สภาวการณ์ที่ สารสนเทศไม่สมบูรณ์ และหัวข้ออื่น ๆ ที่ผู้สอนเห็นสมควร",
+            "course_description_en": "The application of game theory with complete and incomplete information including strategic games, Nash Equilibrium, mixed-strategies equilibrium, extensive games, subgame perfect equilibrium, Bayesian games, extensive games of incomplete information, and other topics that the lecturer finds suitable.",
+            "prerequisite_courses": [
+                "EC311",
+                "EC320",
+                "EC421"
+            ]
+        },
+        {
+            "course_code": "EC416",
+            "th-abbr": "ศ.416",
+            "course_name_th": "เศรษฐศาสตร์เชิงพฤติกรรม",
+            "course_name_en": "Behavioral Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดของเศรษฐศาสตร์เชิงพฤติกรรมรวมถึงแบบจำลองภายใต้แนวคิดของเศรษฐศาสตร์เชิง พฤติกรรม อาทิการศึกษาเปรียบเทียบกรอบแนวคิดการตัดสินใจของผู้บริโภคภายใต้ภาวะความเสี่ยง ระหว่างเศรษฐศาสตร์กระแสหลักและเศรษฐศาสตร์เชิงพฤติกรรม หลักฐานเชิงประจักษ์ของเศรษฐศาสตร์ เชิงพฤติกรรม แบบจำลองที่อาศัยปัจจัยเชิงสังคมวิทยาและปัจจัยเชิงจิตวิทยาในการอธิบายพฤติกรรมของ ผู้บริโภคและสังคม รวมถึงหัวข้ออื่น ๆ ที่ผู้สอนเห็นสมควร",
+            "course_description_en": "Concepts and frameworks in behavioral economics including a comparative study of models for decision under uncertainty between mainstream economics and behavioral economics, empirical evidence that support behavioral economics, models that incorporate psychological and sociological factors for consumer and social behaviors, and other topics that the lecturer finds suitable.",
+            "prerequisite_courses": [
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC511",
+            "th-abbr": "ศ.511",
+            "course_name_th": "ทฤษฎีเศรษฐศาสตร์ : ศึกษาเฉพาะเรื่อง 1",
+            "course_name_en": "Selected Topics in Economic Theory 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านทฤษฎีเศรษฐศาสตร์ ซึ่งจะประกาศเป็นคราว ๆ ไป",
+            "course_description_en": "Studying topics in Economic Theory to be announced later.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC512",
+            "th-abbr": "ศ.512",
+            "course_name_th": "ทฤษฎีเศรษฐศาสตร์ : ศึกษาเฉพาะเรื่อง 2",
+            "course_name_en": "Selected Topics in Economic Theory 2",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านทฤษฎีเศรษฐศาสตร์ ซึ่งจะประกาศเป็นคราว ๆ ไป",
+            "course_description_en": "Studying topics in Economic Theory to be announced later.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC320",
+            "th-abbr": "ศ.320",
+            "course_name_th": "คณิตเศรษฐศาสตร์เบื้องต้น",
+            "course_name_en": "Introductory Mathematical Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "",
+            "course_description_en": "",
+            "prerequisite_courses": [
+                "ศ.211",
+                "ศ.212",
+                "ค.216"
+            ]
+        },
+        {
+            "course_code": "",
+            "th-abbr": "",
+            "course_name_th": "",
+            "course_name_en": "",
+            "course_type": "",
+            "course_credit": 0,
+            "lect_hours": 0,
+            "practice_hours": 0,
+            "self_study_hours": 0,
+            "course_description_th": "และ ค.216 (หรือ ค.211)  นำแนวคิดและทฤษฎีคณิตศาสตร์ เรื่อง ฟังก์ชัน สมการและเมตริกซ์ การหาค่าอนุพันธ์ประเภท ต่าง ๆ ในกรณีที่มีตัวแปรอิสระหนึ่งตัวและหลายตัว การหาผลเลิศ (Optimization) ในกรณีที่ไม่มีข้อจำกัด และมีข้อจำกัด อินทิกรัลเบื้องต้น มาอธิบายแนวความคิดและทฤษฎีทางเศรษฐศาสตร์จุลภาคและมหภาค เพื่อให้เข้าใจความสัมพันธ์ของตัวแปรต่าง ๆ ทางเศรษฐศาสตร์ โดยเน้นถึงความสัมพันธ์ระหว่างฟังก์ชัน รวม ฟังก์ชันเฉลี่ย และฟังก์ชันส่วนเพิ่มในทฤษฎีเศรษฐศาสตร์ วิเคราะห์ค่าความยืดหยุ่น ดุลยภาพตลาด ผลของการเก็บภาษี และแบบจำลองปัจจัยการผลิตและผลผลิตเบื้องต้น",
+            "course_description_en": "Applying mathematical concepts and tools such as functions, equations, matrices, univariate and multivariate differential calculus, constrained and unconstrained optimization, and basic integral to understand the relationship between different economic variables and explain concepts of Microeconomic theory and Macroeconomic theory. An emphasis will be placed on relationships between total, average, and marginal functions, the analyses of elasticity, market equilibrium, impacts of taxation, and the basic input-output model.",
+            "prerequisite_courses": [
+                "EC211",
+                "EC212",
+                "MA216",
+                "EC213",
+                "EC214",
+                "MA 216",
+                "MA211"
+            ]
+        },
+        {
+            "course_code": "EC421",
+            "th-abbr": "ศ.421",
+            "course_name_th": "คณิตเศรษฐศาสตร์ 1",
+            "course_name_en": "Mathematical Economics 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "นำแนวความคิดและทฤษฎีคณิตศาสตร์ เรื่องเมทริกซ์ จาโคเบียนดีเทอร์มินันด์ อนุพันธ์ อนุพันธ์ ย่อย และการหาผลเลิศ (Optimization) ในกรณีที่ไม่มีข้อจำกัด และมีข้อจำกัดมาอธิบายแนวความคิด และทฤษฎีเศรษฐศาสตร์จุลภาคและมหภาคในส่วนที่เกี่ยวกับเศรษฐศาสตร์เชิงสถิต เช่น ทฤษฎีพฤติกรรม ของผู้บริโภค ทฤษฎีการผลิต ดุลยภาพของหน่วยผลิตในตลาดสินค้าและตลาดปัจจัย ดุลยภาพของรายได้ ประชาชาติในตลาดสินค้าและตลาดเงิน การค้าระหว่างประเทศ การวิเคราะห์ ดุลยภาพเชิงสถิตแบบ เปรียบเทียบ แบบจำลองปัจจัยการผลิตและผลผลิต การหาค่าสูงสุด - ต่ำสุดของโปรแกรมเชิงเส้น รวมทั้ง Duality ของโปรแกรมเชิงเส้น",
+            "course_description_en": "The application of matrices, Jacobian determinants, derivatives, partial derivatives and optimization, with and without constraints, to explain theories in Microeconomics and Macroeconomics, such as the theory of consumer behavior, the theory of production, equilibrium in goods and factor markets, equilibrium of national income in product and money markets, international trade, comparative static equilibrium analysis, the input- output model, determination of maximum- minimum point and duality of linear programming.",
+            "prerequisite_courses": [
+                "MA217",
+                "MA212",
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC422",
+            "th-abbr": "ศ.422",
+            "course_name_th": "คณิตเศรษฐศาสตร์ 2",
+            "course_name_en": "Mathematical Economics 2",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "นำเครื่องมือทางคณิตศาสตร์ในด้านอินทิกรัล แคลคูลัส Differential Equations, Difference Equations, Phase Diagram และการหาผลเลิศเชิงพลวัต (Dynamic Optimization) เช่น ทฤษฎีการ ควบคุมผลเลิศ (Optimal Control Theory) และ โปรแกรมเชิงพลวัต (Dynamic Programming) มาใช้ อธิบายเศรษฐศาสตร์เชิงพลวัต ทั้งที่เป็นเศรษฐศาสตร์จุลภาคและมหภาคในการหาเส้นทางเดินและ เสถียรภาพของตัวแปรต่าง ๆ และศึกษาแบบจำลองปัจจัยการผลิตและผลผลิตเชิงพลวัต",
+            "course_description_en": "Applying mathematical tools such as integral calculus, differential equations, difference equations, phase diagram, and dynamic optimization such as optimal control theory and dynamic programming to explain dynamic economic phenomena as well as to locate the time and stability of variables in the context of both Microeconomics and Macroeconomics. The study of dynamic input-output models is also covered.",
+            "prerequisite_courses": [
+                "EC421",
+                "EC312"
+            ]
+        },
+        {
+            "course_code": "EC423",
+            "th-abbr": "ศ.423",
+            "course_name_th": "การเขียนโปรแกรมเพื่อวิเคราะห์ข้อมูลสำหรับนักเศรษฐศาสตร์",
+            "course_name_en": "Data Analytics Programing for Economists",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เรียนรู้หลักการในการเขียนโปรแกรมคอมพิวเตอร์ที่สำคัญ เช่น Python หรือ R เป็นต้น เพื่อ เตรียมความพร้อมในการวิเคราะห์ข้อมูลในทางเศรษฐศาสตร์และการเงิน ทำการศึกษาแนวคิดการ จัดเก็บข้อมูลการทำความสะอาดข้อมูล สถิติเบื้องต้นสำหรับการอธิบายชุดข้อมูล วิธีการสื่อสารข้อมูลที่ได้ จากค่าสถิติการแปลงข้อมูล และลดมิติของข้อมูล",
+            "course_description_en": "This course is an introduction to programming such as Python or R to undertake analysis of data. It is aimed at preparing the knowledge of computers and programming for analyzing data in economics and finance. The course goes on to cover data cleansing, the manipulation of data, and basic statistics in explaining the data. The course will also cover how data can be visualized and the knowledge of how the data can be transformed and reduced to its dimension.",
+            "prerequisite_courses": [
+                "ศ.320",
+                "ศ.325"
+            ]
+        },
+        {
+            "course_code": "EC424",
+            "th-abbr": "ศ.424",
+            "course_name_th": "วิทยาศาสตร์ข้อมูลสำหรับการวิเคราะห์เศรษฐศาสตร์และการเงิน",
+            "course_name_en": "Data Science for Economics and Finance",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เรียนรู้ทฤษฎีการเรียนรู้ของเครื่องที่สำคัญทั้งในส่วนของ Supervised Machine Learning และ Unsupervised Machine Learning โดยใช้โปรแกรมคอมพิวเตอร์ Python หรือ R ตลอดจนการจัดทำ กรณีศึกษาที่เกี่ยวข้องกับการเรียนรู้ของเครื่องสำหรับการใช้งานทางการเงินและทางเศรษฐศาสตร์ที่ หลากหลาย การระบุข้อมูล การสกัด และการประมวลผลล่วงหน้า การเลือก การสร้าง การทดสอบ และ การปรับแต่งตัวแบบการเรียนรู้ของเครื่อง",
+            "course_description_en": "This course will cover topics that range between Supervised (predictive) and Unsupervised Machine Learning methods. Examples include Regression and K Nearest Neighbors, Classification, Dimensionality Reduction, Decision Trees and Random Forests, Principal Component Analysis and Clustering Analysis. All computing in this course will be conducted in R or Python. The course will focus on the case studies with applications to data sets used to study economic and finance phenomena.",
+            "prerequisite_courses": [
+                "EC423"
+            ]
+        },
+        {
+            "course_code": "EC325",
+            "th-abbr": "ศ.325",
+            "course_name_th": "เศรษฐมิติเบื้องต้น",
+            "course_name_en": "Introductory Econometrics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เศรษฐมิติเบื้องต้น",
+            "course_description_en": "Introductory Econometrics",
+            "prerequisite_courses": [
+                "ศ.211",
+                "ศ.212",
+                "ค.216"
+            ]
+        },
+        {
+            "course_code": "EC216",
+            "th-abbr": "ส.216",
+            "course_name_th": "เศรษฐมิติเบื้องต้น",
+            "course_name_en": "Introduction to Econometrics",
+            "course_type": "",
+            "course_credit": 0,
+            "lect_hours": 0,
+            "practice_hours": 0,
+            "self_study_hours": 0,
+            "course_description_th": "การนำแนวคิดทางเศรษฐมิติเบื้องต้นแบบกว้าง ๆ ครอบคลุม การประมาณค่าแบบจำลองสมการ ถดถอยเชิงเส้นตรง และการแก้ปัญหาเบื้องต้น ได้แก่ปัญหาตัวแปรอิสระที่มีความสัมพันธ์กันเชิงเส้นตรง ปัญหาตัวรบกวนมีความแปรปรวนไม่คงที่ปัญหาตัวรบกวนมีความสัมพันธ์ข้ามช่วงเวลา ปัญหาการกำหนด แบบจำลองผิดพลาด ปัญหาการระบุแบบจำลอง การแก้ปัญหาความสัมพันธ์ภายในด้วยวิธีการประมาณค่า แบบตัวแปรเครื่องมือ รวมทั้งแนวคิดแบบจำลองโลจิท โดยเน้นการประยุกต์ใช้ในทางปฏิบัติและการ อธิบายผลที่ได้จากการประมาณค่าจากโปรแกรมสำเร็จรูปทางเศรษฐมิติเป็นหลัก ตลอดจนสามารถเลือก แบบจำลองเศรษฐมิติมาประยุกต์ใช้ในงานวิจัยทางเศรษฐศาสตร์ได้อย่างเหมาะสม",
+            "course_description_en": "Apply basic concepts in econometrics, including; linear estimation methods and problems with remedial technique i.e. Multicollinearity, Heteroscedasticity, Autocorrelation, Specification error, Identification, solving endogeneity problem using Instrumental Variable (IV) technique, and Logit model. Practical applications of all topics are mainly emphasized, as well as, how to choose the appropriate tool for an empirical study and interpretation of the estimated results obtained from econometric software.",
+            "prerequisite_courses": [
+                "EC211",
+                "EC212",
+                "MA216",
+                "ST216"
+            ]
+        },
+        {
+            "course_code": "EC425",
+            "th-abbr": "ศ.425",
+            "course_name_th": "เศรษฐมิติ 1",
+            "course_name_en": "Econometrics 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "",
+            "course_description_en": "",
+            "prerequisite_courses": [
+                "ศ.211",
+                "ศ.212",
+                "ค.216"
+            ]
+        },
+        {
+            "course_code": "EC216",
+            "th-abbr": "ส.216",
+            "course_name_th": "เศรษฐมิติ",
+            "course_name_en": "Econometrics",
+            "course_type": "",
+            "course_credit": 0,
+            "lect_hours": 0,
+            "practice_hours": 0,
+            "self_study_hours": 0,
+            "course_description_th": "วิธีการนำความรู้ทางสถิติและทฤษฎีเศรษฐศาสตร์มาใช้ในการวิเคราะห์ข้อมูลทางเศรษฐกิจการ ประมาณค่าพารามิเตอร์ด้วยวิธีกำลังสองน้อยที่สุด (Least Squares Method) การทดสอบสมมติฐาน เกี่ยวกับพารามิเตอร์และความสัมพันธ์ของตัวแปรศึกษาแบบจำลองถดถอยที่มีตัวแปรอิสระตัวเดียวและ หลายตัว ศึกษาการประมาณค่าพารามิเตอร์ในกรณีที่ตัวแปรอิสระมีลักษณะเชิงคุณภาพ (Dummy Variable) ศึกษาปัญหาที่เกิดขึ้นในแบบจำลองถดถอย ได้แก่ปัญหาตัวแปรอิสระมีความสัมพันธ์เชิงเส้นซึ่ง กันและกัน (Multicollinearity) ปัญหาตัวรบกวนมีความแปรปรวนไม่คงที่ (Heteroskedasticity) ปัญหา ตัวรบกวนมีความสัมพันธ์กัน (Autocorrelation) ปัญหาการระบุแบบจำลองผิดพลาด (Specification Error) และปัญหาตัวแปรอิสระมีการกระจายและเป็นตัวแปรสุ่ม (Stochastic Regressor) ศึกษาวิธีการ ประมาณค่าพารามิเตอร์ด้วยวิธี Generalized Least Squares การประมาณค่าพารามิเตอร์ระบบสมการ ถดถอย (System of Regressions and Seemingly Unrelated Regression: SUR) ศึกษาระบบสมการ ที่เกี่ยวเนื่องกัน (Simultaneous Equation System) การแก้ปัญหา Endogeneity ด้วยวิธีการประมาณ ค่าแบบตัวแปรเครื่องมือ (Instrumental Variables) และการใช้โปรแกรมสำเร็จรูปในการวิเคราะห์ แบบจำลองเศรษฐมิติ",
+            "course_description_en": "Applying statistical methods and economic theories to analyze economic data, including simple and multiple regressions; estimation using the ordinary least squares (OLS) hypothesis testing; and dummy variable. This course also examines various problems in regression models, including Multicollinearity, Heteroscedasticity, Autocorrelation, Specification Error, Stochastic Regressors; and some advanced topics in regression method such as Generalized Least Squares (GLS) estimation, System of regressions and Seemingly Unrelated Regression (SUR), Simultaneous Equation System and solving Endogeneity problem with instrumental variables. Trainings in econometrics softwares.",
+            "prerequisite_courses": [
+                "EC211",
+                "EC212",
+                "MA216",
+                "ST216"
+            ]
+        },
+        {
+            "course_code": "EC426",
+            "th-abbr": "ศ.426",
+            "course_name_th": "เศรษฐมิติ 2",
+            "course_name_en": "Econometrics 2",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การประมาณค่าพารามิเตอร์ด้วยวิธีการ Maximum Likelihood การประมาณค่าพารามิเตอร์ใน แบบจำลองข้อมูลภาคตัดขวางอนุกรมเวลา (Panel Data Models) ศึกษาแบบจำลองที่มีตัวแปรตามแบบ จำกัด (Limited Dependent Variable Model)",
+            "course_description_en": "This course covers Maximum Likelihood estimation, panel data model, limited dependent variable model.",
+            "prerequisite_courses": [
+                "EC425"
+            ]
+        },
+        {
+            "course_code": "EC427",
+            "th-abbr": "ศ.427",
+            "course_name_th": "การวิเคราะห์อนุกรมเวลา",
+            "course_name_en": "Time Series Analysis",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาแบบจำลองอนุกรมเวลา เบื้องต้น ได้แก่ แบบจำลองอนุกรมเวลาเชิงเดี่ยว (Univariate Time Series Model), AR, MA, ARMA, ARIMA, การพยากรณ์ แบบจำลอง ARCH GARCH EGARCH แบบจำลอง VARs และแบบจำลองสมการ ถดถอยที่ตัวแปรมีความสัมพันธ์ระยะยาวและการปรับตัวในระยะสั้น, VECM.",
+            "course_description_en": "This course covers Maximum Likelihood estimation and the introduction to time series data focusing on univariate time series, AR, MA, ARMA, ARIMA, forecasting, ARCH, GARCH, EGARCH, VARs, cointegration and error correction model, and VECM.",
+            "prerequisite_courses": [
+                "EC425"
+            ]
+        },
+        {
+            "course_code": "EC521",
+            "th-abbr": "ศ.521",
+            "course_name_th": "เศรษฐศาสตร์ปริมาณ : ศึกษาเฉพาะเรื่อง 1",
+            "course_name_en": "Selected topics in Quantitative Economics 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านเศรษฐศาสตร์ปริมาณ ซึ่งจะประกาศเป็นคราว ๆ ไป",
+            "course_description_en": "Study of topics in Quantitative Economics to be announced later.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC522",
+            "th-abbr": "ศ.522",
+            "course_name_th": "เศรษฐศาสตร์ปริมาณ : ศึกษาเฉพาะเรื่อง 2",
+            "course_name_en": "Selected topics in Quantitative Economics 2",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านเศรษฐศาสตร์ปริมาณ ซึ่งจะประกาศเป็นคราว ๆ ไป",
+            "course_description_en": "Study of topics in Quantitative Economics to be announced later.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC431",
+            "th-abbr": "ศ.431",
+            "course_name_th": "เศรษฐศาสตร์ว่าด้วยตลาดการเงินและสถาบันการเงิน",
+            "course_name_en": "Economics of Financial Markets and Financial Institutions",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบได้ศ.311 ตลาดเงินและตลาดทุนในระดับจุลภาคสินทรัพย์ทางการเงิน ความเสี่ยงและการแบกรับความ เสี่ยงทางการเงินทฤษฎีว่าด้วยดุลยภาพการกำหนดราคาสินทรัพย์ทางการเงินที่สำคัญ การกำหนดอัตรา ดอกเบี้ยและโครงสร้างอัตราดอกเบี้ย ปัญหาสารสนเทศไม่สมมาตรในตลาดการเงินศึกษาสถาบันการเงิน การบริหารความเสี่ยงของสถาบันการเงิน พฤติกรรมของสถาบันการเงิน การกำกับดูแลสถาบันการเงิน และหัวข้อการเงินร่วมสมัยและนวัตกรรมที่สำคัญในระบบการเงิน",
+            "course_description_en": "Prerequisites: Have earned credits of EC311 Money and capital markets at a micro-level; Financial assets, risks, and risk-bearing; The theory of equilibrium pricing of financial assets; Interest rate determination and structure of interest rates; Asymmetric information in financial markets; The study of financial institutions; Risk management of financial institutions; Behavior of financial institutions; Regulating financial institutions, Other contemporary issues and recent developments in financial system.",
+            "prerequisite_courses": [
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC432",
+            "th-abbr": "ศ.432",
+            "course_name_th": "ทฤษฎีและนโยบายการเงิน",
+            "course_name_en": "Monetary Theory and Policy",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบได้ศ.312 บทบาทของเงินในระบบเศรษฐกิจศึกษานโยบายการเงินในประเด็นเป้าหมาย และเครื่องมือการ ดำเนินนโยบาย กลไกการส่งผ่านของนโยบายการเงินไปสู่ระบบเศรษฐกิจ บทบาทของนโยบายการเงินที่มี ต่อวัฎจักรธุรกิจ กรอบนโยบายการเงิน เช่น เป้าหมายอัตราแลกเปลี่ยน เป้าหมายอัตราเงินเฟ้อ บทบาท ของธนาคารกลาง ความเชื่อมโยงระหว่างนโยบายการเงินและนโยบายการคลัง และบทบาทของนโยบาย การเงินในระบบเศรษฐกิจแบบเปิด และหัวข้อการเงินร่วมสมัยและนวัตกรรมที่สำคัญที่เกี่ยวข้องกับ นโยบายการเงิน",
+            "course_description_en": "The role of money in the economy; studying monetary policy’s goals, tools, policy implementations, Transmission mechanisms of Monetary policy; Monetary policy and business cycles; monetary policy framework, exchange rate targeting and inflation targeting; The role of the Central Bank; The interaction between monetary and fiscal policies; The role of monetary policy in the open economy; Other contemporary issues and recent developments related to monetary policy",
+            "prerequisite_courses": [
+                "EC312"
+            ]
+        },
+        {
+            "course_code": "EC433",
+            "th-abbr": "ศ.433",
+            "course_name_th": "ทฤษฎีการกำหนดราคาสินทรัพย์",
+            "course_name_en": "Asset Pricing Theory",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทฤษฎีการกำหนดราคาสินทรัพย์ โดยอาศัยแนวคิดทางเศรษฐศาสตร์ โดยเริ่มจากการศึกษา ทฤษฎีการตัดสินใจภายใต้ภาวะความไม่แน่นอนและความเสี่ยง จากนั้นทำการพัฒนาทฤษฎีการกำหนด ราคาสินทรัพย์ แบบเวลาไม่ต่อเนื่อง (Discrete time) เช่น แบบจำลอง Capital Asset Pricing Model (CAPM) แบบจำลอง Arbitrage Pricing Theory (APT) แบบจำลอง Consumption Capital Asset Pricing Model (C-CAPM) เป็นต้น และ ศึกษางานวิจัยเชิงประจักษ์เกี่ยวกับปริศนา (Puzzles) ที่เกิดจาก การประยุกต์ใช้ตัวแบบการกำหนดราคา ตลอดจนศึกษาทฤษฎีสมัยใหม่ที่ถูกพัฒนาต่อยอดเพื่อที่จะแก้ ปริศนา (Puzzles) ดังกล่าว",
+            "course_description_en": "Study concepts and frameworks of asset pricing theory in the intermediate level; the theory of choice under uncertainty; classical asset pricing theory in the discrete time such as the Capital Asset Pricing Model (CAPM), The Arbitrage Pricing Theory (APT), and The Consumption Capital Asset Pricing Model (C-CAPM) ; Empirical puzzles in asset pricing/returns and proposed resolutions in the literature.",
+            "prerequisite_courses": [
+                "EC311",
+                "EC320",
+                "EC421"
+            ]
+        },
+        {
+            "course_code": "EC434",
+            "th-abbr": "ศ.434",
+            "course_name_th": "การเงินเชิงพฤติกรรม",
+            "course_name_en": "Behavioral Finance",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดของเศรษฐศาสตร์เชิงพฤติกรรม รวมถึงแบบจำลองภายใต้แนวคิดของเศรษฐศาสตร์เชิง พฤติกรรม ที่ใช้อธิบายปรากฏการณ์ที่เกิดขึ้นในภาคการเงิน เช่น ทฤษฎีการคาดหวัง (Prospect Theory) และผลกระทบต่อพฤติกรรมการลงทุน หลักฐานเชิงประจักษ์ในภาคการเงินที่สนับสนุนแนวคิด เศรษฐศาสตร์เชิงพฤติกรรม แบบจำลองที่อาศัยปัจจัยเชิงสังคมวิทยาและปัจจัยเชิงจิตวิทยาในการอธิบาย การปรับตัวของระดับผลตอบแทนของตราสารทางการเงิน เป็นต้น รวมถึงหัวข้ออื่น ๆ ที่ผู้สอนเห็นสมควร",
+            "course_description_en": "Study concepts and frameworks of behavioral economics that are used to explain observations in the financial sector. Topics of the subject include the Prospect Theory and its implications for investment behaviors, empirical evidences in the financial sector that support the idea of behavioral economics, models that incorporate psychological and sociological factors in explaining asset returns, or other related topics that the lecturer finds suitable.",
+            "prerequisite_courses": [
+                "EC311",
+                "EC325",
+                "EC425"
+            ]
+        },
+        {
+            "course_code": "EC435",
+            "th-abbr": "ศ.435",
+            "course_name_th": "เศรษฐมิติการเงินเบื้องต้น",
+            "course_name_en": "Introductory Financial Econometrics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ประยุกต์ใช้เครื่องมือทางเศรษฐมิติกับข้อมูลทางการเงินและเศรษฐกิจมหภาค โดยเน้นแบบจำลอง เศรษฐมิติที่สำคัญ เนื้อหาประกอบด้วยการประยุกต์ใช้แบบจำลองสมการถดถอยพื้นฐาน แบบจำลอง Probit-Logit เพื่อการประยุกต์ใช้กับการประเมินความเสี่ยงทางการเงิน คุณลักษณะของข้อมูลทางการเงิน ในเชิงอนุกรมเวลา แบบจำลองสำหรับข้อมูลอนุกรมเวลาเชิงเดี่ยว (Univariate Time-Series Model) แบบจำลองสำหรับข้อมูลอนุกรมเวลาเชิงพหุ (Multivariate Time-Series Model) แบบจำลองสมการ ถดถอยที่ตัวแปรมีความสัมพันธ์ระยะยาวและการปรับตัวในระยะสั้น (Regression with the long-run relationship and short-run dynamics) แบบจำลองความผันผวน (Volatility Model) และ รวมถึง การใช้โปรแกรมสำเร็จรูปทางสถิติเพื่อเน้นการประยุกต์ใช้เครื่องมือสำหรับการทำวิจัยและศึกษาประเด็น ด้านการเงิน",
+            "course_description_en": "The application of econometrics method to finance and macroeconomics data. Applications of regression models. Applications of Probit-Logit model to financial risk assessments. Characteristics and properties of time-series based financial data. Univariate Time-Series Model. Regression with the long-run relationship and short-run dynamics. Volatility Model. Training in statistical software, emphasizing the application of tools suitable for research and study in finance-related issues",
+            "prerequisite_courses": [
+                "EC325",
+                "EC431"
+            ]
+        },
+        {
+            "course_code": "EC439",
+            "th-abbr": "ศ.439",
+            "course_name_th": "สัมมนาเศรษฐศาสตร์การเงิน",
+            "course_name_en": "Seminar in Monetary and Financial Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "สัมมนาและวิจัยในหัวข้อเศรษฐศาสตร์การเงิน ภายใต้การควบคุมและแนะนำจากผู้สอน",
+            "course_description_en": "Seminar and research on topics in Monetary and Financial Economics under the supervision of the lecturer.",
+            "prerequisite_courses": [
+                "EC400"
+            ]
+        },
+        {
+            "course_code": "EC531",
+            "th-abbr": "ศ.531",
+            "course_name_th": "เศรษฐศาสตร์การเงิน : ศึกษาเฉพาะเรื่อง 1",
+            "course_name_en": "Selected Topics in Monetary and Financial Economics 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านเศรษฐศาสตร์การเงิน ซึ่งจะประกาศเป็นคราว ๆ ไป",
+            "course_description_en": "Study of topics in Monetary and Financial Economics to be announced later.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC532",
+            "th-abbr": "ศ.532",
+            "course_name_th": "เศรษฐศาสตร์การเงิน : ศึกษาเฉพาะเรื่อง 2",
+            "course_name_en": "Selected Topics in Monetary and Financial Economics 2",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านเศรษฐศาสตร์การเงิน ซึ่งจะประกาศเป็นคราว ๆ ไป",
+            "course_description_en": "Study of topics in Monetary and Financial Economics to be announced later.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC340",
+            "th-abbr": "ศ.340",
+            "course_name_th": "เศรษฐศาสตร์สาธารณะเบื้องต้น",
+            "course_name_en": "Introductory Public Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักการพื้นฐานเกี่ยวกับเศรษฐศาสตร์การคลังสาธารณะ หลักทฤษฏีภาคสาธารณะ เศรษฐศาสตร์สวัสดิการ และบทบาทของรัฐบาลในระบบเศรษฐกิจ รวมทั้งวิเคราะห์ถึงปฏิสัมพันธ์ระหว่าง ภาคสาธารณะ สถาบันต่าง ๆ ทางการคลัง และภาคเอกชน นำเสนอข้อมูลและการศึกษาเชิงประจักษ์ ที่ ทำให้เกิดความเข้าใจในกระบวนการกำหนดนโยบายเศรษฐกิจของรัฐบาลในทางปฏิบัติ",
+            "course_description_en": "This course introduces students to the basic concepts of public finance, including the principles of the public sector and welfare economics. It provides an overview of the role of government and shows the interaction between the public sector, fiscal institutions, and the private economy. Empirical case studies illustrating public policy- making in practice will also be covered.",
+            "prerequisite_courses": [
+                "EC210",
+                "EC213",
+                "EC214",
+                "EC211",
+                "EC212"
+            ]
+        },
+        {
+            "course_code": "EC341",
+            "th-abbr": "ศ.341",
+            "course_name_th": "การคลังท้องถิ่น",
+            "course_name_en": "Local Public Finance",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ระบบการคลังของรัฐบาลท้องถิ่นหรือองค์กรปกครองส่วนท้องถิ่น (Local Government) โดยศึกษา ความสำคัญด้านการคลังสาธารณะขององค์กรปกครองส่วนท้องถิ่น รวมถึงโครงสร้างการบริหารและบทบาท หน้าที่ที่แตกต่างกันระหว่างรัฐบาลและองค์กรปกครองส่วนท้องถิ่น โดยเฉพาะการแบ่งหน้าที่การให้บริการ สาธารณะ (Expenditure Assignment) ในพื้นที่ท้องถิ่นที่เหมาะสมระหว่างรัฐบาลและองค์กรปกครองส่วน ท้องถิ่น หลักเกณฑ์การกำหนดของรายรับท้องถิ่น (Revenue Assignment) ทั้งที่เป็นรายได้จากภาษีจัดเก็บ เอง หรือที่รัฐบาลกลางจัดสรรให้ที่สอดคล้องกับภารกิจหน้าที่มอบหมายให้แก่องค์กรปกครองส่วนท้องถิ่น รวมทั้งความสัมพันธ์ทางการคลังระหว่างระดับชั้นการบริหาร (Intergovernmental Finance) ที่นำไปสู่ กระบวนการปฏิรูปการกระจายอำนาจการคลังให้แก่องค์กรปกครองส่วนท้องถิ่น วิชานี้เน้นการวิเคราะห์ทาง เศรษฐศาสตร์เป็นหลัก แต่ยังคงให้ความสำคัญกับมุมมองด้านรัฐศาสตร์ และปัจจัยเชิงสถาบันต่าง ๆ ที่ เกี่ยวข้องที่จะนำไปสู่การออกแบบนโยบายและการปฏิบัติการกระจายอำนาจการคลังที่ดี",
+            "course_description_en": "This course critically examines local government fiscal systems. Major topics include understanding and determining an appropriate division of fiscal responsibilities among levels of government or expenditure assignment; criteria for local revenue assignment including local levied revenue, central allocation revenue, and intergovernmental finance. The course focuses on economic analysis, but attention is also given to political, institutional, and cultural considerations that are critical for effective policy design and implementation.",
+            "prerequisite_courses": [
+                "EC210",
+                "EC211",
+                "EC212",
+                "EC213",
+                "EC214"
+            ]
+        },
+        {
+            "course_code": "EC441",
+            "th-abbr": "ศ.441",
+            "course_name_th": "เศรษฐศาสตร์สาธารณะ 1",
+            "course_name_en": "Public Economics 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิเคราะห์การจัดสรรทรัพยากรในระบบเศรษฐกิจโดยภาครัฐ (รัฐบาลกลาง และรัฐบาลท้องถิ่น) เสนอให้เห็นถึงขนาดของรัฐบาลและงบประมาณ การจัดหาสินค้าและบริการสาธารณะ และการกำกับดูแล สภาวะตลาดล้มเหลว บทบาทรัฐบาลในกระบวนการงบประมาณ เพื่อให้เกิดเสถียรภาพการเติบโตในระบบ เศรษฐกิจ และการกระจายรายได้ศึกษาถึงการกระจายอำนาจทางการคลังให้แก่องค์กรปกครองส่วน ท้องถิ่นทางด้านรายจ่าย การประยุกต์ใช้เครื่องมือทางเศรษฐศาสตร์การคลังในการวิเคราะห์ประเด็นร่วม สมัย เช่น สวัสดิการสังคม การวิเคราะห์ต้นทุน-ผลประโยชน์ การเงินในระบบสาธารณสุขและการศึกษา เป็นต้น",
+            "course_description_en": "The course covers the role of the government in the allocation of resources for the public sector of the economy. Topics covered will include government (national and local) outlays and budgets, the provisions of public goods and the regulation of market failures. The role of the government’s budget processes in providing macroeconomic stability, growth and income redistribution. This analysis also includes fiscal decentralization (the budget allocation of local governments). The application of these tools to selected contemporary topics such as social security, cost- benefit analysis, healthcare and education financing will also be covered.",
+            "prerequisite_courses": [
+                "EC212",
+                "EC214",
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC442",
+            "th-abbr": "ศ.442",
+            "course_name_th": "เศรษฐศาสตร์สาธารณะ 2",
+            "course_name_en": "Public Economics 2",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิเคราะห์โครงสร้างและองค์ประกอบของรายรับรัฐบาล (รัฐบาลกลาง และรัฐบาลท้องถิ่น) ทฤษฎี ภาษีอากร หลักการจัดเก็บภาษีภาระภาษีการผลักภาระภาษีภาษีกับประสิทธิภาพ ภาษีกับความเป็น ธรรม ผลกระทบของภาษีต่อระบบเศรษฐกิจโดยรวม และต่อการตัดสินใจในการดำเนินกิจกรรมทาง เศรษฐกิจของปัจเจกบุคคล เช่น การทำงาน การพักผ่อน การออม การบริโภค การลงทุน การหลีกเลี่ยง ภาษี และการหลบหนีภาษีรวมทั้งการวิเคราะห์ถึงผลกระทบของการก่อหนี้สาธารณะ ศึกษาถึงการ กระจายอำนาจการคลังให้แก่องค์กรปกครองส่วนท้องถิ่นทางด้านรายรับ การให้เงินอุดหนุน และหนี้ของ องค์กรปกครองส่วนท้องถิ่น การประยุกต์ใช้เครื่องมือทางเศรษฐศาสตร์การคลังในการวิเคราะห์ประเด็น ร่วมสมัย เช่น สวัสดิการสังคม การวิเคราะห์ต้นทุน-ผลประโยชน์ การเงินในระบบสาธารณสุขและ การศึกษา การเมืองและเศรษฐศาสตร์ว่าด้วยการปฏิรูปภาษี เป็นต้น",
+            "course_description_en": "The course analyses the structure and composition of government (national and local) revenue, through analysis of tax burden and incidence, and tax effects upon efficiency and equity. The course looks at the empirical effects of tax policies on the economy as a whole, and various individual behaviors such as decisions about work and leisure, tax avoidance and evasion, investment, savings and consumption. The analysis also includes the effects of deficit finance and fiscal decentralization (local revenue, grants and local debt). The application of these tools to selected contemporary topics (social security, healthcare and education financing). Additionally, the class will explore the politics and economics of tax reforms.",
+            "prerequisite_courses": [
+                "EC212",
+                "EC214",
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC443",
+            "th-abbr": "ศ.443",
+            "course_name_th": "เศรษฐศาสตร์ทางเลือกสาธารณะ",
+            "course_name_en": "Public Choice Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักการพื้นฐานของเศรษฐศาสตร์ทางเลือกสาธารณะ หรือที่รู้จักกันในนามของ “การเมืองภายใต้ วิถีมนุษย์ที่เป็นสัตว์เศรษฐกิจ” การวิเคราะห์ว่าปัจเจกชนและหน่วยธุรกิจมีพฤติกรรมและปฏิสัมพันธ์ต่อ กันอย่างไรในภาคสาธารณะ ซึ่งใช้ข้อสมมติหลักที่สำคัญคือ “มนุษย์เป็นสัตว์เศรษฐกิจ” เช่นเดียวกับการ วิเคราะห์ในตลาด หัวข้อที่จะศึกษาประกอบด้วย ระบบการลงคะแนนเสียงและแรงจูงใจทางสถาบัน ความ ขัดแย้งของการลงคะแนนเสียง ระบบราชการ การแสวงหาค่าเช่าทางเศรษฐกิจ เศรษฐศาสตร์รัฐธรรมนูญ ฯลฯ รวมทั้งการนำกรณีศึกษาทั้งของประเทศไทยและต่างประเทศมาสะท้อนให้เห็นถึงข้อจำกัดของการ แทรกแซงโดยรัฐบาล และผลกระทบที่อาจเกิดจาก “ความล้มเหลวของรัฐบาล”",
+            "course_description_en": "This course introduces students to the principles of Public Choice Economics, also known as “Politics without the Romance”. Using the same core assumptions about Homo Economics that guides our analysis of how individuals and firms act and interact in a market, this class will then explore how those same people act in the public sphere. Topics covered will include the paradox of voting, the voting systems and institutional incentives, bureaucracies, rent- seeking, constitutional economics, and more. Both international and Thai case studies will be used to illustrate the limits of government intervention, and the dangers of “government failure”.",
+            "prerequisite_courses": [
+                "EC212",
+                "EC214",
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC444",
+            "th-abbr": "ศ.444",
+            "course_name_th": "เศรษฐศาสตร์ว่าด้วยคอร์รัปชัน",
+            "course_name_en": "Economics of Corruption",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบได้ศ.311 คอร์รัปชันผ่านกรอบการวิเคราะห์ทางเศรษฐศาสตร์ทั้งในด้านทฤษฎีและวิธีการศึกษาเชิง ประจักษ์ (Empirical Methodology) ในประเด็นเรื่องนิยาม ความหมาย สาเหตุของการเกิด และ ผลกระทบที่เกิดขึ้นต่อเศรษฐกิจทั้งในระดับจุลภาคและระดับมหภาคและต่อสวัสดิการของสังคม นอกจากนี้ยังศึกษาถึงนโยบายสาธารณะและมาตรการของภาครัฐในการจัดการกับคอร์รัปชันและบทบาท ของภาคธุรกิจเอกชน ภาคประชาสังคม องค์กรระหว่างประเทศในการแก้ไขปัญหาคอร์รัปชัน กรณีศึกษา ของนานาประเทศในการจัดการกับคอร์รัปชัน",
+            "course_description_en": "Prerequisites: Have earned credits of EC311 Study of corruption by using economic analytical framework both theoretical and empirical methodology. Topics include definition and coverage of corruption, causes of corruption, economic consequences of corruption both on micro and macro levels, public policies and measures in combating corruption. Moreover, roles of private sector, civic society, and international organizations in tackling with corruption including case studies will be discussed.",
+            "prerequisite_courses": [
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC449",
+            "th-abbr": "ศ.449",
+            "course_name_th": "สัมมนาเศรษฐศาสตร์สาธารณะ",
+            "course_name_en": "Seminar in Public Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "สัมมนาและวิจัยในหัวข้อเศรษฐศาสตร์สาธารณะ ภายใต้การควบคุมและแนะนำจากผู้สอน",
+            "course_description_en": "Seminar and research on topics in Public Economics under the supervision of the lecturer.",
+            "prerequisite_courses": [
+                "EC441",
+                "EC442"
+            ]
+        },
+        {
+            "course_code": "EC541",
+            "th-abbr": "ศ.541",
+            "course_name_th": "เศรษฐศาสตร์สาธารณะ : ศึกษาเฉพาะเรื่อง 1",
+            "course_name_en": "Selected Topics in Public Economics 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านเศรษฐศาสตร์สาธารณะ ซึ่งจะประกาศเป็น คราว ๆ ไป",
+            "course_description_en": "Study of topics in Public Economics to be announced later.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC542",
+            "th-abbr": "ศ.542",
+            "course_name_th": "เศรษฐศาสตร์สาธารณะ : ศึกษาเฉพาะเรื่อง 2",
+            "course_name_en": "Selected Topics in Public Economics 2",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านเศรษฐศาสตร์สาธารณะ ซึ่งจะประกาศเป็น คราว ๆ ไป",
+            "course_description_en": "Study of topics in Public Economics to be announced later.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC351",
+            "th-abbr": "ศ.351",
+            "course_name_th": "ความร่วมมือทางเศรษฐกิจระหว่างประเทศและการเจรจาทางการค้า",
+            "course_name_en": "International Economic Cooperation and Trade Negotiations",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เนื้อหาของวิชานำเสนอความความร่วมมือทางเศรษฐกิจระหว่างประเทศที่มีนัยสำคัญต่อประเทศ กำลังพัฒนาในมิติต่าง ๆ ทั้งระดับทวิภาคีภูมิภาค และพหุภาค ขอบเขตการบรรยายจะเริ่มจากแรงจูงใจที่ ขับเคลื่อนให้เกิดความร่วมมือ ประเภทของความร่วมมือ ขอบเขตของความร่วมมือ (เช่น การค้าสินค้า การค้าบริการ มาตรการทางการค้าต่าง ๆ) การกำกับดูแล ผลกระทบของความร่วมมือตลอดจนบทบาท องค์การระหว่างประเทศที่จัดตั้งขึ้นตามความร่วมมือฯและข้อพิพาทด้านการค้าและการลงทุนที่สำคัญ",
+            "course_description_en": "All levels of economic cooperation agreements (bilateral, regional, and multilateral ones) are covered. The lecture starts with motivation, types, scope, governance mechanism, and its impact. The discussion will also cover the role of international organizations in economic cooperation and economic- related dispute settlements",
+            "prerequisite_courses": [
+                "EC210",
+                "EC211",
+                "EC212",
+                "EC213",
+                "EC214"
+            ]
+        },
+        {
+            "course_code": "EC451",
+            "th-abbr": "ศ.451",
+            "course_name_th": "ทฤษฎีและนโยบายการค้าระหว่างประเทศ",
+            "course_name_en": "International Trade Theory and Policy",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เนื้อหาจะครอบคลุมทฤษฎีการค้าระหว่างประเทศที่สำคัญ ผลกระทบต่าง ๆ ที่คาดการณ์จาก ทฤษฎี และความสามารถของทฤษฏีในการอธิบายการค้าระหว่างประเทศที่เกิดขึ้นจริง ในขณะที่เนื้อหา ในส่วนของนโยบายการค้าระหว่างประเทศ ครอบคลุมนโยบายและมาตรการทางการค้าที่ประเทศหนึ่ง สามารถดำเนินการและมีผลต่อการค้าระหว่างประเทศทั้งที่เป็นมาตรทางภาษีศุลกากร (Tariff Measures: TBs) และที่มิใช่ภาษีศุลกากร (Non-tariff Measures: NTMs) ทั้งมาตรการดั้งเดิม (เช่น โควตา การบังคับ ใช้ชิ้นส่วนภายในประเทศ การทุ่มตลาด การอุดหนุนการส่งออก)และมาตรการรูปแบบใหม่ (เช่น มาตรฐาน สุขอนามัย) ที่มีการนำมาใช้มากขึ้นเรื่อย ๆ และการทำความตกลงการค้าระหว่างประเทศ โดยเฉพาะเขต การค้าเสรีรวมทั้งผลกระทบของมาตรการดังกล่าว นอกจากนั้นเนื้อหาของวิชาจะนำเสนอปรำกฎการณ์ ทางการค้าระหว่างประเทศที่สำคัญอื่น ๆ เช่น บทบาทของบริษัทข้ามชาติ และประโยชน์ต่อการพัฒนา ทางเศรษฐกิจของประเทศที่รับเงินลงทุน การแบ่งแยกขั้นตอนการผลิตระหว่างประเทศ (International Production Sharing)",
+            "course_description_en": "Both international trade theory and trade policy practices are covered in this subject. Relevant international trade theories will be discussed, together with the hypothesized consequence and its empirical support. Both tariff and non-tariff trade policy measures are examined. In the latter, both traditional (e.g. quota, local content requirements) and new forms (sanitary and phyto sanitary, technical requirement) of non-tariff measures are covered. Discussion in the subject also covers free trade agreements and international production sharing, both of their impacts.",
+            "prerequisite_courses": [
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC452",
+            "th-abbr": "ศ.452",
+            "course_name_th": "เศรษฐศาสตร์การเงินระหว่างประเทศ",
+            "course_name_en": "International Monetary and Financial Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความรู้ความเข้าใจเกี่ยวกับดุลการชำระเงินระหว่างประเทศและอัตราแลกเปลี่ยนที่จะส่งผลต่อไป ยังตัวแปรเศรษฐกิจมหภาคอื่น ๆ โดยเนื้อหาที่เกี่ยวกับดุลการชำระเงินจะครอบคลุมความหมาย องค์ประกอบ และกลไกการปรับตัวของดุลการชำระเงิน ในขณะที่เนื้อหาในส่วนของอัตราแลกเปลี่ยนจะ ครอบคลุมกรอบแนวคิดเรื่องอัตราแลกเปลี่ยน (การวัดอัตราแลกเปลี่ยน แบบจำลองปัจจัยกำหนดอัตรา แลกเปลี่ยน ระดับอัตราแลกเปลี่ยนดุลยภาพ) ผลกระทบของการเปลี่ยนแปลงอัตราแลกเปลี่ยนต่อตัว แปรสำคัญทางเศรษฐกิจ (ผลผลิต การค้า การลงทุน การเคลื่อนย้ายเงินทุน และระดับราคา) และ แบบจำลองเศรษฐกิจมหภาคแบบเปิด (Open Macro-Economy Model) เพื่อนำเสนอปฏิสัมพันธ์ ระหว่างอัตราแลกเปลี่ยน ตัวแปรเศรษฐกิจที่สำคัญ (ผลผลิต อัตราดอกเบี้ย เงินเฟ้อ) และตัวแปรทางด้าน นโยบายที่สำคัญ (เช่น ระบบอัตราแลกเปลี่ยน กรอบนโยบายการเงิน) นอกจากนั้นยังหยิบยกประเด็นวิวา ทะสำคัญทางด้านเศรษฐกิจการเงินระหว่างประเทศ เช่น วิกฤติเศรษฐกิจโลก (เช่น Asian Financial Crisis หรือ Subprime) ปัญหาความร่วมมือ/ความไม่ร่วมมือทางด้านนโยบายของประเทศต่าง ๆ (Policy coordination) การทวีความสำคัญของ Digital Currency",
+            "course_description_en": "The subject focuses on balance of payments, exchange rate, and their interaction with other macroeconomic variables. It begins with basic features of balance of payment including definition, components and its dynamics. That of exchange rate covers its basic concept (measurement, its determinants, and its equilibrium). Both balance of payments and exchange rate interacting with other macroeconomic variables are discussed through open-macro economy model. Note other key macroeconomic variables include output, interest rate, and inflation. It will cover macro-economic policy regimes such as monetary policy regime (i. e. inflation targeting) , and exchange rate policy regime. Recent development in international monetary and finance economics will be integrated into the subject, e.g. Asian financial crisis, Sub-prime crisis, policy coordination, digital currency.",
+            "prerequisite_courses": [
+                "EC312"
+            ]
+        },
+        {
+            "course_code": "EC459",
+            "th-abbr": "ศ.459",
+            "course_name_th": "สัมมนาเศรษฐศาสตร์ระหว่างประเทศ",
+            "course_name_en": "Seminar in International Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "สัมมนาและวิจัยในหัวข้อเศรษฐศาสตร์ระหว่างประเทศ ภายใต้การควบคุมและแนะนำจากผู้สอน",
+            "course_description_en": "Seminar and research on topics in International Economics under the supervision of the lecturer.",
+            "prerequisite_courses": [
+                "EC451",
+                "EC452"
+            ]
+        },
+        {
+            "course_code": "EC551",
+            "th-abbr": "ศ.551",
+            "course_name_th": "เศรษฐศาสตร์ระหว่างประเทศ : ศึกษาเฉพาะเรื่อง 1",
+            "course_name_en": "Selected Topics in International Economics 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านเศรษฐศาสตร์ระหว่างประเทศ ซึ่งจะประกาศเป็น คราว ๆ ไป",
+            "course_description_en": "Study of topics in international Economics to be announced later.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC552",
+            "th-abbr": "ศ.552",
+            "course_name_th": "เศรษฐศาสตร์ระหว่างประเทศ : ศึกษาเฉพาะเรื่อง 2",
+            "course_name_en": "Selected Topics in International Economics 2",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านเศรษฐศาสตร์ระหว่างประเทศ ซึ่งจะประกาศเป็น คราว ๆ ไป",
+            "course_description_en": "Study of topics in international Economics to be announced later.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC361",
+            "th-abbr": "ศ.361",
+            "course_name_th": "เศรษฐกิจประเทศในเอเชีย และอื่น ๆ",
+            "course_name_en": "Economics of Asian Countries and Others",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวทางการพัฒนาเศรษฐกิจของประเทศในเอเชีย และ/หรือศึกษากลุ่มประเทศอื่น ๆ ตามที่ ผู้สอนเห็นควร ซึ่งจะประกาศให้ทราบเป็นคราว ๆ ไป วิวัฒนาการของโครงสร้างเศรษฐกิจ บทบาทของ สถาบันรัฐและเอกชน ตลอดจนปัจจัยต่าง ๆ ทางเศรษฐกิจ สังคม และการเมือง ที่มีผลต่อการเปลี่ยนแปลง ทางเศรษฐกิจของประเทศเหล่านั้นตลอดจนความสัมพันธ์ของเศรษฐกิจในประเทศดังกล่าวกับเศรษฐกิจ ไทยและเศรษฐกิจโลก",
+            "course_description_en": "Economic development in Asia and/ or selected countries according to the lecturer’s announcement. The transformation of their economic structure. The roles of public and private institutions along with other economic, social, and political factors that contribute to their economic changes. The relationship between these economies and the world and Thai economies.",
+            "prerequisite_courses": [
+                "EC210",
+                "EC211",
+                "EC212",
+                "EC213",
+                "EC214"
+            ]
+        },
+        {
+            "course_code": "EC362",
+            "th-abbr": "ศ.362",
+            "course_name_th": "ประเด็นร่วมสมัยในกลุ่มประเทศอาเซียน",
+            "course_name_en": "Contemporary Issues in ASEAN Countries",
+            "course_type": "",
+            "course_credit": 6,
+            "lect_hours": 6,
+            "practice_hours": 0,
+            "self_study_hours": 9,
+            "course_description_th": "ประเด็นต่าง ๆ ที่เกี่ยวข้องกับประเทศกลุ่มสมาชิกอาเซียน ได้แก่ประเด็นทางด้านสังคมและ วัฒนธรรม การเมือง ธุรกิจ การค้าและการลงทุน การพัฒนาเศรษฐกิจ การเงินในภูมิภาค รวมไปถึง บทบาทขององค์กรระหว่างประเทศในภูมิภาค ความสัมพันธ์ทางเศรษฐกิจระหว่างประเทศ และประเด็น ต่าง ๆ ที่เกี่ยวข้องกับเศรษฐกิจประเทศไทย การเรียนการสอนมีลักษณะ Active Learning และ Problem Based Learning เรียนรู้จากผู้มีประสบการณ์จริงจากภายนอก การอภิปราย และเยี่ยมชมดู งานสถานที่ต่าง ๆ ที่น่าสนใจ (Field Trips) โดยอาจเลือกประเทศที่ทำการศึกษาเป็นการเฉพาะ ซึ่งจะ ประกาศให้ทราบเป็นคราว ๆ ไป",
+            "course_description_en": "The contemporary issues in ASEAN countries. Study various aspects of the overall ASEAN or each country’s economy i.e. socio-economic issues, politics, businesses, trade and investment, economic development, finance, etc. Roles of regional organizations, economic interconnection across countries, and linkages with the Thai economy. The learning methods are the active and problem-based learning with some experienced guest speakers, discussion, and field trips visiting public and/or private organization(s) in Thailand and another ASEAN member country, according to the lecturer’s announcement.",
+            "prerequisite_courses": [
+                "EC211",
+                "EC212"
+            ]
+        },
+        {
+            "course_code": "EC363",
+            "th-abbr": "ศ.363",
+            "course_name_th": "บทบาทหญิงชายในระบบเศรษฐกิจ",
+            "course_name_en": "Gender Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิวัฒนาการของบทบาทชายหญิงในระบบเศรษฐกิจ ทฤษฎีการตัดสินใจอยู่ร่วมกันเป็นครัวเรือน การจัดสรรเวลาของหญิงและชายระหว่างงานในครัวเรือนและตลาดแรงงานปัจจัยด้านอุปสงค์และอุปทาน ที่มีอิทธิพลกำหนดความแตกต่างระหว่างหญิงชายในอาชีพ และรายได้หรือการสลับบทบาทหญิงชายใน อาชีพ ต่าง ๆ บทบาทของหญิงในสังคมเศรษฐกิจและการเมือง นโยบายของรัฐหรือสวัสดิการที่มีผลต่อ หญิงชายแตกต่างกัน หญิงชายในสังคมผู้สูงอายุ (Aging Economy) วิกฤตเศรษฐกิจกับการจัดการใน ครัวเรือนและผลต่อตลาดแรงงานหญิงชาย บทบาทของกลุ่ม LGBT ในระบบเศรษฐกิจ ประเด็นความเท่า เทียมกันในบริบทของสากล และประเด็นน่าสนใจอื่น ๆ",
+            "course_description_en": "Evolution of male and female roles in the economic system. Theories of family formation. Differences in gender-related time allocation for market and non-market activities. Supply and demand factors determining gender- related differences in occupation and income, and gender roles switching in occupation. Roles of female in socio-economy and politics. Different effects of policies or welfare programs on gender. Gender in the aging economy. Effects of economic crisis on family and gender in the labor market. Roles of the LGBT in the economy. Gender equality in international criteria, and other interesting issues.",
+            "prerequisite_courses": [
+                "EC210",
+                "EC211",
+                "EC212",
+                "EC213",
+                "EC214"
+            ]
+        },
+        {
+            "course_code": "EC364",
+            "th-abbr": "ศ.364",
+            "course_name_th": "เศรษฐศาสตร์ว่าด้วยการพัฒนาท้องถิ่น",
+            "course_name_en": "Economics of Local Development",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "พลวัตการพัฒนาท้องถิ่นทั้งในชนบทและเขตเมือง ทฤษฎีทางเศรษฐศาสตร์และสังคมศาสตร์ที่ เกี่ยวข้องกับชุมชนและความร่วมมือของชุมชน ความสัมพันธ์ระหว่างวิถีชีวิต ฐานทรัพยากรธรรมชาติและ ปัจจัยเชิงชาติพันธุ์และวัฒนธรรมที่กำหนดกิจกรรมทางเศรษฐกิจของท้องถิ่นทั้งในและนอกภาคการเกษตร ในแต่ละพื้นที่การตอบสนองและการปรับตัวของชุมชนท้องถิ่นต่อนโยบายการพัฒนาบทบาทของกลุ่ม ต่าง ๆ เช่น ผู้นำชุมชน เจ้าหน้าที่รัฐ องค์กรปกครองส่วนท้องถิ่น นักวิชาการ และองค์กรพัฒนาเอกชนในการ พัฒนาท้องถิ่น การวิเคราะห์ศักยภาพและข้อจำกัดของชุมชนท้องถิ่นในการร่วมมือเพื่อจัดการทรัพยากร และดำเนินกิจกรรมทางเศรษฐกิจ การพัฒนาที่ยั่งยืนกับการพัฒนาท้องถิ่น และแนวคิดการพัฒนา ทางเลือกต่าง ๆ ที่เกี่ยวของกับท้องถิ่น เช่น บทบาทของผู้ประกอบการทางสังคมในการพัฒนาท้องถิ่น",
+            "course_description_en": "Dynamics of local development in rural and urban areas. Economic and social theories regarding communities and collective action of people in communities. Interactions between livelihoods, natural resource capital, cultural and ethnic factors, and their influences on local farm and non-farm economic activities. Responses and adaptation of local communities to development policies. Roles of actors, such as community leaders, government officers, local administrative organizations, academics, and non-governmental organizations in local development. Analysis of capacities and limitations of local communities for collaboration in the allocation of resources and conducting economic activities. Sustainable development in the context of local development. Alternative approaches for local development such as incorporating with social entrepreneurs.",
+            "prerequisite_courses": [
+                "EC210",
+                "EC211",
+                "EC212",
+                "EC213",
+                "EC214"
+            ]
+        },
+        {
+            "course_code": "EC365",
+            "th-abbr": "ศ.365",
+            "course_name_th": "ท้องถิ่นศึกษาและการพัฒนา",
+            "course_name_en": "Local Study and Development",
+            "course_type": "",
+            "course_credit": 6,
+            "lect_hours": 6,
+            "practice_hours": 9,
+            "self_study_hours": 9,
+            "course_description_th": "ลงพื้นที่ศึกษาสภาพและประเด็นการพัฒนาที่สำคัญในพื้นที่ที่กำหนดให้วิเคราะห์ทำความเข้าใจ ถึงปัจจัยทางสังคม เศรษฐกิจ ฐานทรัพยากร และบทบาทของภาคส่วนที่เกี่ยวข้องกับประเด็นการพัฒนาใน พื้นที่นั้นโดยเป็นการศึกษาเชิงปฏิบัติในพื้นที่ภายใต้การกำกับดูแลของผู้สอน",
+            "course_description_en": "Field study of key development issues in the selected local area. Analyzing the socio-economic factors, resources, and roles of the stakeholders involving the issues. The action-based learning is supervised by the lecturer.",
+            "prerequisite_courses": [
+                "EC364"
+            ]
+        },
+        {
+            "course_code": "EC460",
+            "th-abbr": "ศ.460",
+            "course_name_th": "เศรษฐกิจประเทศไทย",
+            "course_name_en": "Thai Economy",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "โครงสร้างระบบเศรษฐกิจไทย และการเปลี่ยนแปลงโครงสร้างดังกล่าว รวมถึงผลงานของระบบ เศรษฐกิจไทย (Economic Performance) ทั้งด้านการพัฒนาเศรษฐกิจและการจำเริญเติบโตทาง เศรษฐกิจ การแก้ปัญหาความยากจน การกระจายรายได้ เสถียรภาพทางเศรษฐกิจ และคุณภาพชีวิตของ ประชาชน ศึกษากระบวนการกำหนดนโยบายเศรษฐกิจในประเทศไทย การดำเนินนโยบายการเงินและ นโยบายการคลัง การดำเนินยุทธศาสตร์การพัฒนาเศรษฐกิจและสังคม และยุทธศาสตร์การพัฒนาภาค เศรษฐกิจรายสาขา เช่น การพัฒนาอุตสาหกรรมและเกษตรกรรม ศึกษาความสัมพันธ์ระหว่างระบบ เศรษฐกิจไทยกับเศรษฐกิจโลก รวมทั้งความสัมพันธ์กับองค์กรโลกบาล เช่น ธนาคารโลก กองทุนการเงิน ระหว่างประเทศ และองค์การการค้าโลก",
+            "course_description_en": "Thai economic structure and how it changes. Economic performance in terms of development and growth. The country’s resolutions for poverty eradication, income distribution, economic stability, and quality of life. The process of economic policy formulation in Thailand. Monetary and fiscal policy implementation. National economic and social development strategies and sectoral economic strategies such as the industrial agricultural development. The relationship between the Thai and world economy, the international economic order, and international organizations such as the World Bank, International Monetary Fund (IMF), and the World Trade Organization (WTO).",
+            "prerequisite_courses": [
+                "EC311",
+                "EC312"
+            ]
+        },
+        {
+            "course_code": "EC461",
+            "th-abbr": "ศ.461",
+            "course_name_th": "เศรษฐศาสตร์จุลภาคว่าด้วยการพัฒนา",
+            "course_name_en": "Development Microeconomics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดทฤษฎีเศรษฐศาสตร์จุลภาคที่เกี่ยวข้องกับการพัฒนาทางเศรษฐกิจ แนวคิดความยากจน และความเหลื่อมล้ำ การวัดความยากจนและความเหลื่อมล้ำ แนวคิดทฤษฎีความยุติธรรม (Theories of Justice) เพื่อใช้ในการวิเคราะห์นโยบายสาธารณะที่เกี่ยวข้องกับความยากจนและความเหลื่อมล้ำ ทฤษฎี และพฤติกรรมการตัดสินใจของครัวเรือน ความไม่สมบูรณ์ของตลาดต่าง ๆ ในประเทศกำลังพัฒนา และ นโยบายสาธารณะในประเด็นต่าง ๆ เช่น การศึกษา สุขภาพ ประชากร การจัดสรรแรงงานในครัวเรือนใน ภาคการผลิตต่าง ๆ ภาคทางการและภาคนอกทางการ รวมถึงการย้ายถิ่น บทบาทการเป็นผู้ประกอบการ ของครัวเรือน เครื่องมือจัดการความเสี่ยงของครัวเรือน การเงินครัวเรือน ตลาดการเงินฐานราก นวัตกรรม ที่เกี่ยวข้องกับการลดความยากจน เป็นต้น",
+            "course_description_en": "Prerequisites: Have earned credits of EC311 Concepts and measurements of poverty and inequality. The theories of justice for analyzing public policies related to these issues. Microeconomic theories related to household decisions and behaviors, as well as market failures in developing countries. Public policies on development issues such as health; education; population; workforce allocation of households in agriculture and non-agriculture sectors, as well as formal and informal sectors; migration; entrepreneurship of the households; households’ financial and risk management tools; microfinance; innovations and other interesting issues related to poverty reduction, etc.",
+            "prerequisite_courses": [
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC462",
+            "th-abbr": "ศ.462",
+            "course_name_th": "เศรษฐศาสตร์มหภาคว่าด้วยการพัฒนา",
+            "course_name_en": "Development Macroeconomics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาและวิเคราะห์ประเด็นต่าง ๆ ในวิชาเศรษฐศาสตร์พัฒนาที่เกี่ยวข้องกับเศรษฐกิจมหภาค ของประเทศกำลังพัฒนา อันประกอบด้วย ทฤษฎีและแนวคิดที่ใช้อธิบายการเจริญเติบโตทางเศรษฐกิจ ความสัมพันธ์ระหว่างการเจริญเติบโตทางเศรษฐกิจกับระดับความยากจน และการกระจายรายได้ นโยบายการพัฒนาในอดีต ตลอดจนวิเคราะห์ผลกระทบของนโยบายเศรษฐกิจมหภาคในระยะสั้น เช่น นโยบายรักษาเสถียรภาพ (Stabilization Policies) นโยบายการคลังและนโยบายการเงิน การจัดการ อัตราแลกเปลี่ยน รวมทั้งปัจจัยต่าง ๆ ที่ส่งผลต่อการพัฒนาทางเศรษฐกิจ เช่น การค้าและการลงทุน ระหว่างประเทศ การไหลเวียนของเงินทุน วิกฤตการเงิน สวัสดิการสังคม และการเปลี่ยนแปลงโครงสร้าง ของระบบเศรษฐกิจ",
+            "course_description_en": "Analyzing economic issues in the macroeconomics of developing countries. These include theories and thoughts explaining economic growth; relationship between economic growth and poverty; income distribution; development policies of different countries in the past; and the impact of short-term macroeconomic policies such as stabilization policies, monetary and fiscal policies, exchange rate management, and various factors affecting economic growth e.g. international trade and investment, capital flow, financial crises, social welfare, and structural change.",
+            "prerequisite_courses": [
+                "EC312"
+            ]
+        },
+        {
+            "course_code": "EC463",
+            "th-abbr": "ศ.463",
+            "course_name_th": "โลกาภิวัตน์ และการพัฒนาระหว่างประเทศ",
+            "course_name_en": "Globalization and International Development",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดและพัฒนาการของโลกาภิวัตน์ในบริบทตั้งแต่หลังสงครามโลกครั้งที่สอง การเกิดขึ้นของ ระเบียบโลกใหม่ทางเศรษฐกิจ (New International Economic Order) องค์กรโลกบาล บรรษัทข้าม ชาติ และกลุ่มความร่วมมือระหว่างประเทศต่าง ๆ เศรษฐศาสตร์การเมืองว่าด้วยการพึ่งพา และสำรวจข้อ ถกเถียงว่าด้วยผลประโยชน์และผลกระทบของโลกาภิวัตน์ต่อเศรษฐกิจท้องถิ่น ประเด็นข้ามพรมแดนร่วม สมัยด้านการพัฒนา บทบาทขององค์การระหว่างประเทศด้านการพัฒนา เช่น สหประชาชาติธนาคารโลก กองทุนการเงินระหว่างประเทศ และองค์การพัฒนาเอกชนระหว่างประเทศ ในการสร้างความเชื่อมโยง ระหว่างประเทศกลุ่มโลกเหนือและโลกใต้ และภายในกลุ่มโลกใต้ด้วยกัน ผ่านความช่วยเหลือด้านการ พัฒนาอย่างเป็นทางการ (Official Development Assistance) สินเชื่อเพื่อการพัฒนา หรือโครงการ พัฒนาต่าง ๆ รวมทั้งวิเคราะห์รูปแบบและปัจจัยแห่งความสำเร็จและล้มเหลวของโครงการพัฒนาระหว่าง ประเทศที่ผ่านมา และเทคนิคเบื้องต้นในการประเมินผลกระทบหรือผลลัพธ์ของโครงการพัฒนา",
+            "course_description_en": "Concept and development of globalization in the context of after World War II. Formation of the New International Economic Order (NIEO) . Global organizations. Multinational corporations. International cooperation. The political economy of dependency. Debates on the contribution and impacts of globalization on the local economy. Contemporary transnational development issues. Roles of international development organizations e.g. the United Nations, World Bank, International Monetary Fund (IMF), etc., in bridging the global north and the global south or within the south countries through official development assistance (ODA) , development loan, or development projects. Analysis of patterns, factors of success, and failures of past international development projects. Basic techniques for development project evaluation.",
+            "prerequisite_courses": [
+                "EC211",
+                "EC212",
+                "EC213",
+                "EC214"
+            ]
+        },
+        {
+            "course_code": "EC464",
+            "th-abbr": "ศ.464",
+            "course_name_th": "เศรษฐศาสตร์เมืองและภูมิภาค",
+            "course_name_en": "Urban and Regional Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ประเด็นต่าง ๆ ที่สำคัญในด้านเศรษฐศาสตร์เมือง และ/หรือ เศรษฐศาสตร์ภูมิภาค เฉพาะตาม ผู้สอนกำหนดในแต่ละภาคการศึกษา เช่น การเติบโตของเมือง (Urbanization) ตลาดที่ดินและที่อยู่อาศัย สินค้าและบริการสาธารณะต่าง ๆ ในเมือง นโยบายการพัฒนาเมืองที่เหมาะสมยั่งยืนและเอื้อกับประชากร ทุกกลุ่ม (Sustainable and Inclusive Cities) ทฤษฎีด้านภูมิศาสตร์เศรษฐกิจใหม่ (New Economic Geography) แบบจำลองว่าด้วยที่ตั้งและคลัสเตอร์ การเจริญเติบโตและความเหลื่อมล้ำของภูมิภาค การ วิเคราะห์ข้อมูลเชิงพื้นที่ (Spatial Analysis) เบื้องต้น ระบบสารสนเทศภูมิศาสตร์ (GIS) เบื้องต้น เขต เศรษฐกิจพิเศษ ประเด็นร่วมสมัยทางนโยบายที่เกี่ยวข้องกับการพัฒนาเมืองและภูมิภาค เป็นต้น",
+            "course_description_en": "Topics in urban economics and/or regional economics proposed by the instructors. Examples of possible topics are urbanization, urban land and housing market, urban public goods and service, sustainable and inclusive city development policies, new economic geography, location and cluster theories, regional growth and inequality, basic spatial analysis, geographical information system (GIS) and using GIS related program, special economic zones, current policy issues in urban and regional development, etc.",
+            "prerequisite_courses": [
+                "EC311",
+                "EC212",
+                "EC325"
+            ]
+        },
+        {
+            "course_code": "EC465",
+            "th-abbr": "ศ.465",
+            "course_name_th": "เศรษฐศาสตร์ว่าด้วยการพัฒนาที่ยั่งยืน",
+            "course_name_en": "Sustainable Development",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "พัฒนาการของแนวคิดการพัฒนาที่ยั่งยืนภายใต้บริบทของการพัฒนาเศรษฐกิจ สังคม การเมืองใน ระดับต่าง ๆ วิกฤตการณ์ด้านความยั่งยืนที่ประเทศไทยและโลกกำลังเผชิญ นิยามและแนวคิดพื้นฐาน เกี่ยวกับการพัฒนาที่ยั่งยืนและข้อวิพากษ์ร่วมสมัย แนวคิดอื่น ๆ ที่เกี่ยวข้องกับการพัฒนาที่ยั่งยืนและข้อ วิพากษ์ เช่น แนวคิด ความสุขมวลรวมประชาชาติ (Gross National Happiness) ปรัชญาเศรษฐกิจ พอเพียง (Sufficiency Economy Philosophy) แนวคิดเรื่องการเจริญเติบโตสีเขียว (Green Growth) เป็นต้น ทฤษฎีเศรษฐศาสตร์ที่เกี่ยวข้องกับการพัฒนาที่ยั่งยืน เช่น ผลกระทบภายนอก (Externalities) สินค้าสาธารณะ (Public Goods) และทรัพยากรร่วม (Common-pool resources) เศรษฐศาสตร์เชิง นิเวศ (Ecological Economics) นโยบายด้านเศรษฐกิจสีเขียว (Green Economy) และมาตรการทาง เศรษฐศาสตร์เพื่อการพัฒนาที่ยั่งยืน นโยบายและตัวชี้วัดที่เกี่ยวข้องกับการพัฒนาที่ยั่งยืนในระดับโลก เช่น เป้าหมายการพัฒนาที่ยั่งยืน (Sustainable Development Goals) เป็นต้น ความท้าทายและ อุปสรรคในการไปถึงการพัฒนาที่ยั่งยืน",
+            "course_description_en": "Development of sustainable development approach under context of socio- politico-economic development at different levels. Sustainable development crises at global level and in Thailand. Definitions and fundamental ideas regarding Sustainable Development and contemporary debates. Other approaches related to sustainable development and their critiques, such as Gross National Happiness (GNH), Sufficiency Economy Philosophy, Green Growth, etc. Economic theories related to sustainable development, such as the analysis of externalities, public goods, common-pool resources, ecological economics, Green Economy, and economic measures for sustainable development. Policies and indicators related to sustainable development at global level, particularly the Sustainable Development Goals (SDGs). Challenges and obstacles to achieve sustainable development.",
+            "prerequisite_courses": [
+                "EC212",
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC467",
+            "th-abbr": "ศ.467",
+            "course_name_th": "การประเมินโครงการและการประเมินมูลค่าทางเศรษฐศาสตร์",
+            "course_name_en": "Project Evaluation and Economic Valuation Techniques",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักการเศรษฐศาสตร์สวัสดิการที่เป็นพื้นฐานของการประเมินโครงการทางเศรษฐศาสตร์ ศึกษา วิธีการประเมินโครงการในเชิงเศรษฐศาสตร์ ได้แก่การวิเคราะห์ต้นทุนและผลประโยชน์ (Cost Benefit Analysis) การวิเคราะห์ประสิทธิภาพของต้นทุน (Cost Effectiveness Analysis) การวิเคราะห์แบบ หลายเกณฑ์ (Multi-criteria Analysis) รวมถึงเกณฑ์ในการประเมินโครงการ เช่น ผลประโยชน์สุทธิของ โครงการ (Net Present Value: NPV) อัตราผลตอบแทนภายใน (Internal Rate of Return: IRR) เป็น ต้น โดยเน้นเทคนิคเชิงปริมาณในการประเมินมูลค่าทางเศรษฐศาสตร์ เช่น market-based techniques, hedonic pricing method, travel cost method, contingent valuation method, choice modeling, benefit transfer และ value of statistical life เป็นต้น",
+            "course_description_en": "Study welfare economic foundations of economic project evaluation. Study project evaluation methodologies, including Cost-Benefit Analysis (CBA), Cost Effectiveness Analysis (CEA) and Multi-Criteria Analysis (MCA); as well as project evaluation criteria, e.g., Net Present Value (NPV), Internal Rate of return (IRR), etc. Study quantitative techniques for economic valuation, including market- based techniques, hedonic pricing method, travel cost method, contingent valuation method, choice modeling, benefit transfer, value of statistical life, etc.",
+            "prerequisite_courses": [
+                "EC212",
+                "EC214",
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC468",
+            "th-abbr": "ศ.468",
+            "course_name_th": "บูรณาการเศรษฐศาสตร์สาธารณะ การพัฒนา และการเมือง",
+            "course_name_en": "Integrated Public Economics, Development and Political Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดและทฤษฎีจากเศรษฐศาสตร์สาธารณะ เศรษฐศาสตร์สถาบัน เศรษฐศาสตร์การพัฒนา และเศรษฐศาสตร์การเมือง อย่างบูรณาการ โดยมีวัตถุประสงค์ให้นักศึกษาสามารถเชื่อมโยงและประยุกต์ ทฤษฎีเศรษฐศาสตร์ของวิชาในกลุ่มนี้ เพื่อวิเคราะห์สถานการณ์หรือปัญหาที่เกิดขึ้นในสังคมเศรษฐกิจไทย หรือสังคมเศรษฐกิจโลกได้ โดยเน้นการศึกษาผ่านกรณีศึกษาหรือเหตุการณ์ปัจจุบัน เพื่อเน้นความเข้าใจถึง สาเหตุ สภาพปัญหา และผลกระทบของปัญหาที่หยิบยกมาศึกษา โดยใช้ทฤษฎีเศรษฐศาสตร์รวมทั้งทฤษฏี ด้านสังคมศาสตร์ที่เกี่ยวข้องเพื่อเป็นเครื่องมือในการอธิบายและแสวงหาแนวทางแก้ไขปัญหา สนับสนุนให้ นักศึกษาสามารถพิจารณาการปฏิสัมพันธ์ระหว่างปรากฏการณ์ทางเศรษฐกิจสังคมที่เป็นกรณีศึกษา กับ ปัจจัยทางการเมือง เช่น รัฐและลักษณะของรัฐ ระบอบการเมือง การเปลี่ยนแปลงเชิงสถาบัน กระบวนการ นโยบายสาธารณะ รวมทั้งเข้าใจถึงบทบาทและอิทธิพลของวัฒนธรรม ประวัติศาสตร์ ภูมิศาสตร์ รวมไปถึง การเมืองระหว่างประเทศกับการพัฒนาได้วิเคราะห์บทบาทของตลาด รัฐ ชุมชน และภาคประชาสังคม ใน การแก้ไขปัญหา โดยคำนึงถึงปัจจัยเชิงสถาบันประกอบการวิเคราะห์ทั้งในเรื่องโครงสร้างทางเศรษฐกิจ และการเมือง",
+            "course_description_en": "The integration of theories and concepts in public economics, institutional economics, development economics, and political economy; Enhancing students’ ability to link and apply economic theories in this subject area to analyze situations and problems arising in Thailand or in the world economy; Encouraging students to learn through case studies of current situations, with the emphasis on causes, nature, and effects of the problems; Promoting students to use economic and related social science theories as tools to explain and find solutions to the problems; Supporting students to consider interactions between the focused economic or social phenomenon and political factors, i.e. state and characteristics of the state, political regime, institutional change, public policy process, as well as understand roles and influences of culture, history, geography, international politics and development; Analyze roles of market, state, communities and civil society organizations in solving the problems while take into account institutional factors underlying the economic and political structure.",
+            "prerequisite_courses": [
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC561",
+            "th-abbr": "ศ.561",
+            "course_name_th": "เศรษฐศาสตร์การพัฒนา : ศึกษาเฉพาะเรื่อง 1",
+            "course_name_en": "Selected Topics in Development Economics 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านเศรษฐศาสตร์การพัฒนา ซึ่งจะประกาศเป็น คราว ๆ ไป",
+            "course_description_en": "Studying topics in Development Economics to be determined later.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC562",
+            "th-abbr": "ศ.562",
+            "course_name_th": "เศรษฐศาสตร์การพัฒนา : ศึกษาเฉพาะเรื่อง 2",
+            "course_name_en": "Selected Topics in Development Economics 2",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านเศรษฐศาสตร์การพัฒนา ซึ่งจะประกาศเป็น คราว ๆ ไป",
+            "course_description_en": "Studying topics in Development Economics to be determined later.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC470",
+            "th-abbr": "ศ.470",
+            "course_name_th": "สัมมนาเศรษฐศาสตร์ทรัพยากรมนุษย์",
+            "course_name_en": "Seminar in Human Resources Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "สัมมนาและวิจัยในหัวข้อเศรษฐศาสตร์ทรัพยากรมนุษย์ ภายใต้การควบคุมและแนะนำจากผู้สอน",
+            "course_description_en": "Seminar and research on topics in human resource economics under the supervision of the lecturer.",
+            "prerequisite_courses": [
+                "400-level course in Human Resource Economics or any other economic fields (e.g. Field 4: Public Economics, Field 6: Development Economics)"
+            ]
+        },
+        {
+            "course_code": "EC471",
+            "th-abbr": "ศ.471",
+            "course_name_th": "เศรษฐศาสตร์แรงงาน",
+            "course_name_en": "Labor Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทฤษฎีอุปสงค์และอุปทานแรงงานทั้งในระยะสั้นและระยะยาว การกำหนดค่าจ้างโดยวิธีต่าง ๆ การวิเคราะห์การพัฒนาคุณภาพแรงงานโดยการศึกษาและการฝึกอบรมแรงงานโดยใช้ทฤษฎีทุนมนุษย์ การเคลื่อนย้ายแรงงาน โครงสร้างค่าจ้าง ความแตกต่างของค่าจ้างในตลาดแรงงาน การแสวงหางาน การ ว่างงาน บทบาทของสหภาพแรงงาน บทบาทของรัฐในตลาดแรงงาน การคุ้มครองทางสังคม และผลของ การเลือกปฏิบัติต่อค่าจ้างและการจ้างงาน",
+            "course_description_en": "Studying the supply and demand of labor in the short-term and long-term, wage determinations as well as improving labor quality through education and human capital training. Labor migration, wage structure, wage differentials in the labor market, job search, unemployment, and the role of labor unions will be covered. The role of government in the labor market as employer or regulator. Social security, discrimination in the labor market will be discussed.",
+            "prerequisite_courses": [
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC472",
+            "th-abbr": "ศ.472",
+            "course_name_th": "เศรษฐศาสตร์ประชากรและครอบครัว",
+            "course_name_en": "Economics of Population and Family",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "กระบวนการที่ก่อให้เกิดการเปลี่ยนแปลงทางขนาดและโครงสร้างของประชากรและครอบครัว ที่ ผ่านภาวะเจริญพันธุ์ การตายและการย้ายถิ่น และปัจจัยที่ทำให้กระบวนการเหล่านี้เปลี่ยนแปลง ตลอดจน ศึกษาผลกระทบของตัวแปรทางประชากรและครอบครัวต่อตัวแปรทางเศรษฐกิจทั้งในระดับจุลภาคและมห ภาค รวมทั้งศึกษาเศรษฐศาสตร์การแต่งงาน เศรษฐศาสตร์ครอบครัวและเศรษฐศาสตร์สังคมผู้สูงวัย",
+            "course_description_en": "Processes generate change in population and family size and structure through reproduction, death, and migration. Factors causing these changes. The impact of demographics and family variables on the economy at the micro and macro levels. The Economics of Marriage, the Economics of Household/Family, and the Economics of Aging will be included.",
+            "prerequisite_courses": [
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC473",
+            "th-abbr": "ศ.473",
+            "course_name_th": "เศรษฐศาสตร์การศึกษา",
+            "course_name_en": "Economics of Education",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน : สอบได้ศ.311 หลักการการลงทุนในการศึกษา การวัดผลตอบแทนต่อการศึกษา ศึกษาทฤษฎีทุนมนุษย์และ ทฤษฎีทางเลือกในการอธิบายการลงทุนในการศึกษา สมมุติฐาน ศึกษาหลักการการลงทุนในการฝึกอบรม ระหว่างการทำงาน วิเคราะห์ความสัมพันธ์ของการศึกษาที่มีต่อตัวแปรทางเศรษฐกิจที่สำคัญ เช่น ค่าจ้าง ในช่วงตลอดเวลาทำงาน การเติบโตของค่าจ้าง การเปลี่ยนงาน และการขยายตัวของระบบเศรษฐกิจ โดยรวม ประเมินประสิทธิภาพและความเสมอภาคของการจัดสรรงบประมาณของภาครัฐในระบบ การศึกษา",
+            "course_description_en": "Prerequisites: Have earned credits of EC311 Principles of investment in education, measuring return on education, theory of human capital and choice theory explaining educational investment will be discussed. Principles of investment in on- the- job training, analyzing educational impact on key economic variables such as wages throughout the entire working period, growth in the wage rate, job switching, and expansion of the economy as a whole will be covered. Evaluating efficiency and equality in governmental budget allocation within the educational system.",
+            "prerequisite_courses": [
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC474",
+            "th-abbr": "ศ.474",
+            "course_name_th": "เศรษฐศาสตร์สุขภาพ",
+            "course_name_en": "Health Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดทางเศรษฐศาสตร์ด้านสุขภาพและบริการสุขภาพ อุปสงค์และอุปทานต่อบริการสุขภาพ ความล้มเหลวของตลาดบริการสุขภาพและการแทรกแซงของรัฐ การประกันสุขภาพ การคลังสาธารณสุข ปัจจัยการผลิตบริการสุขภาพ ประสิทธิภาพและความเสมอภาคในระบบบริการสุขภาพ การประเมิน โครงการสุขภาพ ปัญหาความไร้สมมาตรของสารสนเทศในการประกันสุขภาพ เศรษฐศาสตร์สุขภาพ ระดับมหภาค และการปฏิรูประบบบริการสุขภาพทั้งของประเทศไทยและต่างประเทศ",
+            "course_description_en": "Economic thought about health and health care services. Supply of and demand for health care. Market failure in the health care market and government intervention. Health insurance, fiscal policy on public health, factors of health service production, and efficiency and equality in the health care system. Evaluation of health care projects, asymmetric information in health insurance, and health economics at the Macro level. Health service system reform in Thailand and abroad.",
+            "prerequisite_courses": [
+                "EC311",
+                "EC312"
+            ]
+        },
+        {
+            "course_code": "EC571",
+            "th-abbr": "ศ.571",
+            "course_name_th": "เศรษฐศาสตร์ทรัพยากรมนุษย์ : ศึกษาเฉพาะเรื่อง 1",
+            "course_name_en": "Selected Topics in Human Resource Economics 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านเศรษฐศาสตร์ทรัพยากรมนุษย์ ซึ่งจะประกาศเป็น คราว ๆ ไป",
+            "course_description_en": "Studying selected topics in Human Resource Economics to be determined later.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC572",
+            "th-abbr": "ศ.572",
+            "course_name_th": "เศรษฐศาสตร์ทรัพยากรมนุษย์ : ศึกษาเฉพาะเรื่อง 2",
+            "course_name_en": "Selected Topics in Human Resource Economics 2",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านเศรษฐศาสตร์ทรัพยากรมนุษย์ ซึ่งจะประกาศเป็น คราว ๆ ไป",
+            "course_description_en": "Studying selected topics in Human Resource Economics to be determined later.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EC375",
+            "th-abbr": "ศ.375",
+            "course_name_th": "เศรษฐศาสตร์ประยุกต์ด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+            "course_name_en": "Applied Economics for Natural Resources and Environment",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความสัมพันธ์ระหว่างความเจริญเติบโตทางเศรษฐกิจ การจัดสรรทรัพยากรธรรมชาติและปัญหา สิ่งแวดล้อม ศึกษาแนวคิดเบื้องต้นทางเศรษฐศาสตร์ในการวิเคราะห์และการประยุกต์ใช้ในการจัดการ ปัญหาการใช้ทรัพยากรธรรมชาติและสิ่งแวดล้อม ศึกษาบทบาทของชุมชน ภาคธุรกิจ ภาครัฐ และภาค ประชาสังคม ในการควบคุมและแก้ปัญหาการใช้ทรัพยากรธรรมชาติและสิ่งแวดล้อม ทั้งในระดับท้องถิ่น ระดับประเทศ และ ระดับโลก ศึกษาแนวคิดการพัฒนาอย่างยั่งยืนเบื้องต้น แนวคิดความเป็นธรรมด้าน สิ่งแวดล้อม และ แนวคิดเบื้องต้นด้านการประเมินมูลค่าทางเศรษฐศาสตร์ของทรัพยากรธรรมชาติและ สิ่งแวดล้อมและประเด็นร่วมสมัยด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+            "course_description_en": "The relationship between economic growth, natural resources allocation and environmental problems. Basic economic theories used for analysis and application in natural resources management and environmental problems. The roles of government, community, and business sectors to control and solve problems in natural resource and environmental exploitation at local, national, and global levels. Concept of sustainable development. Concept of environmental justice. Basic concepts and methodologies in economic valuation of natural resources and environment. Current issues in natural resource and environment.",
+            "prerequisite_courses": [
+                "EC210",
+                "EC211",
+                "EC213"
+            ]
+        },
+        {
+            "course_code": "EC376",
+            "th-abbr": "ศ.376",
+            "course_name_th": "เศรษฐศาสตร์ว่าด้วยการเปลี่ยนแปลงสภาพภูมิอากาศ",
+            "course_name_en": "Economics of Climate Change",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความรู้เบื้องต้นทางวิทยาศาสตร์ของการเปลี่ยนแปลงภูมิอากาศ ระดับการปล่อยก๊าซเรือนกระจก กับแนวทางการรักษาเสถียรภาพภูมิอากาศ แนวคิดความล้มเหลวของตลาดและมาตรการเศรษฐศาสตร์ เพื่อการลดก๊าซเรือนกระจกและการพัฒนาเทคโนโลยีผลกระทบของการใช้มาตรการดังกล่าวต่อ เศรษฐกิจ การค้าและการลงทุนระหว่างประเทศ เศรษฐศาสตร์ด้านการปรับตัวต่อการเปลี่ยนแปลง ภูมิอากาศ เวทีการเจรจาและความร่วมมือระหว่างประเทศด้านการเปลี่ยนแปลงสภาพภูมิอากาศ",
+            "course_description_en": "Basic scientific knowledge of climate change. Greenhouse gas emissions and climate change mitigation. Concept of market failure and economic measures to support climate mitigation and technological development. Impacts of these measures on the economy, international trade, and investment. Economics of climate change adaptation. International climate negotiation and cooperation.",
+            "prerequisite_courses": [
+                "EC210",
+                "EC211",
+                "EC213"
+            ]
+        },
+        {
+            "course_code": "EC475",
+            "th-abbr": "ศ.475",
+            "course_name_th": "เศรษฐศาสตร์ทรัพยากรธรรมชาติ",
+            "course_name_en": "Natural Resource Economics",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทฤษฎีและเครื่องมือทางเศรษฐศาสตร์ที่ใช้ในการจัดสรรทรัพยากรธรรมชาติ แนวคิดเรื่องความหา ยากและค่าเช่าทางเศรษฐกิจของทรัพยากรธรรมชาติการจัดสรรระหว่างผู้ใช้ในปัจจุบันและการจัดสรร ข้ามเวลา ความล้มเหลวของตลาดเนื่องจากความบกพร่องของระบบกรรมสิทธิ์ ศึกษานโยบายและ มาตรการการจัดสรรทรัพยากรธรรมชาติของรัฐและผลกระทบ",
+            "course_description_en": "Economic theories and tools used for natural resource allocation. Concepts of scarcity and economic rent of natural resources. Allocation of natural resource among current users as well as intertemporal allocation. Market failure due to deficiencies in the property rights system. Government policies and tools for natural resource management and their impacts.",
+            "prerequisite_courses": [
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC476",
+            "th-abbr": "ศ.476",
+            "course_name_th": "เศรษฐศาสตร์สิ่งแวดล้อม",
+            "course_name_en": "Environmental Economics",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดการพัฒนาอย่างยั่งยืน แนวคิดประสิทธิภาพการผลิตและการบริโภค แนวคิดความ ล้มเหลวของตลาด แนวคิดประสิทธิภาพและประสิทธิผลของนโยบายด้านสิ่งแวดล้อม และมาตรการทาง เศรษฐศาสตร์ในการจัดการปัญหาสิ่งแวดล้อม การประเมินความเสี่ยงด้านสิ่งแวดล้อม การประเมินมูลค่า ทางเศรษฐศาสตร์และผลกระทบสิ่งแวดล้อมของโครงการด้านการพัฒนา หลักการความเป็นธรรมด้าน สิ่งแวดล้อม ความร่วมมือและข้อตกลงระหว่างประเทศในประเด็นต่าง ๆ ที่เกี่ยวกับปัญหาสิ่งแวดล้อม เช่น ประเด็นด้านการค้าการลงทุน ประเด็นร่วมสมัยด้านสิ่งแวดล้อม",
+            "course_description_en": "The concepts of sustainable development, efficient production, efficient consumption and market failure. The concepts of efficiency and effectiveness of policies, measures, and tools to control and solve environmental problems. Environmental risk assessment. Economic valuation and environmental impact assessment of development projects. Concept of environmental justice. Issues related to international environmental cooperation and agreements, including the effects on trade and investment and current issues in environment.",
+            "prerequisite_courses": [
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC477",
+            "th-abbr": "ศ.477",
+            "course_name_th": "เศรษฐศาสตร์พลังงาน",
+            "course_name_en": "Energy Economics",
+            "course_type": "บังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ปัจจัยที่มีอิทธิพลต่อการผลิต การแปรรูป การขนส่ง และความต้องการใช้พลังงาน ศึกษาการใช้ ทดแทนกันระหว่างพลังงานชนิดต่าง ๆ ความสำคัญของพลังงานที่มีต่อเศรษฐกิจและผลกระทบของ พลังงานที่มีสิ่งแวดล้อม ศึกษาโครงสร้างตลาดของพลังงานและปัญหาราคาน้ำมันโลกและกลุ่มประเทศ โอเปค (OPEC) ศึกษานโยบายของภาครัฐเกี่ยวกับการจัดหา การผลิต และการใช้พลังงาน โดยครอบคลุม นโยบายการกำกับดูแลราคา การผลิต การจัดหา การใช้พลังงานอย่างมีประสิทธิภาพ และการใช้พลังงาน ทดแทนน้ำมัน รวมทั้งความร่วมมือและข้อตกลงระหว่างประเทศในประเด็นต่าง ๆ ที่เกี่ยวข้องกับพลังงาน โดยการศึกษาในแต่ละหัวข้อจะนำเอากรณีของประเทศไทยมาประกอบการอธิบายเพื่อสร้างให้เกิดความ เข้าใจสถานะและปัญหาพลังงานของไทย",
+            "course_description_en": "Factors influencing energy resource production, processing, transportation and demand. Substitution among different energy resources. The importance of energy to the economy and the impacts of energy on the environment. The energy market structure and prices of different types of energy, along with problems in global oil pricing and the role of OPEC. Governmental policy on the provision, production and use of energy, including price regulation and provision, production, and efficient use. The use of alternative energy to replace fossil fuel. International cooperation and agreements related to energy sector. Each topic will include the discussion of case studies from Thailand, in order to encourage better understanding of situation and problems in the Thai context.",
+            "prerequisite_courses": [
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC573",
+            "th-abbr": "ศ.573",
+            "course_name_th": "เศรษฐศาสตร์ทรัพยากรธรรมชาติและสิ่งแวดล้อม : ศึกษาเฉพาะเรื่อง 1",
+            "course_name_en": "Selected Topics in Natural Resources and Environmental Economics 1",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านเศรษฐศาสตร์ทรัพยากรธรรมชาติและสิ่งแวดล้อม ซึ่งจะประกาศเป็นคราว ๆ ไป",
+            "course_description_en": "Studying selected topics in Natural Resource and Environmental Economics to be determined later.",
+            "prerequisite_courses": [
+                "ศ.210",
+                "ศ.211",
+                "ศ."
+            ]
+        },
+        {
+            "course_code": "EC574",
+            "th-abbr": "ศ.574",
+            "course_name_th": "เศรษฐศาสตร์ทรัพยากรธรรมชาติและสิ่งแวดล้อม : ศึกษาเฉพาะเรื่อง",
+            "course_name_en": "Selected Topics in Natural Resources and Environmental Economics",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านเศรษฐศาสตร์ทรัพยากรธรรมชาติและสิ่งแวดล้อม ซึ่งจะประกาศเป็นคราว ๆ ไป",
+            "course_description_en": "Studying selected topics in Natural Resource and Environmental Economics to be determined later.",
+            "prerequisite_courses": [
+                "ศ.210",
+                "ศ.211",
+                "ศ."
+            ]
+        },
+        {
+            "course_code": "EC380",
+            "th-abbr": "ศ.380",
+            "course_name_th": "เศรษฐศาสตร์อุตสาหกรรมเบื้องต้น",
+            "course_name_en": "Introduction to Industrial Economics",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความสำคัญของภาคอุตสาหกรรมในระบบเศรษฐกิจ ความสัมพันธ์ระหว่างภาคอุตสาหกรรมกับ ภาคอื่น ๆ ในระบบเศรษฐกิจทั้งในประเทศและต่างประเทศ ศึกษาโครงสร้างตลาด พฤติกรรม และการ แข่งขันของอุตสาหกรรม ผลกระทบของนโยบายรัฐบาลต่อการพัฒนาอุตสาหกรรม รวมทั้ง บทบาทของรัฐ ในการส่งเสริมการแข่งขันและการกำกับดูแลกิจกรรมทางเศรษฐกิจ",
+            "course_description_en": "The importance of the economy’s industrial sector. Relationship between the industrial sector and other sectors, on the domestic and international level. Studying market structure, conduct, and competitiveness of the industrial sector. Government policy, the legal system, and their effects on industrial development.",
+            "prerequisite_courses": [
+                "EC210",
+                "EC211",
+                "EC213"
+            ]
+        },
+        {
+            "course_code": "EC381",
+            "th-abbr": "ศ.381",
+            "course_name_th": "เศรษฐศาสตร์การขนส่ง",
+            "course_name_en": "Economics of Transportation",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "บทบาทของการขนส่งในระบบเศรษฐกิจภายในและระหว่างประเทศ ความสัมพันธ์ระหว่างการ ขนส่งต่อการเลือกที่ตั้งของหน่วยผลิตและธุรกิจการค้า หลักเกณฑ์และเหตุผลการตั้งอัตราค่าขนส่งในเชิง เศรษฐศาสตร์ ต้นทุนเอกชนและต้นทุนสังคมที่เกี่ยวข้องกับการขนส่ง ความสัมพันธ์ของการขนส่งในเมือง กับการขยายตัวของเมือง ปัญหาและนโยบายที่เกี่ยวข้องกับการลงทุนด้านการขนส่งในเขตเมือง",
+            "course_description_en": "The role of transportation in the domestic and international economy. How transportation affects the location of businesses and production sites. Criteria and economic reasons for transportation pricing. Private and social costs related to transportation. How urban transportation is affected by expansion. Problems and policies related to investment in urban transportation.",
+            "prerequisite_courses": [
+                "EC210",
+                "EC211",
+                "EC213"
+            ]
+        },
+        {
+            "course_code": "EC382",
+            "th-abbr": "ศ.382",
+            "course_name_th": "เศรษฐศาสตร์ว่าด้วยภาคบริการ",
+            "course_name_en": "Economics of Services Sector",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ลักษณะสำคัญของบริการ ความสำคัญของภาคบริการในระบบเศรษฐกิจและการพัฒนาเศรษฐกิจ การนำแนวคิดทางเศรษฐศาสตร์และทางธุรกิจมาประยุกต์ใช้ในการวิเคราะห์อุตสาหกรรมบริการ โดยเฉพาะภาคการท่องเที่ยว การวิเคราะห์และอภิปรายเกี่ยวกับกรณีศึกษาในภาคบริการในประเด็น ต่าง ๆ",
+            "course_description_en": "Key characteristics of service. Contribution of the service sector to the economy and economic development. Application of economic and business concepts in the analysis of selected service industries especially the tourism sector. Analysis and discussion of case studies in the service sector in various aspects.",
+            "prerequisite_courses": [
+                "EC210",
+                "EC211",
+                "EC212",
+                "EC213",
+                "EC214"
+            ]
+        },
+        {
+            "course_code": "EC383",
+            "th-abbr": "ศ.383",
+            "course_name_th": "เศรษฐศาสตร์เชิงวัฒนธรรมและเศรษฐกิจสร้างสรรค์",
+            "course_name_en": "Cultural Economics and Creative Economy",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "มุมมองทางเศรษฐศาสตร์ว่าด้วยงานศิลปะ มรดกทางวัฒนธรรม ผู้สร้างสรรค์ และเศรษฐกิจ สร้างสรรค์ การประเมินคุณค่างานศิลปะและมรดกทางวัฒนธรรมทางด้านเศรษฐศาสตร์ การพัฒนา เศรษฐกิจจากงานศิลปะและมรดกทางวัฒนธรรม ปัญหาการบริหารจัดการงานศิลปะและมรดกทาง วัฒนธรรม มาตรการทางเศรษฐกิจเพื่อส่งเสริมงานศิลปะ มรดกทางวัฒนธรรม และเศรษฐกิจสร้างสรรค์ ความสำคัญของความคิดสร้างสรรค์และนวัตกรรมในการสร้างมูลค่าและบทบาทของความคิดสร้างสรรค์ใน ธุรกิจและระบบเศรษฐกิจ",
+            "course_description_en": "Economic aspects of arts, cultural heritages, art creators and performers as well as creative economy; Economic evaluation on arts and cultural heritages; Economic development based on arts and culture heritages; Practical problems of arts and cultural heritage management; and Economic measures promoting artworks and creative economy. The importance of creativity and innovation in value creation and the role of creativity in business and the economy.",
+            "prerequisite_courses": [
+                "EC210",
+                "EC211",
+                "EC212",
+                "EC213",
+                "EC214"
+            ]
+        },
+        {
+            "course_code": "EC481",
+            "th-abbr": "ศ.481",
+            "course_name_th": "เศรษฐศาสตร์อุตสาหกรรม",
+            "course_name_en": "Industrial Economics",
+            "course_type": "บังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "โครงสร้าง พฤติกรรมธุรกิจ และผลการดำเนินงานของตลาด พฤติกรรมของหน่วยธุรกิจภายใต้ การแข่งขันที่ไม่สมบูรณ์ ความสัมพันธ์ของโครงสร้างตลาดในรูปแบบต่าง ๆ กับการดำเนินธุรกิจ และการ จัดสรรทรัพยากร วิเคราะห์พฤติกรรมของหน่วยธุรกิจในเชิงกลยุทธ์ โดยใช้แนวคิดทฤษฎีราคาและทฤษฎี เกม เช่น การกำหนดราคา การวิจัยและพัฒนา การโฆษณา และการกำหนดกลยุทธการแข่งขันภายใต้การ ได้รับข้อมูลข่าวสารในรูปแบบต่าง ๆ การแข่งขันบนตลาดหลายด้านและความสำคัญของแพลตฟอร์ม รวมถึงบทบาทของนโยบายส่งเสริมแข่งขันทางการค้าในการกำกับดูแลการแข่งขัน",
+            "course_description_en": "This course studies the behaviors of firms under imperfectly competitive markets. It covers the structure– conduct– performance (SCP) paradigm, which examines the relationship among market structure, firms’ conduct, and their performance. It also covers firms’ decisions on operation, resource allocation, as well as firm’s strategic actions. Price theory and game theory will be used to analyze issues such as pricing, research and development, advertising, and firms’ decision under imperfect information. Competition in multi-sided markets and the importance of platforms. The role of competition policy in competition regulation.",
+            "prerequisite_courses": [
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC482",
+            "th-abbr": "ศ.482",
+            "course_name_th": "เศรษฐศาสตร์นวัตกรรมและการพัฒนาอุตสาหกรรม",
+            "course_name_en": "Economics of Innovation and Industrial Development",
+            "course_type": "บังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทฤษฎีทางเศรษฐศาสตร์ที่เกี่ยวข้องกับการพัฒนาวิทยาศาสตร์ เทคโนโลยีและนวัตกรรมและการ พัฒนาอุตสาหกรรม ความสำคัญของการพัฒนานวัตกรรมและการพัฒนาอุตสาหกรรมในระบบเศรษฐกิจ ไทย วิวัฒนาการของนโยบายอุตสาหกรรมและนโยบายนวัตกรรมในประเทศไทย รวมทั้งการพัฒนา เศรษฐกิจรูปแบบใหม่ เช่น เศรษฐกิจฐานความรู้ เศรษฐกิจดิจิทัล อุตสาหกรรม 4.0 บทบาทของรัฐบาล และภาคเอกชนในการพัฒนาวิทยาศาสตร์ เทคโนโลยีและนวัตกรรมและการพัฒนาอุตสาหกรรม และ แนวคิดและเครื่องมือในการพัฒนาวิทยาศาสตร์ เทคโนโลยีและนวัตกรรมและการพัฒนาอุตสาหกรรม",
+            "course_description_en": "Economic theories related to science, technology, innovation, and industrial development. The importance of innovation and industrial development in the Thai economy. Evolution of Industrial Policy and Innovation Policy in Thailand, including developing new economic forms such as the Knowledge-based Economy, Digital Economy, and Industry 4.0. The role of government and private sector in science, technology, innovation, and industrial development. Concepts and tools for developing science, technology, innovation, and industrial development.",
+            "prerequisite_courses": [
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC483",
+            "th-abbr": "ศ.483",
+            "course_name_th": "เศรษฐศาสตร์ว่าด้วยการกำกับดูแลและการแข่งขันทางการค้า",
+            "course_name_en": "Economics of Regulation and Competition",
+            "course_type": "บังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทฤษฎีที่อธิบายถึงความสำคัญและสาเหตุที่ต้องมีการกำกับดูแลและการแข่งขันทางการค้า ศึกษา เครื่องมือ วิธีการ และผลของการกำกับดูแลและการแข่งขันทางการค้า ศึกษาการกำกับดูแลและการ แข่งขันทางการค้าเชิงสถาบัน พร้อมทั้งศึกษาตัวอย่างการปฏิรูปกิจการทางเศรษฐกิจ การกำกับดูแล และ การส่งเสริมการแข่งขันทางการค้าในประเทศที่พัฒนาแล้วและประเทศกำลังพัฒนา",
+            "course_description_en": "Study of regulatory theories, competition policies, together with their economic rationales. Study of approaches, methods, instruments and impact assessment of regulation and competition policies. Study of regulatory institutions, governance and performance. Study of case studies from the developed and developing countries.",
+            "prerequisite_courses": [
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC484",
+            "th-abbr": "ศ.484",
+            "course_name_th": "เศรษฐศาสตร์อุตสาหกรรมเชิงประจักษ์",
+            "course_name_en": "Empirical Industrial Organization",
+            "course_type": "วิชาบังคับก่อน",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิธีการเชิงประจักษ์ในเศรษฐศาสตร์อุตสาหกรรม และการประยุกต์ใช้เศรษฐมิติในการวิเคราะห์ ทฤษฎีเศรษฐศาสตร์อุตสาหกรรม เช่น การประมาณค่าเส้นอุปสงค์และฟังก์ชันการผลิต การวัดอำนาจใน ตลาด การวิเคราะห์พฤติกรรมของหน่วยธุรกิจในเชิงกลยุทธ์ การแข่งขันแนวดิ่งและแนวราบ การตัดสินใจ เข้าตลาดของบริษัท สัญญาและการเรียนรู้ และการวัดผลการดำเนินงานของหน่วยผลิต โดยอาศัยตัววัดค่า ประสิทธิภาพและผลิตภาพ",
+            "course_description_en": "The empirical approach in industrial economics and application of econometric analysis in industrial economics theory i. e. , Estimation of demand and production functions, Measurement of market power, Analysis of firm’s strategic behavior, Vertical and horizontal competition, Firm's entry decisions, contract, and learning. Measurement of firm performance by efficiency and productivity indicators.",
+            "prerequisite_courses": [
+                "EC311",
+                "EC325",
+                "EC425"
+            ]
+        },
+        {
+            "course_code": "EC486",
+            "th-abbr": "ศ.486",
+            "course_name_th": "เศรษฐศาสตร์ธุรกิจ",
+            "course_name_en": "Business Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทฤษฎีและเครื่องมือต่าง ๆ ที่สามารถนำมาประยุกต์ใช้เพื่อวิเคราะห์ปัญหาและแนวทางในการ แก้ไขปัญหาธุรกิจ อันได้แก่การประยุกต์แนวคิดทางเศรษฐศาสตร์เพื่อการพยากรณ์ภาวะเศรษฐกิจและ อุตสาหกรรม การวางกลยุทธ์ การตลาด การผลิต การจัดโครงสร้างองค์กรและบริหารทรัพยากรมนุษย์ และการตัดสินใจทางธุรกิจ",
+            "course_description_en": "Theories and tools are applicable for analysis of business problems and solutions, such as the application of economic concepts to forecast economic and industrial conditions, determination of business strategy, marketing, production, organization, human resource management, and decision-making.",
+            "prerequisite_courses": [
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC581",
+            "th-abbr": "ศ.581",
+            "course_name_th": "เศรษฐศาสตร์อุตสาหกรรม : ศึกษาเฉพาะเรื่อง 1",
+            "course_name_en": "Selected Topics in Industrial Economics 1",
+            "course_type": "วิชาบังคับก่อน",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านเศรษฐศาสตร์อุตสาหกรรม ซึ่งจะประกาศเป็น คราว ๆ ไป",
+            "course_description_en": "Studying topics in Industrial Economics to be determined later.",
+            "prerequisite_courses": [
+                "ศ.210",
+                "ศ.211",
+                "ศ."
+            ]
+        },
+        {
+            "course_code": "EC582",
+            "th-abbr": "ศ.582",
+            "course_name_th": "เศรษฐศาสตร์อุตสาหกรรม : ศึกษาเฉพาะเรื่อง 2",
+            "course_name_en": "Selected Topics in Industrial Economics 2",
+            "course_type": "วิชาบังคับก่อน",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านเศรษฐศาสตร์อุตสาหกรรม ซึ่งจะประกาศเป็น คราว ๆ ไป",
+            "course_description_en": "Studying topics in Industrial Economics to be determined later.",
+            "prerequisite_courses": [
+                "ศ.210",
+                "ศ.211",
+                "ศ."
+            ]
+        },
+        {
+            "course_code": "EC390",
+            "th-abbr": "ศ.390",
+            "course_name_th": "เศรษฐศาสตร์การเกษตรเบื้องต้น",
+            "course_name_en": "Introduction to Agricultural Economics",
+            "course_type": "บังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "บทบาทของการเกษตรต่อการพัฒนาเศรษฐกิจ โครงสร้างและการเปลี่ยนแปลงโครงสร้างทาง เศรษฐกิจการเกษตร การผลิต ตลาดและราคาสินค้าเกษตร สถาบันการเกษตร สถานการณ์ด้าน การเกษตรของโลกและของไทย การเกษตรกับปัญหาทรัพยากรธรรมชาติและสิ่งแวดล้อม นโยบายการ พัฒนาการเกษตรของประเทศไทย",
+            "course_description_en": "The role of agriculture in economic development. Structure and structural change of the agricultural economy. Production, market, and price of agricultural products. Agricultural institutions. The relationship between agriculture and natural resource and environmental problems. Agricultural development policies in Thailand.",
+            "prerequisite_courses": [
+                "EC210",
+                "EC211",
+                "EC213"
+            ]
+        },
+        {
+            "course_code": "EC491",
+            "th-abbr": "ศ.491",
+            "course_name_th": "การผลิตสินค้าเกษตรและนโยบาย",
+            "course_name_en": "Agricultural Production and Policy",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาแนวคิดทฤษฎีทางเศรษฐศาสตร์และประเด็นปัญหาที่เกี่ยวข้องกับการผลิตสินค้าเกษตร เช่น ต้นทุน อุปทานสินค้าเกษตร ผลิตภาพและประสิทธิภาพ ความเสี่ยง การเปลี่ยนแปลงเทคโนโลยีในระดับ หน่วยผลิตหรือฟาร์ม เป็นต้น นโยบายสาธารณะและสถาบันที่เกี่ยวข้องกับเกษตรกรและการผลิตทาง การเกษตร เช่น ระบบการถือครองที่ดิน ระบบสินเชื่อ ระบบสหกรณ์ การเปลี่ยนแปลงทางวัฒนธรรม นโยบายของรัฐที่ส่งผลต่อการผลิตทางการเกษตร และประเด็นร่วมสมัยอื่น ๆ ที่น่าสนใจ",
+            "course_description_en": "Explore economic theoretical concepts and related issues on agricultural production, such as cost of production, supply of agricultural products, agricultural productivity and efficiency, risk, technological change at the farm level, etc. Also explore public policies and institutions related to farmers and agricultural production, such as land tenure, credit system, cooperative system, cultural change, policy change affecting agricultural production, and other interesting contemporary issues.",
+            "prerequisite_courses": [
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC492",
+            "th-abbr": "ศ.492",
+            "course_name_th": "การตลาดสินค้าเกษตรและนโยบาย",
+            "course_name_en": "Agricultural Marketing and Policy",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาแนวคิดทฤษฎีทางเศรษฐศาสตร์และประเด็นปัญหาที่เกี่ยวข้องกับการตลาดสินค้าเกษตร ตลอดห่วงโซ่อุปทาน เช่น อุปสงค์ อุปทาน ความยืดหยุ่นของอุปสงค์ของสินค้าเกษตรรูปแบบต่าง ๆ การ เปลี่ยนแปลงของราคาในตลาดสินค้าเกษตรภายใต้เงื่อนไขต่าง ๆ ทางการตลาดและฤดูกาล บทบาทของ คนกลาง เป็นต้น นโยบายสาธารณะและสถาบันที่เกี่ยวข้องกับการค้าสินค้าการเกษตรทั้งในประเทศและ ระหว่างประเทศ เช่น นโยบายการแทรกแซงด้านราคา ตลาดสินค้าเกษตรล่วงหน้า การค้าระหว่างประเทศ และมาตรการที่เกี่ยวข้องกับสินค้าเกษตร และ ประเด็นร่วมสมัยที่อื่น ๆ ที่น่าสนใจ",
+            "course_description_en": "Explore economic theories and challenging issues related to agricultural markets throughout supply chain, such as agricultural product’s demand and supply, various types of elasticity of demand for agricultural product price adjustment in agricultural product market under different conditions including marketing, season, and roles of middlemen, etc. Also explore public policies and institutions related to domestic and international agricultural trade, for instance, government intervention policy on price, the agricultural futures market, international trade and other trade measurements related to agricultural products, and other interesting contemporary issues.",
+            "prerequisite_courses": [
+                "EC311"
+            ]
+        },
+        {
+            "course_code": "EC493",
+            "th-abbr": "ศ.493",
+            "course_name_th": "เศรษฐศาสตร์เกษตรประยุกต์",
+            "course_name_en": "Applied Agricultural Economics",
+            "course_type": "บังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาการประยุกต์ใช้ทฤษฎีและแนวคิดด้านเศรษฐศาสตร์เกษตรโดยใช้เครื่องมือวิเคราะห์เชิงปริมาณหรือคุณภาพสำหรับการนำไปประยุกต์ในการศึกษาหัวข้อทางด้านเศรษฐศาสตร์การเกษตรหรือกรณีศึกษาที่เกี่ยวข้อง",
+            "course_description_en": "Study the application of theories and concepts in agricultural economics, using quantitative or qualitative analytical methods, on agricultural economic issues or related case studies",
+            "prerequisite_courses": [
+                "EC325",
+                "EC425",
+                "EC320",
+                "EC421"
+            ]
+        },
+        {
+            "course_code": "EC499",
+            "th-abbr": "ศ.499",
+            "course_name_th": "สัมมนาเศรษฐศาสตร์การเกษตร",
+            "course_name_en": "Seminar in Agricultural Economics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "สัมมนาและวิจัยในหัวข้อเศรษฐศาสตร์การเกษตร ภายใต้การควบคุมและแนะนำจากผู้สอน",
+            "course_description_en": "Seminar and research on topics in agricultural economics under the supervision of the lecturer.",
+            "prerequisite_courses": [
+                "ศ.210",
+                "ศ.211",
+                "ศ."
+            ]
+        },
+        {
+            "course_code": "EC591",
+            "th-abbr": "ศ.591",
+            "course_name_th": "เศรษฐศาสตร์การเกษตร : ศึกษาเฉพาะเรื่อง 1",
+            "course_name_en": "Selected Topics in Agricultural Economics 1",
+            "course_type": "วิชาบังคับก่อน",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาเฉพาะเรื่องที่เป็นหัวข้อที่น่าสนใจในด้านเศรษฐศาสตร์การเกษตร ซึ่งจะประกาศเป็นคราว ๆ ไป",
+            "course_description_en": "Studying topics in Agricultural Economics to be determined later.",
+            "prerequisite_courses": [
+                "ศ.210",
+                "ศ.211",
+                "ศ."
+            ]
+        }
+    ],
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "เฉลิมพงษ์",
+            "lecture-last-name": "คงเจริญ",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Michigan State University, U.S.A",
+            "doctor-graduate-year": "2554",
+            "bachelor-graduate-year": "2543"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ดวงมณี",
+            "lecture-last-name": "เลาวกุล",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "George Mason University, U.S.A",
+            "doctor-graduate-year": "2547",
+            "bachelor-graduate-year": "2533"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ชญานี",
+            "lecture-last-name": "ชวะโนทย์",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Cornell University, U.S.A",
+            "doctor-graduate-year": "2557",
+            "bachelor-graduate-year": "2548"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ศศิวิมล",
+            "lecture-last-name": "วรุณศิริ ปวีณวัฒน์",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "University of Colorado, Boulder, U.S.A",
+            "doctor-graduate-year": "2553",
+            "bachelor-graduate-year": "2543"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ทีปกร",
+            "lecture-last-name": "จิร์ฐิติกุลชัย",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยขอนแก่น",
+            "doctor-institute": "Texas A&M University, U.S.A",
+            "doctor-graduate-year": "2557",
+            "bachelor-graduate-year": "2542"
+        }
+    ]
+}

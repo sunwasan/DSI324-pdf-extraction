@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "สมรรถพล",
+            "lecture-last-name": "ตาณพันธุ์",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "สถ.ม.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2547",
+            "bachelor-graduate-year": "2545"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "พฤฒิพร",
+            "lecture-last-name": "ลพเกิด",
+            "bachelor-degree": "สถ.บ.",
+            "doctor-degree": "สถ.ม.",
+            "bachelor-institute": "มหาวิทยาลัยเกษตรศาสตร์",
+            "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-graduate-year": "2550",
+            "bachelor-graduate-year": "2543"
+        },
+        {
+            "lecture-position": "อาจารย์ ดร.",
+            "lecture-first-name": "กนกวรรณ",
+            "lecture-last-name": "ตระกูลยิ่งเจริญ",
+            "bachelor-degree": "สถ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+            "doctor-institute": "Universita degli studi di Roma, Italy",
+            "doctor-graduate-year": "2555",
+            "bachelor-graduate-year": "2544"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "นิรันดร",
+            "lecture-last-name": "ทองอรุณ",
+            "bachelor-degree": "สถ.บ.",
+            "doctor-degree": "M.Arch.",
+            "bachelor-institute": "มหาวิทยาลัยรังสิต",
+            "doctor-institute": "University of Michigan, Ann Arbor, USA",
+            "doctor-graduate-year": "2549",
+            "bachelor-graduate-year": "2537"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "ชาวี",
+            "lecture-last-name": "บุษยรัตน์",
+            "bachelor-degree": "สถ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยเกษตรศาสตร์",
+            "doctor-institute": "Graduate School of Arts et MetiersParis Tech, France",
+            "doctor-graduate-year": "2553",
+            "bachelor-graduate-year": "2545"
+        }
+    ]
+}

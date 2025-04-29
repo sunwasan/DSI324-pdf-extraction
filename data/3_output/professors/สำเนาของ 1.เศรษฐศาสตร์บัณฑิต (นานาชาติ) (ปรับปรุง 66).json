@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "พงษ์ธร",
+            "lecture-last-name": "วราศัย",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Erasmus University, The Netherlands",
+            "doctor-graduate-year": "2548",
+            "bachelor-graduate-year": "2535"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "กิตติชัย",
+            "lecture-last-name": "แซ่ลี้",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "University of Wisconsin-Madison, USA",
+            "doctor-graduate-year": "2559",
+            "bachelor-graduate-year": "2545"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "มณเฑียร",
+            "lecture-last-name": "สติมานนท์",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Michigan State University, USA",
+            "doctor-graduate-year": "2556",
+            "bachelor-graduate-year": "2542"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "วรรณวิภางค์",
+            "lecture-last-name": "มานะโชติพงษ์",
+            "bachelor-degree": "B.Sc.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "Duke University, USA",
+            "doctor-institute": "University of Oxford, UK",
+            "doctor-graduate-year": "2552",
+            "bachelor-graduate-year": "2545"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "พนิต",
+            "lecture-last-name": "วัฒนกูล",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "University of North Carolina at Chapel Hill, USA",
+            "doctor-graduate-year": "2563",
+            "bachelor-graduate-year": "2554"
+        }
+    ]
+}

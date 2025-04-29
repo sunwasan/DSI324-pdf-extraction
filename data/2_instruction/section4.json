@@ -1,0 +1,38 @@
+{
+    "max-years": {
+        "detail": "ระยะเวลาศึกษาสูงสุด (ปี) หากไม่กำหนดให้ใช้ 0",
+        "loc": "4.1.2",
+        "result_type": "int"
+    },
+    "total-credits": {
+        "detail": "จำนวนหน่วยกิตรวมต้องไม่น้อยกว่า",
+        "loc": "4.3.1.1",
+        "result_type": "int"
+    },
+    "gen-ed-credits": {
+        "detail": "จำนวนหน่วยกิตวิชาศึกษาทั่วไป",
+        "loc": "4.3.1.2",
+        "result_type": "int"
+    },
+    "req-credits": {
+        "detail": "จำนวนหน่วยกิตวิชาบังคับ",
+        "loc": "4.3.1.2",
+        "result_type": "int"
+    },
+    "elec-credits": {
+        "detail": "จำนวนหน่วยกิตวิชาเลือก",
+        "loc": "4.3.1.2",
+        "result_type": "int"
+    },
+    "intern-credits": {
+        "detail": "จำนวนหน่วยกิตวิชาฝึกงาน (default = 0)",
+        "loc": "4.3.1.2",
+        "result_type": "int"
+    },
+    "coop-credits": {
+        "detail": "จำนวนหน่วยกิตวิชาฝึกประสบการณ์วิชาชีพ (default = 0)",
+        "loc": "4.3.1.2",
+        "result_type": "int"
+    }
+   
+}

@@ -1,0 +1,43 @@
+{
+    "course-code": {
+        "detail": "รหัสวิชาภาษาอังกฤษ (e.g. 'TU101', 'DSI324')"
+    },
+    "th-abbr": {
+        "detail": "รหัสวิชาภาษาไทย (get only abbreviation e.g. 'มธ.101', 'วข.324')"
+    },
+    "course-name-th": {
+        "detail": "ชื่อวิชาภาษาไทย"
+    },
+    "course-name-en": {
+        "detail": "ชื่อวิชาภาษาอังกฤษ"
+    },
+    "course-type": {
+        "detail": "ประเภทวิชา (e.g. วิชาศึกษาทั่วไป, วิชาบังคับ, วิชาเลือก)"
+    },
+    "credits": {
+        "detail": "จำนวนหน่วยกิต (e.g. 3,4)",
+        "loc": "digit before parenthesis. e.g. 0 from 0(1-2-3)"
+    },
+    "lecture-hours": {
+        "detail": "จำนวนชั่วโมงบรรยาย (e.g. 3,4)",
+        "loc": "first digit in parenthesis. e.g. 1 from 0(1-2-3)"
+    },
+    "practice-hours": {
+        "detail": "จำนวนชั่วโมงปฏิบัติการ (e.g. 3,4)",
+        "loc": "second digit in parenthesis. e.g. 2 from 0(1-2-3)"
+    },
+    "self_study_hours": {
+        "detail": "จำนวนชั่วโมงการศึกษาด้วยตนเอง (e.g. 3,4)",
+        "loc": "third digit in parenthesis. e.g. 3 from 0(1-2-3)"
+    },
+    "course-description_th": {
+        "detail": "คำอธิบายรายวิชาภาษาไทย"
+    },
+    "course-description_en": {
+        "detail": "คำอธิบายรายวิชาภาษาอังกฤษ"
+    },
+    "prerequisite": {
+        "result_type": "list",
+        "detail": "วิชาที่ต้องเรียนมาก่อน (e.g. ['TU101', 'TU102'])"
+    }
+}

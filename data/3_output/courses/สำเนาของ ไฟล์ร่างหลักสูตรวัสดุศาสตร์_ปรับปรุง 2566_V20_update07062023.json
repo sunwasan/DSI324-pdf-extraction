@@ -1,0 +1,1097 @@
+{
+    "courses": [
+        {
+            "course_code": "TU109",
+            "th-abbr": "มธ.109",
+            "course_name_th": "นวัตกรรมกับกระบวนคิดผู้ประกอบการ",
+            "course_name_en": "Innovation and Entrepreneurial mindset",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การประเมินความเสี่ยงและการสร้างโอกาสใหม่การคิดและการวางแผนแบบผู้ประกอบการ การตัดสินใจและการพัฒนาธุรกิจ การสื่อสารเชิงธุรกิจและการสร้างแรงจูงใจอย่างมีประสิทธิภาพ การ สร้างคุณค่าร่วมเพื่อสังคม",
+            "course_description_en": "Risk assessment and creating new opportunities. Thinking and planning as an entrepreneur. Decision making and entrepreneurial venture development. Business communication for delivering concept or initiative in an efficient, effective and compelling manner. Social shared value creation.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "LAS101",
+            "th-abbr": "ศศ.101",
+            "course_name_th": "การคิด อ่าน และเขียนอย่างมีวิจารณญาณ",
+            "course_name_en": "Critical Thinking, Reading, and Writing",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "พัฒนาทักษะการคิดอย่างมีวิจารณญาณผ่านการตั้งคำถาม การวิเคราะห์ การสังเคราะห์ และ การประเมินค่า พัฒนาทักษะการอ่านเพื่อจับสาระสำคัญ เข้าใจจุดมุ่งหมาย ทัศนคติสมมติฐาน หลักฐาน สนับสนุน การใช้เหตุผลที่นำไปสู่ข้อสรุปของงานเขียน พัฒนาทักษะการเขียนแสดงความคิดเห็นอย่างมี เหตุผลและการเขียนเชิงวิชาการ รู้จักถ่ายทอดความคิด และเชื่อมโยงข้อมูลเข้ากับมุมมองของตนเอง รวมถึงสามารถอ้างอิงหลักฐานและข้อมูลมาใช้ในการสร้างสรรค์งานเขียนได้อย่างมีประสิทธิภาพ",
+            "course_description_en": "Development of critical thinking through questioning, analytical, synthetic and evaluation skills. Students learn how to read without necessarily accepting all the information presented in the text, but rather consider the content in depth, taking into account the objectives, perspectives, assumptions, bias and supporting evidence, as well as logic or strategies leading to the author’s conclusion. The purpose is to apply these methods to students’ own persuasive writing based on information researched from various sources, using effective presentation techniques.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EL105",
+            "th-abbr": "สษ.105",
+            "course_name_th": "ทักษะการสื่อสารทางภาษาอังกฤษ",
+            "course_name_en": "English Communication Skills",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "พัฒนาทักษะการสื่อสารทางภาษาอังกฤษด้านการฟ้ง พูด อ่าน และเขียน ฝกการใช้ภาษา คา ศัพท์ และสำนวนในบริบททางวิชาการและสังคม",
+            "course_description_en": "Development of English communication skills, including listening, speaking, reading and writing. Practice of language, vocabulary and expressions used in academic and social contexts.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "TU155",
+            "th-abbr": "มธ.155",
+            "course_name_th": "สถิติพื้นฐาน",
+            "course_name_en": "Elementary Statistics",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ลักษณะป้ญหาทางสถิติทบทวนสถิติเชิงพรรณนา ความน่าจะเป็น ตัวแปรสุ่มและการแจกแจง ของตัวแปรสุ่มแบบทวินาม ป้วซง และปกติ เทคนิคการชักตัวอย่างและการแจกแจงของตัวสถิติการ ประมาณค่าและการทดสอบสมมติฐานเกี่ยวกับค่าเฉลี่ยประชากรกลุ่มเดียวและสองกลุ่ม การวิเคราะห์ ความแปรปรวนจำแนกทางเดียว การวิเคราะห์การถดถอยและสหสัมพันธ์เชิงเส้นเชิงเดียว การทดสอบไค กำลังสอง หมายเหตุ : ไม่นับหน่วยกิตให้ผู้ที่กำลังศึกษา หรือสอบได้ส.216",
+            "course_description_en": "The nature of statistical problems, review of descriptive statistics, probability, random variables and some probability distributions (binomial, poison and normal), elementary sampling and sampling distributions, estimation and hypotheses testing for one and two populations, one-way analysis of variance, simple linear regression and correlation, chi-square test.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "TU156",
+            "th-abbr": "มธ.156",
+            "course_name_th": "การเขียนโปรแกรมเชิงวิทยาศาสตร์เบื้องต้น",
+            "course_name_en": "Introduction to Scientific Programming",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักการพื้นฐานของระบบคอมพิวเตอร์หลกัการการประมวลผลข้อมูลอิเลคทรอนิกส์ ซอฟต์แวร์ระบบและ ซอฟต์แวร์ประยุกต์ ขั้นตอนวิธีผังงาน การแทนข้อมูล วิธีการการออกแบบและ พัฒนาโปรแกรม การแก้ป้ญหาด้วย ภาษาโปรแกรมระดับสูง",
+            "course_description_en": "Basic concepts of computer systems, electronic data processing concepts, system and application software, algorithms, flowcharts, data representation, program design and development methodology, problem solving using high-level language programming.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "MTH201",
+            "th-abbr": "มธ.201",
+            "course_name_th": "ความรู้ทางการเงินสำหรับบุคคล",
+            "course_name_en": "Financial Literacy for Individuals",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เรียนรู้พื้นฐาน หลักการ ความสำคัญและแนวทางวางแผนการเงินเพื่อเป้าหมายชีวิตการใช้ เครื่องมือทางการเงิน รวมทั้งเทคนิคต่างๆ ประกอบด้วย เทคนิคการค้นหาตนเอง เทคนิคการวางแผน การเงินทั้ง รู้หา รู้เก็บ รู้ใช้ และรู้ขยายดอกผล เทคนิคการจัดสรรเงินออมและการลงทุนแบบ DCA เทคนิค บริหารจัดการหนี้ เทคนิคการเพิ่มเงินออม เทคนิคในการวางแผนประหยัดภาษีเงินได้บุคคลธรรมดา ตลอดจนหลักการและความสำคัญของปรัชญาเศรษฐกิจพอเพียงต่อสังคมไทย เพื่อน้อมนำมาประยุกต์ใช้ ในการดำรงชีวิต",
+            "course_description_en": "To learn the foundations, principles, importance and guidelines of financial planning for life goals, the uses of financial instruments, together with self-discovery techniques, financial planning techniques including how to earn, collect, use and invest money, savings allocation and DCA investment techniques, debt management techniques, savings increase techniques, personal income tax saving planning techniques as well as the principles and importance of the Sufficiency Economy Philosophy in Thai society in order to be applied in living.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "TU202",
+            "th-abbr": "มธ.202",
+            "course_name_th": "ครบเครื่องเรื่องลงทุน",
+            "course_name_en": "Complete Investment",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เรียนรู้ทางเลือกและขั้นตอนการลงทุนในตลาดการเงิน พื้นฐานการลงทุนในหุ้น ตั้งแต่ ผลตอบแทน ความเสี่ยง ภาษีจากการลงทุน ตลอดจนการวิเคราะห์หุ้น วิธีการซื้อขายหุ้น และสิทธิของผู้ ถือหุ้นเพื่อเตรียมพร้อมก่อนตัดสินใจลงทุน เรียนรู้พื้นฐานการลงทุนในกองทุนรวม เทคนิคการเลือก กองทุนรวมและการลงทุนสม่ำเสมอแบบ DCA (Dollar Cost Averaging) ในหุ้นและกองทุน กระบวนการ บริหารพอร์ตลงทุนให้เหมาะกับตัวเอง พร้อมเรียนรู้ถึงป้จจัยสำคัญที่จะทำให้นักลงทุนไม่ประสบ ความสำเร็จในการลงทุน และแนวทางการปรับความคิด (Mindset) เพื่อสร้างความสำเร็จในการลงทุนใน ระยะยาว",
+            "course_description_en": "To learn the alternatives and process of investment in financial market, stock investment foundations started from return, risk, tax on investment as well as stock analysis, trade stocks method and the rights of shareholders in order to prepare before making investment decisions. To learn investment foundation in mutual fund, mutual fund selection techniques and DCA (Dollar Cost Averaging) regular investment in stocks and funds, suitable portfolio management process and learn the important factors that will make investors not successful in investing and mindset guidelines in order to create long- term investment success.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "TU209",
+            "th-abbr": "มธ.209",
+            "course_name_th": "สร้างแผนธุรกิจ พิชิตแหล่งเงินทุน",
+            "course_name_en": "How to Write a Successful Business Plan",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ฐานความรู้และทักษะในการสร้างแผนธุรกิจ การเข้าใจเป้าหมายธุรกิจของตนเอง กระบวนการ คิด การวิเคราะห์สภาพแวดล้อมและวิธีการเขียนแผนธุรกิจ การวิเคราะห์กรณีศึกษาต่างๆ และ ประสบการณ์ตรงจากผู้ที่ประสบความสำเร็จเพื่อสร้างความพร้อมในการทำธุรกิจอย่างมีประสิทธิภาพ",
+            "course_description_en": "Business Planning fundamental and creation skill. Understanding and realising business goals and impacts, thinking processes, business environmental analytics, and, how to write business plan by exploring various case studies and getting direct experiences from successful professionals and entrepreneurs.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "MTH301",
+            "th-abbr": "มธ.301",
+            "course_name_th": "การลงทุนในตลาดหลักทรัพย์ฯ",
+            "course_name_en": "Invesment in the Stock Market",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เรียนรู้แนวทางการเตรียมความพร้อมก่อนการซื้อขายหุ้นออนไลน์ การใช้โปรแกรมซื้อขายหุ้น และอนุพันธ์อย่าง Settrade Streaming เพื่อเป็นตัวช่วยในการลงทุน เรียนรู้หลักการวิเคราะห์ ป้จจัยพื้นฐานทั้งภาวะเศรษฐกิจ อุตสาหกรรม และบริษัท เทคนิคการอ่านและตีความข้อมูลสำคัญในงบ การเงิน รวมไปถึงแนวคิดและทางเลือกในการลงทุนอย่างยั่งยืน (ESG) เรียนรู้พื้นฐานการลงทุนในอนุพันธ์ ประเภทต่างๆ ทั้งฟิวเจอร์สและออปชัน ตลอดจนกลไกการซื้อขายของตลาดอนุพันธ์ การวางหลักประกัน กลยุทธ์การลงทุน และข้อควรระวังของการลงทุนในอนุพันธ์ เรียนรู้พื้นฐานการลงทุนในตราสารหนี้ทั้ง ผลตอบแทน ความเสี่ยง ภาษีจากการลงทุน ตลอดจนการวิเคราะห์ราคา และขั้นตอนการซื้อขายตราสาร หนี้ เพื่อเตรียมพร้อมก่อนตัดสินใจลงทุน และเรียนรู้พื้นฐานการลงทุนใน DW (Derivative Warrant) กลไกการเคลื่อนไหวของราคา ตลอดจนวิธีการเลือกลงทุน และกลยุทธ์การลงทุนใน DW",
+            "course_description_en": "To learn the preparation guideline before trading stocks online, the uses of stock and derivatives trading program like Settrade Streaming to be investment helper. To learn the analytical principles of fundamental factors of the economy, industries and companies, reading and interpreting key information in financial statements techniques along with including sustainable investment (ESG) ideas and alternatives. To learn the investment foundation in different types of derivatives both futures and options together with trading mechanism of the derivatives market, collateral, investment strategies and cautions of investment in derivatives. To learn the basics of investment in bonds including return, risk, tax on investment as well as price analysis and bonds trading process in order to prepare before making investment decisions and learn investment foundations in DW (Derivative Warrant), price action mechanism and investment selection method and investment strategy in DW",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "TU100",
+            "th-abbr": "มธ.100",
+            "course_name_th": "พลเมืองกับการลงมือแก้ป้ญหา",
+            "course_name_en": "Civic Engagement",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ปลูกฝ้งจิตสำนึก บทบาท และหน้าที่ความรับผิดชอบของการเป็นสมาชิกที่ดีของสังคมในฐานะ พลเมืองโลกผ่านกระบวนการหลากหลายวิธี เช่น การบรรยาย การอภิปรายกรณีศึกษาต่างๆ ดูงานเป็นต้น โดยนักศึกษาจะต้องจัดทำโครงการรณรงค์ เพื่อให้เกิดการรับรู้หรือเกิดการเปลี่ยนแปลง ในประเด็นที่ สนใจ",
+            "course_description_en": "Instillation of social conscience and awareness of one’s role and duties as a good global citizen. This is done through a variety of methods such as lectures, discussion of various case studies and field study outings. Students are required to organise a campaign to raise awareness or bring about change in an area of their interest.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "MA218",
+            "th-abbr": "ค.218",
+            "course_name_th": "แคลคูลัสสำหรับวิทยาศาสตร์ 1",
+            "course_name_en": "Calculus for Science 1",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ลิมิตและความต่อเนื่องของฟังก์ชัน อนุพันธ์ของฟังก์ชันพีชคณิตและฟังก์ชันอดิศัย กฎลูกโซ่ อนุพันธ์โดยปริยาย อนุพันธ์อันดับสูง การประยุกต์ของอนุพันธ์ ผลต่างเชิงอนุพันธ์และการประยุกต์ ปฏิยานุพันธ์ ปริพันธ์ไม่อจำกัดเขต เทคนิคของการหาปริพันธ์ ปริพันธ์จำกัดเขตและการประยุกต์ในทางเรขาคณิต อนุกรมอนันต์",
+            "course_description_en": "Limits and continuity of functions, derivatives of algebraic functions and transcendental functions, the chain rule, derivatives of implicit functions, higher order derivatives, applications of derivatives, differential and its applications, antiderivatives, indefinite integrals, techniques of integration, definite integrals and its geometric applications, infinite series.",
+            "prerequisite_courses": [
+                "MA111",
+                "MA211",
+                "MA216",
+                "AM101"
+            ]
+        },
+        {
+            "course_code": "MA219",
+            "th-abbr": "ค.219",
+            "course_name_th": "แคลคูลัสสำหรับวิทยาศาสตร์ 2",
+            "course_name_en": "Calculus for Science 2",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เมทริกซ์ การดำเนินการบนเมทริกซ์ พีชคณิตของเมทริกซ์ ดีเทอร์มิแนนต์ เมทริกซ์ผกผัน ระบบสมการเชิงเส้น หลักเกณฑ์คราเมอร์ ลิมิตและความต่อเนื่องของฟังก์ชันหลายตัวแปร อนุพันธ์ย่อย กฎลูกโซ่ อนุพันธ์ย่อยอันดับสูง ผลต่างเชิงอนุพันธ์รวมและการประยุกต์ การประยุกต์ของอนุพันธ์ย่อยในการหาค่าสูงสุด และค่าต่ำสุดของฟังก์ชันหลายตัวแปรแบบไม่มีเงื่อนไขบังคับและมีเงื่อนไขบังคับ พิกัดเชิงขั้วและการประยุกต์ ในการหาพื้นที่ปริพันธ์หลายชั้นและการประยุกต์",
+            "course_description_en": "Matrices, matrix operations, algebra of matrices, determinants, inverses of matrices, systems of linear equations, Cramer’s rule, limits and continuity of multivariable functions, partial derivatives, the chain rule, higher order partial derivatives, total differential and its applications, applications of partial derivatives for determining maximum and minimum of several variable functions with unconstraint and constraints, polar coordinates and applications of area solving, multiple integrals and its applications.",
+            "prerequisite_courses": [
+                "MA218"
+            ]
+        },
+        {
+            "course_code": "SC113",
+            "th-abbr": "วท.113",
+            "course_name_th": "ชีววิทยาทั่วไป",
+            "course_name_en": "General Biology",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาชีววิทยาเบื้องต้นของพืชและสัตว์ เพื่อการดำรงชีวิตประจำวัน ศึกษาธรรมชาติตลอดจน หลักเกณฑ์ทางชีววิทยา รวมทั้งโครงสร้างและกระบวนการทำงานเพื่อการดำรงชีวิตของพืชและสัตว์ตั้งแต่ระดับโมเลกุล เซลล์ เนื้อเยื่อ ระบบ ถึงระดับชีวิต การทำงานของกรดนิวคลีอิคในการถ่ายทอดลักษณะทางพันธุกรรม พันธุศาสตร์ การเจริญพันธุ พฤติกรรมสัตว์ วิวัฒนาการ และนิเวศวิทยา",
+            "course_description_en": "Biological concepts of flora and fauna in daily life, principles, structures, and basic metabolic processes of organisms at molecular, cell, tissue, organ, system, and individual levels, structures and functions of nucleic acids in genetic inheritance, genetics, reproduction, animal behavior, evolution, and ecology.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SC 120",
+            "th-abbr": "วท.120",
+            "course_name_th": "เคมีเบื้องต้น",
+            "course_name_en": "Basic Chemistry",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "โครงสร้างอะตอม การจัดเรียงอิเล็กตรอน การแผ่รังสีคลื่นแม่เหล็กไฟฟ้า ปริมาณสัมพัทธ์ ร้อยละ สัดส่วนธาตุในสารประกอบ พันธะเคมีสภาพไฟฟ้าลบ พันธะไอออน พันธะโคเวเลนซ์ โครงสร้างลิวอิส ทฤษฎีพันธะเวเลนซ์ รูปร่างโมเลกุล สมบัติของธาตุเรพริเซนเททีฟและแทรนซิชัน สัมพรรคภาพอิเล็กตรอน กฎของแก๊สอุดมคติค่าคงที่แก๊ส แก๊สผสม ของเหลวและสารละลาย แรงยึดเหนี่ยวระหว่างโมเลกุล พันธะไฮโดรเจน แผนภูมิวัฏภาค ความเข้มข้น สมบัติคอลลิเกทิฟ ของแข็งแบบผลึก ของแข็งอสัณฐาน เซลล์หน่วย อุณหเคมี ความร้อน การถ่ายโอนพลังงานความร้อน ความร้อนจำเพาะ ปฏิกิริยาดูดความร้อน ปฏิกิริยาคายความร้อน กฎทางอุณหพลศาสตร์ กฎของเฮสส์",
+            "course_description_en": "Atomic structure, Electron configuration, Electromagnetic radiation, Stoichiometry, Percent composition, Chemical Bonds, Electronegativity, Ionic bond, Covalent bond, Lewis structure, VSEPR theory, Molecular geometry, Properties of representative and transition elements, Electron affinity, Ideal gas law, Gas constant, Gas mixture, Liquids and solutions, Intermolecular forces, Hydrogen bond, Phase diagram, Concentration, Colligative properties, Crystalline and amorphous structures, Unit cell, Thermochemistry, Heat, Heat transfer, Specific heat, Endothermic reactions, Exothermic reactions, Thermodynamic law, Hess’s law.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SC122",
+            "th-abbr": "วท.122",
+            "course_name_th": "เคมี 2",
+            "course_name_en": "Chemistry 2",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "จลนพลศาสตรB สมการกฎอัตรา คHาคงที่อัตรา อันดับของปฏิกิริยา สมการกฎอัตราในรูปปริพันธB ครึ่งชีวิต พลังงานกHอกัมมันตB สารมัธยันตรB สมดุลเคมีคHาคงที่สมดุล หลักของเลอชาเตอริเย กรด-ดHาง ความแรง ของกรดและดHาง คHาคงที่สมดุลกรดและดHาง พีเอช ผลของไอออนรHวม การไทเทรตกรด-ดHาง สารละลายบัฟเฟอรB เคมีไฟฟ‘า สมการรีดอกซB แผนภาพเซลลBไฟฟ‘า ศักยBไฟฟ‘ามาตรฐาน แบตเตอรี่ เคมีอินทรียB สารประกอบ ไฮโดรคารBบอน กำรอHานชื่อ สารประกอบ อินทรียBที่มีหมูHฟœงกBชัน ปฏิกิริยาสำคัญของสารประกอบอินทรียB ประโยชนBและความสำคัญของสารประกอบอินทรียB",
+            "course_description_en": "Chemical kinetics, Rate law, Rate constant, Reaction order, Integrated rate law, Half- life, Activated energy, Chemical equilibrium, Equilibrium constant, Le Chatelier’s principle, Acids and bases, Acid ionization constant, Base ionization constant, pH, Common ion effect, Acid- base titration, Buffer solution, Electrochemistry, Redox reactions, Cell diagram, Standard electrode potential, Battery, Organic chemistry, Hydrocarbons, Nomenclature, Organic compounds with functional groups, Important reactions of organic compounds, Uses and importance of organic compounds.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SC131",
+            "th-abbr": "วท.131",
+            "course_name_th": "ฟิสิกส์ 1",
+            "course_name_en": "Physics 1",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เวกเตอร์ ปริมาณทางกายภาพ ระบบหน่วย การเคลื่อนที่และกฎการเคลื่อนที่ของนิวตัน งาน พลังงาน โมเมนตัมและกฎการอนุรักษ์ การเคลื่อนที่แบบหมุน โมเมนตัมเชิงมุมและกฎการอนุรักษ์ สมดุล สภาพยืดหยุ่น กลศาสตร์ของไหล การแกว่งกวัด คลื่น เสียง ความร้อน อุณหภูมิ สมบัติทางความร้อนของวัสดุ อุณหพลศาสตร์ ทฤษฎีจลน์ของก๊าซ",
+            "course_description_en": "Vectors, physical quantities, systems of units, motion and Newton’s laws of motion, work, energy, momentum and the conservation law, rotational motion, angular momentum and the conservation law, equilibrium, elasticity, fluid mechanics, oscillations, waves, sound, heat, temperature, thermal properties of materials, thermodynamics, the kinetic theory of gases.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SC132",
+            "th-abbr": "วท.132",
+            "course_name_th": "ฟิสิกส์ 2 3",
+            "course_name_en": "Physics 2",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "กฎของคูลอมบ์ สนามไฟฟ้า กฎของเกาส์ ความจุไฟฟ้า ไดอิเล็กทริก พลังงานไฟฟ้า กระแสไฟฟ้า การนำไฟฟ้าในวัสดุ กฎของโอห์ม วงจรไฟฟ้ากระแสตรง กฎของเคิร์ชฮอฟฟ์ สนามแม่เหล็ก กฎของบิโอต-สวาร์ต กฎของแอมแปร์ ความเหนี่ยวนำ สมบัติทางแม่เหล็กของสสาร พลังงานแม่เหล็ก กฎการเหนี่ยวนำของฟาราเดย์ วงจรไฟฟ้ากระแสสลับ คลื่นแม่เหล็กไฟฟ้า แสง ทัศนศาสตร์เชิงเรขาคณิตและเชิงฟิสิกส์ ฟิสิกส์อะตอม ทฤษฎีควอนตัมเบื้องต้น ฟิสิกส์นิวเคลียร์เบื้องต้น",
+            "course_description_en": "Coulomb’s law, electric fields, Gauss’ law, capacitance, dielectrics, electric energy, electric current, conductions in materials, Ohm’s law, DC circuits, Kirchhoff’s laws, magnetic fields, Biot-Savart law, Ampere’s law, inductance, magnetic properties of matter, magnetic energy, Faraday’s law of induction, AC circuits, electromagnetic waves, light, geometrical and physical optics, atomic physics, elementary quantum theory, elementary nuclear physics.",
+            "prerequisite_courses": [
+                "วท.131",
+                "SC131"
+            ]
+        },
+        {
+            "course_code": "SC163",
+            "th-abbr": "วท.163",
+            "course_name_th": "ปฏิบัติการชีววิทยาทั่วไป 1",
+            "course_name_en": "General Biology Laboratory",
+            "course_type": "วิชา",
+            "course_credit": 0,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "ปฏิบัติการเสริมความรูFทางทฤษฎีรายวิชา วท.113",
+            "course_description_en": "Experiments related to the contents in SC 113",
+            "prerequisite_courses": [
+                "SC113"
+            ]
+        },
+        {
+            "course_code": "SC171",
+            "th-abbr": "วท.171",
+            "course_name_th": "ปฏิบัติการเคมี 1",
+            "course_name_en": "Chemistry Laboratory 1",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 1,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "ปฏิบัติการเสริมความรู้ทางทฤษฎีวิชา วท.120 หรือ วท.121",
+            "course_description_en": "Experiments related to the contents in SC 120 or SC 121",
+            "prerequisite_courses": [
+                "SC120",
+                "SC121"
+            ]
+        },
+        {
+            "course_code": "SC172",
+            "th-abbr": "วท.172",
+            "course_name_th": "ปฏิบัติการเคมี 2",
+            "course_name_en": "Chemistry Laboratory 2",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 1,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "ปฏิบัติการเสริมความรู้ทางทฤษฎีวิชา วท.122",
+            "course_description_en": "Experiments related to the contents in SC 122",
+            "prerequisite_courses": [
+                "วท.122",
+                "SC 122"
+            ]
+        },
+        {
+            "course_code": "SC 181",
+            "th-abbr": "วท.181",
+            "course_name_th": "ปฏิบัติการฟิสิกส์ B 1",
+            "course_name_en": "Physics Laboratory 1",
+            "course_type": "วิชา",
+            "course_credit": 1,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "ปฏิบัติการเกี่ยวกับ การวัดและความคลาดเคลื่อน กลศาสตร์ คลื่น และอุณหพลศาสตร์",
+            "course_description_en": "Laboratory practices involving measurement and errors, mechanics, waves and thermodynamics.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SC182",
+            "th-abbr": "วท.182",
+            "course_name_th": "ปฏิบัติการฟิสิกส์ B 2 1",
+            "course_name_en": "Physics Laboratory 2",
+            "course_type": "วิชา",
+            "course_credit": 1,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "ปฏิบัติการเกี่ยวกับ ไฟฟ้า แมเหล็ก ทัศนศาสตร์ และฟิสิกส์แผนใหม่",
+            "course_description_en": "Laboratory practices involving electricity, magnetism, optics and modern physics.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "MA 313",
+            "th-abbr": "ค.313",
+            "course_name_th": "สมการเชิงอนุพันธBสามัญ",
+            "course_name_en": "Ordinary Differential Equations",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "สมการเชิงอนุพันธBอันดับหนึ่ง ทฤษฎีบทตHางๆ ของสมการเชิงอนุพันธBเชิงเสFน สมการเชิงอนุพันธBเชิง เสFนอันดับที่สอง สมการเชิงอนุพันธBเชิงเสFนที่มีสัมประสิทธิ์เป˜นคHาคงตัวและสัมประสิทธิ์เป˜นตัวแปร สมการเชิง อนุพันธBเชิงเสFนอันดับสูงและการประยุกตB สมกำรออยเลอรB ผลการแปลงลาปลาซและการประยุกตB อนุกรมฟู เรียรB ขFอปœญหาคHาขอบ ทฤษฎีบทสังวัตนาการ ระบบสมการเชิงอนุพันธBเชิงเสFน สมการเชิงอนุพันธBยHอยเบื้องตFน",
+            "course_description_en": "First order differential equations, theorems on linear differential equations, second order linear differential equations, differential equations with constant coefficients and variable coefficients, higher order linear differential equations and its applications, Euler equations, the Laplace transform and its applications, Fourier series, boundary value problems, the convolution theorem, linear systems of differential equations, elementary partial differential equations.",
+            "prerequisite_courses": [
+                "MA 112",
+                "MA 212",
+                "MA 217",
+                "MA 219"
+            ]
+        },
+        {
+            "course_code": "MR 200",
+            "th-abbr": "วด.200",
+            "course_name_th": "วัสดุศาสตรBเบื้องตFน",
+            "course_name_en": "Introduction to Materials Science",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ชนิดของวัสดุ พันธะ โครงสรFางผลึก สมมาตร เซลลBหนึ่งหนHวยเชิงแลททิซ ระบบผลึก การจัดวาง อะตอมและระนาบอะตอมในผลึก ดัชนีมิลเลอรB การแข็งตัว ความไมHสมบูรณBในผลึก การแพรHในของแข็ง แผนภาพเฟส โลหะผสม วัสดุเซรามิก วัสดุคอมโพสิต การกัดกรHอน สมบัติทางไฟฟ‘า ทางแสง และทางแมHเหล็ก วัสดุสิ่งทอและเทคโนโลยีสิ่งทอ",
+            "course_description_en": "Types of materials, bonding, crystal structures, symmetry, lattice unit cell, crystal systems, atomic packing, crystal planes, Miller indicies, solidification, crystalline imperfections, diffusion in solids, phase diagrams, alloys, ceramic materials, composite materials, corrosion, electrical properties, optical properties, magnetic properties and Textile technology",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "MR 201",
+            "th-abbr": "วด.201",
+            "course_name_th": "ผลึกวิทยาและการจัดอะตอมในของแข็ง",
+            "course_name_en": "Crystallography and Assembly of Atoms in Solids",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ผลึกวิทยาเชิงเรขาคณิตเบื้องต้น โครงสร้างผลึก ระบบผลึก สเปซแลททิซและสมมาตร พอยท์กรุ๊ป สเปซ-กรุ๊ป เรขาคณิตของแลททิซส่วนกลับ ดิสโลเคชั่น ขอบเกรน ความผิดปรกติเชิงจุด เชิงเส้นและเชิงระนาบ ในโครงสร้างผลึกโลหะและเซรามิก โครงสร้างพอลิเมอร์ ผลของโครงสร้างที่มีต่อสมบัติทางกายภาพและสมบัติเชิงกล และปฏิบัติการเกี่ยวกับผลึกวิทยา",
+            "course_description_en": "Basic geometrical crystallography, crystal structures, crystal systems, space lattice and symmetry, point groups and space groups, geometry of the reciprocal lattice. Dislocation, grain boundaries. Point, line and planar defects in metallic and ceramic crystal structures, polymer structures. Effects of structure on physical and mechanical properties and Experiment in Crystallography",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 202",
+            "th-abbr": "วด.202",
+            "course_name_th": "กระบวนการผลิตวัสดุ",
+            "course_name_en": "Materials Processing",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "กระบวนการผลิตโลหะ การหล่อแบบ การแข็งตัว โรลลิง ฟอรจิง เอ็กซ์ทรูชัน โลหะผง กรรมวิธีทาง ความร้อน การตบแต่งผิวโลหะ กระบวนการของผลิตภัณฑดิน การขึ้นรูป การทำให้แห้ง การเผา การอัดขึ้นรูป ซินเตอริง ปฏิกิริยาและพันธะ การต่อ และการประกอบชิ้นส่วนเซรามิก กระบวนการผลิต พอลิเมอร์ เอ็กซ์ทรูชัน การเป่าและการฉีดแบบ เทอร์โมฟอร์มิง แบบหล่อ การหล่อแบบด้วยวิธีต่างๆ วัสดุโฟม",
+            "course_description_en": "Processing of metals, casting, rapid solidification, powder metallurgy, heat treatments, surface engineering, processing of clay products, forming techniques, drying and firing, pressing and sintering, reaction bonding, joining and assembly of ceramic components. Processing of polymers, extrusion, blow moulding, injection moulding, thermoforming, calendering, spinning, casting, compression moulding, transfer moulding, reaction-injection moulding, foams.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 204",
+            "th-abbr": "วด.204",
+            "course_name_th": "ปฏิบัติการกระบวนการผลิตวัสดุ 1",
+            "course_name_en": "Materials Processing Laboratory",
+            "course_type": "วิชา",
+            "course_credit": 0,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "ปฏิบัติการเกี่ยวกับกระบวนการผลิตเซรามิก การหล่อดิน การหลอมโลหะ การหล่อแบบโลหะ การอัดผงขึ้นรูป การขึ้นรูปพอลิเมอร์ และเยี่ยมชมโรงงาน",
+            "course_description_en": "Laboratories involving the processing of ceramics, slip casting, metal forming, pressing and industrial visit.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR205",
+            "th-abbr": "วด.205",
+            "course_name_th": "ปฏิบัติการผลึกวิทยา 1",
+            "course_name_en": "Crystallography Laboratory",
+            "course_type": "วิชา",
+            "course_credit": 0,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "ปฏิบัติการเกี่ยวกับโครงสร้างผลึกและผลึกวิทยา",
+            "course_description_en": "Laboratories including the crystal structures and crystallography.",
+            "prerequisite_courses": [
+                "MR200"
+            ]
+        },
+        {
+            "course_code": "MR 206",
+            "th-abbr": "วด.206",
+            "course_name_th": "เคมีประยุกตBสำหรับวัสดุศาสตรB",
+            "course_name_en": "Applied Chemistry for Materials Science",
+            "course_type": "วิชา",
+            "course_credit": 2,
+            "lect_hours": 2,
+            "practice_hours": 0,
+            "self_study_hours": 4,
+            "course_description_th": "ชนิดของหมูHฟœงกBชันและกำรอHานชื่อสารประกอบอินทรียB การจำแนกปฏิกิริยาเคมีและกลไกการ เกิดปฏิกิริยา ศึกษาปฏิกิริยาการเติม ปฏิกิริยาการแทนที่ปฏิกิริยาการกำจัด ปฏิกิริยาการจัดเรียงตัวใหมH และ ปฏิกิริยารีดอกซB สเตอริโอเคมีและผลตHอความวHองไวในการเกิดปฏิกิริยา เคมีโคออรBดิเนชัน การเรียกชื่อ สารประกอบเชิงซFอน ไอโซเมอรB ทฤษฎีพันธะและแบนดB ชนิดของอิเล็กทรอนิคแทรนซิชัน กลไกปฏิกิริยาเคมี ของสารประกอบเชิงซFอนธาตุแทรนซิชัน",
+            "course_description_en": "Functional group and nomenclature of organic compounds, classification of chemical reactions and their mechanisms, addition, substitution, elimination, rearrangement, and redox reactions, stereochemistry and reactivity, coordination chemistry, nomenclatures, isomerism, bond and theories, types of electronic transition, magnetism, reactions and mechanisms of transition metal complexes.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 220",
+            "th-abbr": "วด.220",
+            "course_name_th": "เซรามิกและการประยุกตB",
+            "course_name_en": "Ceramic and Their Applications",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "โครงสรFางของเซรามิก โครงสรFางของซิลิเกต ความไมHสมบูรณBในโครงสรFางผลึก เซรามิก โครงสรFาง ของเซรามิกแกFว ความลFมเหลวเชิงกลของเซรามิก การเสื่อมสภาพของเซรามิกที่อุณหภูมิสูง กระบวนการผลิต และการประยุกตBแกFว เซรามิกแกFว ผลิตภัณฑBดินเซรามิกขั้นสูง และวัสดุทนไฟ",
+            "course_description_en": "The structures of crystalline ceramics, the structures of crystalline silicates, imperfections in crystalline ceramic structures, the structures of glass ceramics, mechanical failure of ceramics, deformation of ceramics at high temperatures, processing and applications of glass, glass ceramics, clay products, advanced ceramics and refractories.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 231",
+            "th-abbr": "วด.231",
+            "course_name_th": "พอลิเมอรBและการประยุกตB",
+            "course_name_en": "Polymers and Their Applications",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ปฏิกิริยาการเกิดพอลิเมอรB วิธีการพอลิเมอรBเชิงอุตสาหกรรม ความเป˜นผลึกและสเตริโอไอโซเมอริ ซึมในเทอรBโมพลาสติก กระบวนการผลิตวัสดุพลาสติก เทอรBโมพลาสติกชนิดทั่วไป เทอรBโมเซตติงพลาสติก สาร อีลาสโตเมอรB การเปลี่ยนสภาพและการเสริมความแข็งแรงของพลาสติก การเปลี่ยนรูปรHางและการแตกรFาวของ วัสดุพอลิเมอรB การวางตัวของโมเลกุล พอลิเมอรBรHวมและพอลิเมอรBผสม พอลิเมอรB ประสิทธิภาพสูง การประยุกตB ทำงดFานวิศวกรรม และการแพทยB",
+            "course_description_en": "Polymerization reactions, industrial polymerization methods, crystallinity and stereo isomerism in some thermoplastics, processing of plastic materials, general-purpose thermoplastics, thermosetting plastics(thermosets), elastomers(rubber), deformation and strengthening of plastic materials, creep and fracture of polymeric materials, molecular orientation, copolymers and blends, high performance polymers, engineering and medical applications.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 300",
+            "th-abbr": "วด.300",
+            "course_name_th": "การแปลงเฟสและโครงสร้างจุลภาค",
+            "course_name_en": "Phase Transformation and Microstructures",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เทอร์โมไดนามิกส์ของการแปลงเฟส การแปลงจากเฟสที่เปนไอและของเหลว แก้ว อุณหภูมิการเปลี่ยนเปนแก้ว การตกผลึกของพอลิเมอร์ ผลึกเหลว การปลูกผลึกเดี่ยว การแข็งตัวแบบหลายเฟส สเกลของโครงสร้างจุลภาค วิวัฒนาการของโครงสร้างจุลภาคในโลหะบริสุทธิ์ เซรามิกซินเตอร์ และพอลิเมอร์ แผนภาพเฟสแบบคู่ แผนภาพเฟสแบบสาม องค์ประกอบเฟส การแข็งตัว การแปลงในสภาพของแข็ง การแปลงในสภาวะไมสมดุล",
+            "course_description_en": "Thermodynamics of phase transformations, transformations from the vapour phase and the liquid phase, glasses, crystallisation of polymers, liquid crystals, single crystal growth, polyphase solidification. Microstructure, evolution in pure metals, fired ceramics and polymers. Binary phase diagrams, Ternary phase diagrams, phase composition, solidification, solid state transformation, non-equilibrium transformation.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 301",
+            "th-abbr": "วด.301",
+            "course_name_th": "สมบัติเชิงกลของวัสดุ",
+            "course_name_en": "Mechanical Properties of Materials",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความสำคัญของสมบัติเชิงกลของวัสดุตHอการประยุกตBใชFงาน ที่มาและวิธีการทางทฤษฎีเกี่ยวกับ สมบัติทางอิลาสติก แอนอิลาสติกและวิสโคอิลาสติก ความแข็งแรง โมดูลัสของความยืดหยุHน ดีสโลเคชัน ความ แข็งและการเพิ่มความแข็งแรง การเปลี่ยนรูป การแตกรFาว การออกแบบเชิงวิศวกรรม",
+            "course_description_en": "Importance of mechanical properties in applications, formal description and origins of elastic, and elastic and viscoelastic properties, strength, elastic modulus, dislocation, hardness and hardening, creep, fracture, engineering design.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 302",
+            "th-abbr": "วด.302",
+            "course_name_th": "การหาลักษณะเฉพาะของวัสดุ",
+            "course_name_en": "Characterization of Materials",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "สเปกโตรสโคป^แบบใชFแสง สเปกโตรสโคป^เชิงเอกซเรยB สเปกโตรสโคป^แบบการดูดกลืนเชิงอะตอม เทคนิคการเลี้ยวเบนของเอกซเรยB การวิเคราะหBเชิงเคมีแบบเป^ยก การหาลักษณะเฉพาะขององคBประกอบ โครงสรFาง ความผิดปกติ และของพื้นผิว โดยใชFเทคนิคทางไมโครสโคป^แบบไมโครโพลบสแกนนิ่ง เอสอีเอ็ม และ ทีอีเอ็ม เทคนิคที่ใชFในการตรวจวิเคราะหBคุณลักษณะทางกายภาพและทางเคมีของพอลิเมอรB การตรวจหา น้ำหนักโมเลกุล ความหนืด การวิเคราะหBคุณสมบัติทางความรFอน คุณสมบัติทางกล และคุณสมบัติทางไฟฟ‘า และปฏิบัติการเกี่ยวกับการหาลักษณะเฉพาะของวัสดุ",
+            "course_description_en": "Optical and X-ray spectroscopy, optical emission spectroscopy, atomic absorption spectroscopy, X-ray diffraction, wet chemical analysis, the characterizations of composition, structure, defects, and surfaces by using techniques of microprobe scanning microscope, SEM, and TEM. Techniques used to characterize physical and chemical properties of polymers, Molecular weight determination, Viscosity, Thermal analysis, Mechanical and electrical properties’ determination and Experiment in Material Charaterization.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 303",
+            "th-abbr": "วด.303",
+            "course_name_th": "อุณหพลศาสตรBของวัสดุ",
+            "course_name_en": "Thermodynamics of Materials",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ระบบองคBประกอบเดี่ยว ระบบหลายองคBประกอบ ของผสม ของผสมสององคBประกอบ ปฏิกิริยา เคมีพื้นผิว ผิวตHอ และความบกพรHองแบบจุด",
+            "course_description_en": "Single-componet systems, multi-component systems, mixtures, binary mixtures, chemical reaction, surface, interfaces and point defects.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 304",
+            "th-abbr": "วด.304",
+            "course_name_th": "ปฏิบัติการวิเคราะหBโครงสรFางทางจุลภาค 1",
+            "course_name_en": "Microstructure Analysis Laboratory",
+            "course_type": "วิชา",
+            "course_credit": 0,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "ปฏิบัติการเกี่ยวกับการวัดสมบัติทางกายภาพของวัสดุ การเตรียมชิ้นงานตัวอยHาง สำหรับการ ตรวจสอบโครงสรFางจุลภาคของวัสดุดFวยกลFองจุลทรรศนBแบบแสง",
+            "course_description_en": "Laboratories involving the measurements of physical properties of materials; preparing samples for microstructural characterization by using optical microscope.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 305",
+            "th-abbr": "วด.305",
+            "course_name_th": "ปฏิบัติการหาลักษณะเฉพาะวัสดุ 1",
+            "course_name_en": "Materials Characterization Laboratory",
+            "course_type": "วิชา",
+            "course_credit": 1,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "ปฏิบัติการเกี่ยวกับเทคนิคตHาง ๆ ของการหาลักษณะเฉพาะของวัสดุ",
+            "course_description_en": "Laboratories involving various techniques of the characterization of materials.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 310",
+            "th-abbr": "วด.310",
+            "course_name_th": "โลหะและการประยุกตB",
+            "course_name_en": "Metals and Their Applications",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การแข็งตัวของโลหะ การแข็งของผลึกเดี่ยว สารละลายเชิงโลหะแข็ง ความไมHสมบูรณBของผลึก กระบวนการผลิตโลหะและอัลลอยสB พฤติกรรมเชิงกลของโลหะ การแตกรFาวของโลหะ การกัดกรHอนของโลหะ และการป‘องกัน การปรับปรุงพื้นผิวของโลหะ การประยุกตBและกรณีศึกษาทางโลหะ",
+            "course_description_en": "Solidification of metals, solidification of single crystals, metallic solid solutions, crystalline imperfections, the processing of metals and alloys, mechanical behaviour of metals, fracture of metals, corrosion and protection, surface modification of metals application and case studies of metals.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 320",
+            "th-abbr": "วด.320",
+            "course_name_th": "สมบัติทางความรFอนและวัสดุทนไฟ",
+            "course_name_en": "Thermal Properties and Refractory Materials",
+            "course_type": "วิชา",
+            "course_credit": 2,
+            "lect_hours": 2,
+            "practice_hours": 0,
+            "self_study_hours": 4,
+            "course_description_th": "ความจุความรFอน การขยายตัวของผลึก การขยายตัว กระบวนการนาความรFอนของวัสดุ การ ทดสอบสมบัติของ ประเภทและสมบัติของวัสดุทนไฟ",
+            "course_description_en": "Heat capacity, thermal expansion, thermal conductivity of materials, refractories testing, types and properties of refractories.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 396",
+            "th-abbr": "วด.396",
+            "course_name_th": "การฝึกงาน 1",
+            "course_name_en": "Training",
+            "course_type": "วิชา",
+            "course_credit": 1,
+            "lect_hours": 0,
+            "practice_hours": 0,
+            "self_study_hours": 0,
+            "course_description_th": "นักศึกษาต้องฝึกงานในภาคฤดูร้อนในหน่วยงานหรือโรงงานที่สาขาวิชาฯ เห็นชอบ เป็นเวลาไม่น้อยกว่า 300 ชั่วโมง เพื่อให้นักศึกษาได้ฝึกปฏิบัติงานจริงและได้รับประสบการณ์จากการฝึกงาน นักศึกษาต้องส่งรายงานหรือสอบปากเปล่าหลังสิ้นสุดการฝึกงานแล้ว วัดผลด้วยระดับ S หรือ U",
+            "course_description_en": "A summer training in an appropriate organization or a factory approved by the Division of Materials and Textile Technology. A minimum of 300 hours is required for each student in the training. Students will participate in relevant practical works and gain hands on experiences in real situations. Assessment: each student is required to submit a written report on the acquired training and gives an oral presentation. Grades: S or U.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 402",
+            "th-abbr": "วด.402",
+            "course_name_th": "สมบัติทางไฟฟ‘าและแมHเหล็กของวัสดุ",
+            "course_name_en": "Electrical and Magnetic Properties of Materials",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "พฤติกรรมของอิเล็กตรอนในของแข็ง สภาพนาไฟฟ‘าและสภาพตFานทานไฟฟ‘าของโลหะ สภาพนา ไฟฟ‘าแบบอิออน สภาพนายิ่งยวด สารกึ่งตัวนำ สมบัติทางไดอิเล็กตริก ฉนวน สารพีโซอิเล็กตริก อิเล็กโตรสตริก ชัน สารเฟรBโรอิเล็กตริก สมบัติทางแมHเหล็กของวัสดุ โครงสรFางโดเมน วงฮิสเตอรีซีส กราฟระหวHางแม็กเนไตเซ ชันและสนาม อุณหภูมิคูรียB สารแมHเหล็กเฟอรBไรทB สารแมHเหล็กเฟอรBโร",
+            "course_description_en": "Behavior of electrons in solids, electrical conductivity and resistivity of metals, ionic conductivity, superconductivity, semiconductors, dielectric properties, insulators, piezoelectrics, electrostrictions, ferroelectrics, magnetic properties of materials, domain structure, hysteresis loop, graphs of magnetization and field, Curie temperature, ferrites, ferromagnetic materials.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 441",
+            "th-abbr": "วด.441",
+            "course_name_th": "อิเล็กโตรเซรามิก",
+            "course_name_en": "Electroceramics",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิทยาการพื้นฐานเกี่ยวกับของแข็ง การผลิตวัสดุเซรามิก ไดอิเล็กตริกและฉนวน พีโซอิเล็กตริกเซรามิก วัสดุเฟอรโรอิเล็กตริก วัสดุไพโรอิเล็กตริก ตัวนำเซรามิก อุปกรณ์ไมโครอิเล็กทรอนิกส์ อิเล็กโตรออปติกเซรามิก เซรามิกแม่เหล็ก และการประยุกต์",
+            "course_description_en": "Elementary solid state science, the fabrication of ceramics, dielectrics and insulators, piezoelectric ceramics, ferroelectric materials, pyroelectric materials, ceramic conductors, microelectronics devices, electro-optic ceramics, magnetic ceramics, and applications.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 491",
+            "th-abbr": "วด.491",
+            "course_name_th": "ระเบียบวิธีวิจัย 1",
+            "course_name_en": "Research Method",
+            "course_type": "วิชา",
+            "course_credit": 0,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "แนะนำพื้นฐานการทำวิจัยทำงดFานวัสดุศาสตรB การสืบคFนขFอมูลสำหรับการวิจัย การเขียนขFอเสนอ โครงการ การวางแผนการวิจัย การเขียนรายงานวิจัย การนำเสนองานวิจัย",
+            "course_description_en": "Provide a guide to basic research methods in materials science, data investigation for research, proposal preparation, research planning, research report writing and research presentation.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 492",
+            "th-abbr": "วด.492",
+            "course_name_th": "โครงงานพิเศษ 2",
+            "course_name_en": "Special Project",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 0,
+            "lect_hours": 0,
+            "practice_hours": 6,
+            "self_study_hours": 0,
+            "course_description_th": "โครงงานของนักศึกษาแต่ละคนจะเกี่ยวข้องกับการศึกษาและวิจัยทางด้านวัสดุศาสตร์ และอยู่ภายใต้การควบคุมดูแลโดยอาจารย์",
+            "course_description_en": "A student project involving a study and research in a field of materials science, and under a supervision of a member of the departmental staff.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR495",
+            "th-abbr": "วด.495",
+            "course_name_th": "สัมมนา 1",
+            "course_name_en": "Seminar",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 0,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "หัวข้อการสัมมนาครอบคลุมเนื้อหาวิชาทางด้านวัสดุศาสตร์ นักศึกษาต้องเสนอหัวข้อสัมมนาที่เหมาะสมและผ่านการเห็นชอบจากกรรมการสอบ เพื่อบรรยายในที่สัมมนาตามเวลาที่สาขาวิชาฯ กำหนด",
+            "course_description_en": "Seminar topics include subject matters in materials science. Students are required to offer appropriate seminar topics. Upon the approval of the department, each student is required to give a lecture and submit a report on the approved topic.",
+            "prerequisite_courses": [
+                "MR200"
+            ]
+        },
+        {
+            "course_code": "MR 306",
+            "th-abbr": "วด.306",
+            "course_name_th": "การกัดกร่อนและการเสื่อมของวัสดุ",
+            "course_name_en": "Corrosion and Degradation of Materials",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การกัดกร่อนของโลหะ การพิจารณาเชิงอิเล็กโตรเคมีอัตราการกัดกร่อน แพสสิวิตีอิทธิพลของ สภาพแวดล้อม รูปแบบของการกัดกร่อน การป้องกันการกัดกร่อน ปฏิกิริยาออกซิเดชัน การกัดกร่อนของ วัสดุเซรามิก การเสื่อมของพอลิเมอร์ สเวลลิงและดิสโซลูชัน พันธะและรัปเจอร เวเธอริง",
+            "course_description_en": "Corrosion of metals, electrochemical considerations, corrosion rates, passivity, environmental effects, form of corrosion, corrosion prevention, oxidation reaction, corrosion of ceramic materials, degradation of polymers, swelling and dissolution, bond and rupture, weathering.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 307",
+            "th-abbr": "วด.307",
+            "course_name_th": "ซินโครตรอนและการประยุกตBในทางวัสดุศาสตรB",
+            "course_name_en": "Synchrotron and Applications in Materials Science",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เครื่องกำเนิดแสงซินโครตรอน อุปกรณBแทรก ระบบลำเลียงแสงและสถานีทดลอง ฟ|สิกสBของ ซินโครตรอน อันตรกิริยาของรังสีเอกซBกับสสาร และการประยุกตBในทางวัสดุศาสตรB",
+            "course_description_en": "Synchrotron light source, Insertion Devices, Optical system and Beamlines, Synchrotron physics, interaction of x-ray with matter, and applications in materials science",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 316",
+            "th-abbr": "วด.316",
+            "course_name_th": "การผลิตอลูมิเนียมและการประยุกตB",
+            "course_name_en": "Aluminium Productions and its Applications",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "โลหะวิทยาของอลูมิเนียม การผลิตอลูมิเนียมขั้นปฐมภูมิและทุติยภูมิการหลHออลูมิเนียมและ การควบคุมคุณภาพ การกัดกรHอนและการป‘องกันการกัดกรHอนในอลูมิเนียม การขึ้นรูปอลูมิเนียมแผHน การ ประยุกตBใชFอลูมิเนียมผสม",
+            "course_description_en": "Metallurgy of aluminium Primary and secondary aluminium processing, Aluminium casting and quality issues, Corrosion and corrosion protection of aluminium, Aluminium sheet fabrication, Application of modern aluminium alloy",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 326",
+            "th-abbr": "วด.326",
+            "course_name_th": "วิทยาการและเทคโนโลยีแก้ว",
+            "course_name_en": "Glass Science and Technology",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การเกิดแก้ว โครงสร้างของแก้ว องค์ประกอบทางเคมีของแก้ว สมบัติทางกายภาพและความหนืดของแก้ว การผลิตแก้วชนิดต่างๆ แก้วเซรามิก และการนำไปใช้ประโยชน์",
+            "course_description_en": "Glass formation, glass structures, glass chemistry, physical properties and viscosity of glass, manufacture of various types of glass, glass-ceramics and their applications.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 336",
+            "th-abbr": "วด.336",
+            "course_name_th": "การสังเคราะหBและสมบัติของพอลิเมอรB",
+            "course_name_en": "Synthesis and Properties of Polymers",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ประเภทและกลไกของกระบวนการที่ใชFในการสังเคราะหBพอลิเมอรB พอลิเมอรBไรเซชันแบบ ควบแนHน และแบบเดิม ทั้งในกรณีการเตรียมพอลิเมอรBเดี่ยว และพอลิเมอรBรHวม สารเคมี และภาวะที่ใชFใน การสังเคราะหB สารเติมแตHงที่ใชF การผลิตพอลิเมอรBที่สำคัญทางการคFา ในระดับอุตสาหกรรม คุณสมบัติ พื้นฐาน และการประยุกตBใชF",
+            "course_description_en": "Types and mechanisms of polymerizations; Condensation and addition polymerizations, Preparation of homopolymers and copolymers, Chemicals and conditions used, Additives, Manufacture of commercially most important polymers in industry, Principle properties and their applications.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 337",
+            "th-abbr": "วด.337",
+            "course_name_th": "วิศวกรรมศาสตร์พอลิเมอร์",
+            "course_name_en": "Polymer Engineering",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "สมบัติเชิงกลของวัสดุพอลิเมอร์ การเสียรูปและการแตกหักของพอลิเมอร์ การวัดค่า ความเค้น ความเครียด การยืดออก คุณสมบัติทางไฟฟ้าของพอลิเมอร์ พอลิเมอร์ที่นาไฟฟ้าได้ พอลิเมอร์เสริมแรง พอลิเมอร์ชนิดผสม พอลิเมอร์ชนิดหลายตัวร่วม",
+            "course_description_en": "Mechanical properties of polymeric materials, Polymer deformation and fracture, Stress, strain and elongation determination, Electrical properties of polymers, Conductive and conducting polymers, Reinforced polymers, Polymer blends and composites, Multi-component polymers.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 346",
+            "th-abbr": "วด.346",
+            "course_name_th": "กระบวนการผลิตเหล็กแบบยั่งยืน",
+            "course_name_en": "Sustainable Steelmaking Process",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "กระบวนการผลิตเหล็กแบบเตาอารBคไฟฟ‘า ปฏิกิริยาระหวHางตะกรันและคารBบอนที่อุณหภูมิ สูง ปรากฏการณBการเกิดโฟมตะกรัน ปฏิกิริยาลดเหล็กออกไซดBในตะกรัน ปฏิกิริยาระหวHางเหล็กเหลวและ คารBบอน การละลายของคารBบอนในเหล็กเหลว ปฏิกิริยาที่บริเวณรอยตHอระหวHาง คารBบอนกับเหล็กเหลว งานวิจัยและเทคโนโลยีใหมHเกี่ยวกับกระบวนการผลิตเหล็กที่เป˜นมิตรกับสิ่งแวดลFอม ลดตFนทุนและลดการใชF พลังงาน",
+            "course_description_en": "Electric arc furnace (EAF) steelmaking, high temperature slag/carbon interactions, slag foaming practice, reduction of iron oxides in slag, high temperature liquid iron/carbon interactions, dissolution of carbon into liquid iron, interfacial phenomena between liquid iron and carbon, reductions of cost and energy consumption and environmentally friendly novel research and technology in steelmaking process.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 347",
+            "th-abbr": "วด.347",
+            "course_name_th": "การหาโครงสร้างด้วยการเลี้ยวรังสีเอกซเรย์ผ่านผลึกเดี่ยว",
+            "course_name_en": "Structure Determination by Single Crystal X-ray Diffraction",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "พื้นฐานเกี่ยวกับผลึกและรังสีเอกซเรย์ การตกผลึกเดี่ยว การเก็บข้อมูล การหาโครงสร้างเคมี การวิเคราะห์อันตรกิริยาระหว่างโมเลกุล การเตรียมไฟล์ข้อมูลสำหรับตีพิมพ์",
+            "course_description_en": "Introduction to crystalline solids and X-ray, crystal growths, data collection, crystal structure determination, intermolecular interactions analyses, preparation file for publications",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 348",
+            "th-abbr": "วด.348",
+            "course_name_th": "วัสดุรูพรุนนาโน",
+            "course_name_en": "Nanoporous Materials",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักการพื้นฐาน เอกลักษณBเฉพาะ โครงสรFาง วิธีการเตรียม และการประยุกตBใชFในการดูดซับ การเก็บกัก และการคัดแยกแก¥สและโมเลกุลของสารเคมีของวัสดุรูพรุนนาโนซีโอไลตB ถHานกัมมันตB และ สารประกอบโครงตาขHายโลหะ-อินทรียB",
+            "course_description_en": "Basic principle, characteristics, structures, preparation routes, and applications in gas and molecules adsorption, storage and separation of nanoporous zeolites, activated carbon, and metal-organic frameworks, characterization of nanoporous materials by various analytical methods",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 349",
+            "th-abbr": "วด.349",
+            "course_name_th": "โคออรBดิเนชันพอลิเมอรBเบื้องตFน",
+            "course_name_en": "Basic of Coordination Polymers",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักการออกแบบและการวิศวกรรมผลึก วิธีการสังเคราะหB การพิสูจนBเอกลักษณB และการ ประยุกตBใชFงานดFานตHางๆ ของสารประกอบโคออรBดิเนชันพอลิเมอรB",
+            "course_description_en": "Basic principle of rational design and crystal engineering, synthetic methods, characterization and applications in various fields of coordination polymer compounds.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 416",
+            "th-abbr": "วด.416",
+            "course_name_th": "โลหะผสมเชิงวิศวกรรม",
+            "course_name_en": "Engineering Alloys",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เหล็กเจือคารBบอน เหล็กกลFาคารBบอน เหล็กกลFาเจือ เหล็กกลFาไรFสนิม เหล็กกลFาเครื่องมือ เหล็กหลHอ ทองแดงเจือ ไทเทเนียมเจือ นิคเกิล-โคบอลทBเจือ โลหะทนความรFอน การชุบแข็งและการ ปรับปรุงพื้นผิวของโลหะ",
+            "course_description_en": "Iron-Carbon alloy, Carbon steels, Alloy steels, Stainless steels, Tool steels, Cast Irons, Copper Alloys, Titanium alloys, Nickel-Cobalt alloys, Refractory metals and alloys, Surface hardening and surface modification of metals.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 426",
+            "th-abbr": "วด.426",
+            "course_name_th": "กระบวนการเซรามิกขั้นสูง",
+            "course_name_en": "Advanced Ceramic Processing",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิทยาการของวัสดุผงละเอียด วัสดุแขวนลอยและการหาลักษณะเฉพาะ การผลิตวัสดุผง ละเอียด วัตถุดิบ การเผา ปฏิกิริยาในสภาวะของแข็ง การบดผสม การอัดขึ้นรูป การแต่งรูป เอกซทรูชัน สลิปคาสติง อินเจ็กชันโมลดิง การทำแห้งและไล่สารยึดเหนี่ยว ซินเตอริง เทคโนโลยีโซลเจล",
+            "course_description_en": "Science of powders, colloids, characterization. Powder production: natural raw materials, calcination, solid state reaction. Consolidation and shaping, pressing, extrusion, slip casting, injection molding. Drying and binder removal, sintering, sol-gel technology.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 427",
+            "th-abbr": "วด. 427",
+            "course_name_th": "เซรามิกเพียโซอิเล็กทริก",
+            "course_name_en": "Piezoelectric Ceramics",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ปรากฏการณBเพียโซอิเล็กทริก ตัวแปรทางเพียโซอิเล็กทริก ประเภทของเซรามิกเพียโซอิเล็กท ริก การเตรียมและการวัดสมบัติเซรามิกเพียโซอิเล็กทริก กลยุทธBในการเพิ่มสมบัติ และการประยุกตBใชFเซรา มิกเพียโซอิเล็กทริก",
+            "course_description_en": "Piezoelectric effects, piezoelectric parameters, types of piezoelectric ceramics, preparation and measurement of piezoelectric ceramics, strategies for property enhancement, and applications of piezoelectric ceramics",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 436",
+            "th-abbr": "วด.436",
+            "course_name_th": "ฟิสิกส์ของพอลิเมอร์",
+            "course_name_en": "Polymer Physics",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทฤษฎีเกี่ยวกับพอลิเมอร์หลอมเหลว และสารละลาย โครงสร้างทางเคมีและการจัดเรียงตัว ของอะตอมบนสายโซ่พอลิเมอร์ ขนาดและมวลโมเลกุล ผลึกและสัณฐานของพอลิเมอร์ การวัดสถานะความเป็นผลึก จลศาสตร์การเกิดผลึก จุดหลอมเหลว และอุณหภูมิสถานะคล้ายแก้ว เทอร์โมไดนามิกของยาง เทอร์โมไดนามิกส์ของพอลิเมอร์ผสม และสารละลายพอลิเมอร์ แผนภูมิสถานะ เครือข่าย พอลิเมอร์ และการเกิดเจล",
+            "course_description_en": "Theories of polymer melts and solutions, Chemical structure, conformation and configuration of polymers, Size and molecular weight, Crystallization and morphology, Measurement of crystallinity, Kinetics of crystallization, Melting point and glass transition temperature, Thermodynamics of rubber, Thermodynamics of Blends and Solutions, Phase diagram, Polymer networks and gelation.",
+            "prerequisite_courses": [
+                "MR 231"
+            ]
+        },
+        {
+            "course_code": "MR 437",
+            "th-abbr": "วด.437",
+            "course_name_th": "กระแสศาสตรBของพอลิเมอรB",
+            "course_name_en": "Rheology of Polymeric Fluids",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 9,
+            "course_description_th": "ของไหลแบบนิวโทเนียนและนันนิวโทเนียน คุณสมบัติการไหลของพอลิเมอรB การไหลโดยแรง เฉือนและแรงดึง คุณสมบัติทางวิสโคอิลาสติค ดัชนีการไหลของพอลิเมอรBหลอมเหลว ปœจจัยที่มีผลตHอการ ไหล ความสัมพันธBระหวHางโครงสรFางโมเลกุลของพอลิเมอรBกับสมบัติการไหล เครื่องมือและวิธีที่ใชFในการวัด คุณสมบัติการไหล การไหลกับการขึ้นรูปวัสดุพอลิเมอรB",
+            "course_description_en": "Newtonian and non-Newtonian fluids, Rheological properties of polymer, Simple shear flow and elongational flow, Viscoelastic properties, Melt-flow index, Factors affecting flow behaviors, Relationship between polymer structure and rheological properties, Instruments and methods used in rheology, Applications of rheology in polymer processing.",
+            "prerequisite_courses": [
+                "MR 231"
+            ]
+        },
+        {
+            "course_code": "MR 447",
+            "th-abbr": "วด.447",
+            "course_name_th": "นาโนเทคโนโลยี",
+            "course_name_en": "Nanotechnology",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความรูFพื้นฐานและความสำคัญของนาโนเทคโนโลยีการเตรียมและใชFงานของวัสดุนาโนและ โครงสรFางนาโน เชHน อนุภาคนาโน ควอนตัมด็อท ทHอนำโนคารBบอน ฟ|ลBมชั้นเดี่ยวระดับโมเลกุล และโพลิ เมอรBรHวมแบบกลุHม งานประยุกตBที่ใชFนาโนเทคโนโลยีในทางเคมีชีววิทยา ฟ|สิกสB วิศวกรรม เกษตร และ การแพทยB ทิศทางของนาโนเทคโนโลยีในอนาคต",
+            "course_description_en": "Basic concepts and significance of nanotechnology, Preparation and uses of nanomaterials and nanostructures such as nanoparticles, quantum dots, carbon nanotubes, molecular monolayer, block copolymers, Applications of nanotechnology in chemistry, biology, physics, engineering, agriculture, and medicine, Trends of nanotechnology in the future.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "CM216",
+            "th-abbr": "คม.216",
+            "course_name_th": "เคมีอนินทรียB",
+            "course_name_en": "Inorganic Chemistry",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "โครงสรFางของอะตอมและโมเลกุล เคมีของของแข็ง เคมีของสารละลาย เคมีของธาตุหมูHหลัก และ ธาตุทรานซิชันโดยทั่วไป สารประกอบโคออดิเนชัน",
+            "course_description_en": "Structure of Atoms and Molecules, Solid State Chemistry, Solution Chemistry, General Chemistry of Main Group and Transition Elements, Coordination Compounds",
+            "prerequisite_courses": [
+                "SC122"
+            ]
+        },
+        {
+            "course_code": "CM236",
+            "th-abbr": "คม.236",
+            "course_name_th": "เคมีเชิงฟิสิกส์ B",
+            "course_name_en": "Physical Chemistry",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แก๊สอุดมคติและแก๊สจริง กฎของอุณหพลศาสตร์ อุณหเคมี พลังงานอิสระ ศักย์เคมี ปริมาณพาเชียลโมลาร์ เฟสและกฎของเฟส แผนภาพเฟส อุณหพลศาสตร์ในของผสม สมบัติคอลลิเกทีฟ แอคติวิตี้ สมดุลเคมี เคมีไฟฟ้าแบบสมดุล ทฤษฎีจลน์ของแก๊ส กฎการกระจายของแมกซเวลล์ ปรากฏการณ์การขนส่ง จลนพลศาสตร์ สมการอัตราและกลไกการเกิดปฏิกิริยา การเร่งปฏิกิริยาเคมี และจลนพลศาสตร์ของเอนไซม์",
+            "course_description_en": "Ideal and Real Gases, Law of Thermodynamics, Thermochemistry, Free Energy, Chemical Potential, Partial Molar Quantities, Phase Equilibria, Phase Diagrams, Thermodynamics of Mixing, Colligative Properties, Activities, Chemical Equilibrium, Equilibrium Electrochemistry, Kinetic Theory of Gas, Maxwell’s Distribution Law, Transport Phenomena, Chemical Kinetics, Rate Equations and Mechanism of Chemical Reactions, Reaction Catalysis and Enzyme Kinetics.",
+            "prerequisite_courses": [
+                "SC122"
+            ]
+        },
+        {
+            "course_code": "MR 208",
+            "th-abbr": "วด. 208",
+            "course_name_th": "วัสดุและความยั่งยืน",
+            "course_name_en": "Materials and Sustainability",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทรัพยากรทางวัสดุ ความสำคัญของการออกแบบและพัฒนาวัสดุเพื่อความยั่งยืน การประเมินวัฏ จักรชีวิตผลิตภัณฑB กลยุทธBสำหรับการลดผลกระทบทางสิ่งแวดลFอม ตัวอยHางของวัสดุยั่งยืน และการนำขยะมาใชF ประโยชนB",
+            "course_description_en": "Materials resources, importance of materials design and development for sustainability, product life cycle assessment, strategies for reducing environmental impacts, examples of sustainable materials and waste utilization",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "MR 338",
+            "th-abbr": "วด.338",
+            "course_name_th": "นวัตกรรมและการอุตสาหกรรมพอลิเมอรBชีวภาพ สำหรับ 3",
+            "course_name_en": "Biopolymer Innovation and Manufacturing for BCG economy",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักการของบีซีจี (เศรษฐกิจชีวภาพ เศรษฐกิจหมุนเวียน และเศรษฐกิจสีเขียว) เทคโนโลยีพอลิ เมอรBชีวภาพขั้นสูง พอลิเมอรBชีวภาพอัจฉริยะ นวัตกรรมในอุตสาหกรรมพอลิเมอรBชีวภาพ หลักการ และการ จัดการการผลิตในอุตสาหกรรมพอลิเมอรBชีวภาพ กระบวนการพัฒนานวัตกรรม เศรษฐศาสตรB สมัยใหมHแผน ธุรกิจการศึกษาดูงานอุตสาหกรรมพอลิเมอรBชีวภาพ การนำเสนอนวัตกรรมสำหรับโรงงานที่คัดเลือก",
+            "course_description_en": "Principles of BCG (bio economy, circular economy, and green economy); Advanced biopolymer technology; smart biopolymers, and innovation in biopolymer industry; principle of biopolymer manufacturing and management; innovation development process; new economy; business plan; biopolymer industry visiting; proposal of innovation for the selected industry",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 339",
+            "th-abbr": "วด.339",
+            "course_name_th": "เทคโนโลยียาง",
+            "course_name_en": "Rubber Technology",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทฤษฎีพื้นฐาน เกี่ยวกับกระบวนการแปรรูปยาง การออกสูตรยาง การพัฒนาสูตรยาง การเตรียมยาง คอมปาวดB การขขึ้นรูปยาง ปœจจัยที่มีผลตHอกระบวนการขึ้นรูปยาง การ ควบคุมตัวแปรในกระบวนการขึ้นรูปยาง การคำ นวณราคาและตัวแปรที่เกี่ยวขFองกับการขึ้นรูปยาง สมบัติทางกายภาพ สมบัติทางเคมีสมบัติเชิงกล สารเติมแตHงสำหรับยาง ความสัมพันธBระหวHางโครงสรFางและสมบัติของยาง กระบวนการทดสอบสมบัติของยาง",
+            "course_description_en": "Lectures on rubber processing, rubber compound design, rubber compound preparation, rubber processing techniques, factors of rubber processing control, cost estimation for rubber processing, physical properties, chemical properties, mechanical properties and application of natural rubber and synthetic rubbers. Rubber processing techniques, rubber additives Relationship between structure and properties of rubber, rubber properties testing",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 341",
+            "th-abbr": "วด.341",
+            "course_name_th": "สารเติมแต่งสำหรับอุตสาหกรรมพลาสติก",
+            "course_name_en": "Additives for Plastic Manufacturing",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักทั่วไปในการดัดแปรและปรับปรุงคุณภาพของพอลิเมอร์ การใช้สารตัวเติมเพื่อเสริมแรงพอลิเมอร์ สมบัติของสารเติมแต่งชนิดต่างๆ การเลือกใช้สารเติมแต่งให้เหมาะสมกับการนำไปใช้งานของพลาสติก การผสมพอลิเมอร์กับสารเติมแต่ง และวิธีการทดสอบประสิทธิภาพของสารเติมแต่ง",
+            "course_description_en": "Principles on the modification and qualitative development of polymer, applying additive for reinforcing polymer, properties of additives, choosing the appropriate additives for plastic applications, mixing polymer and additives and testing of efficiency of additives",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 342",
+            "th-abbr": "วด.342",
+            "course_name_th": "วัสดุในอุตสาหกรรมบรรจุภัณฑB",
+            "course_name_en": "Materials in Packaging Industry",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักการพื้นฐานของเทคโนโลยีบรรจุภัณฑB การแบHงชนิดของบรรจุภัณฑB หนFาที่ของบรรจุภัณฑB หลักการพื้นฐานเทคโนโลยีพอลิเมอรB การนำพอลิเมอรBใชFในบรรจุภัณฑB การทดสอบขั้นพื้นฐานของบรรจุภัณฑB พอลิเมอรB หลักการพื้นฐานเทคโนโลยีเยื่อและกระดาษ การนำเยื่อและกระดาษมาใชFในบรรจุภัณฑB การทดสอบ ขั้นพื้นฐานของบรรจุภัณฑBกระดาษ หลักการพื้นฐานเทคโนโลยีแกFวและโลหะ การนำแกFวและโลหะ มาใชFใน บรรจุภัณฑB เศรษฐศาสตรBบรรจุภัณฑB การทดสอบขั้นพื้นฐานของบรรจุภัณฑBแกFวและโลหะ หลักการ พื้นฐานของ การออกแบบบรรจุภัณฑB การหาผลที่เหมาะสมของการใชFวัสดุในการออกแบบบรรจุภัณฑB การออกแบบและ วิเคราะหBโครงสรFางของบรรจุภัณฑBแบบตHางๆ",
+            "course_description_en": "Fundamentals of packaging technology, classifications of packaging, functions of packaging; fundamentals of polymer technology, application of polymer in packaging, basic test methods for polymer packaging ; fundamentals of pulp and paper technology, application of pulp and paper in packaging, basic test methods for paper packaging; fundamentals of glass and metal, application of glass and metal in packaging, basic test methods for glass and metal packaging; fundamentals of packaging design, packaging economics, optimization design of packaging materials usage, design and analysis of packaging structures",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 446",
+            "th-abbr": "วด.446",
+            "course_name_th": "วัสดุคอมโพสิต",
+            "course_name_en": "Composite Materials",
+            "course_type": "วิชาบังคับ",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทฤษฎีทั่วไปเกี่ยวกับวัสดุคอมโพสิต คอมโพสิตชนิดต่างๆ กระบวนการเสริมความแข็งแรงให้ไฟเบอร์ ความสำคัญของการวางตัวของไฟเบอร์และความเข้มข้น สถาปัตยกรรมไฟเบอร์ การผลิตและการประยุกต์ของพอลิเมอร์คอมโพสิต คอมโพสิตธรรมชาติและคอมโพสิตเชิงมหภาค",
+            "course_description_en": "General theory on composite materials, types of composites, fiber reinforcement processes, influence of fiber orientation and concentration, fiber architecture, fabrication and applications of polymer composites, natural composites and macrocomposites.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        },
+        {
+            "course_code": "MR 448",
+            "th-abbr": "วด.448",
+            "course_name_th": "วัสดุชีวการแพทยB",
+            "course_name_en": "Biomedical Materials",
+            "course_type": "วิชา",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "พื้นฐานของวัสดุชีวภาพ การประยุกตBเชิงการแพทยBเกี่ยวกับวัสดุทางชีวภาพ การประยุกตB พอลี เมอรB เซรามิก โลหะ เซรามิกและแกFวทางชีวภาพ เนื้อเยื่ออHอนและเนื้อเยื่อแข็ง การวิเคราะหBคุณลักษณะของ วัสดุทางชีวภาพ หนFาสัมผัสระหวHางวัสดุและเนื้อเยื่อ อันตรกิริยาระหวHางวัสดุ-เนื้อเยื่อ ระบบนำสHงยา วัสดุทาง ชีวภาพสำหรับการแทนที่อวัยวะ วิศวกรรมเนื้อเยื่อ",
+            "course_description_en": "Fundamental of biomaterials, medical applications of biomaterials, applications of polymer, ceramics, metals, bioceramics and biological glasses, soft and hard tissue, characterization of biomaterials, material-tissue interface, material-tissue interactions, drug delivery systems, biomaterials for organ replacement, tissue engineering.",
+            "prerequisite_courses": [
+                "MR 200"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "faculty_name_th": "คณะสถาปัตยกรรมศาสตร์และการผังเมือง",
+    "faculty_name_en": "Faculty of Architecture and Planning",
+    "curr-id": "2509051100496",
+    "cur-name-th": "หลักสูตรสถาปัตยกรรมภายในบัณฑิต",
+    "cur-name-en": "Bachelor of Interior Architecture Program",
+    "degree-full-th": "ศิลปศาสตรบัณฑิต",
+    "degree-full-en": "Bachelor of Interior Architecture",
+    "degree-abr-th": "ศศ.บ.",
+    "degree-abr-en": "B.I.A.",
+    "num-majors": [
+        "ไม่มี"
+    ],
+    "curr-type": "หลักสูตรปริญญาตรีสำหรับผู้มีวุฒิบัตร",
+    "lang": "จัดการศึกษาเป็นภาษาไทย",
+    "collaboration": [
+        "เป็นหลักสูตรของสถาบันโดยเฉพาะ"
+    ],
+    "institution": [],
+    "organization": [],
+    "partner": 0,
+    "single-degree": "ให้ปริญญาเพียงสาขาวิชาเดียว",
+    "approve-date": "2566-03-25",
+    "first-open-term": "1/2566",
+    "careers": [
+        "สถาปนิก",
+        "นักออกแบบตกแต่งภายใน",
+        "นักออกแบบเครื่องเรือนและผลิตภัณฑ์",
+        "นักออกแบบจัดแสดง"
+    ],
+    "campus": "รังสิต",
+    "expense-type": "ปกติ",
+    "student-nation-id": "รับทั้งนักศึกษาไทยและนักศึกษาต่างชาติ ที่สามารถใช้ภาษาไทยได้ดี",
+    "admit-plan-yearly": 45,
+    "ผลลัพธ์การเรียนรู้ของหลักสูตร (PLOs)": {
+        "Knowledge": [
+            "K 1 ปฏิบัติวิชาชีพออกแบบภายใต้ขอบเขตวิชาชีพสถาปัตยกรรมภายในได้",
+            "K 2 สามารถนำวิธีการด้านกระบวนการออกแบบ มาสร้างสรรค์ร่วมกับทีมงาน, เพื่อแก้ไขปัญหาและพัฒนาขอบเขตงานออกแบบ",
+            "K 3 ความรู้ด้านโครงสร้างและสร้างสรรค์ สามารถประยุกต์การออกแบบและสร้างสรรค์ องค์ความรู้ในการออกแบบเชิง Sustainable design"
+        ],
+        "Skills": [
+            "S 1 มีทักษะด้านการสื่อสารและนำเสนอผลงาน",
+            "S 2 มีทักษะกระบวนการคิดเชิง Critical thinking Creative Collaborative Communicative",
+            "S 3 มีทักษะการแก้ไขปัญหา Problem solving skill"
+        ],
+        "Ethics": [
+            "E 1 มีความรับผิดชอบต่อวิชาชีพ และเคารพใน",
+            "E 2 มีจรรยาบรรณวิชาชีพ",
+            "E 3 ซื่อสัตย์"
+        ]
+    },
+    "max-years": 16,
+    "total-credits": 138,
+    "gen-ed-credits": 30,
+    "req-credits": 102,
+    "elec-credits": 6,
+    "intern-credits": 0,
+    "coop-credits": 0
+}

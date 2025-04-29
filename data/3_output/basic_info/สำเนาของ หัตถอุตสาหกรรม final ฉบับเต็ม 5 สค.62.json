@@ -1,0 +1,48 @@
+{
+    "faculty_name_th": "คณะศิลปกรรมศาสตร์",
+    "faculty_name_en": "Faculty of Fine and Applied Arts",
+    "curr-id": "25480051100414",
+    "cur-name-th": "ศิลปกรรมศาสตรบัณฑิต สาขาวิชาออกแบบหัตถอุตสาหกรรม",
+    "cur-name-en": "Bachelor of Fine and Applied Arts Programme in Industrial Crafts Design",
+    "degree-full-th": "ศิลปกรรมศาสตรบัณฑิต (ออกแบบหัตถอุตสาหกรรม)",
+    "degree-full-en": "Bachelor of Fine and Applied Arts (Industrial Crafts Design)",
+    "degree-abr-th": "ศป.บ.",
+    "degree-abr-en": "B.F.A.",
+    "num-majors": [
+        "ไม่มี"
+    ],
+    "curr-type": "หลักสูตรทางวิชาการ",
+    "lang": "หลักสูตรจัดการศึกษาเป็นภาษาไทย",
+    "collaboration": [
+        "เป็นหลักสูตรของสถาบันโดยเฉพาะ"
+    ],
+    "institution": [],
+    "organization": [],
+    "partner": 0,
+    "single-degree": "ให้ปริญญาเพียงสาขาวิชาเดียว",
+    "approve-date": "2561-07-23",
+    "first-open-term": "1/2561",
+    "careers": [
+        "นักออกแบบผลิตภัณฑ์หัตถอุตสาหกรรม",
+        "นักออกแบบผลิตภัณฑ์อุตสาหกรรม",
+        "นักออกแบบผลิตภัณฑ์เครื่องเรือน",
+        "นักออกแบบกราฟฟิก เลขนภัณฑ์ บรรจุภัณฑ์",
+        "นักออกแบบศิลปะและผลิตภัณฑ์เซรามิกส์",
+        "นักออกแบบนิทรรศการและบริเวณจัดแสดง",
+        "นักพัฒนาผลิตภัณฑ์ชุมชน-วิสาหกิจชุมชน",
+        "นักจัดการงานออกแบบ",
+        "นักออกแบบอิสระ ผู้ประกอบการงานออกแบบ"
+    ],
+    "campus": "ศูนย์ลำปาง",
+    "expense-type": "ปกติ",
+    "student-nation-id": "รับนักศึกษาไทยและนักศึกษาต่างประเทศที่สามารถใช้ภาษาไทยในการสื่อสารได้เป็นอย่างดี",
+    "admit-plan-yearly": 45,
+    "ผลลัพธ์การเรียนรู้ของหลักสูตร (PLOs)": {},
+    "max-years": 16,
+    "total-credits": 144,
+    "gen-ed-credits": 30,
+    "req-credits": 90,
+    "elec-credits": 6,
+    "intern-credits": 1,
+    "coop-credits": 0
+}

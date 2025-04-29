@@ -1,0 +1,103 @@
+{
+    "professor": [
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ชลิดาภรณ์",
+            "lecture-last-name": "ส่งสัมพันธ์",
+            "bachelor-degree": "ร.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "The Claremont Graduate School, California, U.S.A.",
+            "doctor-graduate-year": "2534",
+            "bachelor-graduate-year": "2526"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ประจักษ์",
+            "lecture-last-name": "ก้องกีรติ",
+            "bachelor-degree": "ร.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Australian National University, Canberra, Australia",
+            "doctor-graduate-year": "2556",
+            "bachelor-graduate-year": "2540"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "อรรถสิทธิ์",
+            "lecture-last-name": "พานแก้ว",
+            "bachelor-degree": "ร.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "Georgia State University, U.S.A.",
+            "doctor-graduate-year": "2553",
+            "bachelor-graduate-year": "2543"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ชนินท์ทิรา",
+            "lecture-last-name": "ณ ถลาง",
+            "bachelor-degree": "ร.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "University of Bristol, UK",
+            "doctor-graduate-year": "2550",
+            "bachelor-graduate-year": "2543"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "สุนิดา",
+            "lecture-last-name": "อรุณพิพัฒน์",
+            "bachelor-degree": "ศศ.ม.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "University fo Tsukuba, Japan",
+            "doctor-graduate-year": "2555",
+            "bachelor-graduate-year": "2545"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ประพิมพ์ฝัน",
+            "lecture-last-name": "เชียงกูล",
+            "bachelor-degree": "B.Sc.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "National University of Singapore, Singapore.",
+            "doctor-institute": "University of Warwick, UK.",
+            "doctor-graduate-year": "2558",
+            "bachelor-graduate-year": "2551"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ไตรรัตน์",
+            "lecture-last-name": "โภคพลากรณ์",
+            "bachelor-degree": "ร.บ.",
+            "doctor-degree": "สส.ด.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2548",
+            "bachelor-graduate-year": "2523"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "สุนิสา",
+            "lecture-last-name": "ช่อแก้ว",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยเกษตรศาสตร์",
+            "doctor-institute": "สถาบันบัณฑิตพัฒนบริหารศาสตร์",
+            "doctor-graduate-year": "2556",
+            "bachelor-graduate-year": "2548"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "นาอิ่ม",
+            "lecture-last-name": "แลนิ",
+            "bachelor-degree": "ร.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "University of Groningen, the Netherlands",
+            "doctor-graduate-year": "2564",
+            "bachelor-graduate-year": "2557"
+        }
+    ]
+}

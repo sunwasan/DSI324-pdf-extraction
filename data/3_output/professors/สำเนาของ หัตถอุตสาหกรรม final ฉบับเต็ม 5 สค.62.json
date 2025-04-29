@@ -1,0 +1,70 @@
+{
+    "professor": [
+        {
+            "lecture-position": "ผศ.",
+            "lecture-first-name": "กิตติพงษ์",
+            "lecture-last-name": "เกียรติวิภาค",
+            "bachelor-degree": "ค.อ.บ.",
+            "doctor-degree": "ค.อ.ม.",
+            "bachelor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+            "doctor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+            "doctor-graduate-year": "2548",
+            "bachelor-graduate-year": "2544"
+        },
+        {
+            "lecture-position": "ผศ.",
+            "lecture-first-name": "ศรีชนา",
+            "lecture-last-name": "เจริญเนตร",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "ค.อ.ม.",
+            "bachelor-institute": "สถาบันเทคโนโลยีราชมงคล วิทยาเขตเพาะช่าง",
+            "doctor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+            "doctor-graduate-year": "2548",
+            "bachelor-graduate-year": "2539"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "บุษกร",
+            "lecture-last-name": "ฮวบแช่ม",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "ศ.ม.",
+            "bachelor-institute": "มหาวิทยาลัยศิลปากร",
+            "doctor-institute": "มหาวิทยาลัยศิลปากร",
+            "doctor-graduate-year": "2554",
+            "bachelor-graduate-year": "2547"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "จำลอง",
+            "lecture-last-name": "สุวรรณชาติ",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "ศ.ม.",
+            "bachelor-institute": "มหาวิทยาลัยศิลปากร",
+            "doctor-institute": "มหาวิทยาลัยศิลปากร",
+            "doctor-graduate-year": "2539",
+            "bachelor-graduate-year": "2532"
+        },
+        {
+            "lecture-position": "ผศ.",
+            "lecture-first-name": "วีระจักร์",
+            "lecture-last-name": "สุเอียนทรเมธี",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "ศศ.ม.",
+            "bachelor-institute": "มหาวิทยาลัยศิลปากร",
+            "doctor-institute": "มหาวิทยาลัยมหิดล",
+            "doctor-graduate-year": "2541",
+            "bachelor-graduate-year": "2536"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "กัมพล",
+            "lecture-last-name": "แสงเอี้ยม",
+            "bachelor-degree": "ค.อ.บ.",
+            "doctor-degree": "ค.อ.ม.",
+            "bachelor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+            "doctor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+            "doctor-graduate-year": "2555",
+            "bachelor-graduate-year": "2551"
+        }
+    ]
+}

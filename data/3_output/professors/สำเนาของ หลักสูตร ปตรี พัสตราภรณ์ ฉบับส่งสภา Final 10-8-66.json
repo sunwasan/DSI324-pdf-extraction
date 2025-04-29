@@ -1,0 +1,82 @@
+{
+    "professor": [
+        {
+            "detail": {
+                "lecture-position": "อาจารย์ ดร.",
+                "lecture-first-name": "นลินี",
+                "lecture-last-name": "เนติธรรมากร",
+                "bachelor-degree": "ศป.บ.",
+                "doctor-degree": "PhD",
+                "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+                "doctor-institute": "De Montfort University, UK",
+                "doctor-graduate-year": "2564",
+                "bachelor-graduate-year": "2551"
+            }
+        },
+        {
+            "detail": {
+                "lecture-position": "ผศ.",
+                "lecture-first-name": "เกษหทัย",
+                "lecture-last-name": "สิงห์อินทร์",
+                "bachelor-degree": "ศ.บ.",
+                "doctor-degree": "ปร.ด.",
+                "bachelor-institute": "มหาวิทยาลัยศิลปากร",
+                "doctor-institute": "มหาวิทยาลัยอุบลราชธานี",
+                "doctor-graduate-year": "2555",
+                "bachelor-graduate-year": "2543"
+            }
+        },
+        {
+            "detail": {
+                "lecture-position": "อาจารย์",
+                "lecture-first-name": "วุฒิไกร",
+                "lecture-last-name": "ศิริผล",
+                "bachelor-degree": "ศป.บ.",
+                "doctor-degree": "PhD",
+                "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+                "doctor-institute": "Royal College of Art, UK",
+                "doctor-graduate-year": "2562",
+                "bachelor-graduate-year": "2552"
+            }
+        },
+        {
+            "detail": {
+                "lecture-position": "ผศ.",
+                "lecture-first-name": "จิรัชญา",
+                "lecture-last-name": "วันจันทร์",
+                "bachelor-degree": "ศ.บ.",
+                "doctor-degree": "ศ.ม.",
+                "bachelor-institute": "วิทยาลัยครูสวนดุสิต",
+                "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+                "doctor-graduate-year": "2548",
+                "bachelor-graduate-year": "2537"
+            }
+        },
+        {
+            "detail": {
+                "lecture-position": "ผศ.",
+                "lecture-first-name": "บุญช่วย",
+                "lecture-last-name": "เกิดรี",
+                "bachelor-degree": "ศ.บ.",
+                "doctor-degree": "ศ.ม.",
+                "bachelor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+                "doctor-institute": "มหาวิทยาลัยศิลปากร",
+                "doctor-graduate-year": "2549",
+                "bachelor-graduate-year": "2543"
+            }
+        },
+        {
+            "detail": {
+                "lecture-position": "อาจารย์",
+                "lecture-first-name": "ปรุฬห์ลภย์",
+                "lecture-last-name": "พฤกษ์โสภี",
+                "bachelor-degree": "คศ.บ.",
+                "doctor-degree": "ศ.ม.",
+                "bachelor-institute": "มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี",
+                "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+                "doctor-graduate-year": "2553",
+                "bachelor-graduate-year": "2543"
+            }
+        }
+    ]
+}

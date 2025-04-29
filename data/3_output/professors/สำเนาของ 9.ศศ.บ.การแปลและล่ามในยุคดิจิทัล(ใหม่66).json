@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "ภาสพงศ์",
+            "lecture-last-name": "ศรีพิจารณ์",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "University of Birmingham, UK.",
+            "doctor-graduate-year": "2545",
+            "bachelor-graduate-year": "2537"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์ ดร.",
+            "lecture-first-name": "พนิดา",
+            "lecture-last-name": "ซิมาภรณ์",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Oklahoma State University, USA.",
+            "doctor-graduate-year": "2528",
+            "bachelor-graduate-year": "2519"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ศศี",
+            "lecture-last-name": "จันทร์ประพันธ์",
+            "bachelor-degree": "อ.บ.",
+            "doctor-degree": "Μ.Α.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "Pittsburg State University, USA.",
+            "doctor-graduate-year": "2530",
+            "bachelor-graduate-year": "2528"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "สิทธิธรรม",
+            "lecture-last-name": "อ่องวุฒิวัฒน์",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "อ.ด.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-graduate-year": "2558",
+            "bachelor-graduate-year": "2546"
+        },
+        {
+            "lecture-position": "อาจารย์ ดร.",
+            "lecture-first-name": "วิชยา",
+            "lecture-last-name": "ปิดชามุก",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Dublin City University, Ireland",
+            "doctor-graduate-year": "2565",
+            "bachelor-graduate-year": "2542"
+        }
+    ]
+}

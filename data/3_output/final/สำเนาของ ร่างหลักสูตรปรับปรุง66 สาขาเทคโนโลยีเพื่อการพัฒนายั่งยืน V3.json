@@ -1,0 +1,1080 @@
+{
+    "faculty_name_th": "คณะวิทยาศาสตร์และเทคโนโลยี",
+    "faculty_name_en": "Faculty of Science and Technology",
+    "curr-id": "25520051102815",
+    "cur-name-th": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาเทคโนโลยีเพื่อการพัฒนายั่งยืน",
+    "cur-name-en": "Bachelor of Science Program in Sustainable Development Technology",
+    "degree-full-th": "วิทยาศาสตรบัณฑิต (เทคโนโลยีเพื่อการพัฒนายั่งยืน)",
+    "degree-full-en": "Bachelor of Science (Sustainable Development Technology)",
+    "degree-abr-th": "วท.บ.",
+    "degree-abr-en": "B.Sc.",
+    "num-majors": [
+        "เทคโนโลยีเพื่อการพัฒนายั่งยืน"
+    ],
+    "curr-type": "หลักสูตรปริญญาตรีทางวิชาการ",
+    "lang": "จัดการศึกษาเป็นภาษาไทย",
+    "collaboration": [
+        "เป็นหลักสูตรของสถาบันโดยเฉพาะ"
+    ],
+    "institution": [],
+    "organization": [],
+    "partner": 0,
+    "single-degree": "ให้ปริญญาเพียงสาขาวิชาเดียว",
+    "approve-date": "2566-07-25",
+    "first-open-term": "1/2566",
+    "careers": [
+        "ผู้ประกอบการธุรกิจส่วนตัว",
+        "นักวิจัยและนักวิชาการด้านการพัฒนา",
+        "พนักงานบริษัท",
+        "พนักงานราชการ พนักงานท้องถิ่น และพนักงานรัฐวิสาหกิจ",
+        "อาชีพอิสระ",
+        "อาจารย์"
+    ],
+    "campus": "ศูนย์รังสิต",
+    "expense-type": "โครงการปกติ",
+    "student-nation-id": "รับเฉพาะนักศึกษาไทย",
+    "admit-plan-yearly": 50,
+    "ผลลัพธ์การเรียนรู้ของหลักสูตร (PLOs)": {
+        "Knowledge": [
+            "K 1 มีความรู้และความเข้าใจในหลักการ เนื้อหาสำคัญของสาขาวิชาเทคโนโลยีเพื่อการพัฒนายั่งยืนทั้งในภาคทฤษฎีและภาคปฏิบัติ",
+            "K 2 มีความรู้ในสาขาวิชาอื่นที่เกี่ยวข้องกับสาขาวิชาเทคโนโลยีเพื่อการพัฒนายั่งยืน เพื่อใช้สำหรับการบูรณาการความรู้หรือต่อยอดความรู้ในสาขาเทคโนโลยีเพื่อการพัฒนายั่งยืนและศาสตร์อื่นๆ ที่เกี่ยวข้อง",
+            "K 3 มีความรู้และมีกระบวนคิดอย่างเป็นระบบเพื่อแก้ปัญหาหรือสามารถปรับใช้ความรู้ในการพัฒนางานในด้านเทคโนโลยีเพื่อการพัฒนายั่งยืน"
+        ],
+        "Skills": [
+            "S 1 สามารถคิด วิเคราะห์และแสวงหาความรู้ด้วยตนเองอย่างเป็นระบบและสร้างสรรค์",
+            "5 2 สามารถวิเคราะห์และแก้ไขปัญหาอย่างบูรณาการโดยประยุกต์ใช้องค์ความรู้ที่เกี่ยวข้องทั้งภาคทฤษฎีและประสบการณ์ภาคปฏิบัติได้อย่างมีประสิทธิภาพเหมาะสมต่อสถานการณ์",
+            "S 3 สามารถประยุกต์ใช้เทคโนโลยีสารสนเทศที่เหมาะสมกับสถานการณ์ เพื่อการสืบค้น ศึกษาด้วยตนเอง นำเสนอและการสื่อสาร"
+        ],
+        "Ethics": [
+            "E 1 มีความตระหนักในคุณค่าและคุณธรรม จริยธรรม เสียสละ และซื่อสัตย์สุจริต",
+            "E 2 มีวินัย ตรงต่อเวลา เคารพกฎระเบียบและข้อบังคับต่าง ๆ ขององค์กรและสังคม",
+            "E 3 มีความเคารพสิทธิและรับฟังความคิดเห็นของผู้อื่น",
+            "E 4 มีจรรยาบรรณทางวิชาการและวิชาชีพ"
+        ]
+    },
+    "max-years": 16,
+    "total-credits": 138,
+    "gen-ed-credits": 30,
+    "req-credits": 72,
+    "elec-credits": 18,
+    "intern-credits": 0,
+    "coop-credits": 0,
+    "courses": [
+        {
+            "course_code": "EL105",
+            "th-abbr": "สษ.105",
+            "course_name_th": "ทักษะการสื่อสารทางภาษาอังกฤษ",
+            "course_name_en": "English Communication Skills",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "พัฒนาทักษะการสื่อสารทางภาษาอังกฤษด้านการฟัง พูด อ่าน และเขียน ฝึกการใช้ภาษา คำศัพท์ และสำนวนในบริบททางวิชาการและสังคม",
+            "course_description_en": "Development of English communication skills, including listening, speaking, reading, and writing. Practice of language, vocabulary and expressions used in academic and social contexts.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "LAS101",
+            "th-abbr": "ศศ.101",
+            "course_name_th": "การคิด อ่านและเขียนอย่างมีวิจารณญาณ",
+            "course_name_en": "Critical Thinking, Reading, and Writing",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "พัฒนาทักษะการคิดอย่างมีวิจารณญาณผ่านการตั้งคำถาม การวิเคราะห์ การสังเคราะห์ และ การประเมินค่า พัฒนาทักษะการอ่านเพื่อจับสาระสำคัญ เข้าใจจุดมุ่งหมาย ทัศนคติสมมติฐาน หลักฐาน สนับสนุน การใช้เหตุผลที่นำไปสู่ข้อสรุปของงานเขียน พัฒนาทักษะการเขียนแสดงความคิดเห็นอย่างมี เหตุผลและการเขียนเชิงวิชาการ รู้จักถ่ายทอดความคิดและเชื่อมโยงข้อมูลเข้ากับมุมมองของตนเอง รวมถึงสามารถอ้างอิงหลักฐานและข้อมูลมาใช้ในการสร้างสรรค์งานเขียนได้อย่างมีประสิทธิภาพ",
+            "course_description_en": "Development of critical thinking through questioning, analytical, synthetic and evaluation skills. Students learn how to read without necessarily accepting all the information presented in the text, but rather consider the content in depth, taking into account the objectives, perspectives, assumptions, bias and supporting evidence, as well as logic or strategies leading to the author’s conclusion. The purpose is to apply these methods to students’ own persuasive writing based on information researched from various sources, using effective presentation techniques.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SC123",
+            "th-abbr": "วท.123",
+            "course_name_th": "เคมีพื้นฐาน",
+            "course_name_en": "Fundamental Chemistry",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "โครงสร้างอะตอม ปริมาณสัมพันธ์ พันธะเคมีสมบัติของธาตุเรพริเซนเททีฟและแทรนซิชัน แก๊ส ของเหลว และสารละลาย ของแข็ง อุณหเคมีจลนพลศาสตร์สมดุลเคมีกรด-เบส เคมีไฟฟ้า",
+            "course_description_en": "Atomic structure, Stoichiometry, Chemical Bonds, Properties of representative and transition elements, Gases, Liquids and solutions, Solids, Thermochemistry, Chemical kinetics, Chemical equilibrium, Acids and bases and Electrochemistry",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "TU201",
+            "th-abbr": "มธ.201",
+            "course_name_th": "ความรู้ทางการเงินสำหรับบุคคล",
+            "course_name_en": "Financial Literacy for Individuals",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เรียนรู้พื้นฐาน หลักการความสำคัญและแนวทางวางแผนการเงินเพื่อเป้าหมายชีวิตการใช้ เครื่องมือทางการเงิน รวมทั้งเทคนิคต่าง ๆ ประกอบด้วยเทคนิคการค้นหาตนเอง เทคนิคการวางแผนการเงินทั้ง รู้หา รู้เก็บ รู้ใช้ และรู้ขยายดอกผล เทคนิคการจัดสรรเงินออมและการลงทุนแบบ DCA เทคนิคบริหารจัดการหนี้เทคนิคการเพิ่มเงินออม เทคนิคในการวางแผนประหยัดภาษีเงินได้บุคคลธรรมดา ตลอดจนหลักการและความสำคัญของปรัชญาเศรษฐกิจพอเพียงต่อสังคมไทย เพื่อน้อมนำมาประยุกต์ใช้ในการดำรงชีวิต",
+            "course_description_en": "To learn the foundations, principles, importance and guidelines of financial planning for life goals, the uses of financial instruments, together with self-discovery techniques, financial planning techniques including how to earn, collect, use and invest money, savings allocation and DCA investment techniques, debt management techniques, savings increase techniques, personal income tax saving planning techniques as well as the principles and importance of the Sufficiency Economy Philosophy in Thai society in order to be applied in living.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "EL296",
+            "th-abbr": "สษ.296",
+            "course_name_th": "ภาษาอังกฤษเชิงวิชาการสำหรับสาขาวิทยาศาสตร์ 1 3",
+            "course_name_en": "Academic English for Science Disciplines 1",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การพัฒนาทักษะการฟัง พูด อ่าน เขียน ภาษาอังกฤษเชิงวิชาการด้านวิทยาศาสตร์ การฝึกการ สรุป การให้คำจำกัดความ การอธิบายกระบวนการการออกคำสั่งการอธิบายความสัมพนัธ์ระหว่างเหตุและ ผล และการอธิบาย ความสัมพันธ์ระหว่างความเหมือนและความต่าง",
+            "course_description_en": "Development of English listening, speaking, reading, and writing skills for scientific academic purposes. Practice of summarizing, giving definitions, describing processes, giving instructions, explaining cause and effect relationships, and describing compare and contrast relationships.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SC115",
+            "th-abbr": "วท.115",
+            "course_name_th": "ชีววิทยาเพื่อวิทยาศาสตร์และเทคโนโลยี",
+            "course_name_en": "Biology for Science and Technology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ชีววิทยาทั่วไปของสิ่งมีชีวิต ศึกษาธรรมชาติตลอดหลักเกณฑ์ทางชีววิทยา โครงสร้างและ กระบวนการทำงานของสิ่งมีชีวิตทั้งจุลินทรีย์ พืช และสัตว์ ตั้งแต่ละระดับโมเลกุล เซลล์ เนื้อเยื่อ อวัยวะ ระบบของสิ่งมีชีวิต สารพันธุกรรม การถ่ายทอดลักษณะทางพันธุกรรม วิวัฒนาการ ความหลากหลายของ สิ่งมีชีวิต ปฎิสัมพันธ์ของสิ่งมีชีวิตกับสิ่งแวดล้อม และการนำเอาสิ่งมีชีวิตไปใช้ประโยชน์ทั้งทางด้าน อุตสาหกรรม เกษตรกรรม และสิ่งแวดล้อม",
+            "course_description_en": "General biology of organisms, natural history and biological concepts, structures and functions of organisms including micro-organisms, plants, and animals at the levels of molecules, cells, tissues, organs, and organ systems, genetic materials, heredity, evolution, biodiversity, ecology, industrial, agricultural, and environmental applications.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SC135",
+            "th-abbr": "วท.135",
+            "course_name_th": "ฟิสิกส์ทั่วไป",
+            "course_name_en": "General Physics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักการทางฟิสิกส์และการประยุกต์ เนื้อหาครอบคลุมหัวข้อทาง กลศาสตร์ ของไหล อุณหพล ศาสตร์ การสั่นและคลื่น ไฟฟ้าและแม่เหล็ก คลื่นแม่เหล็กไฟฟ้า ทัศนศาสตร์ และฟิสิกส์ยุคใหม่",
+            "course_description_en": "Principles of physics and applications; the subject covers topics in mechanics, fluids, thermodynamics, vibrations and waves, electricity and magnetism, electromagnetic waves, optics and modern physics.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SC 165",
+            "th-abbr": "วท.165",
+            "course_name_th": "ปฏิบัติการชีววิทยาเพื่อวิทยาศาสตร์และเทคโนโลยี 1",
+            "course_name_en": "Biology for Science and Technology Laboratory",
+            "course_type": "",
+            "course_credit": 0,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "ปฏิบัติการเสริมความรู้ทางทฤษฎีรายวิชา วท.115",
+            "course_description_en": "Experiments related to the contents in SC115",
+            "prerequisite_courses": [
+                "วท.115",
+                "SC 115"
+            ]
+        },
+        {
+            "course_code": "SC173",
+            "th-abbr": "วท.173",
+            "course_name_th": "ปฏิบัติการเคมีพื้นฐาน 1",
+            "course_name_en": "Fundamental Chemistry Laboratory",
+            "course_type": "",
+            "course_credit": 0,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "ปฏิบัติการเสริมความรู้ทางทฤษฎีวิชา วท.123 Experiments related to the contents in SC123",
+            "course_description_en": "",
+            "prerequisite_courses": [
+                "SC123"
+            ]
+        },
+        {
+            "course_code": "SC185",
+            "th-abbr": "วท.185",
+            "course_name_th": "ปฏิบัติการฟิสิกส์ทั่วไป 1",
+            "course_name_en": "General Physics Laboratory",
+            "course_type": "",
+            "course_credit": 0,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 0,
+            "course_description_th": "ปฏิบัติการเกี่ยวกับ การวัดและความคลาดเคลื่อน กลศาสตร์ คลื่น ไฟฟ้า ทัศนศาสตร์ และฟิสิกส์ แผนใหม่",
+            "course_description_en": "Laboratory practices involving measurement and errors, mechanics, waves, electricity, optics and modern physics.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "MA113",
+            "th-abbr": "ค.113",
+            "course_name_th": "แคลคูลัสสำหรับวิทยาศาสตร์ประยุกต์",
+            "course_name_en": "Calculus for Applied Science",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ระบบจำนวนจริง ฟังก์ชัน อนุกรมอนันต์ ลิมิตและความต่อเนื่องของฟังก์ชัน อนุพันธ์ของ ฟังก์ชันพีชคณิตและฟังก์ชันอดิศัยเบื้องต้น กฎลูกโซ่อนุพันธ์ของฟังก์ชันโดยปริยาย อนุพันธ์อันดับสูง อัตราสัมพัทธ์และการประยุกต์ ปฏิยานุพันธ์ ปริพันธ์ไม่จำกัดเขต ปริพันธ์จำกัดเขต การหาปริพันธ์โดยการ แทนค่า ลิมิตและความต่อเนื่องของฟังก์ชันหลายตัวแปร อนุพันธ์ย่อยและกฎลูกโซ่อนุพันธ์ย่อยอันดับสูง อนุพันธ์โดยปริยาย",
+            "course_description_en": "Real number systems, functions, infinite series, limits and continuity of functions, derivatives of algebraic functions and transcendental functions, the chain rule, derivative of implicit functions, higher order derivatives, related rate and its applications, antiderivatives, indefinite integrals, definite integral, integration by substitution, limits and continuity of multivariable functions, partial derivatives and the chain rule, higher order, partial derivatives, derivative of implicit functions.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "SC301",
+            "th-abbr": "วท.301",
+            "course_name_th": "การประกอบการด้านวิทยาศาสตร์และเทคโนโลยี",
+            "course_name_en": "Entrepreneurship in Science and Technology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดการเป็นผู้ประกอบการ องค์ประกอบของแผนธุรกิจ วิธีการเริ่มธุรกิจหรือพัฒนาธุรกิจใหม่ การศึกษาความเป็นไปได้ความรู้เบื้องต้นเกี่ยวกับการเงินและการลงทุน การตลาด การผลิต การบริหาร ทรัพยากรมนุษย์ การจัดทำแผนธุรกิจและมีการศึกษาดูงานนอกสถานที่",
+            "course_description_en": "Concepts of entrepreneurship, structures of business plans, starting up or developing business, feasibility study, basic knowledge on finance and investment, marketing, production, human resource management and developing a business plan and field studies.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "RT316",
+            "th-abbr": "ทย.316",
+            "course_name_th": "การเป็นผู้ประกอบการที่มีกรอบความคิดแบบเติบโตและการดำเนินธุรกิจเพื่อความยั่งยืน",
+            "course_name_en": "Growth Mindset Entrepreneurship and Business for Sustainability",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "กรอบความคิดแบบยึดติด กรอบความคิดแบบเติบโต กรอบความคิดสำหรับการเป็น ผู้ประกอบการ ทักษะของผู้ประกอบการรุ่นใหม่ เทคนิคและเครื่องมือที่ช่วยพัฒนาบุคลากร การบริหาร ความเสี่ยง เป้าหมายการพัฒนาอย่างยั่งยืน แบบอย่างของผู้บริหารระดับสูง กรณีศึกษากรอบความคิด สำหรับการเป็นผู้ประกอบการ การจัดการการผลิต การจัดการบัญชีและการเงินของธุรกิจ การประเมิน ความเป็นไปได้ของโครงการการจัดการทางการตลาดยุคใหม่การตลาดดิจิทัล กรณีศึกษาของผู้บริหาร ระดับสูงในธุรกิจที่มีการพัฒนาอย่างยั่งยืน",
+            "course_description_en": "Fixed mindset. Growth mindset. Entrepreneurial mindset.Modern entrepreneur skills. Coaching techniques and tools. Risk management. Sustainable Development Goals. Chief Executive Officer role models. Case studies. Conceptual framework for entrepreneurship. Production management Accounting and finance management. Feasibility study. Modern marketing management. Digital Marketing. Case studies of Chief Executive Officer from sustainable business.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "RT100",
+            "th-abbr": "ทย.100",
+            "course_name_th": "พื้นฐานเทคโนโลยีเพื่อการพัฒนายั่งยืน",
+            "course_name_en": "Fundamental Sustainable and Technology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เป้าหมายการพัฒนาที่ยั่งยืน ความหมายและหลักการของการพัฒนาที่ยั่งยืน การประยุกต์หลัก ปรัชญาของเศรษฐกิจพอเพียงเพื่อการพัฒนาที่ยั่งยืน เทคโนโลยีและนวัตกรรมเพื่อการพึ่งตนเองและการ พัฒนาที่ยั่งยืน ศึกษาดูงานนอกสถานที่",
+            "course_description_en": "Sustainable Development Goals (SDGs), meaning and principle of sustainable development, application of the philosophy of sufficiency economy for sustainable development, technology and innovation for self-reliance and sustainable development, field trip.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "RT101",
+            "th-abbr": "ทย.101",
+            "course_name_th": "กราฟิกเชิงเรขาคณิตและการเขียนแบบ",
+            "course_name_en": "Descriptive Geometry Graphic and Drawing",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 5,
+            "course_description_th": "ความสำคัญของกราฟฟิกเชิงเรขาคณิตและการเขียนแบบ เครื่องมือ อุปกรณ์และวิธีใช้การเขียน ตัวอักษรและการให้ขนาด สัญลักษณ์และมาตราส่วน ภาพวาด ภาพตัด การเขียนแบบ 3 มิติการเขียนแบบ ภาพประกอบและแบบละเอียด สำหรับงานวิศวกรรมและสถาปัตยกรรม",
+            "course_description_en": "Importance of descriptive geometry and drawing, materials and instruments usage, dimension and text annotation, drawing symbol and scale, orthographic projection and cross section, pictorial and isometric drawing, working drawing and details, drawing for engineering and architectural works.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "RT200",
+            "th-abbr": "ทย.200",
+            "course_name_th": "วิทยาศาสตร์และกลศาสตร์ของดิน",
+            "course_name_en": "Science and Mechanics of Soils",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 5,
+            "course_description_th": "การเกิดของดินและดินในประเทศไทย การจำแนกดิน การสำรวจดิน คุณสมบัติทางกายภาพ และ กำลังของดิน การไหลของนาในดิน หลักการยุบตัวของดินโดยขบวนการคอนโซลิเดชั่น ความเค้น ความเครียด และการพังทลายของดิน การวิเคราะห์ความมั่นคง แรงดันของดิน ความสามารถในการรับ น้ำหนัก และการใช้ประโยชน์ของดิน ความคงตัวของดิน",
+            "course_description_en": "Formation of soils and soils in Thailand, soil classification, soil exploration, physical properties and strength of soils, flow of water through soils, principles of consolidation - consolidation settlement, stress-strain and failure in soil masses, stability analysis, earth pressure, bearing capacity, utilization of different soils, soil stabilization.",
+            "prerequisite_courses": [
+                "SC135"
+            ]
+        },
+        {
+            "course_code": "RT201",
+            "th-abbr": "ทย.201",
+            "course_name_th": "กลศาสตร์และกำลังวัสดุ",
+            "course_name_en": "Mechanics and Strength of Material",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เวกเตอร์พื้นฐาน สถิตย์ศาสตร์ของวัตถุแข็ง การเขียนภาพวัตถุอิสระ แรงเสียดทานและการ เคลื่อนตัวของวัตถุ งานและพลังงาน โมเมนตัมและแรงกระแทก การเคลื่อนตัวเชิงมุมของวัตถุ คุณสมบัติ ทางกายภาพและทางกลของวัสดุทางวิศวกรรม กฏของฮุคและความสัมพันธ์ระหว่างความเค้นกับ ความเครียด แรงบิด ความเค้น สถานภาพของความเค้น วงกลมของมอร์ การเสื่อมสภาพของวัสดุและ ความลำ การวิเคราะห์หาโมเมนต์ดัด แรงเฉือนและการโก่งตัว การทดสอบกำลังวัสดุ",
+            "course_description_en": "Basic vectors, statics of a rigid body, free-body diagram, friction and movement of a body, work and energy, momentum and impact force, angular motion, physical and mechanical properties of engineering materials, Hooke's law and stress-strain relationship, torsion, stresses and stress state, Mohr’ s circle, material deterioration and fatigue, bending moment, shear and deflection, material testing.",
+            "prerequisite_courses": [
+                "SC135",
+                "MA113"
+            ]
+        },
+        {
+            "course_code": "RT202",
+            "th-abbr": "ทย.202",
+            "course_name_th": "อุทกวิทยาและชลศาสตร์",
+            "course_name_en": "Hydrology and Hydraulics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "อุทกวิทยาและชลศาสตร์",
+            "course_description_en": "Fundamental to Meteorology, Hydrologic cycle, flow measurements, hydrographs and application of hydrographs, principles and properties of water, statics of water, buoyancy, momentum equation, energy equation and application to watermill machinery, dynamics of unconsolidated fluid flow with/without viscosity, boundary layer, flow in pipe, fundamental of open channel flow.",
+            "prerequisite_courses": [
+                "SC135"
+            ]
+        },
+        {
+            "course_code": "RT203",
+            "th-abbr": "ทย.203",
+            "course_name_th": "พื้นฐานวิศวกรรมไฟฟ้า",
+            "course_name_en": "Fundamentals of Electrical Engineering",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "พื้นฐานวงจรไฟฟ้า การวิเคราะห์วงจรไฟฟ้ากระแสตรง การวิเคราะห์วงจรไฟฟ้ากระแสสลับใน สภาวะคงตัว การวิเคราะห์กำลังไฟฟ้ากระแสสลับ การแปลงผันพลังงานกลไฟฟ้า ระบบไฟฟ้ากำลัง หม้อ แปลงไฟฟ้า เครื่องกำเนิดไฟฟ้า และมอเตอร์ไฟฟ้า",
+            "course_description_en": "Fundamentals of electric circuit, DC circuit analysis, AC steady-state analysis, AC power analysis, electromechanical energy conversion, power system, transformers, generators and motors.",
+            "prerequisite_courses": [
+                "SC135"
+            ]
+        },
+        {
+            "course_code": "RT204",
+            "th-abbr": "ทย.204",
+            "course_name_th": "อุณหพลศาสตร์และการถ่ายเทความร้อน",
+            "course_name_en": "Thermodynamics and Heat Transfer",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักการพื้นฐานของอุณหพลศาสตร์ สมบัติของสารบริสุทธิ์ การวิเคราะห์พลังงานสำหรับระบบ ปิด การวิเคราะห์พลังงานและมวลในระบบเปิด วัฏจักรต้นกำลังและวัฏจักรทำความเย็น กลไกการถ่ายเท ความร้อนรูปแบบต่างๆ การนำความร้อน การพาความร้อน การแผ่รังสีความร้อน และเครื่องแลกเปลี่ยน ความร้อน",
+            "course_description_en": "Introduction and basic concepts of thermodynamics, properties of pure substances, energy analysis of closed systems, energy and mass analysis of control volumes, power cycles and refrigeration cycles, mechanisms of heat transfer including heat conduction, convection and radiation, heat exchangers",
+            "prerequisite_courses": [
+                "SC135"
+            ]
+        },
+        {
+            "course_code": "RT210",
+            "th-abbr": "ทย.210",
+            "course_name_th": "ระบบการเกษตรยั่งยืน",
+            "course_name_en": "Sustainable Agricultural System",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 5,
+            "course_description_th": "หลักการและแนวคิดเกี่ยวกับระบบเกษตรยั่งยืน ความสำคัญและปัญหาของการเกษตรในท้องถิ่น ชุมชน และประเทศในอดีต ปัจจุบันและอนาคต ระบบการเกษตรทั้งด้านกสิกรรมปศุสัตว์และประมง ตั้งแต่ทรัพยากรการผลิต กระบวนการผลิต การเก็บเกี่ยวและการจัดการ การผลิตทางเศรษฐกิจที่คำนึงถึง ความยั่งยืนของของทรัพยากรธรรมชาติสิ่งแวดล้อมและชุมชน วิกฤติการณ์ความมั่นคงทางอาหาร เกษตร ทางเลือกรูปแบบต่างๆ เช่น เกษตรผสมผสาน เกษตรอินทรีย์ วนเกษตร เกษตรธรรมชาติ เกษตรทฤษฎี ใหม่การประยุกต์ใช้ปรัชญาเศรษฐกิจพอเพียงกับการเกษตร มีการปฏิบัติและศึกษานอกสถานที่",
+            "course_description_en": "Principal and theory of sustainable agricultural system, importance and problems of agriculture towards rural and country development in the past, present and future aspect, agricultural system in cultural practices, animal husbandry and fishery from production resources, process, postharvest and the management, interrelated roles and subsistent uses of natural resources for harmonious and environment, food security crisis, alternative agricultural in many patterns such as integrated farming, organic farming, natural farming, new theory agricultural, application of sufficiency economy philosophy, off-campus practices and field trips.",
+            "prerequisite_courses": [
+                "วท.115"
+            ]
+        },
+        {
+            "course_code": "RT220",
+            "th-abbr": "ทย.220",
+            "course_name_th": "กระบวนการผลิตและเครื่องมือทางวิศวกรรม",
+            "course_name_en": "Manufacturing Process and Tools for Engineering",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 5,
+            "course_description_th": "เครื่องมือพื้นฐานและการวัดทางวิศวกรรม การกลึง การเชื่อม การเจาะโลหะ งานโลหะ การเลื่อย กระบวนการผลิตในอุตสาหกรรม",
+            "course_description_en": "Basic tools and measurement of engineering, milling, welding, drilling, metal work, sawing, industrial process.",
+            "prerequisite_courses": [
+                "RT101"
+            ]
+        },
+        {
+            "course_code": "RT250",
+            "th-abbr": "ทย.250",
+            "course_name_th": "การออกแบบอาคารและสภาพแวดล้อมที่เหมาะสม",
+            "course_name_en": "Appropriate Building and Environmental Design",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 5,
+            "course_description_th": "แนวคิด กระบวนการ หลักการออกแบบอาคาร รูปแบบอาคาร การวางผังอาคาร ผังบริเวณและ สภาพแวดล้อมที่เหมาะสมต่อ ลักษณะภูมิอากาศและบริบทของชุมชน วัสดุก่อสร้างและเทคโนโลยีที่มีอยู่ และหาได้ในท้องถิ่น รวมถึงลักษณะทาง เศรษฐกิจ สังคม วัฒนธรรม ความต้องการของผู้ใช้ เทคโนโลยี คอมพิวเตอร์ช่วยการออกแบบและวิเคราะห์สภาพแวดล้อม โดยมีปฏิบัติการและศึกษานอกสถานที่",
+            "course_description_en": "Concepts, processes and principles of building design, appropriate building and environmental design within the context of development: climate and site environment, building material and technology, economic, social, cultural and style, and users’ need, computer technology in design process and environmental simulation, off-campus practices and field trips.",
+            "prerequisite_courses": [
+                "RT101"
+            ]
+        },
+        {
+            "course_code": "",
+            "th-abbr": "ทย.270",
+            "course_name_th": "ความรู้เบื้องต้นการสำรวจและจัดทำแผนที่และการประยุกต์ด้วยเทคโนโลยีภูมิสารสนเทศ",
+            "course_name_en": "Introduction to Survey and Mapping, and Geo-Informatics Application",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 5,
+            "course_description_th": "หลักการสำรวจและทำแผนที่การวัดระยะทาง คำนวณหาพื้นที่และปริมาตร การอ่านแผนที่ภูมิ ประเทศ การใช้ประโยชน์จากแผนที่การทำแผนที่ด้วยอากาศยานไร้คนขับ (Drone or UAV) และการ ประมวลผลด้วยโปรแกรม งานสำรวจหมุดโครงข่ายด้วยเครื่องรับสัญญาณดาวเทียม (GNSS Static Survey) และการจัดทำแผนที่ดิจิทัลในระบบสารสนเทศภูมิศาสตร์ (GIS) การทำคอนทัวร์ ด้วยเครื่องมือ สำรวจยุคใหม่ และวิธีการวัดระยะทาง-ทิศทางและระดับความสูง มีศึกษาดูงานนอกสถานที่",
+            "course_description_en": "Principles of surveying and mapping, measuring distances, areas and volume computations, topographic maps interpretation and map usage, using UAV/Drone and Digital Photogrammetry, GNSS Static Survey for Network Real Time Survey work and Digital Mapping with Geographic Information Systems (GIS), Contour mapping with the new survey instrument, measuring distances, direction and height differences, Field trips required.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "RT271",
+            "th-abbr": "ทย.271",
+            "course_name_th": "ระบบสารสนเทศภูมิศาสตร์และการวิเคราะห์ข้อมูลเชิงพื้นที่",
+            "course_name_en": "Geographic Information Systems and Geo-Spatial Data Analytics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 5,
+            "course_description_th": "หลักการระบบสารสนเทศภูมิศาสตร์ นิยามและความหมาย องค์ประกอบระบบสารสนเทศ ภูมิศาสตร์ การจัดทำฐานข้อมูลเชิงพื้นที่ และข้อมูลตารางสถิติการวิเคราะห์ข้อมูลเชิงพื้นที่ และการ นำเสนอข้อมูลเชิงพื้นที่และสถิติการวิเคราะห์แบบจำลองพื้นผิวด้วยเทคนิคการประมาณค่าในช่วง การ วิเคราะห์แบบจำลองความสูงเชิงเลข แบบจำลองการวิเคราะห์ทางอุทกวิทยา การวิเคราะห์โครงข่ายการ ขนส่งเบื้องต้น การจำลองภูมิประเทศ 3 มิติ โดยมีการศึกษาดูงานนอกสถานที่",
+            "course_description_en": "Principles of Geographic Information System, GIS definition and meaning, GIS components, Geo-Spatial database and Attribute database preparation. Geo-spatial data analytics and Geo-spatial data visualization. Surface Analysis with Interpolation technique, digital elevation model analysis, Hydrological model analysis. Basic of GIS network analysis for transportation. 3 Dimension model simulation. Field trip required.",
+            "prerequisite_courses": [
+                "RT270"
+            ]
+        },
+        {
+            "course_code": "RT290",
+            "th-abbr": "ทย.290",
+            "course_name_th": "ระบบคิดและความคิดเชิงสร้างสรรค์เพื่อการพัฒนายั่งยืน",
+            "course_name_en": "Systematic and Creative Thinking for Sustainable Development",
+            "course_type": "",
+            "course_credit": 1,
+            "lect_hours": 1,
+            "practice_hours": 0,
+            "self_study_hours": 2,
+            "course_description_th": "หลักการพัฒนาระบบคิด การคิดเชิงวิพากษ การคิดเชิงระบบ การคิดเชิงประยุกต การคิด แนวขนาน การคิดเชิงสังเคราะห การคิดเชิงสรางสรรค การประยุกตแนวคิดที่ทำใหเกิดนวัตกรรมเพื่อการ พัฒนาที่ยั่งยืน ความสำคัญของทรัพยสินทางปญญา การใชประโยชนและการจัดการทรัพยสินทางปญญา การสืบคนสิทธิบัตรและอนุสิทธิบัตร การรางสิทธิบัตรและอนุสิทธิบัตร",
+            "course_description_en": "Development of thinking process, critical thinking, systematic thinking process, applied knowledge, parallel thinking, synthesis thinking, creative thinking, applied knowledge and thinking towards sustainable development innovation, usage and significant of intellectual property, intellectual property management, research and draft of patents.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "RT291",
+            "th-abbr": "ทย.291",
+            "course_name_th": "การฝึกภาคสนาม 1",
+            "course_name_en": "Field Training",
+            "course_type": "",
+            "course_credit": 0,
+            "lect_hours": 0,
+            "practice_hours": 0,
+            "self_study_hours": 0,
+            "course_description_th": "การฝึกปฏิบัติงานภาคสนามในชุมชน โดยใช้เครื่องมือการประเมินแบบมีส่วนร่วม เพื่อศึกษาวิถี ชีวิตความเป็นอยู่ แนวคิด เทคโนโลยี และภูมิปัญญาที่มีอยู่ในท้องถิ่นเป็นเวลาไม่ต่ำกว่า 100 ชั่วโมง การ ประเมินผลจะดูผลการประเมินจากหน่วยงานและชุมชนที่เกี่ยวข้อง การจัดทำรายงาน และการนำเสนอผล การปฏิบัติงาน",
+            "course_description_en": "Practice field training in selected community with participatory assessment tools at least 100 hours, study way of life, thinking, technology and local wisdom, assessment by local host and related communities, report and presentation",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "",
+            "th-abbr": "ทย 296",
+            "course_name_th": "การออกแบบภูมิทัศน์และการจัดสวนอัจฉริยะเบื้องต้น",
+            "course_name_en": "Fundamental of Landscape Design and Smart Gardening",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การสำรวจและจัดทำแผนที่ด้วย UAV/Drone การจัดทำแผนที่สวนเพื่อคำนวณขนาดพื้นที่ด้วย ระบบ GIS ประเภทของสวน หลักการออกแบบ จัดสวนและบำรุงดูแลรักษาสวน สนามหญ้า การเลือก พันธุ์ไม้สำหรับการจัดสวน การออกแบบระบบให้น้ำในสวน ระบบควบคุมการให้น้ำต้นไม้ในสวนแบบ อัตโนมัติ และการใช้พลังงานแสงอาทิตย์และการประยุกต์ใช้งานในสวน มีการศึกษาดูงานนอกสถานที่",
+            "course_description_en": "Site survey and mapping with UAV/Drone, garden mapping area calculation with GIS, types of gardening, principle of gardening design and maintenance, turfgrass, plant selections for gardening, garden irrigation system design, automatic water system control for garden management, and solar energy for garden, field trips.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "RT310",
+            "th-abbr": "ทย.310",
+            "course_name_th": "การจัดการทรัพยากรและสิ่งแวดล้อม",
+            "course_name_en": "Resources and Environmental Management",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทรัพยากรและสิ่งแวดล้อมที่ใช้ในระบบทั้งในฐานะที่เป็นปัจจัยการผลิตและส่วนหนึ่งของระบบ นิเวศ ความสำคัญและปัญหาต่อการจัดการทรัพยากและสิ่งแวดล้อมในชุมชน การจำแนกเพื่อการใช้อย่าง เหมาะสม การอนุรักษ์โดยพิจารณาถึงสภาพทางธรรมชาติและสิ่งแวดล้อมทั้งเชิงกายภาพ ชีวภาพ เศรษฐกิจ และสังคม การวางแผน การเสนอทางเลือกเพื่อการจัดการยั่งยืน",
+            "course_description_en": "Resource planning and managing applied to agricultural system both in the role of production factors and part of ecosystem, importance and problems towards nature and environment in community, suitable uses, conservation on the basis of natural and environmental conditions in the aspect of physical, biological, socio-economic to present the alternatives for the sustainable management.",
+            "prerequisite_courses": [
+                "RT210"
+            ]
+        },
+        {
+            "course_code": "RT320",
+            "th-abbr": "ทย.320",
+            "course_name_th": "เครื่องจักรกลเกษตรและการออกแบบชิ้นส่วนเครื่องจักรกลเบื้องต้น",
+            "course_name_en": "Agricultural Machinery and Basic Machine Part Design",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 5,
+            "course_description_th": "เครื่องต้นกำลังและเครื่องจักรกลสำหรับการเกษตร เครื่องมือเตรียมดิน เครื่องปลูก เครื่องพ่น สารเคมี เครื่องให้ปุ๋ย เครื่องสูบน้ำ เครื่องเก็บเกี่ยว การซ่อมบำรุง ความปลอดภัยในการใช้งาน และการ ออกแบบชิ้นส่วนเครื่องจักรกลเบื้องต้น โดยมีปฏิบัติการและศึกษานอกสถานที่",
+            "course_description_en": "Power source and agricultural machinery, tillage equipment, planting equipment, chemical sprayer, fertilizer application equipment, water pump, harvesting equipment, repair and maintenance, safety, basic machine design, off-campus practices and field trips.",
+            "prerequisite_courses": [
+                "RT220"
+            ]
+        },
+        {
+            "course_code": "RT321",
+            "th-abbr": "ทย.321",
+            "course_name_th": "ระบบอัตโนมัติและสมองกลฝังตัวสำหรับการพัฒนาที่ยั่งยืน",
+            "course_name_en": "Automation and Embedded System for Sustainable Development",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 5,
+            "course_description_th": "ความรู้เบิ้องต้นเกี่ยวกับระบบควบคุมอัตโนมัติ เซนเซอร์ ระบบไฮดรอลิกและระบบนิวเมติกส์ อุปกรณ์ส่งกำลังแบบไฟฟ้า การเขียนควบคุมเครื่องจักรอัตโนมัติด้วยโปรแกรมเมเบิลลอจิคคอลโทรลเลอร์ การเชื่อมโยงการผลิต ระบบขนถ่ายลำเลียงอัตโนมัติ โครงสร้างและสถาปัตยกรรมในการทำงานของ ไมโครคอนโทรลเลอร์ชนิดต่าง ๆ หลักการโปรแกรมควบคุม การออกแบบการพัฒนาเทคโนโลยีส่วนต่อ ประสานผู้ใช้งานหลักกการและวิธีการใน การออกแบบซอฟต์แวร์บนระบบสมองกลฝังตัวบนหลักการ ออกแบบระบบปฏิบัติการแบบเรียลไทม์ การประยุกต์ใช้การควบคุมอัตโนมัติและสมองกลฝังตัวในงาน เทคโนโลยีและวิศวกรรมเพื่อการพัฒนายั่งยืน",
+            "course_description_en": "Introduction to manufacturing automation control systems, sensors, hydraulics and pneumatics, electric power transmission device, writing automatic machine control by programmable logic controller (PLC), production automatic conveying system, Structure and architecture of various types of microcontrollers, principles of programming control,design and development of user interface technology, principles and methods of designing software on embedded systems based on real-time operating system, Applications of automated and embedded control in technology and engineering for sustainable development.",
+            "prerequisite_courses": [
+                "RT203"
+            ]
+        },
+        {
+            "course_code": "RT330",
+            "th-abbr": "ทย.330",
+            "course_name_th": "การวิเคราะห์โครงสร้าง",
+            "course_name_en": "Structural Analysis",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "วิชาบังคับก่อน: เคยศึกษา ทย.201 ประเภทโครงสร้าง พฤติกรรมโครงสร้าง น้ำหนักบรรทุก การวิเคราะห์โครงสร้างประเภทดีเทอร์ มิเนท และโครงข้อหมุนแบบต่าง ๆ โดยการวิเคราะห์แบบง่าย แรงเฉือนและโมเมนต์ดัดของคาน การใช้ โปรแกรมคอมพิวเตอร์ช่วยวิเคราะห์โครงสร้าง มีการศึกษานอกสถานที่",
+            "course_description_en": "Type of structures, structural behavior, loads, structural analysis of statically determinate structures and trusses by simple methods, shear force and bending moment of beams, computer programs aided structural analysis, field trips.",
+            "prerequisite_courses": [
+                "ทย.201",
+                "RT201"
+            ]
+        },
+        {
+            "course_code": "RT351",
+            "th-abbr": "ทย.351",
+            "course_name_th": "การวางผังพื้นที่อย่างยั่งยืน",
+            "course_name_en": "Sustainable Site Planning",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 5,
+            "course_description_th": "หลักการ แนวคิดการวางผังและการพัฒนาพื้นที่อย่างยั่งยืน ปัจจัยสำคัญที่มีผลกระทบต่อลักษณะ ทางกายภาพพื้นที่การอ่านและตีความแผนที่การสำรวจพื้นที่การเก็บรวบรวมและวิเคราะห์ข้อมูล เทคนิคและเทคโนโลยีที่เกี่ยวข้อง มาตรฐานและแนวทางในการวางผังพื้นที่และผังบริเวณในโครงการ พัฒนาต่างๆ มีปฏิบัติการ และศึกษานอกสถานที่",
+            "course_description_en": "Principles, concepts of site planning and sustainable development, Critical factors that influence physical form and spatial structure, Map reading, site survey, data collection and analysis. Techniques, technologies, standards and guidelines for site planning and development projects. Off-campus practices and field trips are included.",
+            "prerequisite_courses": [
+                "R270"
+            ]
+        },
+        {
+            "course_code": "RT360",
+            "th-abbr": "ทย.360",
+            "course_name_th": "การวิเคราะห์และประเมินโครงการ",
+            "course_name_en": "Project Analysis and Evaluation",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การวางแผนโครงการ มูลค่าของเงินตามกาลเวลา การวิเคราะห์จุดคุ้ม การวิเคราะห์ความคุ้มค่า ทางการเงินของโครงการ การวิเคราะห์การเงินด้วยโปรแกรมคอมพิวเตอร์และแอฟพลิเคชั่นบนมือถือ การ ประมาณกระแสเงินสดของโครงการ การวิเคราะห์โครงการภายใต้ความเสี่ยงและความไม่แน่นอน การ วิเคราะห์ความเหมาะสมทางเศรษฐศาสตร์ของโครงการ",
+            "course_description_en": "Project planning, time value of money, break even analysis, financial feasibility analysis, financial analysis by computer programs and mobile applications, cash flow projection, project evaluation under risks and uncertainties, economic feasibility analysis",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "RT370",
+            "th-abbr": "ทย.370",
+            "course_name_th": "รีโมทเซนซิงสำหรับงานพัฒนาท้องถิ่น",
+            "course_name_en": "Remote Sensing for Local Development",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 5,
+            "course_description_th": "ความหมายของรีโมทเซนซิง หลักการทำงาน พัฒนาการเทคโนโลยีคุณสมบัติของช่วงคลื่น แม่เหล็กไฟฟ้า ความรู้เบื้องต้นของการถ่ายภาพทางอากาศ หลักการทำงานของดาวเทียมสำรวจโลก รูปแบบของการจัดเก็บข้อมูลจากอวกาศ การปรับแก้ข้อมูลเชิงรังสี และเรขาคณิตของภาพถ่ายจาก ดาวเทียม ความรู้เบื้องต้นของการแปลความหมายภาพถ่ายจากดาวเทียมด้วยสายตาและคอมพิวเตอร์เพื่อ งานพัฒนาท้องถิ่น เรียนรู้วิธีการจำแนกลักษณะการใช้ประโยชน์ที่ดิน และดัชนีพืชพรรณ การประยุกต์ใช้ งานข้อมูลรีโมทเซนซิงสำหรับงานพัฒนาท้องถิ่น มีการศึกษาดูงานนอกสถานที่",
+            "course_description_en": "Meaning of Remote Sensing, concept, development of technology, Characteristics of electromagnetic wavelengths. Basic knowledge of aerial photography, remotely sensed image system, type of collecting data from space, radiometric correction and geometric correction of the satellite image. Basic knowledge of satellite image interpretation by visualization and computerization for local development. Learning about land use classification and vegetation index. Application of Remote Sensing data for local development, field trips.",
+            "prerequisite_courses": [
+                "RT270"
+            ]
+        },
+        {
+            "course_code": "RT371",
+            "th-abbr": "ทย.371",
+            "course_name_th": "การประมวลผลข้อมูลดาวเทียมเชิงเลขสำหรับงานพัฒนาท้องถิ่น",
+            "course_name_en": "Digital Satellite Image Processing for Local Development",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 5,
+            "course_description_th": "กระบวนการสำรวจจากระยะไกล การได้มาซึ่งข้อมูล แนวคิดทางคณิตศาสตร์สำหรับการจัดการ ข้อมูลภาพเชิงเลข การปรับแก้ข้อมูลเชิงรังสีและเรขาคณิต การเน้นคุณภาพของข้อมูล การแปลงข้อมูล การจำแนกข้อมูล การจำแนกด้วยระบบผู้เชี่ยวชาญ การตรวจสอบการเปลี่ยนแปลงของภาพดาวเทียม หลายช่วงเวลา และการประเมินค่าความถูกต้อง การประยุกต์ใช้สำหรับงานพัฒนาท้องถิ่น มีการศึกษาดู งานนอกสถานที่",
+            "course_description_en": "Procedures of digital image processing with a remotely sensed data, image acquisition, mathematical concept for image preprocessing, enhancement, transformation, classification, expert system classification, multi-temporal satellite image change detection, and accuracy assessment for local development, field trips.",
+            "prerequisite_courses": [
+                "RT370"
+            ]
+        },
+        {
+            "course_code": "RT380",
+            "th-abbr": "ทย.380",
+            "course_name_th": "พลังงานและการจัดการสำหรับท้องถิ่น",
+            "course_name_en": "Energy and Management for Local Community",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 5,
+            "course_description_th": "สถานการณ์พลังงาน การจำแนกประเภทพลังงาน พลังงานสิ้นเปลืองและพลังงานหมุนเวียน เทคโนโลยีพลังงานทางเลือก พลังงานชีวมวล พลังงานแสงอาทิตย์ พลังงานลม พลังงานนา และพลังงาน ทางเลือกอื่นๆ การวางแผนพลังงานระดับท้องถิ่น โดยมีปฏิบัติการและศึกษานอกสถานที่",
+            "course_description_en": "Energy situation, classification of energy type, non-renewable and renewable energy, alternative energy technology, biomass energy, solar energy, wind energy, hydro energy and other alternative energy, local energy planning, off-campus practices and field trips.",
+            "prerequisite_courses": [
+                "RT204"
+            ]
+        },
+        {
+            "course_code": "RT390",
+            "th-abbr": "ทย.390",
+            "course_name_th": "ภาวะผู้นำและกระบวนการมีส่วนร่วม",
+            "course_name_en": "Leadership and Participatory Process",
+            "course_type": "",
+            "course_credit": 1,
+            "lect_hours": 1,
+            "practice_hours": 0,
+            "self_study_hours": 2,
+            "course_description_th": "ทักษะพื้นฐานที่ใชในการทำงาน การพัฒนาภาวะผูนำ การทำงานเปนทีม การสรางทีมงาน การแก ปญหาและการตัดสินใจ ทัศนคติที่ดีในการทำงานรวมกับผู อื่น กระบวนการมีส่วนร่วม",
+            "course_description_en": "Basic work skills, leadership development, teamwork, team building, problem solving and decision making, positive attitudes towards teammates, participatory process.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "RT391",
+            "th-abbr": "ทย.391",
+            "course_name_th": "การฝึกงาน 1",
+            "course_name_en": "Field Practices",
+            "course_type": "",
+            "course_credit": 1,
+            "lect_hours": 0,
+            "practice_hours": 0,
+            "self_study_hours": 0,
+            "course_description_th": "ฝึกปฏิบัติงานทางด้านเทคโนโลยีเพื่อการพัฒนายั่งยืน ไม่ต่ำกว่า 240 ชั่วโมง ในหน่วยงานทั้ง ภาครัฐ เอกชน และในชุมชนชนบท การประเมินผลจะพิจารณาผลการประเมินจากหน่วยงานหรือชุมชนที่ เกี่ยวข้อง การจัดทำรายงาน การนำเสนอผลปฏิบัติงาน การวัดผลด้วยระดับ S หรือ U",
+            "course_description_en": "Field work training in the sustainable development technology aspect at least 240 hours in any organizations: government, private firms, NGOs, or rural communities, evaluation by related organizations or communities, report and presentation, grading based on S/ U basis.",
+            "prerequisite_courses": [
+                "Third year standing and up in Sustainable Development Technology"
+            ]
+        },
+        {
+            "course_code": "RT490",
+            "th-abbr": "ทย.490",
+            "course_name_th": "โครงงานพิเศษ 1",
+            "course_name_en": "Special Project 1",
+            "course_type": "",
+            "course_credit": 1,
+            "lect_hours": 0,
+            "practice_hours": 3,
+            "self_study_hours": 1,
+            "course_description_th": "แนวคิดและหลักการวิจัยเพื่อท้องถิ่น ระเบียบวิธีวิจัยในการทำวิจัยทางเทคโนโลยีเพื่อการพัฒนายั่งยืน การกำหนดประเด็นปัญหา การสร้างกรอบความคิด วัตถุประสงค์ เนื้อหา วิธีการ การทบทวนเอกสารที่เกี่ยวข้อง อ้างอิง สรุปและวิจารณ์ การนำเสนอหัวข้อโครงงานที่น่าสนใจ",
+            "course_description_en": "Concepts and principles of community-based research, research methodology apply to rural technology study, problem identification, conceptual framework, objective, contents, methodology, literature review, reference, summary and recommendation, presentation of interesting project proposal.",
+            "prerequisite_courses": [
+                "RT390"
+            ]
+        },
+        {
+            "course_code": "RT326",
+            "th-abbr": "ทย.326",
+            "course_name_th": "ปัญญาประดิษฐ์และเทคโนโลยีอัจฉริยะเพื่อการพัฒนาที่ยั่งยืน",
+            "course_name_en": "Artificial Intelligence in Smart Technology for Sustainable Development",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ทฤษฎีปัญญาประดิษฐ์วิธีการแก้ปัญหาและการพยากรณ์โดยววิธีปัญญาประดิษฐ์ การเรียนรูของ เครื่องจักรการคำนวณเชิงวิวัฒนาการกับการใช้โปรแกรมคอมพิวเตอร์สำหรับปัญญาประดิษฐ์ วิธีการใน การประยุกตปัญญาประดิษฐ์ กับเทคโนโลยีอัจฉริยะ โรงงานอัจฉริยะ อาคารอัจฉริยะ เกษตรอัจฉริยะ ฟาร์มอัจฉริยะ เมืองอัจฉริยะ ธุรกิจบริการอัจฉริยะ โลจิสติกส์อัจฉริยะและการใช้ปัญญาประดิษฐ์สำหรับ การพัฒนาที่ยั่งยืน",
+            "course_description_en": "Artificial intelligence theory, solving problems and forecasting with AI, machine learning, evolutionary computation, use of computer programs for artificial intelligence, principles and application of artificial intelligence to the smart technologies, smart factory, smart agriculture, smart farming, smart city, smart services, smart logistics and the use of artificial intelligence for sustainable development.",
+            "prerequisite_courses": [
+                "MA113"
+            ]
+        },
+        {
+            "course_code": "RT336",
+            "th-abbr": "ทย.336",
+            "course_name_th": "การออกแบบโครงสร้าง",
+            "course_name_en": "Structural Design",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "พฤติกรรมของโครงสร้างภายใต้การกระทำของแรง คุณสมบัติของวัสดุ ข้อกำหนดและข้อบังคับ ในการออกแบบชิ้นส่วนโครงสร้าง การออกแบบองค์อาคารด้วยโครงสร้างคอนกรีตเสริมเหล็ก การ ออกแบบองค์อาคารด้วยโครงสร้างเหล็ก การประยุกต์ใช้โปรแกรมคอมพิวเตอร์สำหรับการออกแบบ โครงสร้างสำหรับอาคารขนาดเล็ก",
+            "course_description_en": "Structural behavior under applied external loads, properties of materials, requirements and design standards for structural members, design of reinforce concrete structures, design of steel structures, application of computer program for structural design for low-rise buildings.",
+            "prerequisite_courses": [
+                "RT330"
+            ]
+        },
+        {
+            "course_code": "RT346",
+            "th-abbr": "ทย.346",
+            "course_name_th": "เทคโนโลยีประปา",
+            "course_name_en": "Water Supply Technology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 5,
+            "course_description_th": "การหาปริมาณความต้องการของน้ำดื่มนาใช้การหาและการใช้ประโยชน์จากแหล่งน้ำตาม ธรรมชาติการเลือกจุดที่ตั้งของโครงการ วิธีปรับปรุงคุณภาพของน้ำดิบ การออกแบบระบบผลิตน้ำประปา การวางผังประปา การทดสอบระบบและคุณภาพของน้ำประปา การบำรุงรักษาระบบน้ำประปา โดยมี ปฏิบัติการและศึกษานอกสถานที่",
+            "course_description_en": "Quantity requirement of drinking water and domestic usage, natural water resources collection and utilization: project site selection, raw water treatments, design and production of water supply, layout of water supply, water supply systems and quality testing, maintenance of water supply system, off-campus practices and field trips.",
+            "prerequisite_courses": [
+                "RT202"
+            ]
+        },
+        {
+            "course_code": "RT356",
+            "th-abbr": "ทย.356",
+            "course_name_th": "การพัฒนากายภาพและผังเมืองยั่งยืน",
+            "course_name_en": "Spatial development and sustainable urban",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 5,
+            "course_description_th": "หลักการ แนวคิดการวางผังและการพัฒนาพื้นที่อย่างยั่งยืน ปัจจัยสำคัญที่มีผลกระทบต่อลักษณะ ทางกายภาพพื้นที่การอ่านและตีความแผนที่การสำรวจพื้นที่การเก็บรวบรวมและวิเคราะห์ข้อมูล เทคนิคและเทคโนโลยีที่เกี่ยวข้อง มาตรฐานและแนวทางในการวางผังพื้นที่และผังบริเวณในโครงการ พัฒนาต่างๆ มีปฏิบัติการ และศึกษานอกสถานที่",
+            "course_description_en": "Principles, concepts of site planning and sustainable development, Critical factors that influence physical form and spatial structure, Map reading, site survey, data collection and analysis. Techniques, technologies, standards and guidelines for site planning and development projects. Off-campus practices and field trips are included",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "RT366",
+            "th-abbr": "ทย.366",
+            "course_name_th": "การพัฒนาที่ยั่งยืน",
+            "course_name_en": "Sustainable Development",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "แนวคิดและหลักการของการพัฒนาที่ยั่งยืนและการนำไปประยุกต์ใช้ในสถานการณ์ต่าง ๆ หลัก ปรัชญาเศรษฐกิจพอเพียงกับการพัฒนาที่ยั่งยืน การพัฒนาที่ยั่งยืนและผลกระทบทางเศรษฐกิจ สังคมและ สิ่งแวดล้อม กรณีศึกษาหรือตัวอย่างการปฏิบัติเพื่อการพัฒนาที่ยั่งยืน ดูงานนอกสถานที่",
+            "course_description_en": "Concepts and principles of sustainable development and its application in various situations, Sufficiency Economy Philosophy and sustainable development, sustainable development and its impacts on economic, society and environment, case study or practical examples for sustainable development, field trips.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "ENV367",
+            "th-abbr": "ทย.367",
+            "course_name_th": "การจัดการสิ่งแวดล้อมชุมชน",
+            "course_name_en": "Community Environmental Sustainable Management",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ภาพรวมพื้นฐานของระบบสิ่งแวดล้อม ระบบการจัดการสิ่งแวดล้อม แนวคิด หลักการการจัดการ สิ่งแวดล้อมแบบผสมผสาน การจัดการมลพิษทางดิน นา อากาศ ของเสียและขยะในชุมชน ที่ยั่งยืน การ ประเมินคุณภาพสิ่งแวดล้อมและเศรษฐศาสตร์สิ่งแวดล้อม นโยบาย กฏหมายสิ่งแวดล้อม การมีส่วนร่วม ของประชาชน และการสื่อสารข้อมูลสุขภาพและสิ่งแวดล้อมและกรณีศึกษา",
+            "course_description_en": "community sustainable management, environmental assessment and environmental economic, policy and legislations related to environment, environmental impact from various activities for project management and decision making of people and environmental and health risk communication and case studies.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "ENV368",
+            "th-abbr": "ทย.368",
+            "course_name_th": "นวัตกรรมสิ่งแวดล้อมยั่งยืน",
+            "course_name_en": "Environmental Innovation for Sustainability",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "เครื่องมือและเทคนิคที่ใช้ในการจัดการสิ่งแวดล้อม นวัตกรรมและเทคโนโลยีทางด้านสิ่งแวดล้อม เทคโนโลยีในการจัดการควบคุมมลพิษทางอากาศ เสียง ดิน นา ในระบบอุตสาหกรรม การตรวจประเมิน ภายในระบบการจัดการสิ่งแวดล้อม การประเมินผลกระทบสิ่งแวดล้อมและสุขภาพและกรณีศึกษา",
+            "course_description_en": "Instrumental and techniques in environmental management, innovation and technology for environment, technology and control management of air noise soil and water pollution in industry system, assessment of environmental impact from various, environmental and health impact assessment and case studies.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "RT376",
+            "th-abbr": "ทย.376",
+            "course_name_th": "ระบบภูมิสารสนเทศสำหรับการจัดการภัยพิบัติธรรมชาติ",
+            "course_name_en": "Geomatics for Disaster Management",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 5,
+            "course_description_th": "ระบบภูมิสารสนเทศเพื่อการสนับสนุนการตัดสินใจ การวิเคราะห์และการตัดสินใจแบบพหุเกณฑ์ เทคนิคและการเลือกเกณฑ์การประเมิน ทางเลือกในการตัดสินใจและเงื่อนไขบังคับ การให้ค่าน้ำหนัก คะแนนตามเกณฑ์ กฎเกณฑ์การตัดสินใจ การวิเคราะห์ความคลาดเคลื่อน ระบบการตัดสินใจเชิงพื้นที่ ระบบสนับสนุนการตัดสินใจเชิงพื้นที่สำหรับการจัดการภัยพิบัติธรรมชาติ และมีการศึกษาดูงานนอก สถานที่",
+            "course_description_en": "Geomatics for Decision Support system. Introduction to Multicriteria Decision Analysis. Spatial Multicriteria Decision Analysis, evaluation criteria, Criterion Weighting, Sensitivity and error assessment and case studies in Geomatics for Disaster Management, field trips.",
+            "prerequisite_courses": [
+                "RT270"
+            ]
+        },
+        {
+            "course_code": "RT377",
+            "th-abbr": "ทย.377",
+            "course_name_th": "การวิเคราะห์แบบจำลองทำเลที่ตั้งเชิงธุรกิจและโครงข่ายคมนาคมสำหรับโลจิสติกส์",
+            "course_name_en": "Business Location Allocation Model Analyses and Network Analysis for Logistics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 3,
+            "self_study_hours": 5,
+            "course_description_th": "แนวคิดพื้นฐานการวิเคราะห์แบบจำลองทำเลที่ตั้ง และจุดจัดสรรเชิงธุรกิจ การให้ค่าน้ำหนัก คะแนนตามเกณฑ์ กฎเกณฑ์การตัดสินใจ การวิเคราะห์พื้นที่เหมาะสมสำหรับธุรกิจ การประยุกต์แนวคิด สร้างแบบจำลองทำเลที่ตั้ง และจุดจัดสรรเชิงธุรกิจ รวมทั้งการจัดการโครงข่ายคมนาคมด้วยระบบ สารสนเทศภูมิศาสตร์สำหรับโลจิสติกส์ และมีการศึกษาดูงานนอกสถานที่",
+            "course_description_en": "Basic concepts of business location - allocation model analysis. Spatial Multicriteria Decision Analysis, evaluation criteria, Criterion Weighting. The analysis of suitability area for business. The application of Geographic Information System for business location - allocation model and network analyses management for Logistics, field trips.",
+            "prerequisite_courses": [
+                "RT270"
+            ]
+        },
+        {
+            "course_code": "RT378",
+            "th-abbr": "ทย.378",
+            "course_name_th": "การเขียนโปรแกรมคอมพิวเตอร์สำหรับการวิเคราะห์ข้อมูลภูมิสารสนเทศขนาดใหญ่",
+            "course_name_en": "Computer Programming for Big Geospatial Data Analytics",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 2,
+            "practice_hours": 2,
+            "self_study_hours": 5,
+            "course_description_th": "โปรแกรมคอมพิวเตอร์สำหรับการเรียกค้นข้อมูล แสดงผลข้อมูล การเรียนรู้ของเครื่องเพื่อการ จำแนกการใช้ที่ดิน และอัลกอริทึมในการวิเคราะห์ข้อมูลภูมิสารสนเทศขนาดใหญ่จากคลาวด์ เครื่องมือ หรือไลบารี่ที่เกี่ยวข้องกับข้อมูลเชิงเวลา ที่เชื่อมโยงกับระบบพิกัดภูมิศาสตร์ ด้วยโปรแกรมสมัยใหม่ R Script และ python",
+            "course_description_en": "Computer Programming in Big Geospatial Data from Cloud, Package library for time series big geospatial data collecting, data visualizing, land use classification with machine learning and algorithm for data analytic based on the modern programming languages R script and Python.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "RT386",
+            "th-abbr": "ทย.386",
+            "course_name_th": "การอนุรักษ์พลังงานในอาคารอย่างยั่งยืน",
+            "course_name_en": "Sustainable Energy Conservation in Buildings",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "รูปแบบการใช้พลังงานในอาคาร กฎหมายและความรู้พื้นฐานด้านการอนุรักษ์พลังงานในอาคาร ระบบกรอบอาคาร การอนุรักษ์และจัดการพลังานในระบบแสงสว่าง ระบบปรับอากาศและทำความเย็น การจัดการพลังงานไฟฟ้า การปรับปรุงตัวประกอบกำลัง การอนุรักษ์พลังงานในหม้อแปลง เครื่องมือวัด ทางไฟฟ้าและความร้อน การจัดการพลังงานกับภาวะโลกร้อน การวิเคราะห์ความคุ้มค่าทางเศรษฐศาสตร์ ของมาตรการอนุรักษ์พลังงาน",
+            "course_description_en": "Energy use in buildings, laws and fundamental knowledge for energy conservation in buildings, buildings envelope, energy conservation and management in lighting system , refrigeration and air conditioning system, electrical energy management, power factor corrections, energy conservation in transformers, energy management and global warming, economic feasibility analysis of energy conservation measures",
+            "prerequisite_courses": [
+                "RT203"
+            ]
+        },
+        {
+            "course_code": "RT387",
+            "th-abbr": "ทย.387",
+            "course_name_th": "การอนุรักษ์พลังงานในอุตสาหกรรมอย่างยั่งยืน",
+            "course_name_en": "Sustainable Energy Conservation in Industrial Factory",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ความรู้พื้นฐานด้านพลังงานและวิธีการอนุรักษ์พลังงาน กฏหมายและการส่งเสริมการอนุรักษ์ พลังงาน ระบบการจัดการพลังงาน เครื่องมือวัดทางไฟฟ้าและความร้อน ระบบไฟฟ้ากำลังและแสงสว่าง ของระบบโรงงาน มอเตอร์ไฟฟ้าและเครื่องสูบน้ำระบบทำความเย็นและระบบปรับอากาศ ระบบไอนา และหม้อต้มไอนา ระบบอากาศอัดและเตาอุตสาหกรรม การนำความร้อน กลับมาใช้ใหม่การตรวจวัด พลังงานของระบบโรงงาน การจัดทำมาตรการอนุรักษ์พลังงาน การจัดทำรายงานการจัดการพลังงาน",
+            "course_description_en": "Fundamentals of energy and energy conservation methods, laws and promotion of energy conservation, energy management system, electrical and thermal measuring instruments, factory power and lighting systems, electric motor and water pump, refrigeration and air conditioning systems, steam systems and boilers, compressed air systems and industrial furnaces, heat recovery factory system, energy measurement preparation of energy conservation, measures energy management report",
+            "prerequisite_courses": [
+                "RT204"
+            ]
+        },
+        {
+            "course_code": "RT388",
+            "th-abbr": "ทย.388",
+            "course_name_th": "การวางแผนพลังงานระดับท้องถิ่น",
+            "course_name_en": "Local Energy Planning",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "นโยบายพลังงานของประเทศ ในประเด็นที่เกี่ยวข้องและสอดคล้องกับการวางแผนพลังงานระดับ ท้องถิ่น ความหมาย บทบาท และความสำคัญของการวางแผนพลังงานระดับท้องถิ่นต่อการพัฒนาชุมชน แนวทางการจัดทำแผนพลังงานท้องถิ่นตามหลักการพัฒนาอย่างยั่งยืน กระบวนการมีส่วนร่วมของ ประชาชนกับการวางแผนพลังงานระดับท้องถิ่น การทำสมดุลพลังงานและแบบจำลองคอมพิวเตอร์ สำหรับการวางแผนพลังงานระดับท้องถิ่น มีการศึกษาดูงานนอกสถานที่",
+            "course_description_en": "National energy policy related to local energy planning, definitions, role and significance of local energy planning in local community development, framework and guidelines for developing a local energy plan in according to sustainable development concepts, participation of local people in energy planning process, local energy demand and supply balance, computer models for local energy planning process, field trips.",
+            "prerequisite_courses": [
+                "RT380"
+            ]
+        },
+        {
+            "course_code": "RT417",
+            "th-abbr": "ทย.417",
+            "course_name_th": "หัวข้อพิเศษด้านทรัพยากรเกษตรและชุมชน",
+            "course_name_en": "Special Topics in Agricultural Resources and Communities",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หัวข้อที่น่าสนใจด้านทรัพยากรเกษตรและชุมชน มีการศึกษาดูงานนอกสถานที่",
+            "course_description_en": "Outstanding and modern topics in agricultural resources and communities, field trips.",
+            "prerequisite_courses": [
+                "RT210"
+            ]
+        },
+        {
+            "course_code": "RT436",
+            "th-abbr": "ทย.436",
+            "course_name_th": "การประยุกต์ใช้แบบจำลองสารสนเทศอาคารเพื่อการพัฒนายั่งยืน",
+            "course_name_en": "Application of Building Information Modeling for Sustainable Development",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักการพื้นฐานของแบบจำลองสารสนเทศอาคาร โปรแกรมและกระบวนการทำงาน การสร้าง แบบจำลองโครงสร้างของอาคาร การสร้างแบบจำลองงานสถาปัตยกรรมของอาคาร การสร้างแบบจำลอง งานระบบของอาคาร การถอดปริมาณวัสดุ พื้นฐานการประมาณราคาจากแบบจำลองสารสนเทศอาคาร ศึกษาดูงานนอกสถานที่",
+            "course_description_en": "Principles of Building Information Modeling, programs and working procedures, building structural modeling, architectural modeling of building, building system modeling, quantities takeoff, fundamental of cost estimation, field trips.",
+            "prerequisite_courses": [
+                "RT330"
+            ]
+        },
+        {
+            "course_code": "RT438",
+            "th-abbr": "ทย.438",
+            "course_name_th": "หัวข้อพิเศษด้านโยธาท้องถิ่น",
+            "course_name_en": "Special Topics in Local Civil Works",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หัวข้อที่น่าสนใจด้านงานโยธาท้องถิ่นมีการศึกษาดูงานนอกสถานที่",
+            "course_description_en": "Outstanding and modern topics in local civil works, field trips.",
+            "prerequisite_courses": [
+                "RT330"
+            ]
+        },
+        {
+            "course_code": "RT446",
+            "th-abbr": "ทย.446",
+            "course_name_th": "เทคโนโลยีเพื่อการบริหารจัดการนำ",
+            "course_name_en": "Water Management Technology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หลักการเบื้องต้นของการชลประทาน ระบบบำบัดน้ำเสียรวมของชุมชน ความต้องการนาของพืช ระบบการให้นำทางผิวดินและทางใต้ดิน ระบบสปริงเกลอร์ ระบบนาหยด เครื่องสูบน้ำ การกรองนา ศึกษา ดูงานนอกสถานที่",
+            "course_description_en": "Principles of irrigation, central wastewater system, water requirement of plants, surface and sub surface irrigation systems, sprinkler irrigation system, drip irrigation system, water pump, water filtering, field trips.",
+            "prerequisite_courses": [
+                "RT202"
+            ]
+        },
+        {
+            "course_code": "RT456",
+            "th-abbr": "ทย.456",
+            "course_name_th": "การออกแบบและฟื้นฟูชุมชนอย่างยั่งยืน",
+            "course_name_en": "Sustainable Community Design and Regenerations",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "รูปแบบชุมชน องค์ประกอบและปัจจัยที่มีผลกระทบต่อรูปแบบชุมชน หลักการออกแบบชุมชน การฟื้นฟูชุมชนโดยอาศัยแนวคิดการออกแบบชุมชนยั่งยืน การประยุกต์ใช้เทคโนโลยีคอมพิวเตอร์ในการ ออกแบบชุมชนมีปฏิบัติการและศึกษานอกสถานที่",
+            "course_description_en": "Physical form and spatial structure of local community, Essential elements underlying the physical form and spatial structure of local community, Principles of urban design and urban regeneration, Technology computer for community design, off-campus practices and field trips.",
+            "prerequisite_courses": []
+        },
+        {
+            "course_code": "RT457",
+            "th-abbr": "ทย.457",
+            "course_name_th": "หัวข้อพิเศษด้านผังเมืองและการพัฒนายั่งยืน",
+            "course_name_en": "Special Topics in Sustainable Local Planning",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "หัวข้อที่น่าสนใจด้านการจัดการผังเมืองอย่างยั่งยืน มีการศึกษาดูงานนอกสถานที่",
+            "course_description_en": "Outstanding and modern topics study in sustainable urban planning, field trips.",
+            "prerequisite_courses": [
+                "RT350"
+            ]
+        },
+        {
+            "course_code": "RT477",
+            "th-abbr": "ทย.477",
+            "course_name_th": "หัวข้อพิเศษด้านระบบภูมิสารสนเทศศาสตร์เพื่อการพัฒนายั่งยืน",
+            "course_name_en": "Special Topics in Geo-Informatics for Sustainable Development",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "ศึกษาหัวข้อที่น่าสนใจด้านระบบภูมิสารสนเทศศาสตร์เพื่อการพัฒนายั่งยืน มีการศึกษาดูงาน นอกสถานที่",
+            "course_description_en": "Outstanding and modern topics study in Geo-Informatics for Sustainable Development, field trips.",
+            "prerequisite_courses": [
+                "RT271"
+            ]
+        },
+        {
+            "course_code": "RT486",
+            "th-abbr": "ทย.486",
+            "course_name_th": "เทคโนโลยีพลังงานแสงอาทิตย์",
+            "course_name_en": "Solar Energy Technology",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "รังสีดวงอาทิตย์และการตรวจวัด การคำนวณค่าพลังงานแสงอาทิตย์ เทคโนโลยีและการประยุกต์ พลังงานแสงอาทิตย์เพื่อใช้ประโยชน์ทางความร้อนและผลิตกระแสไฟฟ้า การออกแบบระบบไฟฟ้าเซลล์ แสงอาทิตย์ มีการศึกษาดูงานนอกสถานที่",
+            "course_description_en": "Solar radiation and its measurement, solar energy calculation, technology and applications of solar energy for thermal and electricity generation, design of solar photovoltaic systems, field trips.",
+            "prerequisite_courses": [
+                "RT380"
+            ]
+        },
+        {
+            "course_code": "RT487",
+            "th-abbr": "ทย487",
+            "course_name_th": "การวิเคราะห์ทางการเงินสำหรับโครงการพลังงาน",
+            "course_name_en": "Financial Analysis of Energy Projects",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การวิเคราะห์การลงทุนด้านพลังงาน การวิเคราะห์ผลประโยชน์และต้นทุนของโครงการพลังงาน ตัวชี้วัดของโครงการ การประเมินกระแสเงินสดของโครงการ การประเมินมูลค่าโครงการด้วยวิธีกระแสเงินสดคิดลด การวิเคราะห์ความเสี่ยงทางการเงิน การพัฒนาแบบจำลองการคำนวณทางการเงินด้วยโปรแกรมคอมพิวเตอร์ กรณีศึกษา",
+            "course_description_en": "Investment analysis of energy projects, benefits and costs analysis of energy projects, project indicators, cash flow projection, discounted cash flow project valuation, financial model by computer program, case studies.",
+            "prerequisite_courses": [
+                "RT360"
+            ]
+        },
+        {
+            "course_code": "RT489",
+            "th-abbr": "ทย.489",
+            "course_name_th": "การประเมินวัฏจักรชีวิตของผลิตภัณฑ์",
+            "course_name_en": "Life Cycle Assessment of Products",
+            "course_type": "",
+            "course_credit": 3,
+            "lect_hours": 3,
+            "practice_hours": 0,
+            "self_study_hours": 6,
+            "course_description_th": "การประเมินผลกระทบต่อสิ่งแวดล้อมของผลิตภัณฑ์และการนำไปประยุกต์ใช้ความสำคัญของ การประเมินผลกระทบ นิยามของจุดประสงค์และขอบเขตในการประเมินวัฏจักรชีวิตโดยศึกษาผลกระทบ ต่อสิ่งแวดล้อมในเชิงปริมาณ ขั้นตอนการดำเนินการประเมินวัฏจักรชีวิตของผลิตภัณฑ์ และการแปรผล การประเมิน การเปรียบเทียบผลกระทบต่อสิ่งแวดล้อมของผลิตภัณฑ์และกรณีศึกษา",
+            "course_description_en": "Principle of Life Cycle Assessment and its application. The importance of impact assessment. Goal and scope definition including inventory and impact assessment in terms of quantitative analysis. Life cycle assessment methodology and interpretation. Comparison of environmental impacts of products and case studies.",
+            "prerequisite_courses": []
+        }
+    ],
+    "professor": [
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ธนาพล",
+            "lecture-last-name": "ตันติสัตยกุล",
+            "bachelor-degree": "วศ.บ.",
+            "doctor-degree": "D.Eng.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "Toyama University, Japan",
+            "doctor-graduate-year": "2548",
+            "bachelor-graduate-year": "2542"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ณัฐพล",
+            "lecture-last-name": "จันทร์แก้ว",
+            "bachelor-degree": "ร.บ.",
+            "doctor-degree": "",
+            "bachelor-institute": "มหาวิทยาลัยรามคำแหง",
+            "doctor-institute": "",
+            "doctor-graduate-year": "",
+            "bachelor-graduate-year": "2562"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "อมรเทพ",
+            "lecture-last-name": "จิรศักดิ์จำรูญศรี",
+            "bachelor-degree": "วศ.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2560",
+            "bachelor-graduate-year": "2553"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "เยาวทัศน์",
+            "lecture-last-name": "บุญกล้า",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าฯคุณทหารลาดกระบัง",
+            "doctor-institute": "Kanazawa University, Japan",
+            "doctor-graduate-year": "2561",
+            "bachelor-graduate-year": "2552"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ณัฐพล",
+            "lecture-last-name": "ใจสำรวม",
+            "bachelor-degree": "วศ.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยเทคโนโลยีมหานคร",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2563",
+            "bachelor-graduate-year": "2544"
+        }
+    ]
+}

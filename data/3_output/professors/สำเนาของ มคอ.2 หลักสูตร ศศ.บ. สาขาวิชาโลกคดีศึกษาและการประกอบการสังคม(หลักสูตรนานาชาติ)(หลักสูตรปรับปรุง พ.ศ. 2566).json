@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "พิทักษ์ศักดิ์",
+            "lecture-last-name": "ทิศาภาคย์",
+            "bachelor-degree": "B.Α.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "Thammasat University, Thailand",
+            "doctor-institute": "School of Oriental and African Studies, UK",
+            "doctor-graduate-year": "2558",
+            "bachelor-graduate-year": "2542"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "อีสวาน",
+            "lecture-last-name": "ราโด",
+            "bachelor-degree": "",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "",
+            "doctor-institute": "University of Vienna, Austria",
+            "doctor-graduate-year": "2558",
+            "bachelor-graduate-year": ""
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "เช็ค",
+            "lecture-last-name": "โมหมัด อัลตาเฟอร์ รามัน",
+            "bachelor-degree": "",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "",
+            "doctor-institute": "Mahidol University, Thailand",
+            "doctor-graduate-year": "2555",
+            "bachelor-graduate-year": ""
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ปิยะสุดา",
+            "lecture-last-name": "เพ่งสภา",
+            "bachelor-degree": "B.A.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "University at Albany, State University of New York, College of Art & Sciences, U.S.A.",
+            "doctor-institute": "Binghamton University, State University of New York Harpur College of Art & Sciences, U.S.A.",
+            "doctor-graduate-year": "2544",
+            "bachelor-graduate-year": "2535"
+        },
+        {
+            "lecture-position": "ศาสตราจารย์",
+            "lecture-first-name": "นันทวรณ",
+            "lecture-last-name": "วิจิตรวาทการ",
+            "bachelor-degree": "B.Sc",
+            "doctor-degree": "Dr.P.H.",
+            "bachelor-institute": "University of California at Los Angeles, USA",
+            "doctor-institute": "School of Public Health, University of California at Los Angeles, USA.",
+            "doctor-graduate-year": "2530",
+            "bachelor-graduate-year": "2518"
+        }
+    ]
+}

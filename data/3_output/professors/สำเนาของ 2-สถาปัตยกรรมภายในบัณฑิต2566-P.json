@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "บุษกร",
+            "lecture-last-name": "รมยานนท์",
+            "bachelor-degree": "สถ.บ.",
+            "doctor-degree": "Μ.Α.",
+            "bachelor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+            "doctor-institute": "California State University, Long Beach, USA",
+            "doctor-graduate-year": "2536",
+            "bachelor-graduate-year": "2530"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "บุญอนันต์",
+            "lecture-last-name": "นทกุล",
+            "bachelor-degree": "สถ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+            "doctor-institute": "The University of Melbourne, Australia",
+            "doctor-graduate-year": "2556",
+            "bachelor-graduate-year": "2545"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "กัลยา",
+            "lecture-last-name": "ตันติยาสวัสดิกุล",
+            "bachelor-degree": "สถ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+            "doctor-institute": "Ritsumeikan University, Japan",
+            "doctor-graduate-year": "2557",
+            "bachelor-graduate-year": "2543"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "นภมณี",
+            "lecture-last-name": "ทรัพย์สุนทรกุล",
+            "bachelor-degree": "สถ.บ.",
+            "doctor-degree": "M.F.A.",
+            "bachelor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+            "doctor-institute": "Savannah College of Art and Design, USA",
+            "doctor-graduate-year": "2546",
+            "bachelor-graduate-year": "2539"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "เพชร",
+            "lecture-last-name": "จิตต์สุวรรณ",
+            "bachelor-degree": "Β.Α.",
+            "doctor-degree": "M.F.A",
+            "bachelor-institute": "Trier University of Applied Sciences, Germany",
+            "doctor-institute": "Konstfack University, Sweden",
+            "doctor-graduate-year": "2542",
+            "bachelor-graduate-year": "2540"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วย ศาสตราจารย์",
+            "lecture-first-name": "พรรณวดี",
+            "lecture-last-name": "ประยงค์",
+            "bachelor-degree": "ว.บ.",
+            "doctor-degree": "Μ.Α.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "University of Leicester, UK",
+            "doctor-graduate-year": "2556",
+            "bachelor-graduate-year": "2553"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "สมัชชนันท์",
+            "lecture-last-name": "เอกปัญญากุล",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "ศ.ม.",
+            "bachelor-institute": "มหาวิทยาลัยศิลปากร",
+            "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-graduate-year": "2545",
+            "bachelor-graduate-year": "2539"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "นฤมล",
+            "lecture-last-name": "ปิ่นโต",
+            "bachelor-degree": "ว.บ.",
+            "doctor-degree": "ว.ม.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2544",
+            "bachelor-graduate-year": "2539"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ประไพพิศ",
+            "lecture-last-name": "มุทิตาเจริญ",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "Μ.Α.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Ball State University, USA.",
+            "doctor-graduate-year": "2540",
+            "bachelor-graduate-year": "2537"
+        },
+        {
+            "lecture-position": "ผู้ช่วย ศาสตราจารย์",
+            "lecture-first-name": "วารี",
+            "lecture-last-name": "ฉัตรอุดมผล",
+            "bachelor-degree": "ว.บ.",
+            "doctor-degree": "Μ.Α.",
+            "bachelor-institute": "มหาวิทยาลัยศิลปากร",
+            "doctor-institute": "University of Westminster, U.K.",
+            "doctor-graduate-year": "2549",
+            "bachelor-graduate-year": "2539"
+        },
+        {
+            "lecture-position": "อาจารย์ ดร.",
+            "lecture-first-name": "มนต์ศักดิ์",
+            "lecture-last-name": "ชัยวีระเดช",
+            "bachelor-degree": "",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "",
+            "doctor-institute": "Bournemouth University, UK",
+            "doctor-graduate-year": "2564",
+            "bachelor-graduate-year": ""
+        },
+        {
+            "lecture-position": "ผู้ช่วย ศาสตราจารย์",
+            "lecture-first-name": "อุรุพงศ์",
+            "lecture-last-name": "รักษาสัตย์",
+            "bachelor-degree": "ว.บ.",
+            "doctor-degree": "นศ.ม.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยเกษมบัณฑิต",
+            "doctor-graduate-year": "2557",
+            "bachelor-graduate-year": "2543"
+        },
+        {
+            "lecture-position": "ผู้ช่วย ศาสตราจารย์ ดร.",
+            "lecture-first-name": "โมไนยพล",
+            "lecture-last-name": "รณเวช",
+            "bachelor-degree": "ว.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2547",
+            "bachelor-graduate-year": "2534"
+        },
+        {
+            "lecture-position": "ผู้ช่วย ศาสตราจารย์ ดร.",
+            "lecture-first-name": "พีรยุทธ",
+            "lecture-last-name": "โอรพันธ์",
+            "bachelor-degree": "",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2551",
+            "bachelor-graduate-year": ""
+        },
+        {
+            "lecture-position": "ผู้ช่วย ศาสตราจารย์ ดร.",
+            "lecture-first-name": "นันทพร",
+            "lecture-last-name": "วงศ์เชษฐา",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยศิลปากร",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2551",
+            "bachelor-graduate-year": "2529"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์ ดร.",
+            "lecture-first-name": "วิกานดา",
+            "lecture-last-name": "พรสกุลวานิช",
+            "bachelor-degree": "ร.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Kent State University, USA",
+            "doctor-graduate-year": "2548",
+            "bachelor-graduate-year": "2537"
+        }
+    ]
+}

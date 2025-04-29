@@ -1,0 +1,7 @@
+{
+    "ผลลัพธ์การเรียนรู้ของหลักสูตร (PLOs)": {
+        "detail": "ผลลัพธ์การเรียนรู้ของหลักสูตร (PLOs) in following topic [Knowledges, Skills, Ethics]",
+        "loc": "3.4",
+        "result_type": "dictionary which keys are 'Knowledge', 'Skills', 'Ethics' and values are list of string\nmake sure each element in list are sentence and meaningful"
+    }
+}

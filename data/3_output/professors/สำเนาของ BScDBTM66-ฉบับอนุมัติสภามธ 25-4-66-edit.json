@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วย\nศาสตราจารย์",
+            "lecture-first-name": "อาสาฬห์",
+            "lecture-last-name": "สุวรรณฤทธิ์",
+            "bachelor-degree": "ภ.สถ.บ.",
+            "doctor-degree": "M.LA.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "University Nurtingen-Geislingen,\nGermany",
+            "doctor-graduate-year": "2549",
+            "bachelor-graduate-year": "2544"
+        },
+        {
+            "lecture-position": "Associate\nProfessor",
+            "lecture-first-name": "Kim Neil",
+            "lecture-last-name": "Irvine",
+            "bachelor-degree": "B.Sc.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "University of Toronto",
+            "doctor-institute": "McMaster University",
+            "doctor-graduate-year": "2532",
+            "bachelor-graduate-year": "2526"
+        },
+        {
+            "lecture-position": "ผู้ช่วย\nศาสตราจารย์",
+            "lecture-first-name": "ดร.อรรฆพันธ์",
+            "lecture-last-name": "เธียรถาวร",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยสวนดุสิต",
+            "doctor-institute": "University for the Creative Arts, UK",
+            "doctor-graduate-year": "2561",
+            "bachelor-graduate-year": "2545"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "Massimo",
+            "lecture-last-name": "Ingegno",
+            "bachelor-degree": "B.Sc.",
+            "doctor-degree": "M.Sc.",
+            "bachelor-institute": "University of Florance, Italy",
+            "doctor-institute": "University Collage London, UK",
+            "doctor-graduate-year": "2558",
+            "bachelor-graduate-year": "2555"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "Hyun Wook",
+            "lecture-last-name": "Hwangbo, Ph.D.",
+            "bachelor-degree": "B.A.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "Linguistics & Literature (Double\nMajor), SungKyunKwan\nUniversity, Seoul, South Korea",
+            "doctor-institute": "Lancaster Institutes for the\nContemporary Arts, Lancaster\nUniversity, United Kingdom",
+            "doctor-graduate-year": "2559",
+            "bachelor-graduate-year": "2546"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "พัทมน",
+            "lecture-last-name": "เสลานนท์",
+            "bachelor-degree": "สถ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+            "doctor-institute": "University of Newcastle upon Tyne, UK",
+            "doctor-graduate-year": "2560",
+            "bachelor-graduate-year": "2539"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ภวินท์",
+            "lecture-last-name": "สิริสาลี",
+            "bachelor-degree": "สถ.บ.",
+            "doctor-degree": "ภ.สถ.ม.",
+            "bachelor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+            "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-graduate-year": "2551",
+            "bachelor-graduate-year": "2539"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ปราณิศา",
+            "lecture-last-name": "บุญค้ำ",
+            "bachelor-degree": "ภ.สถ.บ.",
+            "doctor-degree": "M.LA.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "Harvard University, USA",
+            "doctor-graduate-year": "2544",
+            "bachelor-graduate-year": "2539"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ชุมเขต",
+            "lecture-last-name": "แสวงเจริญ",
+            "bachelor-degree": "สถ.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "มหาวิทยาลัยเกษตรศาสตร์",
+            "doctor-graduate-year": "2560",
+            "bachelor-graduate-year": "2539"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ศุภวัจน์",
+            "lecture-last-name": "แก้วขาว",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "วท.ม.",
+            "bachelor-institute": "มหาวิทยาลัยเกษตรศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยเกษตรศาสตร์",
+            "doctor-graduate-year": "2545",
+            "bachelor-graduate-year": "2535"
+        }
+    ]
+}

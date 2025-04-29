@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "กาญจนา",
+            "lecture-last-name": "เหล่าโชคชัยกุล",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "สม.ม.",
+            "bachelor-institute": "มหาวิทยาลัยทักษิณ",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2552",
+            "bachelor-graduate-year": "2548"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "เวฬุรีย์",
+            "lecture-last-name": "เมธาวีวินิจ",
+            "bachelor-degree": "B.S.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "Thammasat University",
+            "doctor-institute": "University of London, UK",
+            "doctor-graduate-year": "2558",
+            "bachelor-graduate-year": "2542"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "พิชชากานต์",
+            "lecture-last-name": "ช่วงชัย",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยเชียงใหม่",
+            "doctor-institute": "University of Warwick, UK",
+            "doctor-graduate-year": "2563",
+            "bachelor-graduate-year": "2556"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ระวีวรรณ",
+            "lecture-last-name": "ทรัพย์อินทร์",
+            "bachelor-degree": "วส.บ.",
+            "doctor-degree": "M.A.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Academy of Art University, USA",
+            "doctor-graduate-year": "2554",
+            "bachelor-graduate-year": "2545"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "รัฐศาสตร์",
+            "lecture-last-name": "กรสูต",
+            "bachelor-degree": "ศศ.บ.",
+            "doctor-degree": "ปร.ด",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยเกษตรศาสตร์",
+            "doctor-graduate-year": "2554",
+            "bachelor-graduate-year": "2540"
+        }
+    ]
+}

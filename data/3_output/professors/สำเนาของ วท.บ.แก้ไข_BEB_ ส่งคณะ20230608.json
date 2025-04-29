@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ชนาธิป",
+            "lecture-last-name": "สามารถ",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "วศ.ด.",
+            "bachelor-institute": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณ ทหารลาดกระบัง",
+            "doctor-institute": "มหาวิทยาลัยเกษตรศาสตร์",
+            "doctor-graduate-year": "2549",
+            "bachelor-graduate-year": "2543"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "สอาด",
+            "lecture-last-name": "ริยะจันทร",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยเทคโนโลยีพระ จอมเกล้า พระนครเหนือ",
+            "doctor-institute": "มหาวิทยาลัยมหิดล",
+            "doctor-graduate-year": "2549",
+            "bachelor-graduate-year": "2542"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "สุวดี",
+            "lecture-last-name": "กองพารากุล",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "วท.ด.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-graduate-year": "2551",
+            "bachelor-graduate-year": "2546"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "นันทวัฒน์",
+            "lecture-last-name": "วรรณฤทธิ์",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยขอนแก่น",
+            "doctor-institute": "มหาวิทยาลัยขอนแก่น",
+            "doctor-graduate-year": "2556",
+            "bachelor-graduate-year": "2547"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "นที",
+            "lecture-last-name": "ศิริสิทธิ์",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยมหิดล",
+            "doctor-institute": "Hokkaido University, Japan",
+            "doctor-graduate-year": "2561",
+            "bachelor-graduate-year": "2549"
+        }
+    ]
+}

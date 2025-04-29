@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "เฉลิมพงษ์",
+            "lecture-last-name": "คงเจริญ",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Michigan State University, U.S.A",
+            "doctor-graduate-year": "2554",
+            "bachelor-graduate-year": "2543"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ดวงมณี",
+            "lecture-last-name": "เลาวกุล",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "George Mason University, U.S.A",
+            "doctor-graduate-year": "2547",
+            "bachelor-graduate-year": "2533"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ชญานี",
+            "lecture-last-name": "ชวะโนทย์",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Cornell University, U.S.A",
+            "doctor-graduate-year": "2557",
+            "bachelor-graduate-year": "2548"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "ศศิวิมล",
+            "lecture-last-name": "วรุณศิริ ปวีณวัฒน์",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "University of Colorado, Boulder, U.S.A",
+            "doctor-graduate-year": "2553",
+            "bachelor-graduate-year": "2543"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ทีปกร",
+            "lecture-last-name": "จิร์ฐิติกุลชัย",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยขอนแก่น",
+            "doctor-institute": "Texas A&M University, U.S.A",
+            "doctor-graduate-year": "2557",
+            "bachelor-graduate-year": "2542"
+        }
+    ]
+}

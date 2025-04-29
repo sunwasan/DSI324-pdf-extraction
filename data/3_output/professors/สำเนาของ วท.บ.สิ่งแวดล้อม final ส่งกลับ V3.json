@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "มารุต",
+            "lecture-last-name": "สุขสมจิตร",
+            "bachelor-degree": "วท บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยเกษตรศาสตร์",
+            "doctor-institute": "Ehime University, Japan",
+            "doctor-graduate-year": "2552",
+            "bachelor-graduate-year": "2534"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "วิลาวัณย์",
+            "lecture-last-name": "ภมรสุวรรณ",
+            "bachelor-degree": "วท บ.",
+            "doctor-degree": "ผ.ด.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-graduate-year": "2549",
+            "bachelor-graduate-year": "2534"
+        },
+        {
+            "lecture-position": "รองศาสตราจารย์",
+            "lecture-first-name": "โรจน์",
+            "lecture-last-name": "คุณเอนก",
+            "bachelor-degree": "วท บ.",
+            "doctor-degree": "",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-graduate-year": "2540",
+            "bachelor-graduate-year": "2537"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ปิยานนทน์",
+            "lecture-last-name": "หาพุทธา",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยขอนแก่น",
+            "doctor-institute": "มหาวิทยาลัยเทคโนโลยี\nพระจอมเกล้าธนบุรี",
+            "doctor-graduate-year": "2560",
+            "bachelor-graduate-year": "2550"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ธนาภา",
+            "lecture-last-name": "นุ่มพิไล",
+            "bachelor-degree": "วศ.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยเกษตรศาสตร์",
+            "doctor-institute": "มหาวิทยาลัยเกษตรศาสตร์",
+            "doctor-graduate-year": "2562",
+            "bachelor-graduate-year": "2555"
+        }
+    ]
+}

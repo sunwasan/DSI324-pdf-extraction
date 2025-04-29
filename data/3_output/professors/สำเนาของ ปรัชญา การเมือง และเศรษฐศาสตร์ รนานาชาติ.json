@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "รองศาสตราจารย์ ดร.",
+            "lecture-first-name": "ธัชเฉลิม",
+            "lecture-last-name": "สุทธิพงษ์ประชา",
+            "bachelor-degree": "B.Α.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "Northern Michigan University, USA",
+            "doctor-institute": "Northern Illinois University, USA",
+            "doctor-graduate-year": "2554",
+            "bachelor-graduate-year": "2546"
+        },
+        {
+            "lecture-position": "อาจารย์ ดร.",
+            "lecture-first-name": "Ing-Wei",
+            "lecture-last-name": "Huang",
+            "bachelor-degree": "ศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Nagoya University, Japan",
+            "doctor-graduate-year": "2547",
+            "bachelor-graduate-year": "2539"
+        },
+        {
+            "lecture-position": "อาจารย์ พ.ต.ต.ดร.",
+            "lecture-first-name": "ชวนัสถ์",
+            "lecture-last-name": "เจนการ",
+            "bachelor-degree": "รป.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "โรงเรียนนายร้อยตำรวจ",
+            "doctor-institute": "University of Kent, UK",
+            "doctor-graduate-year": "2556",
+            "bachelor-graduate-year": "2539"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์ ดร.",
+            "lecture-first-name": "ภูรี",
+            "lecture-last-name": "สิรสุนทร",
+            "bachelor-degree": "B.B.A",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยอัสสัมชัญ",
+            "doctor-institute": "School of Economics, Australian National University, Australia",
+            "doctor-graduate-year": "2548",
+            "bachelor-graduate-year": "2536"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "พนมกร",
+            "lecture-last-name": "โยทะสอน",
+            "bachelor-degree": "B.A.",
+            "doctor-degree": "M.A.",
+            "bachelor-institute": "Peking University, China",
+            "doctor-institute": "University of London, UK",
+            "doctor-graduate-year": "2556",
+            "bachelor-graduate-year": "2554"
+        }
+    ]
+}

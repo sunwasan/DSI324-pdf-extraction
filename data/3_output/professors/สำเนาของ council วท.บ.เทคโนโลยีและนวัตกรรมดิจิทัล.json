@@ -1,0 +1,59 @@
+{
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "วรวรรณ",
+            "lecture-last-name": "ดีอัซ การ์บาโย",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "University of Edinburgh, UK",
+            "doctor-graduate-year": "2549",
+            "bachelor-graduate-year": "2539"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "กฤตคม",
+            "lecture-last-name": "ศรีจิรานนท์",
+            "bachelor-degree": "วศ.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยเชียงใหม่",
+            "doctor-institute": "มหาวิทยาลัยเชียงใหม่",
+            "doctor-graduate-year": "2564",
+            "bachelor-graduate-year": "2557"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ปกรณ์",
+            "lecture-last-name": "แววสว่างวงศ์",
+            "bachelor-degree": "วศ.บ.",
+            "doctor-degree": "M.Sc.",
+            "bachelor-institute": "มหาวิทยาลัยเกษตรศาสตร์",
+            "doctor-institute": "University of York, UK",
+            "doctor-graduate-year": "2544",
+            "bachelor-graduate-year": "2542"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "วินัย",
+            "lecture-last-name": "ทองปาน",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยเชียงใหม่",
+            "doctor-institute": "มหาวิทยาลัยเชียงใหม่",
+            "doctor-graduate-year": "2563",
+            "bachelor-graduate-year": "2556"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "ศศิพร",
+            "lecture-last-name": "ทองแม้น",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "วท.ด.",
+            "bachelor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-institute": "จุฬาลงกรณ์มหาวิทยาลัย",
+            "doctor-graduate-year": "2560",
+            "bachelor-graduate-year": "2549"
+        }
+    ]
+}

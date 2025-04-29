@@ -1,0 +1,70 @@
+{
+    "professor": [
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "วนิดา",
+            "lecture-last-name": "พฤทธิวิทยา",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Iowa State University, USA.",
+            "doctor-graduate-year": "2549",
+            "bachelor-graduate-year": "2539"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "นุชชากร",
+            "lecture-last-name": "งามเสาวรส",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "พบ.ม.",
+            "bachelor-institute": "มหาวิทยาลัยสงขลานครินทร์",
+            "doctor-institute": "สถาบันบัณฑิตพัฒนบริหารศาสตร์",
+            "doctor-graduate-year": "2534",
+            "bachelor-graduate-year": "2530"
+        },
+        {
+            "lecture-position": "อาจารย์",
+            "lecture-first-name": "สิริกันยา",
+            "lecture-last-name": "นิลพานิช",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "M.Sc.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Syracuse University, USA.",
+            "doctor-graduate-year": "2538",
+            "bachelor-graduate-year": "2533"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "วิลาวรรณ",
+            "lecture-last-name": "รักผกาวงศ์",
+            "bachelor-degree": "วท.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "Loughborough University, UK",
+            "doctor-graduate-year": "2557",
+            "bachelor-graduate-year": "2534"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ปกป้อง",
+            "lecture-last-name": "ส่องเมือง",
+            "bachelor-degree": "วศ.บ.",
+            "doctor-degree": "Ph.D.",
+            "bachelor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-institute": "The University of Electro-Communications, Japan",
+            "doctor-graduate-year": "2553",
+            "bachelor-graduate-year": "2549"
+        },
+        {
+            "lecture-position": "ผู้ช่วยศาสตราจารย์",
+            "lecture-first-name": "ธนาธร",
+            "lecture-last-name": "ทะนานทอง",
+            "bachelor-degree": "วศ.บ.",
+            "doctor-degree": "ปร.ด.",
+            "bachelor-institute": "มหาวิทยาลัยเทคโนโลยีสุรนารี",
+            "doctor-institute": "มหาวิทยาลัยธรรมศาสตร์",
+            "doctor-graduate-year": "2557",
+            "bachelor-graduate-year": "2548"
+        }
+    ]
+}
